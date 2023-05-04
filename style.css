@@ -1,8 +1,7 @@
 html {
   padding: 0 25px;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
+
 }
 
 *, *::before, *::after {
@@ -2968,5 +2967,10 @@ figure{
   margin-bottom: 30rem;
   margin-left: 4.2rem;
 
+}
+@media screen and (max-width: 900px) and (min-width: 600px){
+.description, .flex, .navbar, .header_link, .slider_container, .container, .content, .container1{
+width: 100%;
+ }
 }
 /*# sourceMappingURL=style.css.map */

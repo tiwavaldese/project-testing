@@ -3484,7 +3484,7 @@ padding-left: 1rem;
  
   width: 100vw;
   height: 30vh;
-  margin-left: 7rem;
+  margin-left: 0rem;
  }
 
 .about_item1 h2 {
@@ -3515,7 +3515,7 @@ padding-top: 1rem;
   flex-direction: row;
   margin-top: 2rem;
   width: 100vw;
-  margin-left: 8rem;
+  margin-left: 1rem;
 }
 .about_item2 img{
   margin-left: 3rem;
@@ -3550,8 +3550,8 @@ text-align: justify;
 font-size: 0.9rem;
 }
 .about_item2  hr{
-  margin-left: 8rem;
-width: 2vw;
+  margin-left: 10rem;
+width: 2rem;
 margin-top: 2rem;
 display: block;
 
@@ -3560,7 +3560,7 @@ display: block;
   display:block;
   width: 14vw;
   height: 8vh;
-  margin-left: 16rem;
+  margin-left: 14rem;
   background-color:#782D50;
   color: white;
   padding: 1rem 2rem;
@@ -3571,17 +3571,18 @@ display: block;
 .about_item3:hover{
   background-color: black;
 }
+
 .about_item4{
   display: flex;
   flex-direction: row;
-  margin-left: 15rem;
+  margin-left: 1rem;
   margin-bottom: 3rem;
   margin-top: 5rem;
 }
 #fourA{
   display: flex;
   flex-direction: row;
-margin-left: 0rem;
+margin-left: 6rem;
 font-size: 2.5rem;
 font-weight: 600;
 color: black;
@@ -3604,15 +3605,18 @@ margin-left: 1rem;
 }
 .fourA{
   font-size: 1rem;
-  margin-top: 4rem;
+  margin-top: 3rem;
   margin-right: 0rem;
+  margin-left:2rem;
+  position: relative;
+  bottom: 0rem;
+  width: 10rem;
 }
 #three{
-  margin-left: 10rem;
+  margin-left: 6rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
- 
 }
 #three i{
   display: flex;
@@ -3626,19 +3630,22 @@ font-size: 1.9rem;
 }
 #three span{
   margin-top: 0rem;
-  margin-left: 5rem;
+  margin-left: 5.5rem;
   padding-bottom: 3rem;
  position: relative;
- bottom: 4rem;
+ bottom: 3rem;
    }
 .three{
   font-size: 1rem;
-  margin-top: 4rem;
-  margin-left: 0rem;
-  padding-right: 2rem;
+  margin-top: 3rem;
+  margin-right: 0rem;
+  margin-left:2rem;
+  position: relative;
+  bottom: 0rem;
+  width: 7rem;
 }
 #fourB{
-  margin-left: 11rem;
+  margin-left: 6rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
@@ -3655,16 +3662,18 @@ font-size: 1.9rem;
 }
 #fourB span{
   margin-top: 0rem;
-  margin-left: 5rem;
+  margin-left: 5.5rem;
   padding-bottom: 3rem;
  position: relative;
- bottom: 4rem;
+ bottom: 3rem;
    }
 .fourB{
   font-size: 1rem;
-  margin-top: 4rem;
-  margin-left: 0rem;
-  padding-right: 4rem;
+  margin-top: 3rem;
+  margin-right: 0rem;
+  margin-left:2rem;
+  position: relative;
+  bottom: 0rem;
 }
 .about_item5{
   display: block;
@@ -3674,7 +3683,7 @@ font-size: 1.9rem;
   padding-top: 4rem;
   width: 100vw;
   height: 90vh;
-  margin-left: 7.2rem;
+  margin-left: 0rem;
   
 }
 .about_item5 h2{
@@ -3720,7 +3729,7 @@ font-size: 1rem;
   display: flex;
   flex-direction: row;
   margin-top: 3rem;
-  margin-left: 8rem;
+  margin-left: 2rem;
 }
 .about_item6 h2{
   display: block;
@@ -3732,7 +3741,7 @@ font-size: 1rem;
 }
 .about_item6 hr{
   width: 3vw;
-  margin-left: 8rem;
+  margin-left: 9rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
 }

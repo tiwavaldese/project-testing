@@ -569,7 +569,7 @@ bottom: 70%;
 margin: 1.5rem auto;
 }
 .img_2{
-width: 24rem;
+width: 20rem;
 background-color: whitesmoke;
 border-radius: 0.25rem  0.25rem  0 0;
 }
@@ -578,7 +578,7 @@ background-color: whitesmoke;
 
 }
 .img_3{
-width: 24rem;
+width: 20rem;
 background-color: whitesmoke;
 border-radius: 0.25rem  0.25rem  0 0;
 }
@@ -586,7 +586,7 @@ border-radius: 0.25rem  0.25rem  0 0;
 background-color: whitesmoke;
 }
 .img_4{
-width: 24rem;
+width: 20rem;
 background-color: whitesmoke;
 border-radius: 0.25rem  0.25rem  0 0;
 }
@@ -594,7 +594,7 @@ border-radius: 0.25rem  0.25rem  0 0;
 background-color: whitesmoke;
 }
 .img_5{
-width: 22rem;
+width: 20rem;
 background-color: whitesmoke;
 border-radius: 0.25rem  0.25rem  0 0;
 }
@@ -609,19 +609,18 @@ width: 80rem;
 
 }
 .content_one{
-display: flex;
+display: block;
 flex-direction: column;
 text-align: center;
 justify-content: center;
-margin-top: 18rem;
-height: 100vh;
-width: 80rem;
-margin-left: 10rem;
-margin-bottom: 20rem;
+margin-top: 2rem;
+height: 100rem;
+width: 20rem;
+margin-left: 0rem;
+margin-bottom: 40rem;
 }
 .contentA{
-display: flex;
-flex-direction: row;
+display: block;
 margin-left: 2rem;
 }
 .content:hover{
@@ -652,10 +651,10 @@ padding-left: 1rem;
   margin-bottom: rem;
   display: block;
   justify-content: center;
-  width: 24rem;
+  width: 20rem;
   height: 43rem;
   background-color: whitesmoke; 
-  margin-left: 1rem;
+  margin-left: 2rem;
  border-radius: 0.5rem ;
 }
 .grid_item1 p{
@@ -693,10 +692,10 @@ color: #782D50;
   display: block;
   justify-content: center;
   background-color: whitesmoke; 
-  margin-left: 1.5rem;
+  margin-left: 2rem;
   height: 39rem;
   border-radius: 0.5rem ;
-  width: 24rem;
+  width: 20rem;
 }
 .grid_item2 p{
   line-height: 25px;
@@ -733,7 +732,7 @@ color: #782D50;
   display: block;
   justify-content: center;
  align-items: center;
- width: 24rem;
+ width: 20rem;
  background-color: whitesmoke; 
  margin-left: 1.5rem;
  height: 39rem;
@@ -773,10 +772,10 @@ color: #782D50;
   margin-bottom: 1rem;
   display: block;
   justify-content: center;
-  width: 22rem;  
+  width: 20rem;  
   background-color: whitesmoke; 
   margin-left: 3rem;
-  height: 45rem;
+  height: 16rem;
   border-radius: 0.5rem ;
 }
 .grid_item4 p{
@@ -2537,7 +2536,8 @@ color: #782D50;
   text-decoration: none;
 }
 #projects .events_item1{
-margin-left: 4rem;
+margin-left: 0rem;
+width: 100rem;
 }
 
 .projects_container{
@@ -5498,7 +5498,8 @@ color: #782D50;
   text-decoration: none;
 }
 #projects .events_item1{
-margin-left: 4rem;
+margin-left: 0rem;
+width: 100rem;
 }
 
 .projects_container{

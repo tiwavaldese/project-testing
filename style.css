@@ -660,8 +660,8 @@ padding-left: 1rem;
 .grid_item1 p{
   line-height: 25px;
   font-size: 0.9rem;
-  width: 22rem;
-  padding: 0.5rem 2rem;
+  width: 20rem;
+  padding: 0.5rem 1rem;
   text-align: justify;
  
 }
@@ -674,7 +674,7 @@ padding-left: 1rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 2rem;
+padding-left: 1rem;
 color: #782D50;
 
 }
@@ -682,7 +682,7 @@ color: #782D50;
   margin-top:2rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 1.5rem;
+padding-left: 1rem;
 color: #782D50;
 
 }
@@ -700,7 +700,7 @@ color: #782D50;
 .grid_item2 p{
   line-height: 25px;
   font-size: 0.9rem;
-  width: 22rem;
+  width: 20rem;
   padding: 0.5rem 2rem;
   text-align: justify;
 }
@@ -714,7 +714,7 @@ color: #782D50;
   margin-top: 2rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 2rem;
+padding-left: 1rem;
 color: #782D50;
 
 }
@@ -722,7 +722,7 @@ color: #782D50;
   margin-top:2rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 1.5rem;
+padding-left: 1rem;
 color: #782D50;
 
 }
@@ -741,7 +741,7 @@ color: #782D50;
 .grid_item3 p{
   line-height: 25px;
   font-size: 0.9rem;
-  width: 22rem;
+  width: 20rem;
   padding: 0.5rem 2rem;
   text-align: justify;
 }
@@ -755,7 +755,7 @@ color: #782D50;
   margin-top: 2rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 2rem;
+padding-left: 1rem;
 color: #782D50;
 
 }
@@ -763,7 +763,7 @@ color: #782D50;
   margin-top:2rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 1.5rem;
+padding-left: 1rem;
 color: #782D50;
 
 }
@@ -781,7 +781,7 @@ color: #782D50;
 .grid_item4 p{
   line-height: 25px;
   font-size: 0.9rem;
-  width: 22rem;
+  width: 20rem;
   height: 10rem;
   padding: 0.5rem 2rem;
   text-align: justify;
@@ -795,7 +795,7 @@ color: #782D50;
   margin-top: 2rem;
   margin-bottom: 1rem;
 font-size: 0.9rem;
-padding-left: 2rem;
+padding-left: 1rem;
 color: #782D50;
 height: 10rem;
 }
@@ -803,7 +803,7 @@ height: 10rem;
   margin-top:2rem;
   margin-bottom: 2rem;
 font-size: 0.9rem;
-padding-left: 1.5rem;
+padding-left: 1rem;
 color: #782D50;
 height: 10rem;
 }

@@ -1617,7 +1617,7 @@ padding-left: 1rem;
  
   width: 100vw;
   height: 30vh;
-  margin-left: 7rem;
+  margin-left: 0rem;
  }
 
 .about_item1 h2 {
@@ -1644,23 +1644,21 @@ padding-top: 1rem;
   font-size: 0.8rem;
 }
 .about_item2{
-  display: flex;
-  flex-direction: row;
-  margin-top: 2rem;
+  display:  block;
+  margin-top: 1rem;
   width: 100vw;
-  margin-left: 8rem;
+  margin-left: 0rem;
 }
 .about_item2 img{
   margin-left: 3rem;
-width: 40vw;
-height: 70vh;
-
+width: 20rem;
+height: 20rem;
 display: block;
 
 }
 .about_item2  h2{
-  margin-left: 8rem;
-width: 40vw;
+  margin-left: 4rem;
+width: 30rem;
 height: 5vh;
 margin-top: 2rem;
 display: block;
@@ -1672,49 +1670,48 @@ font-size: 2rem;
   font-weight: bold;
 }
 .about_item2  p{
-  margin-left: 6rem;
-width: 40vw;
-height: 30vh;
-margin-top: 2rem;
+  margin-left: 0rem;
+width: 25rem;
+height: 19rem;
+margin-top: 1rem;
 display: block;
 line-height: 25px;
-padding: 0.5rem 2rem;
+padding: 0.5rem 2.5rem;
 text-align: justify;
 font-size: 0.9rem;
 }
 .about_item2  hr{
   margin-left: 8rem;
-width: 2vw;
+width: 2rem;
 margin-top: 2rem;
 display: block;
 
 }
 .about_item3{
   display:block;
-  width: 14vw;
-  height: 8vh;
-  margin-left: 16rem;
+  width: 11rem;
+  height: 4rem;
+  margin-left: 3rem;
   background-color:#782D50;
   color: white;
-  padding: 1rem 2rem;
+  padding: 1.5rem 1.5rem;
   border-radius: 0.25rem;
-  margin-bottom: 4rem;
+margin-top: 2rem;
   font-size: 0.8rem;
 }
 .about_item3:hover{
   background-color: black;
 }
 .about_item4{
-  display: flex;
-  flex-direction: row;
-  margin-left: 15rem;
+  display: block;
+  margin-left: 1rem;
   margin-bottom: 3rem;
   margin-top: 5rem;
 }
 #fourA{
   display: flex;
   flex-direction: row;
-margin-left: 0rem;
+margin-left: 6rem;
 font-size: 2.5rem;
 font-weight: 600;
 color: black;
@@ -1737,15 +1734,17 @@ margin-left: 1rem;
 }
 .fourA{
   font-size: 1rem;
-  margin-top: 4rem;
+  margin-top: 1rem;
   margin-right: 0rem;
+  margin-left:14rem;
+  position: relative;
+  bottom: 3rem;
 }
 #three{
-  margin-left: 10rem;
+  margin-left: 6rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
- 
 }
 #three i{
   display: flex;
@@ -1759,19 +1758,21 @@ font-size: 1.9rem;
 }
 #three span{
   margin-top: 0rem;
-  margin-left: 5rem;
+  margin-left: 5.5rem;
   padding-bottom: 3rem;
  position: relative;
- bottom: 4rem;
+ bottom: 3rem;
    }
 .three{
   font-size: 1rem;
-  margin-top: 4rem;
-  margin-left: 0rem;
-  padding-right: 2rem;
+  margin-top: 1rem;
+  margin-right: 0rem;
+  margin-left:14rem;
+  position: relative;
+  bottom: 6rem;
 }
 #fourB{
-  margin-left: 11rem;
+  margin-left: 6rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
@@ -1788,16 +1789,18 @@ font-size: 1.9rem;
 }
 #fourB span{
   margin-top: 0rem;
-  margin-left: 5rem;
+  margin-left: 5.5rem;
   padding-bottom: 3rem;
  position: relative;
- bottom: 4rem;
+ bottom: 3rem;
    }
 .fourB{
   font-size: 1rem;
-  margin-top: 4rem;
-  margin-left: 0rem;
-  padding-right: 4rem;
+  margin-top: 1rem;
+  margin-right: 0rem;
+  margin-left:14rem;
+  position: relative;
+  bottom: 6rem;
 }
 .about_item5{
   display: block;
@@ -1806,36 +1809,36 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 4rem;
   width: 100vw;
-  height: 90vh;
-  margin-left: 7.2rem;
+  height: 40rem;
+  margin-left: 0rem;
   
 }
 .about_item5 h2{
-  font-size: 2.25rem;
+  font-size: 1.8rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1.7rem;
+  font-size: 1.3rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
- display: flex;
+ display: block;
  justify-content: center;
  align-items: center;
- width: 53vw;
- margin-left: 20rem;
+ width: 25rem;
+ margin-left: 1rem;
  line-height: 20px;
-padding: 0.5rem 2rem;
+padding: 0.5rem 1rem;
 text-align: justify;
-font-size: 1rem;
+font-size: 0.9rem;
 }
 .about_item5 span{
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 12vw;
+  width: 10rem;
   height: 9vh;
-  margin-left: 40rem;
+  margin-left: 8rem;
   margin-top: 2rem;
   background-color: white;
   color: #782D50;
@@ -1850,29 +1853,29 @@ font-size: 1rem;
   text-decoration: none;
 }
 #creation{
-  display: flex;
-  flex-direction: row;
+  display: block;
   margin-top: 3rem;
-  margin-left: 8rem;
+  margin-left: 2rem;
 }
 .about_item6 h2{
   display: block;
- margin-left: 8rem;
+ margin-left:2rem;
   font-size: 2.25rem;
+  width: 18rem;
 }
 .about_item6 span{
   color: #782D50;
 }
 .about_item6 hr{
-  width: 3vw;
+  width: 2rem;
   margin-left: 8rem;
   margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .about_item6 p{
   display: block;
-  width: 40vw;
-  margin-left: 7rem;
+  width: 20rem;
+  margin-left:1rem;
   margin-bottom: 1.5rem;
   line-height: 25px;
   padding: 0.5rem 1rem;
@@ -1881,19 +1884,20 @@ font-size: 1rem;
 }
 .about_item6 img{
   display: block;
-  width: 40vw;
-  margin-left: 8rem;
+  width: 22rem;
+  height: 16rem;
+  margin-left: 0rem;
 }
 .about_item7 {
   margin-top: 5.5rem;
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 .about_item7 label{
   display: block;
   font-size: 1rem;
   font-weight: bold;
   height: 8vh;
-  width: 35vw;
+  width: 20rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
   padding-top: 0.5rem;
@@ -1905,16 +1909,16 @@ background-color: whitesmoke;
 
 }
 .about_item7 p{
-  font-size: 1rem;
+  font-size: 0.9rem;
 padding-top: 0.5rem;
 padding-bottom: 0.5rem;
 display: block;
-width: 40vw;
+width: 22rem;
 font-weight: lighter;
 line-height: 25px;
 padding: 0.5rem 1rem;
 text-align: justify;
-font-size: 0.9rem;
+margin-bottom: 1rem;
 
 }
 @media only screen and (min-width: 1000px) and (min-width: 600px){

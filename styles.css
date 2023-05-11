@@ -18,28 +18,28 @@ body {
     }
    
 #content{
- margin-top: 0rem;
+ margin-top: 2rem;
    width: 100vw;
     display: flex ;
     flex-direction: row;
     background: linear-gradient(to right, #155799, #159957); 
     color: white;
-    margin-left: 0rem;
+    margin-left: 2rem;
     list-style: none;
  }
 
  .content_1{
    
-    margin-left: 8rem;
+    margin-left: 0rem;
     font-size: 1.3rem;
  }
  .content_2{
-   
-    margin-left: 60rem;
-    padding-top: 0.5rem;
+   margin-top: 0rem;
+    margin-left: 11rem;
+    padding-top:0.5rem;
     font-size: 1rem;
     opacity: 0.4;
-  
+  display: block;
  }
  #content li{
     list-style: none;
@@ -52,15 +52,12 @@ body {
     color: rgb(0,0,0,0.9);
  }
  #container_1{
-    display: flex;
-    
-   
-    flex-direction: column;
+    display: block;
     border: none;
     margin-top: 2rem;
-    height: 45vh;
-    width: 50vw;
-    margin-left: 20rem;
+    height: 10rem;
+    width:20rem;
+    margin-left: 2rem;
     background: linear-gradient(to right, #155799, #159957); 
     border-radius: 0.25rem 0.25rem;
 
@@ -68,27 +65,30 @@ body {
  .content_A{
     display: block;
     background-color: whitesmoke;
-    width: 49vw;
-    height: 4.5vh;
+    width: 20rem;
+    height: 2rem;
     border: 0.1px solid gainsboro;
-    padding-top: 0.6rem;
+    padding-top: 0.7rem;
     padding-left: 0.8rem;
     margin-bottom: 1rem;
     margin-top: 0rem;
  }
 .email{
     display: block;
-   
-    width: 29vw;
-    height: 5vh;
+   margin-top: 3rem;
+    width: 7rem;
+    height: 2rem;
     margin-bottom: 2rem;
-    margin-left: 8rem;
+    margin-left: 0rem;
     color: white;
 }
 .email input{
+    position: absolute;
+  bottom: 14.7rem;
+    margin-top: 0rem;
     
-    width: 20vw;
-    height: 5vh;
+    width: 13rem;
+    height:2rem;
     margin-left: 1rem;
     border-radius: 0.25rem 0.25rem;
     background-color: whitesmoke;
@@ -96,17 +96,18 @@ body {
 }
 .password{
     display: block;
-   margin-top: 0rem;
-    width: 29vw;
-    height: 5vh;
+   margin-top: 3rem;
+    width: 7rem;
+    height: 2rem;
     margin-bottom: 2rem;
-    margin-left: 10rem;
+    margin-left: 0rem;
     color: white;
 }
 .password input{
-    
-    width: 20vw;
-    height: 5vh;
+    position: absolute;
+   bottom: 10rem;
+    width: 13rem;
+    height: 2rem;
     margin-left: 1rem;
     border-radius: 0.25rem 0.25rem;
     background-color: whitesmoke;
@@ -114,8 +115,9 @@ body {
 }
 .check{
     display: block;
-    margin-left: 14.5rem;
+    margin-left: 2rem;
     color: white;
+    margin-top: 1rem;
 }
 .check input{
    background-color: whitesmoke;
@@ -125,7 +127,7 @@ body {
 #contentA{
     display: flex;
     flex-direction: row;
-    margin-left: 14.6rem;
+    margin-left: 2rem;
     margin-top: 1rem;
 }
 #contentA button{
@@ -137,7 +139,7 @@ color: white;
 background-color: black;
 border: none;
 display: block;
-margin-top: 0.5rem;
+margin-top: 0.7rem;
 opacity: 0.8;
 }
 #contentA button:hover{
@@ -145,4 +147,138 @@ opacity: 0.8;
 }
 #contentA a{
     color: rgb(74, 146, 235);
+}
+@media only screen and (min-width: 1000px) and (min-width: 600px){
+  
+    #content{
+        margin-top: 0rem;
+          width: 100vw;
+           display: block ;
+           
+           background: linear-gradient(to right, #155799, #159957); 
+           color: white;
+           margin-left: 0rem;
+           list-style: none;
+        }
+       
+        .content_1{
+          
+           margin-left: 6rem;
+           font-size: 1.3rem;
+        }
+        .content_2{
+          display: block;
+           margin-left: 70rem;
+           padding-top: 0rem;
+           font-size: 1rem;
+           opacity: 0.4;
+         margin-top: 0;
+        }
+        #content li{
+           list-style: none;
+        }
+        #content a{
+           color: white;
+           text-decoration: none;
+       }
+        .log2:hover{
+           color: rgb(0,0,0,0.9);
+        }
+        #container_1{
+           display: flex;
+           
+          
+           flex-direction: column;
+           border: none;
+           margin-top: 2rem;
+           height: 25rem;
+           width: 42.7rem;
+           margin-left: 20rem;
+           background: linear-gradient(to right, #155799, #159957); 
+           border-radius: 0.25rem 0.25rem;
+       
+        }
+        .content_A{
+           display: block;
+           background-color: whitesmoke;
+           width: 49vw;
+           height: 4.5vh;
+           border: 0.1px solid gainsboro;
+           padding-top: 0.6rem;
+           padding-left: 0.8rem;
+           margin-bottom: 1rem;
+           margin-top: 0rem;
+        }
+       .email{
+           display: block;
+          
+           width: 29vw;
+           height: 5vh;
+           margin-bottom: 2rem;
+           margin-left: 8rem;
+           color: white;
+       }
+       .email input{
+           position: absolute;
+          bottom: 21.5rem;
+           width: 25vw;
+           height: 5vh;
+           margin-left: 1rem;
+           border-radius: 0.25rem 0.25rem;
+           background-color: whitesmoke;
+           border: 0.1px solid gainsboro;
+       }
+       .password{
+           display: block;
+          margin-top: 0rem;
+           width: 29vw;
+           height: 5vh;
+           margin-bottom: 2rem;
+           margin-left: 10rem;
+           color: white;
+       }
+       .password input{
+           position: absolute;
+           bottom: 17.5rem;
+           width: 25vw;
+           height: 5vh;
+           margin-left: 1rem;
+           border-radius: 0.25rem 0.25rem;
+           background-color: whitesmoke;
+           border: 0.1px solid gainsboro;
+       }
+       .check{
+           display: block;
+           margin-left: 14.5rem;
+           color: white;
+       }
+       .check input{
+          background-color: whitesmoke;
+           margin-right: 0.5rem;
+           border: 1px solid gainsboro;
+       }
+       #contentA{
+           display: flex;
+           flex-direction: row;
+           margin-left: 14.6rem;
+           margin-top: 1rem;
+       }
+       #contentA button{
+       width: 10vh;
+       height: 6vh;
+       margin-right: 1rem;
+       border-radius: 0.25rem 0.25rem;
+       color: white;
+       background-color: black;
+       border: none;
+       display: block;
+       margin-top: 0.5rem;
+       opacity: 0.8;
+       }
+       #contentA button:hover{
+           background-color: blue;
+       }
+       #contentA a{
+           color: rgb(74, 146, 235);
+       }
 }

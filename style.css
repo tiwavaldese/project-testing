@@ -132,7 +132,7 @@ display: none
   display: none;
 }
 .project_menu{
-  display:block;
+  display:none;
 }
 @media (max-width: 768px){
 .menu{
@@ -258,11 +258,13 @@ li{
 
 .slider_container{
   position: relative;
+  top: 0;
+  left: 0;
   width: 120vw;
   height: 100vw;
   display: flex;
   margin-top: 0rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   padding-right: 5rem;
   justify-content:center;
   align-items: center;
@@ -303,20 +305,22 @@ li{
 }
 .slide.one img{
  height: 25rem;
-padding-bottom: 1rem;
- margin: auto;
+padding-bottom: 0rem;
  width: 100vw;
 }
 .slide.two img{
   height: 25rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
  width: 100%;
 }
 .slide.three img{
-  height: 25rem;
-  padding-bottom: 1rem;
-   margin: auto;
-   width: 100rem; 
+  height: 30rem;
+  padding: 5rem 5rem 0rem;
+   width: 100%; 
+   top: 0;
+   left: 0;
+   position: absolute;
+
 }
 
 @keyframes sliding {
@@ -3324,7 +3328,10 @@ padding-bottom: 1rem;
 }
 .slide.three img{
   height: 47rem;
-  padding-bottom: 1rem;
+position: absolute;
+
+left: 0;
+bottom: 15rem;
  margin-left: 0rem;
   width: 100%;
 }

@@ -145,6 +145,8 @@ display: none
   left: 0;
   text-align: center;
   padding: 1px 0;
+  height: 10rem;
+  width: 20rem;
 
 }
 .menu li:hover{
@@ -171,7 +173,7 @@ input[type=checkbox]:checked ~ .menu {
   display: block;
 margin: 70px 130px 0px;
   width: 30rem;
-  height: 10rem;
+  height: 20rem;
   position: absolute;
 color: #782D50;
  
@@ -234,7 +236,7 @@ li{
    
   display: flex;
   width: 100rem;
-  height: 12rem;
+  height: 22rem;
   justify-content: center;
   align-items: center;
   background-color: black;

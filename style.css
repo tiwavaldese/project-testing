@@ -24,13 +24,7 @@ body {
   flex-direction: column;
   background-color: azure;
 }
-.wrapper{
-  width: 100%;
-  }
-a, a:visited, a:hover {
-  text-decoration: none;
-  color: white;
-}
+
 
 .description{
   height: 7vh;
@@ -99,15 +93,18 @@ left: 0;
 .description1:hover{
   background-color: black;
 }
+
 .nav_bar{
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: space-between;
   padding: 20px;
 }
-a{
+a, a:visited, a:hover {
   text-decoration: none;
+  color: white;
 }
+
 li{
   list-style: none;
 }
@@ -134,7 +131,12 @@ display: none
 .project_menu{
   display:none;
 }
-@media (max-width: 768px){
+
+@media (max-width: 1000px){
+.wrapper{
+  width: 100%;
+  }
+
 .menu{
   display: none;
   position: absolute;
@@ -184,7 +186,7 @@ ul .italic{
   font-size: 0.9rem;
 }
 
-}
+
 
 
 
@@ -315,11 +317,12 @@ padding-bottom: 0rem;
 }
 .slide.three img{
   height: 30rem;
-  padding: 5rem 5rem 0rem;
+  padding: 5rem 0rem 0rem;
    width: 100%; 
-   top: 0;
+   top: 0rem;
    left: 0;
    position: absolute;
+   margin-left: -14rem;
 
 }
 
@@ -479,13 +482,11 @@ padding-bottom: 0rem;
       background: rgba(0, 0, 0, 0.348);
       backdrop-filter: blur(1px);
       border-radius: 0.25rem 0.25rem ;
-      width: 98vw;
+      width:25rem;
       height: 15vh;
       display: block;
-      justify-content: center;
-      align-items: center;
       padding-left: 2rem;
-    margin-left: 2rem;
+    margin-left: -13rem;
 
   }
   .slide .captionH{
@@ -497,20 +498,20 @@ padding-bottom: 0rem;
       background: rgba(236, 231, 231, 0.348);
       backdrop-filter: blur(1px);
       border-radius: 0.25rem 0.25rem ;
-      width: 98vw;
+      width: 25rem;
       height: 23vh;
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-right: 1rem;
-      padding-left: 2rem;
+      margin-left:  -13rem;
+      padding-left: 1rem;
      
      
   }
   .slide .captionI{
       position: absolute;
       left: 0;
-      bottom: 28%;
+      bottom: 12%;
       font-size: 1rem;
       width: 10rem;
  height: 3rem;
@@ -522,7 +523,7 @@ padding-bottom: 0rem;
       padding-top: 0.5rem;
       border-radius: 0.25rem;
        background-color: #782D50;
-       margin-left: 15rem;
+       margin-left:  -5rem;
    }
    .captionI:hover{
      background-color: black;
@@ -3094,6 +3095,7 @@ figure{
   margin-left: 0rem;
 
 }
+}
 @media screen and (max-width: 900px) and (min-width: 600px){
 
   .description, .flex, .navbar, .header_link, .slider_container, .container, .content, .container1{
@@ -3278,14 +3280,14 @@ padding-left: 3rem;
   padding-top: 0rem;
   padding-bottom: 6rem;
   margin-left: 0rem;
- 
+
 }
 .slider{
   position:relative;
   width: 100vw;
   height: 80vh;
   display: flex;
-  margin-top: 0rem;
+  margin-right: 4rem;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
@@ -3327,13 +3329,14 @@ padding-bottom: 1rem;
  width: 100%;
 }
 .slide.three img{
-  height: 47rem;
+  height: 46rem;
 position: absolute;
-
 left: 0;
-bottom: 15rem;
- margin-left: 0rem;
-  width: 100%;
+top: -1.5rem;
+bottom: 3rem;
+margin-left:-2rem;
+  width: 100rem;
+  
 }
 
 
@@ -3359,26 +3362,6 @@ bottom: 15rem;
 
   }
   
-.btn_A{
-  background-color: #782D50;
-  color:white;
-  display: block;
-  margin-top: 5rem;
-  margin-left:30rem;
-  font-size: 15px;
-  width: 50rem;
-  height: 3rem;
- padding-top: 1rem;
- padding-left: 1rem;
- border: none;
- border-radius: 5px;
-
-
-}
-.btn_A a{
-  color: white;
-  text-decoration: none;
-}
   .slide .captionA{
       position: absolute;
       left: 0;
@@ -3569,7 +3552,7 @@ height: 3rem;
       color:#782D50;
   }
   .container{
-      margin-top: 5rem;
+      margin-top: 7rem;
       margin-bottom: 2rem;
       text-align: center;
       display: block;

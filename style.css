@@ -613,7 +613,7 @@ background-color: whitesmoke;
 }
 .content{
 display: block;
-margin: 5rem 0rem 90rem 0rem;
+margin: 5rem 0rem 81rem 0rem;
 height: 100vh;
 width: 80rem;
 
@@ -664,7 +664,7 @@ padding-left: 1rem;
   width: 20rem;
   height: 43rem;
   background-color: whitesmoke; 
-  margin-left: 2rem;
+  margin-left: 3rem;
  border-radius: 0.5rem ;
 }
 .grid_item1 p{
@@ -702,8 +702,8 @@ color: #782D50;
   display: block;
   justify-content: center;
   background-color: whitesmoke; 
-  margin-left: 2rem;
-  height: 39rem;
+  margin-left: 3rem;
+  height: 35rem;
   border-radius: 0.5rem ;
   width: 20rem;
 }
@@ -738,14 +738,14 @@ color: #782D50;
 }
 .grid_item3{
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   display: block;
   justify-content: center;
  align-items: center;
  width: 20rem;
  background-color: whitesmoke; 
- margin-left: 1.5rem;
- height: 39rem;
+ margin-left: 3rem;
+ height: 34rem;
  border-radius: 0.5rem ;
 }
 .grid_item3 p{
@@ -823,7 +823,7 @@ height: 10rem;
   background-color: #782D50;
   width: 40vw;
   height: 9vh;
-  margin: 2rem 0rem 2rem 0rem;
+  margin: 2rem 0rem 2rem 3rem;
   border-radius: 5px;
   
 }
@@ -3022,23 +3022,25 @@ figure{
   margin-left: 0rem;
 
 }
-@media screen and (max-width: 1000px) and (min-width: 600px){
-#header{
-width: 100%;
-padding: 30px;
- }
- body{
-  width: 600px;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
- }
- img{
-  width: 100%;
-  display: flex;
-  flex-direction: column;
- }
-}
+@media screen and (max-width: 900px) and (min-width: 600px){
+
+  .description, .flex, .navbar, .header_link, .slider_container, .container, .content, .container1{
+    width: 100%;
+    padding-top: 30px;
+     }
+     body{
+      width: 600px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+     }
+     img{
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+     }
+    }
+
 @media only screen and (min-width: 1000px) and (min-width: 600px){
 .wrapper{
   width: 1000px;

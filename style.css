@@ -131,6 +131,9 @@ display: none
 .project{
   display: none;
 }
+.project_menu{
+  display:block;
+}
 @media (max-width: 768px){
 .menu{
   display: none;
@@ -151,12 +154,34 @@ display: none
 .menu li + li{
   margin-top: 12px;
 }
-input[type=checkbox]:checked ~ .menu{
+input[type=checkbox]:checked ~ .menu {
   display: block;
+}
+.project_menu{
+  display: block;
+  margin: 0px 0px 70px;
+    width: 20rem;
+
+   background-color: orangered;
+  color: #782D50;
 }
 .project{
   display: block;
-  color: #782D50;
+margin: 130px 150px 0px;
+  width: 2rem;
+  position: absolute;
+color: #782D50;
+ 
+}
+ul .italic{
+  display: flex;
+  text-align:center;
+  margin-left: 17rem;
+  color: white;
+  background-color: black;
+  position: absolute;
+  bottom: 25%;
+  font-size: 0.9rem;
 }
 
 }
@@ -220,21 +245,12 @@ li{
 
 
 }
-ul .italic{
-  display: flex;
-  text-align:center;
-  margin-left: 12rem;
-  color: white;
-  background-color: black;
-  position: absolute;
-  bottom: 17%;
-  font-size: 0.9rem;
-}
+
 
 .img_1{
   width: 6%;
   height: 12vh;
-  margin-left: 8rem; 
+  margin-left: 1rem; 
   display: block;
   margin-top: 0.5rem;
 }

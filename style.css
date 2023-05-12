@@ -64,7 +64,7 @@ margin-left: 25rem;
 }
 .image{
   width: 10rem;
-  height: 30vh;
+  height: 25vh;
 position: absolute;
 padding-left: 2rem;
 left: 0;
@@ -73,7 +73,7 @@ left: 0;
   background-color: #782D50;
   color:white;
   display: flex;
-  margin-top: 8rem;
+  margin-top: 6.5rem;
   margin-right: 35rem;
   font-size: 15px;
   width: 10rem;
@@ -169,20 +169,21 @@ input[type=checkbox]:checked ~ .menu {
 }
 .project{
   display: block;
-margin: 130px 150px 0px;
-  width: 2rem;
+margin: 70px 130px 0px;
+  width: 30rem;
+  height: 10rem;
   position: absolute;
 color: #782D50;
  
 }
 ul .italic{
-  display: flex;
+  display: block;
   text-align:center;
-  margin-left: 17rem;
+  margin-left: 14rem;
   color: white;
   background-color: black;
   position: absolute;
-  bottom: 25%;
+  bottom: 38%;
   font-size: 0.9rem;
 }
 

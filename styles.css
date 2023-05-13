@@ -55,8 +55,8 @@ body {
     display: block;
     border: none;
     margin-top: 2rem;
-    height: 10rem;
-    width:20rem;
+    height: 20rem;
+    width:23rem;
     margin-left: 2rem;
     background: linear-gradient(to right, #155799, #159957); 
     border-radius: 0.25rem 0.25rem;
@@ -65,7 +65,7 @@ body {
  .content_A{
     display: block;
     background-color: whitesmoke;
-    width: 20rem;
+    width: 22rem;
     height: 1.5rem;
     border: 0.1px solid gainsboro;
     padding-top: 0.5rem;
@@ -83,13 +83,12 @@ body {
     color: white;
 }
 .email input{
-    position: absolute;
-  bottom: 14.7rem;
-    margin-top: 0rem;
+   
+    margin-top: -10rem;
     
     width: 13rem;
     height:2rem;
-    margin-left: 1rem;
+    margin-left: 8rem;
     border-radius: 0.25rem 0.25rem;
     background-color: whitesmoke;
     border: 0.1px solid gainsboro;
@@ -104,11 +103,10 @@ body {
     color: white;
 }
 .password input{
-    position: absolute;
-   bottom: 10rem;
+   margin-top: -10rem;
     width: 13rem;
     height: 2rem;
-    margin-left: 1rem;
+    margin-left: 8rem;
     border-radius: 0.25rem 0.25rem;
     background-color: whitesmoke;
     border: 0.1px solid gainsboro;

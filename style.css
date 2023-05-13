@@ -66,7 +66,7 @@ margin-left: 25rem;
   width: 10rem;
   height: 25vh;
 position: absolute;
-padding-left: 2rem;
+padding-left: 1rem;
 left: 0;
 }
 .description1{
@@ -221,6 +221,9 @@ ul .italic{
   justify-content: space-between;
   background-color: #782D50;
 }
+.navbar ul{
+  display: none;
+}
 
 
 li:hover{
@@ -232,19 +235,20 @@ li{
   color: white;
  
 }
+.header_link ul{
+  display: none;
+}
 
 .header_link{
    
   display: flex;
-  width: 100rem;
+  width: 50rem;
   height: 22rem;
   justify-content: center;
   align-items: center;
   background-color: black;
   color: white;
   padding-bottom: 1.5rem;
-
- 
  font-weight: bold;
  margin-top: 0rem;
  flex-direction: row;
@@ -255,10 +259,10 @@ li{
 
 .img_1{
   width: 6%;
-  height: 12vh;
+  height: 15vh;
   margin-left: 1rem; 
   display: block;
-  margin-top: 0.5rem;
+  margin-top: 0.3rem;
 }
 
 
@@ -279,7 +283,7 @@ li{
 .slider{
   position:relative;
   width: 100vw;
-  height: 80vh;
+  height: 100vh;
   display: flex;
   margin-top: 0rem;
   flex-direction: row;

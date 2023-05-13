@@ -3126,6 +3126,7 @@ figure{
 @media only screen and (min-width: 1000px) and (min-width: 600px){
 .wrapper{
   width: 1000px;
+  
 }
  
 .description{
@@ -4325,7 +4326,7 @@ margin-bottom: 1rem;
   position: relative;
   display: flex;
   flex-direction: row;
-margin: 0 0 0 5rem;
+margin: 0 0 0 7rem;
   width: 100vw;
  
 }
@@ -4334,15 +4335,15 @@ margin: 0 0 0 5rem;
  
 }
 #img_13{
-  width: 25rem;
+  width: 22rem;
   height: 22rem;
 }
 #img_14{
-  width: 25rem;
+  width: 22rem;
   height: 22rem;
 }
 #img_15{
-  width: 25rem;
+  width: 22rem;
   height: 22rem;
 }
 .grid_5{
@@ -4353,7 +4354,8 @@ margin: 0 0 0 5rem;
 .grid_5 img{
   height: 47rem;
 margin-left: 0rem;
-margin-top: 10rem;
+margin-top: 6rem;
+margin-bottom: 2rem;
  width: 110rem;
 }
 .grid_6{
@@ -4363,7 +4365,7 @@ margin-top: 10rem;
   height: 35vh;
   display:flex;
 flex-direction: column;
-
+margin-top: 12rem;
 
 }
 .grid_6 h2{
@@ -4451,6 +4453,7 @@ backdrop-filter: blur(2px);
   height: 35vh;
   display:flex;
 flex-direction: column;
+margin-top: 12rem;
 }
 .grid_7 h2{
   position: absolute;
@@ -4596,12 +4599,14 @@ margin-top: 1.5rem;
 
 .container4{
   width: 100vw;
-  height: 55vh;
+  height: 90vh;
   background-color: rgba(0, 0, 0, 0.9);
   display: flex;
   flex-direction: row;
   margin-left: 0rem;
   padding-left: 0rem;
+  margin-top: 5rem;
+  padding-top: 5rem;
 }
 
 .img_20{
@@ -4622,7 +4627,9 @@ margin-top: 1.5rem;
   margin-left: 1.5rem;
   margin-top: 1rem;
 }
-
+.content7{
+  margin-left: -87rem;
+}
 
 .content7 h3{
   margin-top: 3rem;
@@ -4650,14 +4657,17 @@ margin-top: 1.5rem;
   list-style:disc;
   
 }
-.container4 p{
+.content7 p{
   padding-top: 0rem;
   padding-bottom: 0rem;
   font-size: 1rem;
-  color: #782D50;
+  color: white;
  margin-top: 1.5rem;
- padding-right:40rem;
+ padding-right:0rem;
  width: 30rem;
+}
+.content8{
+  margin-left: -2rem;
 }
 .content8 h3{
   margin-top: 3rem;
@@ -4677,13 +4687,13 @@ margin-top: 1.5rem;
   background-color: white;
   display: block;
   width: 12vw;
-  padding-left:0rem;
-  padding-right: 2rem;
+  padding-left:2rem;
+  padding-right: 0rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-radius: 0.25rem;
   font-size: 0.8rem;
-  margin-top: 1.5rem;
+  margin-top: 5rem;
   height: 7vh;
 }
 .content8 a{
@@ -4696,13 +4706,12 @@ p i{
  color: white;
 }
 
-h4 i  {
+ h4 i  {
   display: block;
-
   color:#782D50;
   margin-top: 1.5rem;
   font-size: 1rem;
-margin-left: 0rem;
+margin-left: -1rem;
 padding-left: 0rem;
 }
 
@@ -4717,13 +4726,14 @@ padding-left: 0rem;
   width: 100vw;
   height: 15vh;
   color: white;
-  padding-top: 2rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   padding-left: 10rem;
   font-size: 0.9rem;
   position: relative;
   bottom: 2rem;
   margin-left: 0rem;
+  margin-top: 0rem;
  }
  
  footer span{

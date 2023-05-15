@@ -173,7 +173,7 @@ margin: 0px 250px 0px;
   height: 20rem;
   position:absolute;
 color: green;
- bottom:6rem;
+ bottom:58rem;
  top: 1;
  left: 0;
  
@@ -222,9 +222,8 @@ ul .italic{
   align-items: center;
 }
 .navbar{
-  position:fixed;
+  position:absolute;
   display: flex;
-  
   top: 0;
   left: 0;
   width: 100%;

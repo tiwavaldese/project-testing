@@ -63,7 +63,7 @@ margin-left: 25rem;
   
 }
 .image{
-  width: 10rem;
+  width: 8rem;
   height: 25vh;
 position: absolute;
 padding-left: 1rem;
@@ -162,21 +162,19 @@ input[type=checkbox]:checked ~ .menu {
   display: block;
 }
 #navigation{
-  display: flex;
-  
-  
+  display: block;
+   
 }
 .projects{
   display: block;
 margin: 0px 250px 0px;
-  width: 30rem;
+  width:30rem;
   height: 20rem;
   position:absolute;
 color: green;
- bottom:58rem;
- top: 1;
+ bottom:6rem;
  left: 0;
- 
+
 
 }
 .project{
@@ -222,7 +220,7 @@ ul .italic{
   align-items: center;
 }
 .navbar{
-  position:absolute;
+  position:fixed;
   display: flex;
   top: 0;
   left: 0;
@@ -268,7 +266,7 @@ li{
 
 
 .img_1{
-  width: 6%;
+  width: 5%;
   height: 15vh;
   margin-left: 1rem; 
   display: block;
@@ -1023,7 +1021,7 @@ opacity: 0.1;
 }
 h3 i{
   display: block;
-  padding: 1.5rem 1rem 1.5rem 0;
+  padding: 1.5rem 1.5rem 0;
  color: white;
  background-color: #782D50;
  border-radius: 50%;
@@ -3277,7 +3275,10 @@ padding-left: 3rem;
 .italic{
   display: none;
 }
-
+#navigation{
+  display: none;
+   
+}
 .img_1{
   width: 6%;
   height: 12vh;
@@ -4046,7 +4047,7 @@ opacity: 0.1;
 }
 h3 i{
   display: block;
-  padding: 1.5rem 1rem 1.5rem 0;
+  padding: 1.5rem 1.5rem 0;
  color: white;
  background-color: #782D50;
  border-radius: 50%;
@@ -4344,17 +4345,90 @@ margin: 0 0 0 7rem;
   opacity: 0.5;
  
 }
+
+.overlayA{
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  opacity: 1;
+  color: #782D50;
+  transition: opacity o.4s ease-in-out;
+  cursor: pointer;
+}
+.overlayB{
+  position: absolute;
+  top: 25%;
+  left: 40%;
+  opacity: 1;
+  color: #782D50;
+  transition: opacity o.4s ease-in-out;
+  cursor: pointer;
+}
+.overlayC{
+  position: absolute;
+  top: 25%;
+  left: 65%;
+  opacity: 1;
+  color: #782D50;
+  transition: opacity o.4s ease-in-out;
+  cursor: pointer;
+}
+
+.content3A {
+  position: absolute;
+  top: 0;
+  left:0;
+  transform: translate(-50%, -50%);
+ opacity: 0.1;
+  font-size: 70px;
+  padding: 16px 3px;
+  text-align: center;
+  color: #782D50;
+}
+
+.overlay {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 42%;
+  color: #782D50;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+ 
+}
+.content3:hover .overlayA {
+opacity: 2;
+color: #782D50;
+}
+.content3:hover .overlayB {
+  opacity:2;
+  color: #782D50;
+  }
+  .content3:hover .overlayC {
+    opacity: 2;
+    color: #782D50;
+    }
 #img_13{
   width: 22rem;
   height: 22rem;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 #img_14{
   width: 22rem;
   height: 22rem;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 #img_15{
   width: 22rem;
   height: 22rem;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 .grid_5{
   display: flex;

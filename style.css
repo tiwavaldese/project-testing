@@ -4348,27 +4348,27 @@ margin: 0 0 0 7rem;
 
 .overlayA{
   position: absolute;
-  top: 25%;
-  left: 10%;
-  opacity: 1;
+  top: 0;
+  left: 0;
+  opacity: 0;
   color: #782D50;
   transition: opacity o.4s ease-in-out;
   cursor: pointer;
 }
 .overlayB{
   position: absolute;
-  top: 25%;
-  left: 40%;
-  opacity: 1;
+  top: 0;
+  left:0;
+  opacity: 0;
   color: #782D50;
   transition: opacity o.4s ease-in-out;
   cursor: pointer;
 }
 .overlayC{
   position: absolute;
-  top: 25%;
-  left: 65%;
-  opacity: 1;
+  top: 0;
+  left: 0;
+  opacity: 0;
   color: #782D50;
   transition: opacity o.4s ease-in-out;
   cursor: pointer;
@@ -4376,8 +4376,8 @@ margin: 0 0 0 7rem;
 
 .content3A {
   position: absolute;
-  top: 0;
-  left:0;
+  top: 25%;
+  left: 10%;
   transform: translate(-50%, -50%);
  opacity: 0.1;
   font-size: 70px;
@@ -4386,6 +4386,29 @@ margin: 0 0 0 7rem;
   color: #782D50;
 }
 
+.content3B {
+  position: absolute;
+  top: 25%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+ opacity: 0.1;
+  font-size: 70px;
+  padding: 16px 3px;
+  text-align: center;
+  color: #782D50;
+}
+
+.content3C {
+  position: absolute;
+  top: 25%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+ opacity: 0.1;
+  font-size: 70px;
+  padding: 16px 3px;
+  text-align: center;
+  color: #782D50;
+}
 .overlay {
   transition: 0.5s ease;
   opacity: 0;
@@ -4398,7 +4421,7 @@ margin: 0 0 0 7rem;
  
 }
 .content3:hover .overlayA {
-opacity: 2;
+  opacity: 2;
 color: #782D50;
 }
 .content3:hover .overlayB {

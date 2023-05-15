@@ -161,13 +161,23 @@ display: none
 input[type=checkbox]:checked ~ .menu {
   display: block;
 }
-.project_menu{
+#navigation{
+  display: flex;
+  
+  
+}
+.projects{
   display: block;
-  margin: 0px 0px 70px;
-    width: 20rem;
+margin: 0px 250px 0px;
+  width: 30rem;
+  height: 20rem;
+  position:absolute;
+color: green;
+ bottom:6rem;
+ top: 1;
+ left: 0;
+ 
 
-   background-color: orangered;
-  color: #782D50;
 }
 .project{
   display: block;
@@ -214,6 +224,7 @@ ul .italic{
 .navbar{
   position:fixed;
   display: flex;
+  
   top: 0;
   left: 0;
   width: 100%;

@@ -68,6 +68,7 @@ margin-left: 25rem;
 position: absolute;
 padding-left: 1rem;
 left: 0;
+bottom: 18rem;
 }
 .description1{
   background-color: #782D50;
@@ -168,7 +169,7 @@ input[type=checkbox]:checked ~ .menu {
 
 .project{
   display: block;
-margin: 75px 130px 0px;
+margin: 80px 130px 0px;
   width: 30rem;
   height: 20rem;
   position: absolute;

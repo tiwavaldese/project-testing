@@ -3148,12 +3148,11 @@ figure{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100rem;
+  width: 100vw;
   background-color: #782D50;
   color: white;
  padding-top: 0.5rem;
-  padding-right: 30rem;
- padding-left: 30rem;
+
 }
 
 h1{
@@ -3259,13 +3258,13 @@ li{
 .header_link{
    
   display: flex;
-  width: 100rem;
-  height: 3rem;
+  width: 100vw;
+  height:5rem;
   justify-content: center;
   align-items: center;
   background-color: black;
   color: white;
-  padding-bottom:0rem;
+  padding-bottom:1rem;
  font-weight: bold;
  margin-top: 1rem;
  flex-direction: row;
@@ -3302,7 +3301,7 @@ padding-left: 3rem;
   align-items: center;
   margin-top: 0rem;
   padding-top: 0rem;
-  padding-bottom: 6rem;
+  padding-bottom: 8rem;
   margin-left: 0rem;
 
 }
@@ -4644,21 +4643,22 @@ margin-top: 1.5rem;
   flex-direction: row;
   margin-left: 0rem;
   padding-left: 0rem;
-  margin-top: 5rem;
-  padding-top: 5rem;
+  margin-top: 3rem;
+  padding-top: 3rem;
 }
 
 .img_20{
- width: 18vw;
- height: 35vh;
+ width: 25vw;
+ height: 55vh;
   background-color: rgba(0, 0, 0, 0.8);
-  margin-top: 2rem;
-  margin-left: 7rem;
+  margin-top: 0rem;
+  margin-left:5rem;
 }
 .content6 h3{
   margin-top: 3rem;
   margin-left: 1rem;
   margin-bottom: 1rem;
+
   color: #782D50;
 }
 .content6 hr{
@@ -4685,7 +4685,8 @@ margin-top: 1.5rem;
   display: flex;
   flex-direction: column;
   margin-left: 3rem;
- 
+  margin-top: 1.5rem;
+  line-height: 2rem;
 }
 
 .container4 li{
@@ -4704,6 +4705,7 @@ margin-top: 1.5rem;
  margin-top: 1.5rem;
  padding-right:0rem;
  width: 30rem;
+ line-height: 3rem;
 }
 .content8{
   margin-left: -2rem;
@@ -4732,7 +4734,7 @@ margin-top: 1.5rem;
   padding-bottom: 1rem;
   border-radius: 0.25rem;
   font-size: 0.8rem;
-  margin-top: 5rem;
+  margin-top: 3rem;
   height: 7vh;
 }
 .content8 a{
@@ -4743,6 +4745,7 @@ p i{
   display: block;
  padding-right: 1rem;
  color: white;
+
 }
 
  h4 i  {
@@ -4750,8 +4753,8 @@ p i{
   color:#782D50;
   margin-top: 1.5rem;
   font-size: 1rem;
-margin-left: -1rem;
-padding-left: 0rem;
+margin-left: -0rem;
+padding-left: -5rem;
 }
 
 
@@ -4763,7 +4766,7 @@ padding-left: 0rem;
   display: flex;
   background-color: black;
   width: 100vw;
-  height: 15vh;
+  height: 20vh;
   color: white;
   padding-top: 1rem;
   padding-bottom: 0rem;

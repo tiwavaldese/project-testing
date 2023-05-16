@@ -722,10 +722,6 @@ margin-bottom: 40rem;
 display: block;
 margin-left: 2rem;
 }
-.content:hover{
-color: grey;
-
-}
 
 .content h3{
 margin-top: 1rem;
@@ -734,16 +730,16 @@ padding-left: 1rem;
 }
 
 .grid_item1:hover{
-  background-color: whitesmoke; 
+  background-color: white;
 }
 .grid_item2:hover{
-  background-color: whitesmoke; 
+  background-color: white; 
 }
 .grid_item3:hover{
-  background-color: whitesmoke; 
+  background-color: white; 
 }
 .grid_item4:hover{
-  background-color: whitesmoke; 
+  background-color: white; 
 }
 .grid_item1{
   margin-top: 1rem;
@@ -3682,10 +3678,7 @@ margin-bottom: 20rem;
   flex-direction: row;
   margin-left: 2rem;
 }
-.content:hover{
-  color: grey;
- 
-}
+
 
 .content h3{
   margin-top: 1rem;
@@ -3693,16 +3686,17 @@ margin-bottom: 20rem;
 
 }
 .grid_item1:hover{
-  background-color: whitesmoke; 
+  background-color: white;
+  
 }
 .grid_item2:hover{
-  background-color: whitesmoke; 
+  background-color: white; 
 }
 .grid_item3:hover{
-  background-color: whitesmoke; 
+  background-color: white; 
 }
 .grid_item4:hover{
-  background-color: whitesmoke; 
+  background-color: white; 
 }
 .grid_item1{
   margin-top: 1rem;
@@ -3711,7 +3705,7 @@ margin-bottom: 20rem;
   justify-content: center;
   width: 22rem;
   height: 43rem;
-  background-color: whitesmoke; 
+  background-color: whitesmoke;
   margin-left: 1rem;
  border-radius: 0.5rem ;
 }

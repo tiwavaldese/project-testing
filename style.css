@@ -1309,8 +1309,8 @@ margin-top: 0.5rem;
   position: relative;
   display: flex;
   flex-direction: column;
-margin: 0 0 0 4rem;
-  width: 100vw;
+margin: 0 0 0 3rem;
+  width: 100rem;
   
  
 }
@@ -1339,20 +1339,21 @@ margin: 0 0 0 4rem;
   font-size:50px;
 }
 #img_13{
-  width: 5rem;
-  height: 22rem;
-  display: block;
+  width:20rem;
+  height: 18rem;
+  display: flex;
+  margin-bottom: 1rem;
 
 }
 #img_14{
-  width: 5rem;
-  height: 22rem;
+  width: 20rem;
+  height: 18rem;
   display: block;
- 
+  margin-bottom: 1rem;
 }
 #img_15{
-  width: 35rem;
-  height: 22rem;
+  width: 20rem;
+  height:18rem;
   display: block;
   
 }
@@ -4344,7 +4345,7 @@ margin-bottom: 1rem;
   position: relative;
   display: flex;
   flex-direction: row;
-margin: 0 0 0 7rem;
+margin: 0 0 0 8rem;
   width: 100vw;
  
 }
@@ -4376,22 +4377,20 @@ margin: 0 0 0 7rem;
   width: 22rem;
   height: 22rem;
   display: block;
-  transition: .5s ease;
-  backface-visibility: hidden;
+ 
+
 }
 #img_14{
   width: 22rem;
   height: 22rem;
   display: block;
-  transition: .5s ease;
-  backface-visibility: hidden;
+  margin-left: 1rem;
 }
 #img_15{
   width: 22rem;
   height: 22rem;
   display: block;
-  transition: .5s ease;
-  backface-visibility: hidden;
+ margin-left: 1rem;
 }
 .grid_5{
   display: flex;

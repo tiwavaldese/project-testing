@@ -8,6 +8,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <style type="text/css">
+        .selectt {
+            color: black;
+            padding: 30px;
+            display: none;
+            margin-top: 30px;
+            width: 60%;
+         
+        }
+          
+        
+    </style>
 </head>
 <body>
     <header>
@@ -122,11 +135,23 @@
                 <img src="img/about-img1.jpg">
             </div>
             <div class="about_item7" id="mycode">
-    <label><input type="radio"  checked id="term-of-office" name="term-of-office" onclick="text(0)" required>THE TERM OF OFFICE</label><p>The Administrative officials hold office for a period of four (4) years renewable, through elections at the General Assembly Meeting, or upon appointment(s) by the Trustees in one accord.</p></label>
-    <label><input type="radio" checked id="vision-and-goal" name="vision-and-goal"  required>VISION AND GOAL</label><p>To significantly improve the standards of living of people living in less privileged communities. To target less privileged persons and assist them to live sustainably by improving their living standards, through empowerment and community development programms.</p>
-    <label><input type="radio" checked id="project-committee" name="project-committee"  required>PROJECTS COMMITTE</label><p>The committee shall be made up of the President as chairperson, the Vice President, the Finance Officer, Projects Supervisor and Secretary General of the organization. It shall study all projects to be executed and present to the Executive Committee for appraisals and execution.</p>
-    <label><input type="radio" checked id="membership-status" name="membership-status"  required>MEMBERSHIP STATUS</label><p>In order to obtain a membership status, interested persons needs to be at least 18 years old, with sound minds, have a good criminal record, be morally upright, and has passion for humanitarian activities, exercise interest and active commitments to this organisation and its operations as a whole. Membership status ranges from Founder Membership (Trustees), Executive Membership, Ordinary Membership, Institutional Membership, and Honorary Membership.</p>
-    <label><input type="radio" checked id="specific-objective" name="specific-objective" required>SPECIFIC OBJECTIVE</label><p>To ensure considerable reductions in poverty, hunger and sufferings in less privileged communities, through developments that empowers those affected with skills and resources to boost productivity and food security.</p>
+    <label><input type="radio"  checked id="term-of-office" name="term-of-office"  required>THE TERM OF OFFICE</label>
+    <label><input type="radio" checked id="vision-and-goal" name="vision-and-goal"  required>VISION AND GOAL</label><p></p>
+    <label><input type="radio" checked id="project-committee" name="project-committee"  required>PROJECTS COMMITTE</label><p></p>
+    <label><input type="radio" checked id="membership-status" name="membership-status"  required>MEMBERSHIP STATUS</label><p></p>
+    <label><input type="radio" checked id="specific-objective" name="specific-objective" required>SPECIFIC OBJECTIVE</label>
+       
+    <label><input type="radio" checked id="activities" name="activities" required>ACTIVITIES</label>
+    </div>
+
+    
+    <div class="term-of-office selectt">The Administrative officials hold office for a period of four (4) years renewable, through elections at the General Assembly Meeting, or upon appointment(s) by the Trustees in one accord.</div>
+        
+      <div class="vision-and-goal selectt">To significantly improve the standards of living of people living in less privileged communities. To target less privileged persons and assist them to live sustainably by improving their living standards, through empowerment and community development programms.</div>
+      <div class="project-committee selectt">The committee shall be made up of the President as chairperson, the Vice President, the Finance Officer, Projects Supervisor and Secretary General of the organization. It shall study all projects to be executed and present to the Executive Committee for appraisals and execution.</div>
+      <div class="membership-status selectt">In order to obtain a membership status, interested persons needs to be at least 18 years old, with sound minds, have a good criminal record, be morally upright, and has passion for humanitarian activities, exercise interest and active commitments to this organisation and its operations as a whole. Membership status ranges from Founder Membership (Trustees), Executive Membership, Ordinary Membership, Institutional Membership, and Honorary Membership.</div>
+      <div class="specific-objective selectt">
+        <p>To ensure considerable reductions in poverty, hunger and sufferings in less privileged communities, through developments that empowers those affected with skills and resources to boost productivity and food security.</p>
         <p>To improve the wellbeing of the less privileged especially those affected by crises by ensuring them quality life through the provision of livelihood assistance and other basic social amenities.</p>
         <p>To promote the existence of quality education and ensure the active involvement of less privileged persons by encouraging them to become educated and acquire relevant knowledge.</p>
         <p>To ensure the practice of peace, justice, and unity among the less privilege population and their stakeholders, by applying the relevant laws and customs put in place by approved authorities.</p>
@@ -138,9 +163,21 @@
         <p>To promote talents and skills of less privilege persons in communities through the organisation of shows, contests, sporting activities, creative forums, events and other platforms through which they can be empowered.</p>
         <p>To undertake other activities, and initiatives which may be for the general welfare of the organisation, its members and stakeholders worlwide.</p>
     
-    <label><input type="radio" checked id="activities" name="activities" required>ACTIVITIES</label><p>We cater for less privileged kids and youths by providing them with basic necessities as well as ensuring that they acquire good education to improve the quality of living for less privileged persons.</p>
     </div>
-                </section>
+    <div class="activities selectt"><p>We cater for less privileged kids and youths by providing them with basic necessities as well as ensuring that they acquire good education to improve the quality of living for less privileged persons.</p></div>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('input[type="radio"]').click(function() {
+                    var inputValue = $(this).attr("value");
+                    var targetBox = $("." + inputValue);
+                    $(".selectt").not(targetBox).hide();
+                    $(targetBox).show();
+                });
+            });
+        </script>
+
+    </section>
     </section>
     
     

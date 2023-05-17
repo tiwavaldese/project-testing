@@ -2002,7 +2002,7 @@ font-size: 0.9rem;
   margin-left: 0rem;
 }
 .about_item7 {
-  margin-top: 5.5rem;
+  margin-top: 4.5rem;
   margin-left: 0rem;
 }
 .about_item7 label{
@@ -2011,30 +2011,62 @@ font-size: 0.9rem;
   font-weight: bold;
   height: 8vh;
   width: 20rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom:1rem;
   padding-top: 0.5rem;
 background-color: whitesmoke;
 }
 .about_item7 input{
   width: 3.5vw;
   height: 3.5vh;
-
+color: #782D50;
 }
 .about_item7 p{
   font-size: 0.9rem;
-padding-top: 0.5rem;
-padding-bottom: 0.5rem;
+padding-top: 0rem;
+padding-bottom: 0rem;
 display: block;
-width: 22rem;
+width: 20rem;
+
 font-weight: lighter;
 line-height: 25px;
-padding: 0.5rem 1rem;
+padding: 0rem 0rem;
 text-align: justify;
-margin-bottom: 1rem;
-
+margin-bottom: 0rem;
+margin-right: -15rem;
 }
-
+.term-of-office p{
+  margin-left:-1rem ;
+  margin-top: -2.5rem;
+  margin-bottom: -1rem;
+}
+.vision-and-goal p{
+  margin-left:-1rem ;
+  margin-top: -2.5rem;
+  margin-bottom: -1rem;
+}
+.project-committee p{
+  margin-left:-1rem ;
+  margin-top: -2.5rem;
+  margin-bottom: -1rem;
+}
+.membership-status p{
+  margin-left:-1rem ;
+  margin-top: -2.5rem;
+  margin-bottom: -1rem;
+}
+.specific-objective p{
+  height: 11.5rem;
+  margin-left:-1rem ;
+  margin-top: -2rem;
+  margin-bottom: -3rem;
+}
+.activities p{
+  margin-left:-1rem ;
+  margin-top: -2.5rem;
+  margin-bottom: -1rem;
+}
+.a
 .blog_item1 {
   width: 100rem;
 

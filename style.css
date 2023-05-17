@@ -436,18 +436,18 @@ padding-bottom: 0rem;
       backdrop-filter: blur(0.1px);
       border-radius:0.25rem 0.25rem ;
       width: 95vw;
-      height: 20vh;
+      height: 17vh;
       display: flex;
       margin-left: 1rem;
       padding-left: 1rem;
       padding-right: 2rem;
-
+padding-top: 1rem;
     
   }
   .slide .captionE{
       position: absolute;
       left: 0%;
-      bottom: 47%;
+      bottom: 50%;
       font-size: 0.9rem;
       color: black;
       background: rgba(236, 231, 231, 0.348);

@@ -174,7 +174,7 @@ input[type=checkbox]:checked ~ .menu {
 position: absolute;
 padding-left: 1rem;
 left: 0;
-bottom: 23rem;
+bottom: 24rem;
 }
 .project{
   display: block;
@@ -3177,7 +3177,7 @@ margin-left: 10rem;
 .image{
   width: 7rem;
   height: 10rem;
- padding-bottom: 5rem;
+ padding-bottom: 4rem;
  padding-left: 2rem;
  margin-left: 9rem;
 margin-top: 2.5rem;

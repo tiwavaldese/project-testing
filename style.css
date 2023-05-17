@@ -3264,6 +3264,9 @@ margin-top: 2.5rem;
 .navbar ul{
   padding-top:2rem;
 }
+.navbar a:hover{
+color: black;
+}
 ul{
   display: flex;
 flex-direction: row;
@@ -3301,6 +3304,9 @@ li{
 margin-bottom: 0rem;
 padding-left: 3rem;
 }
+.header_link a:hover{
+  color:#782D50;
+  }
 #italic{
   text-align:left;
   margin-left: 13rem;

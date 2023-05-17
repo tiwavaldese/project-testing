@@ -68,7 +68,7 @@ margin-left: 25rem;
 position: absolute;
 padding-left: 1rem;
 left: 0;
-bottom: 18rem;
+bottom: 25rem;
 }
 .description1{
   background-color: #782D50;
@@ -898,7 +898,7 @@ height: 10rem;
   background-color: #782D50;
   width: 40vw;
   height: 9vh;
-  margin: 3rem 0rem 2rem 3rem;
+  margin: 0rem 0rem 2rem 3rem;
   border-radius: 5px;
   
 }
@@ -1706,11 +1706,11 @@ padding-left: 1rem;
   width: 100vw;
   height: 12vh;
   color: white;
-  padding-top: 1.5rem;
+  padding-top: 2rem;
   padding-left: 1rem;
   font-size: 0.7rem;
   position: relative;
-  bottom: 2rem;
+  bottom: 0rem;
   
  }
  

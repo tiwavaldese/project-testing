@@ -62,13 +62,14 @@ h1{
 margin-left: 25rem;
   
 }
+
 .image{
   width: 8rem;
   height: 22vh;
 position: absolute;
 padding-left: 1rem;
 left: 0;
-bottom: 25rem;
+bottom: 19rem;
 }
 .description1{
   background-color: #782D50;
@@ -167,6 +168,14 @@ input[type=checkbox]:checked ~ .menu {
    
 }
 
+.image{
+  width: 8rem;
+  height: 22vh;
+position: absolute;
+padding-left: 1rem;
+left: 0;
+bottom: 23rem;
+}
 .project{
   display: block;
 margin: 80px 130px 0px;

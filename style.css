@@ -365,7 +365,7 @@ padding-bottom: 0rem;
   .slide .captionA{
       position: absolute;
       left: 0;
-      bottom: 75%;
+      bottom: 80%;
       font-size: 1.6rem;
       font-weight: 600;
       color: white;
@@ -374,7 +374,7 @@ padding-bottom: 0rem;
       backdrop-filter: blur(0.1px);
       border-radius: 0.25rem 0.25rem;
       width: 98vw;
-      height: 8vh;
+      height: 6vh;
       display:flex;
       margin-top: 5rem;
       margin-left: 1rem;
@@ -388,7 +388,7 @@ padding-bottom: 0rem;
   .slide .captionB{
       position: absolute;
       left: 0;
-      bottom: 45%;
+      bottom: 50%;
       font-size: 0.9rem;
       color: black;
       
@@ -396,7 +396,7 @@ padding-bottom: 0rem;
       backdrop-filter: blur(1px);
       border-radius: 0.25rem 0.25rem;
       width: 90vw;
-      height: 25vh;
+      height: 20vh;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -409,7 +409,7 @@ padding-bottom: 0rem;
   .slide .captionC{
       position: absolute;
       left: 0;
-      bottom: 32%;
+      bottom: 40%;
       font-size: 1rem;
       width: 10rem;
       display: flex;
@@ -427,7 +427,7 @@ padding-bottom: 0rem;
   .slide .captionD{
       position: absolute;
       left: 0%;
-      bottom: 65%;
+      bottom: 70%;
       font-size: 1.6rem;
       font-weight: 600;
       color: white;
@@ -447,7 +447,7 @@ padding-bottom: 0rem;
   .slide .captionE{
       position: absolute;
       left: 0%;
-      bottom: 42%;
+      bottom: 47%;
       font-size: 0.9rem;
       color: black;
       background: rgba(236, 231, 231, 0.348);
@@ -465,7 +465,7 @@ padding-bottom: 0rem;
   .slide .captionF{
       position: absolute;
       left: 0;
-      bottom: 32%;
+      bottom: 40%;
       font-size: 1rem;
      margin-top: 10rem;
       width: 10rem;

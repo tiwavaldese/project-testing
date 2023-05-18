@@ -31,8 +31,9 @@ img{
   top: 0;
   left: 0;
   background-color: #782D50;
-  width: 68%;
+  width: 60%;
   height: 8%;
+  margin: 0rem 2rem 0rem;
 }
 .img_1{
   width: 13%;
@@ -54,7 +55,7 @@ a{
 
 #header{
   margin-top: 7rem;
-  width: 68%;
+  width: 60%;
   height: 20%;
 }
 .image{
@@ -98,10 +99,10 @@ margin: 7rem 1rem 0rem;
   left: 0;
   text-align: center;
   padding: 1.5px 0;
-  height: 5rem;
+  height: 8rem;
   width: 10rem;
   font-size: 0.9rem;
-  bottom: 10rem;
+  bottom: 20rem;
 }
 #checkbox_toggle{
   display: none;
@@ -109,10 +110,11 @@ margin: 7rem 1rem 0rem;
 .project{
   display: block;
   background-color: black;
-  width: 68%;
+  width: 50%;
   height: 12rem;
   color: #782D50;
  padding: 4rem 9rem 0rem;
+ margin: 0rem 3rem 0rem;
 }
 input[type=checkbox]:checked ~ .menu {
   display: block;
@@ -144,7 +146,7 @@ input[type=checkbox]:checked ~ .menu {
   position: relative;
   top: 0;
   left: 0;
-  width: 68%;
+  width: 60%;
   height: 100%;
   display: flex;
   margin-top: 0rem;
@@ -192,8 +194,8 @@ padding: 0.2rem 0.5rem 0rem;
   position: absolute;
   left: 0;
   bottom:76%;
-  font-size: 0.8rem;
-  width: 30%;
+  font-size: 0.7rem;
+  width: 32%;
   display: flex;
   height: 2.5rem;
  padding: 0.7rem 0.7rem 0rem;
@@ -208,7 +210,7 @@ background-color: black;
 .slide .captionD{
   position: absolute;
   left: 0%;
-  bottom: 64%;
+  bottom: 57%;
   font-size: 1rem;
   color: white;
   background: rgba(0, 0, 0, 0.348);
@@ -224,7 +226,7 @@ padding: 0.3rem 1rem 0rem;
 .slide .captionE{
   position: absolute;
   left: 0%;
-  bottom: 52.5%;
+  bottom: 40%;
   font-size: 0.8rem;
   color: black;
   background: rgba(236, 231, 231, 0.348);
@@ -241,10 +243,10 @@ padding: 0.3rem 1rem 0rem;
 .slide .captionF{
   position: absolute;
   left: 0;
-  bottom: 49%;
-  font-size: 0.8rem;
+  bottom: 35%;
+  font-size: 0.7rem;
  margin-top: 10rem;
-  width: 30%;
+  width: 32%;
 height: 2.5rem;
   display: flex;
   justify-content: center;
@@ -253,7 +255,7 @@ height: 2.5rem;
   padding: 0.2rem 1rem 0rem;
   border-radius: 0.25rem;
    background-color: #782D50;
-   margin-left: 14rem;
+   margin-left: 12rem;
 }
 .captionF:hover{
  background-color: black;
@@ -300,8 +302,8 @@ margin-left: 5rem;
   position: absolute;
   left: 0;
   bottom: 7%;
-  font-size: 0.8rem;
-  width: 30%;
+  font-size: 0.7rem;
+  width: 32%;
 height: 2.5rem;
   display: flex;
   justify-content: center;
@@ -317,7 +319,7 @@ padding: 0.2rem 1rem 0rem;
 } 
 
 .container{
-  margin: 0rem 0rem 3rem;
+  margin: 2rem 0rem 3rem;
   display:block;
   width: 60%;
 }
@@ -383,9 +385,9 @@ margin: 1rem 11rem 0rem;
   
 .content{
   display: block;
-  margin: 5rem 0rem 78rem 0rem;
+  margin: 5rem 0rem 75rem 0rem;
   height: 90vh;
-  width:70%;
+  width:50%;
   
   }
   .content_one{
@@ -427,10 +429,10 @@ margin: 1rem 11rem 0rem;
     margin-top: 1rem;
     margin-bottom: rem;
     display: block;
-    width: 75%;
+    width: 20rem;
     height: 40rem;
     background-color: whitesmoke; 
-    margin-left: 3rem;
+    margin-left: 2rem;
    border-radius: 0.5rem ;
   }
   .grid_item1 p{
@@ -468,7 +470,7 @@ margin: 1rem 11rem 0rem;
     display: block;
     justify-content: center;
     background-color: whitesmoke; 
-    margin-left: 2.5rem;
+    margin-left: 2rem;
     height: 35rem;
     border-radius: 0.5rem ;
     width: 20rem;
@@ -510,7 +512,7 @@ margin: 1rem 11rem 0rem;
    align-items: center;
    width: 20rem;
    background-color: whitesmoke; 
-   margin-left: 3rem;
+   margin-left: 2rem;
    height: 34rem;
    border-radius: 0.5rem ;
   }
@@ -587,9 +589,9 @@ margin: 1rem 11rem 0rem;
     color: white;
     border: 1px solid rgb(69, 235, 235);
     background-color: #782D50;
-    width: 40vw;
+    width: 10%;
     height: 9vh;
-    margin: 6rem 0rem 2rem 3rem;
+    margin:2rem 0rem 2rem 3rem;
     border-radius: 5px;
     
   }
@@ -602,4 +604,27 @@ margin: 1rem 11rem 0rem;
   }
   .container1{
     margin-bottom: 1rem;
+    width: 50%;
   }
+  
+.slide.four .img{
+  height: 25rem;
+  padding: 0rem 0.5rem 0rem;
+  width: 55%;
+  display: flex;
+ 
+}
+.slide .img_6 {
+  position: absolute;
+  top: 0rem;
+  left: 0;
+  bottom: 0rem;
+width: 40%;
+height: 13rem;
+  display:flex; 
+  margin-left: 1rem;
+   
+}
+.slide hr{
+  width: 5%;
+}

@@ -63,7 +63,7 @@ a{
 position: absolute;
 top: 0;
 left: 0;
-margin: 6rem 1rem 0rem;
+margin: 7rem 1rem 0rem;
 }
  h1{
   font-size: 1.5rem;
@@ -102,6 +102,9 @@ margin: 6rem 1rem 0rem;
   width: 10rem;
   font-size: 0.9rem;
   bottom: 10rem;
+}
+#checkbox_toggle{
+  display: none;
 }
 .project{
   display: block;

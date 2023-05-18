@@ -671,10 +671,10 @@ padding-top: 1.5rem;
  
   left: 0;
   bottom: 1%;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: white;
 
-  width: 100vw;
+  width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;

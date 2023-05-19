@@ -618,17 +618,23 @@ margin: 1rem 11rem 0rem;
 }
 .slide .img_6 {
   position: absolute;
-  top: 0rem;
+  top: 0;
   left: 0;
   bottom: 0rem;
-width: 40%;
+width: 65%;
 height: 13rem;
-  display:flex; 
-  margin-left: 1rem;
+  display:block; 
+  margin:228rem 4rem 0rem;
    
 }
 .slide hr{
   width: 5%;
+ position: absolute;
+ left: 0;
+ top: 0;
+ bottom: 0;
+ display: block;
+ margin: 214rem 4rem 0rem;
 }
 
 .slide .captionAA{
@@ -636,67 +642,57 @@ height: 13rem;
  position: absolute;
   left: 0;
   top: 0;
-  font-size: 1rem;
-  font-weight: 600;
+  bottom: 0;
+  font-size: 1.5rem;
   color: white;
   width: 45vw;
   height: 25vh;
   display:flex;
-  margin-top: 4rem;
-  margin-left: 0rem;
-  padding-left: 3rem;
-  padding-right: 2rem;
+  margin: 210rem 4rem 0rem;
 padding-top: 1.5rem;
 
 }
 .slide .captionA1{
-
+position: absolute;
+top: 0;
   left: 0;
-  bottom: 40%;
+  bottom: 0%;
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  width:20rem;
+  width:40%;
   height: 7vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  margin: 216rem 4rem 0rem;
+  
 
 
 }
 .slide .captionBB{
- 
+ position: absolute;
+ top: 0;
   left: 0;
-  bottom: 1%;
+  bottom:0%;
   font-size: 0.8rem;
   color: white;
-
   width: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 0rem;
-  margin-top: 0rem;
+  display:block;
+  margin: 220rem 4rem 0rem;
   line-height: 1rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  height: 7vh;
+  height: 3vh;
 }
 .slide .captionCC{
-  
+  position: absolute;
   left: 0;
-  top: 38rem;
-  bottom: 0%;
-  font-size:1rem;
-  width: 10rem;
-  display: flex;
-  margin-left: 6rem;
+  top: 0;
+  bottom: 0;
+  font-size:0.7rem;
+  width: 24%;
+  display:block;
+  margin: 235rem 8rem 0rem;
   padding-left: 0.8rem;
-  padding-top: 1rem;
-height: 3rem;
+  padding-top: 0.5rem;
+height: 2rem;
 border-radius: 0.25rem;
 background-color: #782D50;
 }

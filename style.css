@@ -12,11 +12,12 @@ html {
 }
 
 body {
-  margin: 0 auto;
+  margin: 0 ;
   padding: 0;
   font-family: "public sans", sans-serif;
   font-size: 18px;
   display: flex;
+  width: 100%;
   background-color: azure;
 }
 img{
@@ -202,7 +203,7 @@ input[type=checkbox]:checked ~ .menu {
 .slide .captionA{
   position: absolute;
   left: 0;
-  bottom: 90%;
+  bottom: 80%;
   font-size: 1rem;
   color: white;
   background: rgba(0, 0, 0, 0.348);
@@ -219,7 +220,7 @@ padding: 0.2rem 0.5rem 0rem;
 .slide .captionB{
   position: absolute;
   left: 0;
-  bottom: 74%;
+  bottom: 40%;
   font-size: 0.8rem;
   color: black;
   background: rgba(236, 231, 231, 0.348);
@@ -238,7 +239,7 @@ padding: 0.2rem 0.5rem 0rem;
 .slide .captionC{
   position: absolute;
   left: 0;
-  bottom:68%;
+  bottom:20%;
   font-size: 0.7rem;
   width: 32%;
   display: flex;
@@ -255,7 +256,7 @@ background-color: black;
 .slide .captionD{
   position: absolute;
   left: 0%;
-  bottom: 55%;
+  bottom: 70%;
   font-size: 1rem;
   color: white;
   background: rgba(0, 0, 0, 0.348);
@@ -271,7 +272,7 @@ padding: 0.5rem 1rem 0rem;
 .slide .captionE{
   position: absolute;
   left: 0%;
-  bottom: 41%;
+  bottom: 35%;
   font-size: 0.8rem;
   color: black;
   background: rgba(236, 231, 231, 0.348);
@@ -288,7 +289,7 @@ padding: 0.5rem 1rem 0rem;
 .slide .captionF{
   position: absolute;
   left: 0;
-  bottom: 37%;
+  bottom: 19%;
   font-size: 0.7rem;
  margin-top: 10rem;
   width: 32%;
@@ -309,7 +310,7 @@ height: 2.5rem;
 .slide .captionG{
   position: absolute;
   left: 0;
-  bottom: 22%;
+  bottom: 60%;
   font-size: 1rem;
   font-weight: 600;
   color: white;
@@ -327,7 +328,7 @@ margin-left: 5rem;
 .slide .captionH{
   position: absolute;
   left: 0;
-  bottom: 10%;
+  bottom: 30%;
   font-size: 0.8rem;
   color: black;
   background: rgba(236, 231, 231, 0.348);
@@ -346,7 +347,7 @@ margin-left: 5rem;
 .slide .captionI{
   position: absolute;
   left: 0;
-  bottom: 3%;
+  bottom: 13%;
   font-size: 0.7rem;
   width: 32%;
 height: 2.5rem;
@@ -1544,7 +1545,7 @@ padding-left: 1rem;
   margin-left: 9rem;
 }
 .description1{
-  margin: 0.5rem 12rem 0rem;
+  margin: 0.5rem 15rem 0rem;
 }
 
 .project{
@@ -1560,14 +1561,18 @@ padding-left: 1rem;
 
 .slide .captionA{ 
   margin: 0rem 3rem 0rem;
+  bottom: 90%;
 }
 
 .slide .captionB{
   margin: 0rem 3rem 0rem;
+  bottom: 70%;
+
 }
 
 .slide .captionC{
   margin-left: 3rem;
+  bottom: 60%;
 }
 
 

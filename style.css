@@ -1470,6 +1470,9 @@ padding-left: 1rem;
 
  }
  @media screen and (max-width: 480px) {
+  html, body {
+    overflow-x: hidden;
+  }
   bady{
     flex-direction: flex;
     font-size: 1rem;

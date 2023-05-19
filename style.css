@@ -1469,3 +1469,18 @@ padding-left: 1rem;
   color:#782D50
 
  }
+ @media screen and (max-width: 480px) {
+  bady{
+    flex-direction: flex;
+  }
+  .wrapper{
+    width: 300px;
+    margin: 0 auto;
+  }
+  .navbar{
+    padding-bottom: 30px;
+  }
+  img{
+    
+  }
+ }

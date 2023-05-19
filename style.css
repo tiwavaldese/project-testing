@@ -1476,6 +1476,7 @@ padding-left: 1rem;
   bady{
     flex-direction: flex;
     font-size: 1rem;
+    width: 100%;
   }
   .wrapper{
     width: 400px;

@@ -973,6 +973,19 @@ line-height: 1.5rem;
   opacity: 0.5;
   
 }
+.A1{
+  width: 100%;
+  display: block;
+ margin: 1rem 0rem 3rem;
+}
+.A1 h2{
+  font-size: 1.5rem;
+  margin: 3rem 0rem 0rem;
+}
+.A1 hr{
+  width: 2rem;
+  margin: 1rem 0rem 1rem;
+}
 #content1{
   display: block;
   margin-bottom:0rem;
@@ -1846,7 +1859,19 @@ margin-bottom:-0rem ;
   margin-top: -2.5rem;
   margin-bottom: -1rem;
 }
-
+.A1{
+  display: block;
+  width: 100%;
+  margin-left:  -58rem;
+}
+.A1 p{
+  width: 80%;
+  font-size: 0.8rem;
+}
+.A{
+  width: 100%;
+  margin-left: -62rem;
+}
  @media screen and (max-width: 480px) {
   html, body {
     overflow-x: hidden;

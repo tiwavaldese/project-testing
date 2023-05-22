@@ -973,16 +973,16 @@ line-height: 1.5rem;
   opacity: 0.5;
   
 }
-.A1{
+.wrap1{
   width: 100%;
   display: block;
  margin: 1rem 0rem 3rem;
 }
-.A1 h2{
+.wrap1 h2{
   font-size: 1.5rem;
   margin: 3rem 0rem 0rem;
 }
-.A1 hr{
+.wrap1 hr{
   width: 2rem;
   margin: 1rem 0rem 1rem;
 }
@@ -1397,7 +1397,7 @@ margin-top: 1rem;
 
 
 .container4{
-  width: 25%;
+  width:25%;
   height: 60rem;
   background-color: rgba(0, 0, 0, 0.9);
   display: block;
@@ -1530,6 +1530,7 @@ padding-left: 1rem;
  }
 #about{
   width: 100%;
+  margin-left: 0rem;
 }
  .about_item1 {
   width: 100%;
@@ -1859,19 +1860,46 @@ margin-bottom:-0rem ;
   margin-top: -2.5rem;
   margin-bottom: -1rem;
 }
-.A1{
+.wrap1{
   display: block;
   width: 100%;
   margin-left:  -58rem;
 }
-.A1 p{
+.wrap1 p{
   width: 80%;
   font-size: 0.8rem;
 }
-.A{
+.wrap2{
   width: 100%;
   margin-left: -62rem;
 }
+.wrap3 {
+  color: white;
+  background-color: #782D50;
+  width: 15rem;
+ padding: 1.2rem 1rem 0rem;
+  height: 7vh;
+  margin: 0  -60rem 2rem;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+ position: relative;
+ display: block;
+ bottom: 22rem;
+ 
+}
+.wrap3 a{
+  color: white;
+  text-decoration: none;
+}
+.wrap3:hover{
+  background-color: black;
+}
+.wrap4{
+
+}
+
+
+   
  @media screen and (max-width: 480px) {
   html, body {
     overflow-x: hidden;
@@ -2542,6 +2570,8 @@ margin-bottom:-0rem ;
   margin-top: -2.5rem;
   margin-bottom: -1rem;
 }
+
+
  }
  @media only screen and (max-width: 1200px) {
   .wrapper{

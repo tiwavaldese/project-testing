@@ -2559,67 +2559,49 @@ text-align: justify;
 }
     
     #gallery .events_item1{
-      margin-left: 0rem;
-    width: 100rem;
+      margin: -1.5rem 0rem 0rem;
+    width: 100%;
+    padding: 1rem 0rem 0rem;
     }
     
     .gallery3{
-      margin-top: 5rem;
-      display: flex;
-      flex-direction: column;
-      margin-left: 6rem;
-      margin-bottom: 3rem;
+      margin: 5rem 1.5rem 3rem;
+      display: block;
+      width: 100%;
     }
     .gallery3 img{
-      width: 17rem;
-      height: 12rem;
+      width: 25rem;
+      height: 20rem;
     }
     .gallery3A{
-      display: flex;
+      display: block;
      
     }
     .gallery3B{
-      display: flex;
+      display: block;
      
     }
     .gallery3C{
-      display: flex;
+      display: block;
       
     }
     
     .img_13{
       width: 25vw;
       height: 43vh;
-      margin-left: 1rem;
+      margin: 0rem  1rem 1rem;
     }
     
     
     .img_14{
       width: 25vw;
-      margin-left: 1rem;
+      margin: 0rem  1rem 1rem;
       height: 43vh;
     }
     .img_15{
       width: 25vw;
-      margin-left: 1rem;
+      margin: 0rem  1rem 1rem;
       height: 43vh;
-    }
-    .gallery_container{
-      width: 105vw;
-      height: 55vh;
-      background-color: rgba(0, 0, 0, 0.9);
-      display: flex;
-      flex-direction: row;
-      margin-left: 4rem;
-      padding-left: 0rem;
-    }
-    
-    
-    .gallery_container ul{
-      display: flex;
-      flex-direction: column;
-      margin-left: 3rem;
-     
     }
 @media screen and (max-width: 480px) {
   html, body {

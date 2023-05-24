@@ -3039,10 +3039,21 @@ padding-right:35rem;
     margin: 1rem 13rem 0rem;
   }
       
-      
+  .projects_item1 h3{
+    margin: 2rem 0rem 0rem;
+  }
+  .projects_item2 h3{
+    margin: 2rem 0rem 0rem;
+  }
+  .projects_item3 h3{
+    margin: 2rem 0rem 0rem;
+  }
+  .projects_item4 h3{
+    margin: 2rem 0rem 0rem;
+  }
 }
 @media only screen and (max-width: 1200px) {
   .wrapper {
     width: 1000px;
   }
-}/*# sourceMappingURL=style.css.map */
+}

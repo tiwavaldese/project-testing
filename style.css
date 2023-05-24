@@ -158,16 +158,17 @@ input[type=checkbox]:checked ~ .menu {
   position: relative;
   top: 0;
   left: 0;
-  width: 25%;
-  height: 100%;
+  width:100%;
+  height: 50%;
   display: flex;
   margin-top: 0rem;
+ 
 }
 
 .slider {
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 50%;
   display: flex;
   margin-top: 0rem;
   flex-direction: row;
@@ -177,20 +178,27 @@ input[type=checkbox]:checked ~ .menu {
 .slide {
   position: relative;
   min-width: 100%;
-  height: 100%;
+  height: 50%;
   display: flex;
 }
 
 .slide.one img {
   width: 100%;
+  margin: -1.5rem 0rem 10rem;
+  
 }
 
 .slide.two img {
   width: 100%;
+ margin: -1.5rem 0rem 10rem;
+
+
 }
 
 .slide.three img {
   width: 100%;
+  margin: 1.5rem -14rem 0rem;
+  
 }
 
 @keyframes sliding {
@@ -385,37 +393,36 @@ input[type=checkbox]:checked ~ .menu {
 }
 
 .container {
-  margin: 2rem 0rem 3rem;
+  margin: 1rem 0rem 3rem;
   display: block;
   width: 100%;
 }
 
 .container h2 {
-  font-size: 1.5rem;
+  font-size:2rem;
   display: block;
   margin-left: 5rem;
 }
 
 .container p {
-  width: 0%;
+  width: 100%;
   display: block;
-  justify-content: space-between;
-  align-items: center;
-  line-height: 25px;
-  margin: 1rem 4rem 0rem;
+  line-height: 30px;
+  margin: 1rem 0rem 0rem;
   font-size: 0.9rem;
+height: 20%;
 }
 
 .container hr {
-  width: 5%;
+  width: 2rem;
   text-align: center;
   bottom: 70%;
-  margin: 1rem 11rem 0rem;
+  margin: 1rem 13rem 0rem;
 }
 
 .img_2 {
   width: 100%;
-  height: 25%;
+  height: 30%;
   padding: 0rem 2rem 0rem;
   background-color: whitesmoke;
   border-radius: 0.25rem 0.25rem 0 0;
@@ -427,6 +434,7 @@ input[type=checkbox]:checked ~ .menu {
 
 .img_3 {
   width: 100%;
+  height: 35%;
   padding: 0rem 2rem 0rem;
   background-color: whitesmoke;
   border-radius: 0.25rem 0.25rem 0 0;
@@ -438,6 +446,7 @@ input[type=checkbox]:checked ~ .menu {
 
 .img_4 {
   width: 100%;
+  height: 30%;
   background-color: whitesmoke;
   border-radius: 0.25rem 0.25rem 0 0;
 }
@@ -447,7 +456,8 @@ input[type=checkbox]:checked ~ .menu {
 }
 
 .img_5 {
-  width: 20%;
+  width: 100%;
+  height: 30%;
   background-color: whitesmoke;
   border-radius: 0.25rem 0.25rem 0 0;
 }
@@ -458,9 +468,9 @@ input[type=checkbox]:checked ~ .menu {
 
 .content {
   display: block;
-  margin: 5rem 0rem 75rem 0rem;
+  margin: 5rem 0rem 65rem 0rem;
   height: 90vh;
-  width: 50%;
+  width: 100%;
 }
 
 .content_one {
@@ -485,6 +495,7 @@ input[type=checkbox]:checked ~ .menu {
   margin-bottom: 1rem;
   padding-left: 1rem;
   font-size: 1.2rem;
+  line-height: 30px;
 }
 
 .grid_item1:hover {
@@ -507,17 +518,17 @@ input[type=checkbox]:checked ~ .menu {
   margin-top: 1rem;
   margin-bottom: rem;
   display: block;
-  width: 20rem;
+  width: 25rem;
   height: 40rem;
   background-color: whitesmoke;
-  margin-left: 3rem;
+  margin-left: 2.5rem;
   border-radius: 0.5rem;
 }
 
 .grid_item1 p {
-  line-height: 25px;
+  line-height: 30px;
   font-size: 0.8rem;
-  width: 20rem;
+  width: 25rem;
   padding: 0.5rem 1rem;
   text-align: justify;
 }
@@ -528,16 +539,14 @@ input[type=checkbox]:checked ~ .menu {
 }
 
 .grid_item1 .date {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item1 .comment {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -549,16 +558,16 @@ input[type=checkbox]:checked ~ .menu {
   display: block;
   justify-content: center;
   background-color: whitesmoke;
-  margin-left: 3rem;
+  margin-left: 2.5rem;
   height: 35rem;
   border-radius: 0.5rem;
-  width: 20rem;
+  width: 25rem;
 }
 
 .grid_item2 p {
-  line-height: 25px;
+  line-height: 30px;
   font-size: 0.8rem;
-  width: 20rem;
+  width: 25rem;
   padding: 0.5rem 2rem;
   text-align: justify;
 }
@@ -569,16 +578,14 @@ input[type=checkbox]:checked ~ .menu {
 }
 
 .grid_item2 .date {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item2 .comment {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -590,17 +597,17 @@ input[type=checkbox]:checked ~ .menu {
   display: block;
   justify-content: center;
   align-items: center;
-  width: 20rem;
+  width: 25rem;
   background-color: whitesmoke;
-  margin-left: 3rem;
-  height: 34rem;
+  margin-left: 2.5rem;
+  height: 35rem;
   border-radius: 0.5rem;
 }
 
 .grid_item3 p {
-  line-height: 25px;
+  line-height: 30px;
   font-size: 0.8rem;
-  width: 20rem;
+  width: 25rem;
   padding: 0.5rem 2rem;
   text-align: justify;
 }
@@ -611,16 +618,14 @@ input[type=checkbox]:checked ~ .menu {
 }
 
 .grid_item3 .date {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item3 .comment {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -676,7 +681,7 @@ input[type=checkbox]:checked ~ .menu {
   background-color: #782D50;
   width: 10%;
   height: 9vh;
-  margin: 0rem 0rem 2rem 3rem;
+  margin: -5rem 0rem 2rem 3rem;
   border-radius: 5px;
 }
 
@@ -690,13 +695,14 @@ input[type=checkbox]:checked ~ .menu {
 }
 
 .container1 {
-  width: 50%;
+  width: 100%;
+  margin: 0;
 }
 
 .slide .img {
-  height: 30rem;
-  padding: 0rem 0.5rem 0rem;
-  width: 50%;
+  height: 60rem;
+  padding: 0rem 0rem 0rem;
+  width: 100%;
   display: flex;
   position: relative;
   top: 0;
@@ -705,21 +711,20 @@ input[type=checkbox]:checked ~ .menu {
 
 .slide .img_6 {
   position: absolute;
-  top: 0;
   left: 0;
-  bottom: 0rem;
-  width: 65%;
+  bottom: 20%;
+  width: 67%;
   height: 13rem;
   display: block;
-  margin: 243rem 6rem 0rem;
+  margin: 223rem -10rem 0rem;
+  padding-right: 20rem;
 }
 
 .slide hr {
   width: 5%;
   position: absolute;
   left: 0;
-  top: 0;
-  bottom: 0;
+  bottom: 79%;
   display: block;
   margin: 229rem 6rem 0rem;
 }
@@ -727,57 +732,55 @@ input[type=checkbox]:checked ~ .menu {
 .slide .captionAA {
   position: absolute;
   left: 0;
-  top: 0;
-  bottom: 0;
+  bottom: 80%;
   font-size: 1.5rem;
-  color: white;
+  color: orangered;
   width: 45vw;
   height: 25vh;
   display: flex;
-  margin: 225rem 6rem 0rem;
+  margin: 200rem 2rem 0rem;
   padding-top: 1.5rem;
 }
 
 .slide .captionA1 {
   position: absolute;
-  top: 0;
   left: 0;
-  bottom: 0%;
+  bottom: 75%;
   font-size: 1rem;
   font-weight: bold;
   color: white;
   width: 45%;
   height: 7vh;
   display: flex;
-  margin: 230rem 6rem 0rem;
+  margin: 190rem 2rem 0rem;
 }
 
 .slide .captionBB {
   position: absolute;
-  top: 0;
   left: 0;
-  bottom: 0%;
+  bottom: 73%;
   font-size: 0.8rem;
   color: white;
   width: 55%;
   display: block;
-  margin: 235rem 6rem 0rem;
-  line-height: 1rem;
+  margin: 200rem 2rem 0rem;
+  line-height: 20px;
+  padding-right: 15rem;
   height: 3vh;
 }
 
 .slide .captionCC {
   position: absolute;
   left: 0;
-  top: 0;
-  bottom: 0;
-  font-size: 0.7rem;
-  width: 25%;
+  color: white;
+  bottom: 23%;
+  font-size: 0.9rem;
+  width: 14%;
   display: block;
-  margin: 249rem 10rem 0rem;
-  padding-left: 0.8rem;
-  padding-top: 0.5rem;
-  height: 2rem;
+  margin: 200rem 15rem 0rem;
+  padding-left: 1rem;
+  padding-top:1rem;
+  height: 3rem;
   border-radius: 0.25rem;
   background-color: #782D50;
 }
@@ -788,8 +791,7 @@ input[type=checkbox]:checked ~ .menu {
 
 .container2 {
   display: inline-block;
-  margin: 0;
-  width: 50%;
+  width: 100%;
 }
 
 .img_7 {
@@ -802,9 +804,8 @@ input[type=checkbox]:checked ~ .menu {
 
 .row_item5 {
   display: block;
-  margin-left: 2rem;
-  margin-top: 1rem;
-  width: 70%;
+  margin: 2rem 0rem 2rem;
+  width: 100%;
 }
 
 .row_item5 h2 {
@@ -823,7 +824,7 @@ input[type=checkbox]:checked ~ .menu {
   display: block;
   margin-left: 5rem;
   width: 17rem;
-  bottom: 3rem;
+  bottom: 2rem;
   position: relative;
   font-size: 1rem;
 }
@@ -874,22 +875,22 @@ h3 i {
 .row_item5 p {
   display: block;
   font-size: 0.8rem;
-  width: 50%;
-  margin: 0 3rem 0rem;
-  line-height: 20px;
-  padding: 0rem 1rem;
+  width:100%;
+  margin: 0rem 3rem 0rem;
+  line-height: 30px;
+  padding-right: 22rem;
   text-align: justify;
 }
 
 .img_8 {
   height: 100%;
-  width: 50%;
+  width: 100%;
 }
 
 .container3 {
   display: flex;
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .captionA2 {
@@ -901,10 +902,10 @@ h3 i {
   color: white;
   text-transform: capitalize;
   border-radius: 0 2rem 2rem 0;
-  width: 50%;
+  width: 100%;
   height: 7vh;
   display: flex;
-  margin-left: 5rem;
+  margin-left: 7.5rem;
 }
 
 .captionB2 {
@@ -916,10 +917,10 @@ h3 i {
   color: white;
   text-transform: capitalize;
   border-radius: 0 2rem 2rem 0;
-  width: 50%;
+  width: 100%;
   height: 7vh;
   display: flex;
-  margin-left: 5rem;
+  margin-left: 7.5rem;
 }
 
 .captionC2 {
@@ -930,7 +931,7 @@ h3 i {
   color: white;
   text-transform: capitalize;
   border-radius: 0 2rem 2rem 0;
-  width: 40%;
+  width: 100%;
   height: 12vh;
   display: flex;
   margin-left: 4rem;
@@ -945,7 +946,7 @@ h3 i {
   background-color: white;
   border-radius: 0.25rem;
   width: 8rem;
-  height: 6vh;
+  height: 5vh;
   display: flex;
   margin-left: 4rem;
   padding: 0.7rem 1rem 0rem;
@@ -1107,7 +1108,7 @@ h3 i {
   display: block;
   position: relative;
   bottom: 18rem;
-  width: 50%;
+  width: 100%;
 }
 
 #container h2 {
@@ -1127,7 +1128,7 @@ h3 i {
   align-items: center;
   letter-spacing: 0px;
   line-height: 25px;
-  margin-left: 2rem;
+  margin-left: 4rem;
   margin-top: 0;
   font-size: 0.8rem;
 }
@@ -1137,7 +1138,7 @@ h3 i {
   text-align: center;
   margin-left: 12rem;
   margin-bottom: 1rem;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
 }
 
 .content3 {
@@ -1145,7 +1146,7 @@ h3 i {
   position: relative;
   display: flex;
   flex-direction: column;
-  margin: 0 0 0 3rem;
+  margin: 0 5rem 0 ;
   width: 100rem;
 }
 
@@ -1222,14 +1223,14 @@ h3 i {
 .grid_6 h2 {
   position: absolute;
   left: 0;
-  bottom: 61rem;
+  bottom: 65rem;
   font-size: 1.5rem;
   color: white;
   background: rgba(0, 0, 0, 0.348);
   -webkit-backdrop-filter: blur(2px);
-          backdrop-filter: blur(2px);
+ backdrop-filter: blur(2px);
   width: 13rem;
-  height: 8vh;
+  height: 6vh;
   display: flex;
   padding: 0.5rem 2rem 0rem;
 }
@@ -1237,14 +1238,14 @@ h3 i {
 .grid_6 h3 {
   position: absolute;
   left: 0;
-  bottom: 53rem;
+  bottom: 55rem;
   font-size: 0.9rem;
   color: #782D50;
   background: rgba(0, 0, 0, 0.348);
   -webkit-backdrop-filter: blur(1px);
-          backdrop-filter: blur(1px);
+ backdrop-filter: blur(1px);
   width: 13rem;
-  height: 17vh;
+  height: 15vh;
   display: flex;
   padding-left: 2rem;
   margin-top: 0.5rem;
@@ -1259,14 +1260,14 @@ h3 i {
   flex-direction: row;
   position: absolute;
   left: 0;
-  bottom: 48rem;
+  bottom: 52rem;
   font-size: 0.7rem;
   color: #782D50;
   background: rgba(0, 0, 0, 0.348);
   -webkit-backdrop-filter: blur(2px);
-          backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
   width: 13rem;
-  height: 10vh;
+  height: 9vh;
   display: flex;
   padding-left: 1.5rem;
   padding-right: 2rem;
@@ -1279,7 +1280,7 @@ h3 i {
 .grid_6 p {
   position: absolute;
   left: 0;
-  bottom: 27rem;
+  bottom: 26rem;
   font-size: 0.8rem;
   line-height: 1.5rem;
   color: white;
@@ -1287,7 +1288,7 @@ h3 i {
   -webkit-backdrop-filter: blur(2px);
           backdrop-filter: blur(2px);
   width: 13rem;
-  height: 45vh;
+  height: 40vh;
   display: flex;
   padding-left: 2rem;
   padding-top: 0.5rem;
@@ -1314,7 +1315,7 @@ h3 i {
   display: flex;
   margin-left: 12rem;
   padding-left: 3rem;
-  padding-right: 2rem;
+  padding-right: 0rem;
 }
 
 .grid_7 hr {
@@ -1330,14 +1331,14 @@ h3 i {
 .grid_7 p {
   position: absolute;
   left: 0;
-  bottom: 38rem;
+  bottom: 35rem;
   font-size: 0.8rem;
   line-height: 1.5rem;
   color: white;
   width: 17rem;
   height: 30vh;
   display: flex;
-  margin-left: 10.5rem;
+  margin-left: 12rem;
   padding-left: 3rem;
   padding-right: 2rem;
 }
@@ -1366,7 +1367,7 @@ h3 i {
 .grid_7 button {
   position: absolute;
   left: 0;
-  bottom: 53rem;
+  bottom: 55rem;
   font-size: 0.9rem;
   color: white;
   background-color: #782D50;
@@ -1445,7 +1446,7 @@ h3 i {
 
 .container4 {
   width: 25%;
-  height: 60rem;
+  height: 65rem;
   background-color: rgba(0, 0, 0, 0.9);
   display: block;
 }
@@ -1529,7 +1530,7 @@ h3 i {
   background-color: white;
   display: block;
   width: 8rem;
-  padding: 1rem 1rem 0rem;
+  padding: 1.5rem 1rem 0rem;
   border-radius: 0.25rem;
   font-size: 0.8rem;
   margin-top: 1.5rem;
@@ -1946,6 +1947,24 @@ margin-bottom:-0rem ;
   .slider_container {
     width: 100%;
   }
+  .slide.one img {
+    width: 100%;
+    margin: -1.5rem 0rem 10rem;
+    
+  }
+  
+  .slide.two img {
+    width: 100%;
+   margin: -1.5rem 0rem 10rem;
+  
+  
+  }
+  
+  .slide.three img {
+    width: 100%;
+    margin: 1.5rem -14rem 0rem;
+    
+  }
   .slide .captionA {
     margin: 0rem 3rem 0rem;
     bottom: 90%;
@@ -1970,10 +1989,14 @@ margin-bottom:-0rem ;
     width: 100%;
   }
   .container p {
-    width: 70%;
+    margin-left: 1rem;
+    padding-right: 35rem; 
+    width: 100%;
+    text-align: justify;
   }
+  
   .grid_item button {
-    width: 40%;
+    width: 20%;
     height: 7vh;
   }
   .container1 {
@@ -2045,36 +2068,25 @@ margin-bottom:-0rem ;
   }
   .captionB2 {
     bottom: 53%;
-    width: 70%;
-    margin-left: 4rem;
+    width: 100%;
+    margin-left: 7rem;
   }
   .captionC2 {
-    bottom: 20%;
-    width: 70%;
-    margin-left: 4rem;
+    bottom: 25%;
+    width: 100%;
+    margin-left: 3rem;
+    line-height: 30px;
+    padding-right: 35rem;
   }
   .captionD2 {
-    position: absolute;
-    left: 0;
-    bottom: 10%;
-    font-size: 0.9rem;
-    color: #782D50;
-    background-color: white;
-    border-radius: 0.25rem;
+    
     width: 8rem;
-    height: 6vh;
-    display: flex;
-    margin-left: 4rem;
-    padding: 0.7rem 1rem 0rem;
-    text-align: center;
+    height: 5vh;
+    margin-left: 6rem;
+    padding: 1rem 1rem 0rem;
   }
-  .captionD2:hover {
-    background-color: black;
-  }
-  .captionD2 a {
-    color: #782D50;
-    text-decoration: none;
-  }
+  
+  
   .captionE2 {
     position: absolute;
     left: 0;
@@ -2084,21 +2096,15 @@ margin-bottom:-0rem ;
     background-color: #782D50;
     border-radius: 0.25rem;
     width: 9rem;
-    height: 6vh;
+    height:5vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 13rem;
+    margin-left: 15rem;
     padding: 0rem 1rem 0rem;
     text-align: center;
   }
-  .captionE2 a {
-    color: white;
-    text-decoration: none;
-  }
-  .captionE2:hover {
-    background-color: black;
-  }
+ 
   .content1 {
     display: block;
     width: 70%;
@@ -2190,7 +2196,7 @@ margin-bottom:-0rem ;
     width: 100%;
   }
   #container h2 {
-    margin-left: 0rem;
+    margin-left: -35rem;
   }
   .grid_5 {
     width: 100%;

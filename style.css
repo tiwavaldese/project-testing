@@ -2242,10 +2242,10 @@ color: white;
   .events_item2{
   
     width: 85%;
-    height: 90vh;
+    height: 80vh;
     display: block;
     background-color: whitesmoke;
-  margin: 1rem 0rem 0rem;
+  margin: 1rem 2rem 0rem;
     border-radius: 0.5rem 0.5rem;
   }
   
@@ -2261,7 +2261,7 @@ color: white;
     display: block;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    line-height: 30px;
+    line-height: 35px;
     padding: 0.5rem 1rem;
     text-align: justify;
     font-size: 0.9rem;
@@ -2306,8 +2306,7 @@ color: white;
     height: 50rem;
     display: block;
     background-color: whitesmoke;
-    margin-left: 0rem;
-    margin-right: 2rem;
+    margin: 0rem 2rem 0rem;
     border-radius: 0.5rem 0.5rem;
     margin-bottom: 3rem;
   }
@@ -2739,7 +2738,7 @@ padding-right:35rem;
 }
 
    .events_item1{
-    margin: -2rem -2rem 0rem;
+    margin: -2rem 0rem 0rem;
    
    }
   .events_item1 h2 {

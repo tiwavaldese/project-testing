@@ -1,4 +1,6 @@
-
+html,body{
+    overflow-x: hidden;
+}
 
 body {
     background: linear-gradient(to right, #155799, #159957); 
@@ -134,7 +136,7 @@ opacity: 0.8;
     color: rgb(74, 146, 235);
     margin-left: 1rem;
 }
-@media screen and (max-width){
+@media screen and (max-width: 480px){
     html,body{
         overflow-x: hidden;
     }
@@ -231,5 +233,140 @@ opacity: 0.8;
        margin-left: 2rem;
        color: white;
        margin-top: 1rem;
+   }
+}
+
+@media  screen and (max-width: 1200px){
+    html,body{
+        overflow-x: hidden;
+    }
+#content{
+    margin: 2rem 0rem 0rem;
+      width: 100%;
+       display: flex ;
+       flex-direction: row;
+       background: linear-gradient(to right, #155799, #159957); 
+       color: white;
+       list-style: none;
+       padding: 0rem 2rem 0rem;
+    }
+   
+    .content_1{
+       font-size: 1.3rem;
+    }
+    .content_2{
+      margin: 0rem 7rem 0rem;
+       padding-top:0.5rem;
+       font-size: 1rem;
+       opacity: 0.4;
+     display: block;
+    }
+    #content li{
+       list-style: none;
+    }
+    #content a{
+       color: white;
+       text-decoration: none;
+   }
+    .log2:hover{
+       color: rgb(0,0,0,0.9);
+    }
+    #container_1{
+       display: block;
+       border: none;
+       margin: 3rem 0rem 0rem;
+       height: 20rem;
+       width:100%;
+       background: linear-gradient(to right, #155799, #159957); 
+       border-radius: 0.25rem 0.25rem;
+    }
+    .content_A{
+       display: block;
+       background-color: whitesmoke;
+       width: 20rem;
+       height: 1rem;
+       border: 0.1px solid gainsboro;
+       padding: 1rem 0.8rem 1rem;
+       margin: 0rem 0rem 1rem;
+    }
+   .email{
+       display: block;
+      margin-top: 3rem;
+       width: 7rem;
+       height: 2rem;
+       margin-bottom: 2rem;
+       margin-left: 0rem;
+       color: white;
+   }
+   .email input{
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0%;
+       margin-top: 15rem;
+       width: 15rem;
+       height:2.5rem;
+       margin-left: 7rem;
+       border-radius: 0.25rem 0.25rem;
+       background-color: whitesmoke;
+       border: 0.1px solid gainsboro;
+   }
+   .password{
+       display: block;
+      margin-top: 3rem;
+       width: 7rem;
+       height: 2rem;
+       margin-bottom: 2rem;
+       margin-left: 0rem;
+       color: white;
+   }
+   .password input{
+       position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0%;
+       margin-top: 20rem;
+       width: 15rem;
+       height: 2.5rem;
+       margin-left: 7rem;
+       border-radius: 0.25rem 0.25rem;
+       background-color: whitesmoke;
+       border: 0.1px solid gainsboro;
+   }
+   .check{
+       display: block;
+       margin-left:6rem;
+       color: white;
+       margin-top: 1rem;
+   }
+   .check input{
+      background-color: whitesmoke;
+       margin-right: 0.5rem;
+       border: 1px solid gainsboro;
+   }
+   #contentA{
+       display: flex;
+       flex-direction: row;
+       margin-left: 2rem;
+       margin-top: 1rem;
+   }
+   #contentA button{
+   width: 10vh;
+   height: 6vh;
+   margin-left: 4rem;
+   border-radius: 0.25rem 0.25rem;
+   color: white;
+   background-color: black;
+   border: none;
+   display: block;
+   margin-top: 0.7rem;
+   opacity: 0.8;
+   }
+   #contentA button:hover{
+       background-color: blue;
+   }
+   #contentA a{
+       color: rgb(74, 146, 235);
+       margin-left: 1rem;
    }
 }

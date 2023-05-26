@@ -679,7 +679,7 @@ height: 20%;
   background-color: #782D50;
   width: 10%;
   height: 9vh;
-  margin: 0rem 3rem 3rem;
+  margin: 2rem 3rem 3rem;
   border-radius: 5px;
 }
 
@@ -1472,7 +1472,7 @@ height: 20%;
 
 .container4 {
   width: 25%;
-  height: 65rem;
+  height: 63rem;
   background-color: rgba(0, 0, 0, 0.9);
   display: block;
 }
@@ -1556,7 +1556,7 @@ height: 20%;
   background-color: white;
   display: block;
   width: 9rem;
-  padding: 1rem 1.6rem 0rem;
+  padding: 0.8rem 1.6rem 0rem;
   border-radius: 0.25rem;
   font-size: 0.8rem;
   margin-top: 1.5rem;
@@ -1594,7 +1594,7 @@ footer {
   width: 25%;
   height: 12vh;
   color: white;
-  padding-top: 3rem;
+  padding-top: 2rem;
   padding-left: 1.7rem;
   font-size: 0.7rem;
   position: relative;
@@ -1680,7 +1680,7 @@ display: block;
   height: 6vh;
   background-color:#782D50;
   color: white;
-  padding: 1.5rem 2.2rem;
+  padding: 1rem 2.2rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
   font-size: 0.9rem;
@@ -1790,7 +1790,7 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 4rem;
   width: 100%;
-  height: 75vh;
+  height: 85vh;
   margin-left: 0rem;
   
 }
@@ -3059,7 +3059,7 @@ figure{
   .captionC2 {
     bottom: 30%;
     width: 100%;
-    margin-left: 2rem;
+    margin-left: 4rem;
     line-height: 30px;
     padding-right: 38rem;
   }
@@ -3229,7 +3229,7 @@ figure{
   footer {
     width: 100%;
     bottom: 1rem;
-    padding: 4rem 2rem 0rem;
+    padding: 3rem 2rem 0rem;
   }
   
   .blog_item1 {

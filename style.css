@@ -1232,7 +1232,7 @@ height: 20%;
 .grid_5 img {
   height: 40rem;
   margin-top: 0rem;
-  width: 50%;
+  width: 100%;
   position: relative;
   bottom: 10rem;
 }
@@ -1471,7 +1471,7 @@ height: 20%;
 }
 
 .container4 {
-  width: 25%;
+  width: 100%;
   height: 63rem;
   background-color: rgba(0, 0, 0, 0.9);
   display: block;
@@ -1591,7 +1591,7 @@ h4 i {
 footer {
   display: flex;
   background-color: black;
-  width: 25%;
+  width: 100%;
   height: 12vh;
   color: white;
   padding-top: 2rem;
@@ -3397,7 +3397,7 @@ h1 {
 }
 
 .menu {
-  display: block;
+  display: none;
 }
 .project {
   padding: 4rem 20rem 0rem;
@@ -3527,7 +3527,7 @@ padding-right: 9rem;
 }
 .content {
   margin: 5rem 0rem 130rem 0rem;
-  height: 90vh;
+  height: 70rem;
 }
 
 .content_one {
@@ -3856,7 +3856,7 @@ padding-right: 9rem;
 }
 
 .row_item6 p {
-  width: 80%;
+  width: 82%;
   padding: 0rem 1rem 4rem;
   line-height:2.5rem;
   font-size: 1.2rem;
@@ -3916,7 +3916,7 @@ padding-right: 9rem;
 
 .content2 {
   width: 18rem;
-  padding: 1.8rem 1.8rem 0rem;
+  padding: 1.2rem 1.8rem 0rem;
   height: 6vh;
   margin: 0 0 0 2rem;
   font-size: 1.2rem;
@@ -4218,155 +4218,107 @@ footer {
   height: 10vh;
   padding: 2.5rem 3rem 0rem;
   font-size: 1.2rem;
-
+margin: -1rem 0rem 0rem;
 }
 
-.about_item1 {
-  width: 100%;
-  height: 15vh;
-  margin: -2rem 0;
-  background-color: rgba(0, 0, 0, 0.8);
-  color: white;
- }
-
 .about_item1 h2 {
-  display: flex;
-  text-align: center;
-  width: 100%;
 padding-top: 2rem;
-  justify-content: center;
   font-size: 2.5rem;
  
 }
 .about_item1 p{
-  display: flex;
-  text-align: center;
-  width: 100%;
-padding-top: 1rem;
-  justify-content: center;
-  font-size: 0.8rem;
+padding-top: 1rem;;
+  font-size:1.2rem;
 }
 .about_item2{
-  display: block;
   margin: 5rem 0rem 0rem;
-  width: 100%;
  
 }
 .about_item2 img{
-  margin-left: 0rem;
-width: 100%;
-height: 40vh;
-display: block;
+  margin: 3rem 0rem 0rem;
+height: 50vh;
 
 }
 .about_item2  h2{
-width: 100%;
-height: 5vh;
-margin: 2rem 6rem 0rem;
-display: block;
-font-size: 2rem;
-
-
+margin: 2rem 2rem 0rem;
+text-align: center;
+font-size: 2.5rem;
 }
-.about_item2  span{
-  font-weight: bold;
-}
+
 .about_item2  p{
-  
-width:100%;
-height: 28vh;
-margin-top: 1rem 0rem 0rem;
-display: block;
-line-height: 25px;
+  height: 30%;
+margin-top: 1rem 0rem 3rem;
+line-height: 40px;
 padding: 0.5rem 2rem;
-text-align: justify;
-font-size: 0.9rem;
+font-size: 1.2rem;
 }
 .about_item2  hr{
-  margin-left: 12rem;
-width: 2rem;
-margin-top: 1rem;
+margin: 1rem 28rem 1rem;
 display: block;
-
 }
 .about_item3{
-  display:block;
-  width: 13rem;
-  height: 6vh;
+  width: 17rem;
+  height: 7vh;
   background-color:#782D50;
   color: white;
-  padding: 1rem 2.4rem;
+  padding: 1.8rem 2.6rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
-  font-size: 0.9rem;
-}
-.about_item3:hover{
-  background-color: black;
+  font-size: 1.2rem;
 }
 
 .about_item4{
-  display: block;
   margin: 5rem 0rem 3rem;
 }
 #fourA{
-  display: flex;
-  flex-direction: row;
 margin-left: 4rem;
 font-size: 2.5rem;
-font-weight: 600;
-color: black;
 
 }
 #fourA i{
- display: flex;
- width: 70px;
- height: 70px;
+ width: 100px;
+ height: 100px;
  border-radius: 50%;
-color: white;
-background-color: #782D50;
-padding: 1rem 1.3rem;
-font-size: 1.9rem;
+padding: 1.4rem 1.8rem;
+font-size: 3rem;
 }
 #fourA span{
-margin-top: 1rem;
-margin-left: 1rem;
+margin: 2rem 1rem 0rem;
+font-size: 4rem;
 
 }
 .fourA{
-  font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  font-size: 1.2rem;
+  margin: 0rem 15rem 0rem;
   position: relative;
-  bottom: 1rem;
+  bottom: 2rem;
   width: 10rem;
 }
 #three{
   margin: 4rem 4rem 0rem;
   font-size: 2.5rem;
-  color: black;
   font-weight: 600;
 }
 #three i{
-  display: flex;
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  color: white;
-background-color: #782D50;
-padding: 1rem 1.2rem;
-font-size: 1.9rem;
+  
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+padding: 1.4rem 1.8rem;
+font-size: 3rem;
 }
 #three span{
-  margin-top: 0rem;
-  margin-left: 5.5rem;
-  padding-bottom: 3rem;
- position: relative;
- bottom: 3rem;
+  
+margin: 1rem 8rem 0rem;
+font-size: 4rem;
+bottom: 4rem;
+
    }
 .three{
-  font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  font-size: 1.2rem;
+  margin: 0rem 15rem 0rem;
   position: relative;
-  bottom:3rem;
+  bottom:5rem;
   width: 7rem;
 }
 #fourB{
@@ -4376,203 +4328,152 @@ font-size: 1.9rem;
   font-weight: 600;
 }
 #fourB i{
-  display: flex;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
-  color: white;
-background-color: #782D50;
-padding: 1rem 1.5rem;
-font-size: 1.9rem;
+ padding: 1.4rem 2rem;
+ font-size: 3rem;
 }
 #fourB span{
-  margin-top: 0rem;
-  margin-left: 5.5rem;
-  padding-bottom: 3rem;
- position: relative;
- bottom: 3rem;
+  margin: 1rem 8rem 0rem;
+  font-size: 4rem;
+  bottom: 4rem;
    }
 .fourB{
-  font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  font-size: 1.2rem;
+  margin: 0rem 15rem 0rem;
   position: relative;
-  bottom: 4rem;
+  bottom: 6rem;
 }
 .about_item5{
-  display: block;
-  text-align: center;
-  color: white;
-  background-color: #782D50;
   padding-top: 4rem;
-  width: 100%;
   height: 90vh;
   margin-left: 0rem;
   
 }
 .about_item5 h2{
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
- display: flex;
- justify-content: center;
- align-items: center;
- width: 100%;
- line-height: 30px;
+ line-height: 40px;
 padding: 0.5rem 2rem 0rem;
-text-align: justify;
-font-size: 0.9rem;
+font-size: 1.2rem;
 }
 .about_item5 span{
-  display: block;
-  justify-content: center;
-  align-items: center;
-  width: 10rem;
+  width: 12rem;
   height: 6vh;
-  margin: 2rem 10rem 0rem;
-  background-color: white;
-  color: #782D50;
-  font-size: 0.9rem;
-  border-radius: 0.25rem;
-  padding: 1rem 0rem 0rem;
-}
-.about_item5 span:hover{
-  background-color: black;
-}
-.about_item5 a{
-  color: #782D50 ;
-  text-decoration: none;
+  margin: 3rem 22rem 0rem;
+  font-size: 1.2rem;
+  padding: 1.5rem 0rem 0rem;
 }
 
 #creation{
-  display: block;
   margin: 3rem 0rem 0rem;
-  width: 100%;
 
 }
 .about_item6 h2{
-  width: 100%;
-  display: block;
- margin-left: 8rem;
-  font-size: 2rem;
-}
-.about_item6 span{
-  color: #782D50;
+ margin-left: 0rem;
+  font-size: 2.5rem;
+  text-align: center;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 13rem 2rem;
- 
+  margin: 2rem 25rem 2rem;
 }
 .about_item6 p{
-  display: block;
-  width: 100%;
   margin: 0rem 0rem 1.5rem;
-  line-height: 35px;
+  line-height: 40px;
   padding: 0.5rem 1rem;
-  text-align: justify;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 .about_item6 img{
-  display: block;
-  width: 100%;
-  height: 35vh;
-  margin: 0rem 0rem 0rem;
+  height: 50vh;
+  margin: 3rem 0rem 0rem;
 }
 .about_item7 {
   margin: 5.5rem 1rem 0rem;
  
 }
 .about_item7 label{
-  display: block;
-  font-size: 1rem;
-  font-weight: bold;
+  font-size: 1.5rem;
   height: 8vh;
-  width: 100%;
   margin: 0rem 0rem 0.7rem;
-  padding: 0.5rem 2rem 0rem;
-background-color: whitesmoke;
+  padding: 0.5rem 1rem 0rem;
 }
 .about_item7 input{
   width: 10vw;
   height: 3.5vh;
-padding: 1rem 0rem 0rem;
+padding: 2rem 0rem 0rem;
+margin: 1rem 0rem 0rem;
 }
 .about_item7 p{
-  
-display: block;
+  display: flex;
+line-height: 40px;
+font-size: 1.2rem;
 width: 100%;
-font-weight: lighter;
-line-height: 25px;
-padding: 0rem 1rem;
 text-align: justify;
-font-size: 0.9rem;
 }
 #term-of-office{
- 
  margin-bottom: 4rem;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 100%;
-  margin: -3.5rem 0rem -1rem;
+  width: 45rem;
+  margin: -3.5rem 2rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem 0rem -1rem;
-
+  margin: -3.5rem 2rem -1rem;
+  width: 45rem;
 }
 #project-committee{
 margin-top:-0rem ;
 margin-bottom:-0rem ;
 }
 .project-committee p{
-  margin: -3.5rem 0rem -1rem;
-  width: 100%;
+  margin: -3.5rem 2rem -1rem;
+  width: 45rem;
 }
 .membership-status p{
-  margin: -3.5rem 0rem -1rem;
-  width: 100%;
+  margin: -3.5rem 2rem -1rem;
+  width: 45rem;
 }
 .specific-objective p{
-  margin: -3.5rem 0rem -1rem;
-  width: 100%;
-  line-height: 30px;
+  margin: -2.5rem 2rem -8rem;
+  width: 45rem;
+  line-height: 45px;
+  height: 19rem;
 }
 .activities p{
-  margin: -3.5rem 0rem -1rem;
-  width: 100%;
+  margin: -3.5rem 2rem -1rem;
+  width: 45rem;
 }
 
 .container_about {
-  margin: 3rem 0rem 3rem;
-  display: block;
-  width: 100%;
+  margin: 4rem 0rem 3rem;
 }
 
 .container_about h2 {
-  font-size:2rem;
-  display: block;
-  margin-left: 5rem;
+  font-size:2.5rem;
+  margin: 0rem 0rem 0rem;
+  text-align: center;
 }
 
 .container_about p {
-  width: 100%;
-  display: block;
+  text-align: center;
   line-height: 35px;
-  margin: 1rem 5rem 0rem;
-  font-size: 0.9rem;
-height: 20%;
+  margin: 1rem 0rem 0rem;
+  font-size: 1.2rem;
 }
 
 .container_about hr {
   width: 2rem;
-  text-align: center;
   bottom: 70%;
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 25rem 0rem;
 }
 
   .blog_item1 {

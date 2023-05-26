@@ -235,7 +235,7 @@ input[type=checkbox]:checked ~ .menu {
   height: 5vh;
   display: flex;
   margin: 0rem 2rem 0rem;
-  padding: 0.2rem 0.5rem 0rem;
+  padding: 1rem 0.5rem 0rem;
 }
 
 .slide .captionB {
@@ -249,7 +249,7 @@ input[type=checkbox]:checked ~ .menu {
           backdrop-filter: blur(1px);
   border-radius: 0.25rem 0.25rem;
   width: 60%;
-  height: 17vh;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -289,7 +289,7 @@ input[type=checkbox]:checked ~ .menu {
   height: 8vh;
   display: flex;
   margin-left: 6rem;
-  padding: 0.5rem 1rem 0rem;
+  padding: 1rem 1rem 0rem;
 }
 
 .slide .captionE {
@@ -308,7 +308,7 @@ input[type=checkbox]:checked ~ .menu {
   margin-left: 6rem;
   padding: 0rem 1rem 0rem;
   width: 62%;
-  height: 15vh;
+  height: 10vh;
 }
 
 .slide .captionF {
@@ -1223,7 +1223,7 @@ h3 i {
 .grid_6 h2 {
   position: absolute;
   left: 0;
-  bottom: 65rem;
+  bottom: 63.5rem;
   font-size: 1.5rem;
   color: white;
   background: rgba(0, 0, 0, 0.348);
@@ -1260,7 +1260,7 @@ h3 i {
   flex-direction: row;
   position: absolute;
   left: 0;
-  bottom: 52rem;
+  bottom: 50rem;
   font-size: 0.7rem;
   color: #782D50;
   background: rgba(0, 0, 0, 0.348);
@@ -1280,7 +1280,7 @@ h3 i {
 .grid_6 p {
   position: absolute;
   left: 0;
-  bottom: 26rem;
+  bottom: 30rem;
   font-size: 0.8rem;
   line-height: 1.5rem;
   color: white;
@@ -1288,9 +1288,9 @@ h3 i {
   -webkit-backdrop-filter: blur(2px);
           backdrop-filter: blur(2px);
   width: 13rem;
-  height: 40vh;
+  height: 35vh;
   display: flex;
-  padding-left: 2rem;
+  padding-left: 0.5rem;
   padding-top: 0.5rem;
 }
 
@@ -2878,6 +2878,10 @@ figure{
   .slider_container {
     width: 100%;
   }
+  .slider {
+    width: 50%;
+  }
+  
   .slide.one img {
     width: 100%;
     margin: -1.5rem 0rem 10rem;
@@ -2893,31 +2897,52 @@ figure{
   
   .slide.three img {
     width: 100%;
-    margin: 1.5rem -14rem 0rem;
+    margin: 1.5rem -13rem 0rem;
     
   }
   .slide .captionA {
     margin: 0rem 3rem 0rem;
-    bottom: 90%;
+    bottom: 80%;
   }
   .slide .captionB {
     margin: 0rem 3rem 0rem;
-    bottom: 70%;
+    bottom: 60%;
   }
   .slide .captionC {
     margin-left: 3rem;
-    bottom: 60%;
+    bottom: 50%;
   }
   .slide .captionD {
-    bottom: 56%;
+    bottom: 80%;
   }
+  .slide .captionE {
+    bottom: 60%;
+  }
+  
   .slide .captionF {
-    bottom: 36%;
+    bottom: 50%;
   }
+.slide .captionG {
+  bottom: 60%;
+  height: 8vh;
+  padding: 0.5rem 0.5rem 0rem;
+  margin-left: -6rem;
+}
+
+.slide .captionH {
+  bottom: 30%;
+  margin-left: -6rem;
+  padding-left: 1rem;
+}
+
+.slide .captionI {
+  bottom: 13%;
+  margin-left: -3rem;
+}
+
   .container {
-    margin: 2rem 0rem 3rem;
-    display: block;
-    width: 100%;
+    margin: -5rem 0rem 3rem;
+
   }
   .container p {
     margin-left: 1rem;
@@ -3116,7 +3141,7 @@ figure{
   }
   .content2 {
    
-    padding: 1.5rem 1rem 0rem;
+    padding: 1.1rem 1.5rem 0rem;
 
   }
   .content2 a {

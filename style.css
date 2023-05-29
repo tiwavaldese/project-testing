@@ -4893,13 +4893,11 @@ padding-right: 2rem;
     }
     
     .gallery3{
-      margin: 5rem 1.5rem 3rem;
-      display: block;
-      width: 100%;
+      margin: 5rem 4.5rem 5rem;
     }
     .gallery3 img{
-      width: 25rem;
-      height: 20rem;
+      width: 45rem;
+      height: 30rem;
     }
     .gallery3A{
       display: block;

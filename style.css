@@ -4932,50 +4932,38 @@ padding-right: 2rem;
     
 #contact .events_item1{
   margin-left: 0rem;
-  width: 100%;
 }
 .contact_item1{
   margin-left: 0rem;
-  width: 100%;
 }
 .contact_item1 h2{
   margin: 2rem 7rem 0rem;
-  font-size: 2.2rem;
-  font-weight: bold;
-  width: 100%;
+  font-size: 2.5rem;
 }
 .contact_item1 hr{
   margin:1.5rem 12rem 2rem;
-  width: 2rem; 
 }
 
 .contact_item1 p{
-  margin: 1rem 3rem 1rem;
+  margin: 1rem 3rem 2rem;
   width: 2rem;
-  margin-top: 1rem;
+ font-size: 1.5rem;
  width: 100%;
- margin-bottom: 2rem;
 }
 .contact_item1 span{
   margin-right: 2rem;
-  width: 3rem;
-  height: 3rem;
-  color: white;
-  border-radius: 50%;
-  background-color: #782D50;
-  padding: 0.8rem 1rem;
-  font-size: 1.4rem;
+  width: 5rem;
+  height: 5rem;
+  padding: 1rem 1.5rem 0rem;
+  font-size: 2.5rem;
 }
 
 .contact_item2{
   margin-left: 0rem;
-  width: 100%;
 }
 .contact_item2 h2{
-  margin-left: 4rem;
-  font-size: 2.2rem;
-  font-weight: bold;
-  margin-top: 2rem;
+  margin: 2rem 4rem 0rem;
+  font-size: 2.5rem;
 }
 .contact_item2 hr{
   margin-left: 4rem;
@@ -4985,107 +4973,67 @@ padding-right: 2rem;
 }
 .contact_item2 p{
   margin: 1rem 3rem 2rem;
-  width: 2rem;
-  line-height: 30px;
- width: 100%;
- font-weight: bold;
- font-size: 1.3rem;
+  width: 100%;
+ font-size: 1.5rem;
  padding-right: 5rem;
 }
 .contact_item3{
-  display: block;
   line-gap-override: 1rem;
-  margin-left: 0rem;
+  margin: 1rem 0rem 0.5rem;
   margin-bottom: 0.5rem;
 }
-.contact_item3A{
-  display: block;
-}
-.contact_item3B{
-  display: block;
- 
-}
 .contact_item3 #name{
-  width: 90%;
+  width: 95%;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 90%;
+  width: 95%;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   
 }
 
 .contact_item3 #subject{
-  width:90%;
+  width:95%;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 90%;
+  width: 95%;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
-  margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
-  font-size: 1.1rem;
+  margin:0rem 1rem 1rem;;
+  font-size: 1.5rem;
  
 }
 .contact_item4 textarea{
-  width: 90%;
+  width: 95%;
   height: 30vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
   padding-top: 1rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 .contact_item5 button{
-  width: 12rem;
-  height: 8vh;
+  width: 18rem;
   margin:0rem 1rem 1rem;
-  color: white;
-  background-color: #782D50;
-  border-radius: 0.25rem 0.25rem;
-  border: none;
-}
-.contact_item5 a{
-  color: white;
-  text-decoration: none;
-}
-.contact_item5 button:hover{
-  background-color: black;
-  color: white;
+  font-size: 1.5rem;
 }
 .contact_item6{
   margin-bottom: 3rem;
-  width: 100%;
 }
 .contact_item6 em{
   margin:0rem 2rem 1rem;
-  width: 100%;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
  
 }
 
@@ -5118,7 +5066,7 @@ height: 20%;
 }
 #donate .events_item1{
   margin-left: 0rem;
-  width: 100vw;
+  width: 100%;
 }
 .donate_item1{
   margin-left: 7rem;

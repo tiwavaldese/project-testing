@@ -477,10 +477,10 @@ height: 20%;
   text-align: center;
   justify-content: center;
   margin-top: 2rem;
-  height: 100rem;
+  height: 100%;
   width: 20rem;
   margin-left: 0rem;
-  margin-bottom: 40rem;
+  margin-bottom: 2rem;
 }
 
 .contentA {
@@ -631,21 +631,21 @@ height: 20%;
 
 .grid_item4 {
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   display: block;
   justify-content: center;
-  width: 20rem;
+  align-items: center;
+  width: 25rem;
   background-color: whitesmoke;
-  margin-left: 3rem;
-  height: 16rem;
+  margin-left: 2.5rem;
+  height: 40rem;
   border-radius: 0.5rem;
 }
 
 .grid_item4 p {
-  line-height: 25px;
-  font-size: 0.9rem;
-  width: 20rem;
-  height: 10rem;
+  line-height: 30px;
+  font-size: 0.8rem;
+  width: 25rem;
   padding: 0.5rem 2rem;
   text-align: justify;
 }
@@ -656,21 +656,17 @@ height: 20%;
 }
 
 .grid_item4 .date {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
-  height: 10rem;
 }
 
 .grid_item4 .comment {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
-  height: 10rem;
 }
 
 .grid_item button {
@@ -2569,21 +2565,24 @@ text-align: justify;
 
 .projects_item4 {
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   display: block;
   justify-content: center;
+  align-items: center;
   width: 25rem;
   background-color: whitesmoke;
-  margin-left: 2.5rem;
-  height: 25rem;
+  margin-left: 0.5rem;
+  height: 33rem;
   border-radius: 0.5rem;
 }
-
+.projects_item4 img{
+  width: 100%;
+  margin: 0;
+}
 .projects_item4 p {
   line-height: 30px;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   width: 25rem;
-  height: 10rem;
   padding: 0.5rem 2rem;
   text-align: justify;
 }
@@ -2594,21 +2593,17 @@ text-align: justify;
 }
 
 .projects_item4 .date {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
-  height: 10rem;
 }
 
 .projects_item4 .comment {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
-  height: 10rem;
 }
     
     #gallery .events_item1{

@@ -1,7 +1,7 @@
 html,body{
-    overflow-x: hidden;
+    height: 100%;
+    overflow-y: hidden;
 }
-
 body {
     background: linear-gradient(to right, #155799, #159957); 
     width: 100%;
@@ -19,14 +19,15 @@ body {
  }
 
  .content_1{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
  }
  .content_2{
-   margin: 0rem 7rem 0rem;
+   margin: 0rem 12rem 0rem;
     padding-top:0.5rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
     opacity: 0.4;
   display: block;
+  width: 25%;
  }
  #content li{
     list-style: none;
@@ -41,7 +42,7 @@ body {
  #container_1{
     display: block;
     border: none;
-    margin: 3rem 0rem 0rem;
+    margin: 2rem 1rem 0rem;
     height: 20rem;
     width:100%;
     background: linear-gradient(to right, #155799, #159957); 
@@ -50,61 +51,55 @@ body {
  .content_A{
     display: block;
     background-color: whitesmoke;
-    width: 20rem;
-    height: 1rem;
+    width: 85%;
+    height: 1.5rem;
     border: 0.1px solid gainsboro;
     padding: 1rem 0.8rem 1rem;
     margin: 0rem 0rem 1rem;
  }
 .email{
     display: block;
-   margin-top: 3rem;
+   margin: 3rem 0rem 2rem;
     width: 7rem;
     height: 2rem;
-    margin-bottom: 2rem;
-    margin-left: 0rem;
     color: white;
+    padding: 1rem 0rem 0rem;
 }
 .email input{
-   position: absolute;
-   top: 0;
-   left: 0;
-   bottom: 0%;
-    margin-top: 15rem;
-    width: 15rem;
-    height:2.5rem;
-    margin-left: 7rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0%;
+    margin: 16rem 9rem 0rem;
+    width: 63%;
+    height:3rem;
     border-radius: 0.25rem 0.25rem;
     background-color: whitesmoke;
     border: 0.1px solid gainsboro;
 }
 .password{
     display: block;
-   margin-top: 3rem;
+   margin: 4rem 0rem 2rem;
     width: 7rem;
     height: 2rem;
-    margin-bottom: 2rem;
-    margin-left: 0rem;
     color: white;
 }
 .password input{
     position: absolute;
-   top: 0;
-   left: 0;
-   bottom: 0%;
-    margin-top: 20rem;
-    width: 15rem;
-    height: 2.5rem;
-    margin-left: 7rem;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 22rem 9rem 0rem;
+    width: 63%;
+    height: 3rem;
     border-radius: 0.25rem 0.25rem;
     background-color: whitesmoke;
     border: 0.1px solid gainsboro;
 }
 .check{
     display: block;
-    margin-left:6rem;
     color: white;
-    margin-top: 1rem;
+    margin: 2rem 7rem 0rem;
 }
 .check input{
    background-color: whitesmoke;
@@ -114,8 +109,8 @@ body {
 #contentA{
     display: flex;
     flex-direction: row;
-    margin-left: 2rem;
-    margin-top: 1rem;
+    margin: 1rem 3rem 0rem;
+    width: 100%;
 }
 #contentA button{
 width: 10vh;
@@ -132,241 +127,90 @@ opacity: 0.8;
 #contentA button:hover{
     background-color: blue;
 }
-#contentA a{
+#contentA p{
     color: rgb(74, 146, 235);
-    margin-left: 1rem;
+    margin: 1.5rem 2rem 0rem;
 }
 @media screen and (max-width: 480px){
+   
+}
+@media  screen and (min-width: 768px){
     html,body{
         overflow-x: hidden;
+        height: 100%;
     }
     
 #content{
-    margin: 5rem 2rem 0rem;
-    }
-   
-    .content_1{
-      
-       margin-left: 0rem;
-       font-size: 1.3rem;
-    }
-    .content_2{
-      margin-top: 0rem;
-       margin-left: 11rem;
-       padding-top:0.5rem;
-       font-size: 1rem;
-       opacity: 0.4;
-     display: block;
-    }
-    #content li{
-       list-style: none;
-    }
-    #content a{
-       color: white;
-       text-decoration: none;
-   }
-    .log2:hover{
-       color: rgb(0,0,0,0.9);
-    }
-    #container_1{
-       display: block;
-       border: none;
-       margin-top: 2rem;
-       height: 20rem;
-       width:23rem;
-       margin-left: 2rem;
-       background: linear-gradient(to right, #155799, #159957); 
-       border-radius: 0.25rem 0.25rem;
-   
-    }
-    .content_A{
-       display: block;
-       background-color: whitesmoke;
-       width: 22rem;
-       height: 1.5rem;
-       border: 0.1px solid gainsboro;
-       padding-top: 0.5rem;
-       padding-left: 0.8rem;
-       margin-bottom: 1rem;
-       margin-top: 0rem;
-    }
-   .email{
-       display: block;
-      margin-top: 3rem;
-       width: 7rem;
-       height: 2rem;
-       margin-bottom: 2rem;
-       margin-left: 0rem;
-       color: white;
-   }
-   .email input{
-      
-       margin-top: -1rem;
-       
-       width: 13rem;
-       height:2rem;
-       margin-left: 8rem;
-       border-radius: 0.25rem 0.25rem;
-       background-color: whitesmoke;
-       border: 0.1px solid gainsboro;
-   }
-   .password{
-       display: block;
-      margin-top: 3rem;
-       width: 7rem;
-       height: 2rem;
-       margin-bottom: 2rem;
-       margin-left: 0rem;
-       color: white;
-   }
-   .password input{
-      margin-top: -10rem;
-       width: 13rem;
-       height: 2rem;
-       margin-left: 8rem;
-       border-radius: 0.25rem 0.25rem;
-       background-color: whitesmoke;
-       border: 0.1px solid gainsboro;
-   }
-   .check{
-       display: block;
-       margin-left: 2rem;
-       color: white;
-       margin-top: 1rem;
-   }
-}
-
-@media  screen and (max-width: 1200px){
-    html,body{
-        overflow-x: hidden;
-    }
-#content{
-    margin: 2rem 0rem 0rem;
-      width: 100%;
-       display: flex ;
-       flex-direction: row;
-       background: linear-gradient(to right, #155799, #159957); 
-       color: white;
-       list-style: none;
+    margin: 2rem 5rem 0rem;
        padding: 0rem 2rem 0rem;
     }
    
     .content_1{
-       font-size: 1.3rem;
+       font-size:2rem;
     }
     .content_2{
-      margin: 0rem 7rem 0rem;
+      margin: 0rem 22rem 0rem;
        padding-top:0.5rem;
-       font-size: 1rem;
-       opacity: 0.4;
-     display: block;
-    }
-    #content li{
-       list-style: none;
-    }
-    #content a{
-       color: white;
-       text-decoration: none;
-   }
-    .log2:hover{
-       color: rgb(0,0,0,0.9);
+       font-size: 2rem;
+     width: 25%;
     }
     #container_1{
-       display: block;
-       border: none;
-       margin: 3rem 0rem 0rem;
+       margin: 3rem 1rem 0rem;
        height: 20rem;
-       width:100%;
-       background: linear-gradient(to right, #155799, #159957); 
-       border-radius: 0.25rem 0.25rem;
     }
     .content_A{
-       display: block;
-       background-color: whitesmoke;
-       width: 20rem;
-       height: 1rem;
-       border: 0.1px solid gainsboro;
-       padding: 1rem 0.8rem 1rem;
+       width: 85%;
+       height: 3rem;
+       padding: 1.5rem 0.8rem 1rem;
        margin: 0rem 0rem 1rem;
+       font-size: 1.5rem;
     }
    .email{
-       display: block;
-      margin-top: 3rem;
+      margin: 3rem 0rem 2rem;
        width: 7rem;
        height: 2rem;
-       margin-bottom: 2rem;
-       margin-left: 0rem;
-       color: white;
+       padding: 1rem 0rem 0rem;
+       font-size: 1.5rem;
    }
    .email input{
-      position: absolute;
-      top: 0;
-      left: 0;
-      bottom: 0%;
-       margin-top: 15rem;
-       width: 15rem;
-       height:2.5rem;
-       margin-left: 7rem;
-       border-radius: 0.25rem 0.25rem;
-       background-color: whitesmoke;
-       border: 0.1px solid gainsboro;
+       margin: 22rem 9rem 0rem;
+       width: 73%;
+       height:4rem;
    }
    .password{
-       display: block;
-      margin-top: 3rem;
+      margin: 7rem 0rem 2rem;
        width: 7rem;
        height: 2rem;
-       margin-bottom: 2rem;
-       margin-left: 0rem;
-       color: white;
+       font-size: 1.5rem;
    }
    .password input{
-       position: absolute;
-      top: 0;
-      left: 0;
-      bottom: 0%;
-       margin-top: 20rem;
-       width: 15rem;
-       height: 2.5rem;
-       margin-left: 7rem;
-       border-radius: 0.25rem 0.25rem;
-       background-color: whitesmoke;
-       border: 0.1px solid gainsboro;
+       margin: 29rem 9rem 0rem;
+       width: 72%;
+       height: 4rem;
    }
    .check{
-       display: block;
-       margin-left:6rem;
-       color: white;
-       margin-top: 1rem;
+       margin: 4rem 7rem 0rem;
+       font-size: 1.5rem;
    }
    .check input{
-      background-color: whitesmoke;
        margin-right: 0.5rem;
-       border: 1px solid gainsboro;
    }
    #contentA{
-       display: flex;
-       flex-direction: row;
-       margin-left: 2rem;
-       margin-top: 1rem;
+       margin: 3rem 3rem 0rem;
+       width: 100%;
    }
    #contentA button{
    width: 10vh;
    height: 6vh;
-   margin-left: 4rem;
-   border-radius: 0.25rem 0.25rem;
-   color: white;
-   background-color: black;
-   border: none;
-   display: block;
-   margin-top: 0.7rem;
-   opacity: 0.8;
+   margin: 0.7rem 4rem 0rem;
+   font-size: 1.5rem;
    }
-   #contentA button:hover{
-       background-color: blue;
+   #contentA p{
+       margin: 3rem 1rem 0rem;
+       font-size: 1.5rem;
    }
-   #contentA a{
-       color: rgb(74, 146, 235);
-       margin-left: 1rem;
-   }
+    }
+
+@media  screen and (min-width: 1200px){
+   
 }

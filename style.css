@@ -6129,19 +6129,16 @@ height: 20%;
 }
 
 .content1 {
-  display: flex;
-  flex-direction: row;
   width: 100%;
 }
 
 .row_item6 p {
-    padding-left: 1rem;
+    padding: 0rem 1rem 6rem;
     width: 28vw;
-    padding-bottom: 6rem;
     height: 2rem;
-   margin-left: 15rem;
-  line-height: 1.5rem;
-   font-size: 0.9rem;
+   margin: -3rem 17rem 0rem;
+  line-height:30px;
+   font-size: 1rem;
  
 }
 
@@ -6157,9 +6154,6 @@ height: 20%;
   bottom: 0rem;
 }
 
-.row_item6:hover {
-  opacity: 0.5;
-}
 
 #content1 {
   display: flex;
@@ -6175,38 +6169,37 @@ height: 20%;
 }
 
 .img_9 {
-   width:120px;
-    height: 120px;    
-    border-radius: 50%;
-    margin-left: 6rem;
-   display: flex;
- float: left;
- 
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-left: 8rem;
+  display: block;
+  margin-bottom: 1rem;
 }
 
 .img_10 {
-  width:120px;
-  height: 120px;    
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  margin-left: 6rem;
- display: flex;
-float: left;
+  margin-left: 8rem;
+  display: block;
+  margin-bottom: 1rem;
 
 }
 
 .img_11 {
-  width:120px;
-  height: 120px;    
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  margin-left: 6rem;
- display: flex;
-float: left;
+  display: block;
+  margin: 0rem 8rem 1rem;
 
 }
 
 #row1 {
   position: relative;
-  bottom: 4rem;
+  bottom: 0rem;
+  margin: 0rem -13rem 0rem;
 }
 
 #row1 strong {
@@ -6227,123 +6220,79 @@ float: left;
   color: white;
   background-color: #782D50;
   width: 15rem;
-  padding: 2rem 1.3rem 0rem;
-  height: 6vh;
+  padding: 1rem 1.3rem 0rem;
+  height: 8vh;
   margin: 0 0 0 2rem;
   border-radius: 0.25rem;
   font-size: 1rem;
   position: relative;
   display: flex;
-  bottom: 22rem;
+  bottom: 10rem;
 }
-
-.content2 a {
-  color: white;
-  text-decoration: none;
-}
-
-.content2:hover {
-  background-color: black;
-}
-
 #container {
-  text-align: center;
-  display: block;
-  position: relative;
-  bottom: 18rem;
+  bottom: 7rem;
   width: 100%;
 }
 
 #container h2 {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   display: block;
-  margin-left: -25rem;
   margin-top: 0;
+  text-align: center;
   justify-content: center;
   align-items: center;
 }
 
 #container p {
-  width: 20rem;
-  text-align: center;
-  display: block;
-  justify-content: center;
-  align-items: center;
+  width:50%;
   letter-spacing: 0px;
   line-height: 25px;
-  margin-left: 4rem;
-  margin-top: 0;
-  font-size: 0.8rem;
+  margin: 0rem 20rem 0rem;
+  font-size: 1rem;
 }
 
 #container hr {
   width: 2rem;
   text-align: center;
-  margin-left: 12rem;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin: 1rem 40rem 1rem;
 }
 
 .content3 {
   bottom: 13rem;
-  position: relative;
+  margin: 9rem 11rem 0 ;
+  width: 100%;
   display: flex;
-  flex-direction: column;
-  margin: 0 5rem 0 ;
-  width: 100rem;
-}
-
-.content3 img:hover {
-  opacity: 0.5;
-}
-
-.overlay {
-  position: relative;
-  display: inline-block;
-}
-
-.overlay:hover .content3A {
-  display: block;
-}
-
-.content3A a {
-  color: #782D50;
+  flex-direction: row;
 }
 
 .content3A {
   padding-top: 7px;
   padding-right: 18px;
-  position: absolute;
   right: 87%;
   top: 30%;
-  display: none;
   font-size: 50px;
 }
 
 #img_13 {
   width: 20rem;
   height: 18rem;
-  display: flex;
   margin-bottom: 1rem;
 }
 
 #img_14 {
   width: 20rem;
   height: 18rem;
-  display: block;
-  margin-bottom: 1rem;
+  margin: 0rem 1rem 1rem;
 }
 
 #img_15 {
   width: 20rem;
   height: 18rem;
-  display: block;
+  margin: 0rem 0rem 1rem;
 }
 
 .grid_5 {
-  display: flex;
-  margin-bottom: 0rem;
-  width: 50%;
+  width: 100%;
 }
 
 .grid_5 img {
@@ -6355,148 +6304,81 @@ float: left;
 }
 
 .grid_6 {
-  position: absolute;
-  left: 0;
   width: 50%;
   height: 35vh;
-  display: flex;
-  flex-direction: column;
+margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h2 {
-  position: absolute;
-  left: 0;
-  bottom: 63.5rem;
-  font-size: 1.5rem;
-  color: white;
-  background: rgba(0, 0, 0, 0.348);
-  -webkit-backdrop-filter: blur(2px);
- backdrop-filter: blur(2px);
-  width: 13rem;
-  height: 6vh;
-  display: flex;
-  padding: 0.5rem 2rem 0rem;
+  bottom: 60rem;
+  font-size: 2.5rem;
+  width: 30rem;
+  height: 8vh;
+  padding: 0rem 2rem 0rem;
 }
 
 .grid_6 h3 {
-  position: absolute;
-  left: 0;
-  bottom: 55rem;
-  font-size: 0.9rem;
-  color: #782D50;
-  background: rgba(0, 0, 0, 0.348);
-  -webkit-backdrop-filter: blur(1px);
- backdrop-filter: blur(1px);
-  width: 13rem;
-  height: 15vh;
-  display: flex;
+  bottom: 52rem;
+  font-size: 1rem;
+  width: 30rem;
+  height: 20vh;
   padding-left: 2rem;
   margin-top: 0.5rem;
 }
 
-.grid_6 h3:hover {
-  color: white;
-}
-
 .grid_6i {
-  display: flex;
-  flex-direction: row;
-  position: absolute;
-  left: 0;
-  bottom: 50rem;
-  font-size: 0.7rem;
-  color: #782D50;
-  background: rgba(0, 0, 0, 0.348);
-  -webkit-backdrop-filter: blur(2px);
-  backdrop-filter: blur(2px);
-  width: 13rem;
+  bottom: 48.5rem;
+  font-size: 0.9rem;
+  width:30rem;
   height: 9vh;
-  display: flex;
   padding-left: 1.5rem;
   padding-right: 2rem;
 }
 
-.grid_6i .time {
-  padding-right: 2rem;
-}
 
 .grid_6 p {
-  position: absolute;
-  left: 0;
-  bottom: 30rem;
-  font-size: 0.8rem;
+  bottom: 38rem;
+  font-size: 1rem;
   line-height: 1.5rem;
-  color: white;
-  background: rgba(0, 0, 0, 0.348);
-  -webkit-backdrop-filter: blur(2px);
-          backdrop-filter: blur(2px);
-  width: 13rem;
-  height: 37vh;
-  display: flex;
-  padding-left: 0.5rem;
-  padding-top: 0.5rem;
+  width: 30rem;
+  height: 27vh;
+  padding: 0.5rem 0.5rem 0rem;
 }
 
 .grid_7 {
-  position: absolute;
-  left: 0;
   width: 50%;
   height: 35vh;
-  display: flex;
-  flex-direction: column;
+  margin: 2rem 35rem 0rem;
 }
 
 .grid_7 h2 {
-  position: absolute;
-  left: 0;
   bottom: 51rem;
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: white;
+  font-size: 2.5rem;
   width: 40vw;
   height: 25vh;
-  display: flex;
-  margin-left: 12rem;
+  margin-left: 8rem;
   padding-left: 3rem;
-  padding-right: 0rem;
 }
 
 .grid_7 hr {
-  position: absolute;
   left: 0;
-  bottom: 58.5rem;
-  font-weight: 600;
-  color: white;
-  width: 2rem;
-  margin-left: 15rem;
+  bottom: 56rem;
+  margin-left: 11rem;
 }
 
 .grid_7 p {
-  position: absolute;
-  left: 0;
-  bottom: 35rem;
-  font-size: 0.8rem;
+  bottom: 33rem;
+  font-size: 1rem;
   line-height: 1.5rem;
-  color: white;
-  width: 17rem;
+  width: 30rem;
   height: 30vh;
-  display: flex;
   margin-left: 12rem;
-  padding-left: 3rem;
-  padding-right: 2rem;
-}
-
-.grid_7 p:hover {
-  color: #782D50;
 }
 
 .grid_7i {
-  position: absolute;
-  left: 0;
   bottom: 28rem;
-  font-size: 0.6rem;
-  color: #782D50;
-  width: 15rem;
+  font-size: 1rem;
+  width: 30rem;
   height: 25vh;
   display: flex;
   margin-left: 11rem;
@@ -6508,132 +6390,105 @@ float: left;
 }
 
 .grid_7 button {
-  position: absolute;
-  left: 0;
-  bottom: 55rem;
+  bottom: 50rem;
   font-size: 0.9rem;
-  color: white;
-  background-color: #782D50;
-  width: 5rem;
+  width: 6rem;
   height: 10vh;
-  display: flex;
-  margin-left: 14rem;
-  border: none;
-  padding-right: 2rem;
+  margin-left: 10rem;
 }
 
 .grid_7 .Date {
-  margin-top: 1.5rem;
+  margin: 1.5rem 0rem 0rem;
 }
 
 .content4 {
-  width: 50%;
+  width: 100%;
   margin-top: -7rem;
 }
 
 .content4 h2 {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   display: block;
-  margin-left: 9rem;
+  margin-left: -10rem;
+  text-align: center;
 }
 
 .content4 p {
   width: 35%;
-  text-align: justify;
-  display: block;
-  justify-content: space-between;
-  line-height: 25px;
-  margin-left: 3.5rem;
-  margin-top: 1.5rem;
-  font-size: 0.8rem;
+  margin: 1.5rem 22rem 0rem;
+  font-size: 1rem;
 }
 
 .content4 hr {
   width: 2rem;
-  text-align: center;
-  margin-left: 12rem;
+  margin: 1rem 35rem 0rem;
   bottom: 70%;
-  margin-top: 1rem;
 }
 
 .content5 {
-  margin-top: 2rem;
-  display: block;
-  margin-left: 2rem;
-  margin-bottom: 3rem;
-  width: 40%;
+  margin: 2rem 13rem 3rem;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
 }
 
 .img_17 {
-  width: 15rem;
-  height: 30vh;
-  margin-bottom: 1rem;
-  border: 1px solid whitesmoke;
-  margin-left: 2rem;
+  width: 20rem;
+  height: 40vh;
+  margin:0rem 0rem  1rem;
 }
 
 .img_18 {
-  width: 15rem;
-  height: 30vh;
-  margin-bottom: 1rem;
-  border: 1px solid whitesmoke;
-  margin-left: 2rem;
+  width: 20rem;
+  height: 40vh;
+  margin:0rem 0.5rem  1rem;
 }
 
 .img_19 {
-  width: 15rem;
-  height: 30vh;
-  border: 1px solid whitesmoke;
-  margin-left: 2rem;
+  width: 20rem;
+  height: 40vh;
+  margin:0rem 0rem  1rem;
 }
 
 .container4 {
   width: 100%;
-  height: 63rem;
-  background-color: rgba(0, 0, 0, 0.9);
-  display: block;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
 }
 
 .img_20 {
-  width: 15rem;
-  height: 25vh;
-  background-color: rgba(0, 0, 0, 0.8);
+  width: 55rem;
+  height: 35vh;
   margin: 2rem 5rem 2rem;
-  padding: 1rem 0rem 0rem;
+  padding: 0rem 0rem 0rem;
 }
 
 .content6 h3 {
-  margin-top: 0.5rem;
-  margin-left: 5rem;
-  margin-bottom: 1rem;
-  color: #782D50;
+  margin: 2rem 7rem 1rem;
   font-size: 1.5rem;
 }
 
 .content6 hr {
-  width: 1.5rem;
-  margin-left: 7rem;
-  margin-top: 0rem;
+  width: 2rem;
+  margin-left: 7.5rem;
 }
-
+.content7{
+  margin: 0rem -13rem 0rem;
+  }
 .content7 h3 {
-  margin-top: 1rem;
-  margin-left: 5rem;
-  margin-bottom: 1rem;
-  color: #782D50;
+  margin: 2rem 5rem 1rem;
   font-size: 1.5rem;
 }
 
 .content7 hr {
-  width: 1.5rem;
-  margin-left: 8rem;
+  width: 2rem;
+  margin-left: 5rem;
   margin-top: 1rem;
 }
 
 .container4 ul {
-  display: flex;
-  flex-direction: column;
-  margin-left: 7rem;
+  margin-left: 8rem;
 }
 
 .container4 li {
@@ -6653,12 +6508,14 @@ float: left;
   margin-left: 5rem;
   width: 17rem;
 }
-
+.content7{
+  margin: 0rem -13rem 0rem;
+  }
 .content8 h3 {
   margin-top: 3rem;
   margin-left: 6rem;
   margin-bottom: 0rem;
-  color: #782D50;
+  font-size: 1.5rem;
 }
 
 .content8 hr {
@@ -6676,7 +6533,7 @@ float: left;
   padding: 1rem 1.6rem 0rem;
   border-radius: 0.25rem;
   font-size: 0.8rem;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
   height: 6vh;
 }
 
@@ -6692,12 +6549,11 @@ p i {
 }
 
 h4 i {
-  display: block;
-  color: #782D50;
-  margin-top: 1.5rem;
-  font-size: 1rem;
-  margin-left: 2rem;
-  padding-left: 1rem;
+  display:flex;
+  flex-direction: row;
+  margin: 1.5rem 0rem 0rem;
+  font-size: 0.9rem;
+  padding-left: 0rem;
 }
 
 .content8 P:hover {
@@ -6706,20 +6562,10 @@ h4 i {
 }
 
 footer {
-  display: flex;
-  background-color: black;
   width: 100%;
   height: 12vh;
-  color: white;
-  padding-top: 2rem;
-  padding-left: 1.9rem;
-  font-size: 0.7rem;
-  position: relative;
-  bottom: 0rem;
-}
-
-footer span {
-  color: #782D50;
+  padding: 2rem 10rem 0rem;
+  font-size: 0.8rem;
 }
 
 

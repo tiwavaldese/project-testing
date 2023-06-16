@@ -2922,28 +2922,30 @@ figure{
   }
   .slider_container {
     width: 100%;
+    height: 30%;
   }
   .slider {
-    width: 100%;
+    width:100%;
+    height: 20%;
   }
-  
+ 
   .slide.one img {
     width: 100%;
     margin: -1.5rem 0rem 10rem;
-    
+    height: 20%;
   }
   
   .slide.two img {
     width: 100%;
    margin: -1.5rem 0rem 10rem;
-  
+   height: 20%;
   
   }
   
   .slide.three img {
     width: 100%;
     margin: 1.5rem -12rem 0rem;
-    
+    height: 20%;
   }
 .slide .captionA {
     margin: 0rem 3rem 0rem;
@@ -3009,13 +3011,13 @@ figure{
   padding: 0.2rem 1rem 0rem;
 }
 .container {
-  margin: -5rem 0rem 3rem;
-
+  margin: -7rem 0rem 3rem;
+width: 90%;
 }
 .container p {
-  margin-left: 1rem;
-  padding-right: 2rem; 
-  width: 100%;
+  margin-left: 3rem;
+  padding-right: 0rem; 
+  width: 90%;
   text-align: justify;
 }
 
@@ -3097,19 +3099,19 @@ figure{
     width: 100%;
   }
   .captionA2 {
-    bottom: 69%;
+    bottom: 71%;
     width: 70%;
   }
   .captionB2 {
-    bottom: 53%;
+    bottom: 55%;
     width: 100%;
     margin-left: 7rem;
   }
   .captionC2 {
     bottom: 30%;
-    width: 100%;
-    margin-left: 2rem;
-    line-height: 30px;
+    width: 90%;
+    margin-left: 3rem;
+    line-height: 20px;
     padding-right: 3rem;
     text-align: justify;
   }
@@ -3238,10 +3240,15 @@ figure{
     text-decoration: none;
   }
   #container {
-    width: 100%;
+    width: 90%;
   }
   #container h2 {
     margin-left: 0rem;
+  }
+  #container p{
+    width: 90%;
+    
+    margin-left: 3rem;
   }
   .grid_5 {
     width: 100%;
@@ -3907,19 +3914,22 @@ h1 {
 
 .container {
   margin: 0rem 0rem 3rem;
+  width: 90%;
 }
 
 .container h2 {
   font-size:2.5rem;
-  margin: -5rem 15rem 0rem;
-  
+  text-align: center;
+  margin: -5rem 0rem 0rem;
 }
 .container p {
-  margin: 1rem 1rem 0rem;
+  margin: 1rem 5rem 0rem;
   font-size: 1.5rem;
 height: 20%;
 text-align: justify;
-padding-right: 2rem;
+padding-right: 0rem;
+width: 90%;
+line-height: 40px;
 }
 
 .container hr {
@@ -4417,7 +4427,7 @@ h3 i {
 }
 
 .grid_6 h2 {
-  bottom: 83rem;
+  bottom: 87rem;
   font-size: 2.5rem;
   width: 25rem;
   height: 8vh;
@@ -4425,18 +4435,18 @@ h3 i {
 }
 
 .grid_6 h3 {
-  bottom: 71rem;
-  font-size: 1.2rem;
+  bottom: 74rem;
+  font-size: 1.5rem;
   width: 25rem;
-  height: 15vh;
+  height: 18vh;
   line-height: 30px;
   padding:1rem 1rem 0rem;
   margin-top: 0.5rem;
 }
 
 .grid_6i {
-  bottom: 64rem;
-  font-size: 1.2rem;
+  bottom: 67rem;
+  font-size: 1.5rem;
   width: 25rem;
   height: 9vh;
   padding: 1rem 1.5rem 0rem;
@@ -4448,10 +4458,10 @@ h3 i {
 
 .grid_6 p {
   bottom: 37.5rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   line-height: 1.5rem;
   width: 25rem;
-  height: 35vh;
+  height: 40vh;
   padding-left: 0.5rem;
   padding-top: 0.5rem;
   line-height: 40px;
@@ -4464,7 +4474,7 @@ h3 i {
 }
 
 .grid_7 h2 {
-  bottom: 70rem;
+  bottom: 74rem;
   font-size: 2.5rem;
   width: 40vw;
   height: 25vh;
@@ -4481,7 +4491,7 @@ h3 i {
 
 .grid_7 p {
   bottom: 45rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   line-height: 40px;
   width: 30rem;
   height: 30vh;
@@ -4490,7 +4500,7 @@ h3 i {
 
 .grid_7i {
   bottom: 35rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   width: 20rem;
   height: 25vh;
   margin-left: 11rem;
@@ -4528,7 +4538,7 @@ h3 i {
 .content4 p {
   width: 80%;
   margin: 1.5rem 3.5rem 0rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 .content4 hr {
@@ -5531,7 +5541,7 @@ height: 20%;
 }
 .donate_item1 h2{
   margin-left: 10rem;
-  font-size: 2.2rem;
+  font-size: 2.5rem;
   font-weight: bold;
   margin-top: 2rem;
 }

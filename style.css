@@ -3691,7 +3691,7 @@ width: 80%;
   .projects_item1 {
     width: 22rem;
     height: 85%;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 2rem 1rem;
   }
   .projects_item1 p{
     width: 20rem;
@@ -3708,8 +3708,8 @@ width: 80%;
   }
   .projects_item2 {
     width: 22rem;
-    margin: 1rem 1rem 1rem;
-    height: 45%;
+    margin: 1rem 2rem 1rem;
+    height: 55%;
   }
   .projects_item2 p{
     width: 20rem;
@@ -3719,38 +3719,54 @@ width: 80%;
     margin: 2rem 0rem 0rem;
   }
   .projects_item2 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item2 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item3 {
     width: 22rem;
+    margin: 1rem 2rem 1rem;
   }
   .projects_item3 p{
     width: 20rem;
+    margin: 1rem 1rem 1rem;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
   }
+  .projects_item3 .date{
+    margin: 0rem 1rem 2rem;
+  }
+  .projects_item3 .comment{
+    margin: 0rem 1rem 2rem;
+  }
   .projects_item4 {
     width: 22rem;
+    margin: 1rem 2rem 1rem;
+ 
   }
   .projects_item4 p{
     width: 20rem;
+    margin: 1rem 1rem 1rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
   }
- 
-  .projects_item3 p {
-    line-height: 30px;
-    font-size: 0.8rem;
-    width: 25rem;
-    padding: 0.5rem 2rem;
-    text-align: justify;
+  .projects_item4 .date{
+    margin: 0rem 1rem 2rem;
   }
-
+  .projects_item4 .comment{
+    margin: 0rem 1rem 2rem;
+  }
+  
+.container4_volunteer{
+  margin-top:-17rem ;
+}
+.contact_item6{
+  width: 90%;
+  margin: 0rem 1rem 3rem;
+}
 
 
 }

@@ -7256,19 +7256,17 @@ padding-left: 1.5rem;
     color: #782D50;
   }
   #events1{
-    display: block;
-    margin: 3rem 1rem 0rem;
+    display: flex;
+    flex-direction: row;
+    margin: 3rem 8rem 0rem;
     width: 100%;
   }
   
   .events_item2{
   
-    width: 85%;
-    height: 77vh;
-    display: block;
-    background-color: whitesmoke;
-  margin: 1rem 2rem 0rem;
-    border-radius: 0.5rem 0.5rem;
+    width: 30%;
+    height: 40rem;
+  margin: 0rem 2rem 0rem;
   }
   
   .events_item2 h3{
@@ -7282,15 +7280,13 @@ padding-left: 1.5rem;
   .events_item2 p{
     display: block;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
     line-height: 35px;
     padding: 0.5rem 1rem;
     text-align: justify;
     font-size: 0.9rem;
   }
-  .events_item2 i{
-    padding-left: 1rem;
-  }
+  
   
   
   .events_item2 .date{
@@ -7298,39 +7294,27 @@ padding-left: 1.5rem;
     margin-bottom: 1rem;
   font-size: 0.9rem;
   padding-left: 0rem;
-  color: #782D50;
   }
   .events_item2 .comment{
     margin-top: 1.5rem;
     margin-bottom: 1rem;
   font-size: 0.9rem;
-  padding-left: 2rem;
-  color: #782D50;
+  padding-left: 0rem;
   
   }
   .events_item2 button{
-    margin-left: 3rem;
+    margin-left: 7rem;
     width: 10rem;
-    height: 7vh;
-    background-color: #782D50;
-    color: white;
-    border-radius: 0.25rem 0.25rem;
-    border: 0.5px solid aqua;
+    height: 8vh;
+    font-size: 1rem;
   }
-  .events_item2 button:hover{
-    background-color: black;
-    color: white;
-  }
+  
   
   .events_item3{
   
-    width: 85%;
-    height: 47rem;
-    display: block;
-    background-color: whitesmoke;
-    margin: 0rem 2rem 0rem;
-    border-radius: 0.5rem 0.5rem;
-    margin-bottom: 3rem;
+    width: 30%;
+    height: 50rem;
+    margin: 0rem 1rem 3rem;
   }
   
   .events_item3 h3{
@@ -7344,228 +7328,192 @@ padding-left: 1.5rem;
     display: block;
     padding: 1rem 1rem;
     margin-top: 1rem;
-    margin-bottom: 1rem;
-    line-height: 30px;
+    margin-bottom: 0rem;
+    line-height: 35px;
     padding: 0.5rem 1rem;
     text-align: justify;
     font-size: 0.9rem;
   }
-  .events_item3 i{
-    padding-right: 0rem;
-  }
+  
   
   .events_item3 .date{
     margin-top: 1.5rem;
     margin-bottom: 1rem;
   font-size: 0.9rem;
-  padding-left: 2rem;
-  color: #782D50;
+  padding-left: 0rem;
   }
   .events_item3 .comment{
     margin-top: 1.5rem;
     margin-bottom: 1rem;
   font-size: 0.9rem;
-  padding-left: 1.5rem;
-  color: #782D50;
+  padding-left: 0rem;
   
   }
   .events_item3 button{
-    margin-left: 3rem;
+    margin-left: 7rem;
     width: 10rem;
-    height: 7vh;
-    background-color: #782D50;
-    color: white;
-    border-radius: 0.25rem 0.25rem;
-    border: 0.5px solid aqua;
+    height: 8vh;
+    font-size: 1rem;
   }
-  .events_item3 button:hover{
-    background-color: black;
-    color: white;
-  }
-
+  
 
   #projects .events_item1{
-    margin-left: 0rem;
+    margin: 0rem 0rem 0rem;
     width: 100%;
     height: 9rem;
     }
+    
 .container_projects {
   margin: 2rem 0rem 3rem;
-  display: block;
-  width: 100%;
 }
 
 .container_projects h2 {
   font-size:2rem;
-  display: block;
-  margin-left: 5rem;
+  text-align: center;
 }
 
 .container_projects p {
-  width: 100%;
-  display: block;
-  line-height: 35px;
-  margin: 1rem 0rem 0rem;
+  width: 65%;
+  line-height: 25px;
+  margin: 1rem 19rem 0rem;
   font-size: 0.9rem;
-height: 20%;
-text-align: justify;
+text-align: center;
 }
 
 .container_projects hr {
-  width: 2rem;
-  text-align: center;
   bottom: 70%;
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 40rem 0rem;
 }
-    
+.content_one .project1 {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 20rem;
+  margin: 2rem 0rem 2rem;
+}
+
+.group{
+  display: flex;
+  margin-left: 8rem;
+  flex-direction: row;
+}
+
+.group h3 {
+  margin: 1rem 0rem 1rem;
+  padding-left: 0.5rem;
+  font-size: 1.1rem;
+  line-height: 30px;
+}  
 .projects_item1 {
-  margin-top: 1rem;
-  margin-bottom: rem;
-  display: block;
-  width: 25rem;
-  height: 40rem;
-  background-color: whitesmoke;
-  margin-left: 0.5rem;
-  border-radius: 0.5rem;
+  width: 22rem;
+  height: 50rem;
+  margin: 1rem 0.5rem 1rem;
 }
 
 .projects_item1 p {
   line-height: 30px;
   font-size: 0.8rem;
-  width: 25rem;
-  padding: 0.5rem 1rem;
+  width: 18rem;
+  padding: 0.1rem 0rem;
   text-align: justify;
 }
 
-.projects_item1 i {
-  padding-right: 0rem;
-  color: #782D50;
-}
+
 
 .projects_item1 .date {
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 0rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
-  color: #782D50;
 }
 
 .projects_item1 .comment {
-  margin: 2rem 2rem 1rem;
+  margin: 2rem 1rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
-  color: #782D50;
 }
 
 .projects_item2 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  display: block;
-  justify-content: center;
-  background-color: whitesmoke;
-  margin-left: 0.5rem;
+  margin: 1rem 1rem 1rem;
   height: 35rem;
-  border-radius: 0.5rem;
-  width: 25rem;
+  width: 22rem;
 }
 
 .projects_item2 p {
   line-height: 30px;
   font-size: 0.8rem;
-  width: 25rem;
-  padding: 0.5rem 2rem;
+  width: 20rem;
+  padding: 0.1rem 0rem;
   text-align: justify;
-}
-
-.projects_item2 i {
-  padding-right: 0rem;
-  color: #782D50;
+  margin-left: 1rem;
 }
 
 .projects_item2 .date {
-  margin: 2rem 2rem 1rem;
+  margin: 2rem 0rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
-  color: #782D50;
 }
 
 .projects_item2 .comment {
   margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
-  color: #782D50;
 }
 
 .projects_item3 {
-  margin-top: 1rem;
-  margin-bottom: 0rem;
-  display: block;
-  justify-content: center;
-  align-items: center;
-  width: 25rem;
-  background-color: whitesmoke;
-  margin-left: 0.5rem;
-  height: 35rem;
-  border-radius: 0.5rem;
+  margin: 1rem 0.5rem 0rem;
+  width: 22rem;
+  height: 30rem;
 }
 
 .projects_item3 p {
   line-height: 30px;
   font-size: 0.8rem;
-  width: 25rem;
-  padding: 0.5rem 2rem;
+  width: 20rem;
+  padding: 0.5rem 0rem;
   text-align: justify;
+  margin-left: 1rem;
 }
 
-.projects_item3 i {
-  padding-right: 0rem;
-  color: #782D50;
-}
 
 .projects_item3 .date {
-  margin: 2rem 2rem 1rem;
+  margin: 2rem 0rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
-  color: #782D50;
 }
 
 .projects_item3 .comment {
   margin: 2rem 2rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
-  color: #782D50;
 }
 
 .projects_item4 {
-  margin-top: 1rem;
-  margin-bottom: 0rem;
-  display: block;
-  justify-content: center;
-  align-items: center;
-  width: 25rem;
-  background-color: whitesmoke;
-  margin-left: 0.5rem;
+  margin: 1rem 9rem 0rem;
+  width: 21rem;
   height: 33rem;
-  border-radius: 0.5rem;
 }
 .projects_item4 img{
   width: 100%;
   margin: 0;
 }
+.projects_item4 h3{
+  margin: 1rem 0rem 1rem;
+  padding-left: 0.5rem;
+  font-size: 1.1rem;
+  line-height: 30px;
+}
 .projects_item4 p {
   line-height: 30px;
   font-size: 0.8rem;
-  width: 25rem;
-  padding: 0.5rem 2rem;
+  width: 20rem;
+  padding: 0.5rem 0rem;
   text-align: justify;
+  margin-left: 1rem;
 }
 
-.projects_item4 i {
-  padding-right: 0rem;
-  color: #782D50;
-}
 
 .projects_item4 .date {
-  margin: 2rem 2rem 1rem;
+  margin: 2rem 0rem 1rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -7585,24 +7533,23 @@ text-align: justify;
     }
     
     .gallery3{
-      margin: 5rem 1.5rem 3rem;
+      margin: 5rem 2rem 3rem;
       display: block;
       width: 100%;
+
     }
     .gallery3 img{
-      width: 25rem;
-      height: 20rem;
+      width: 18rem;
+      height: 13rem;
     }
     .gallery3A{
-      display: block;
-     
+      display: flex;
     }
     .gallery3B{
-      display: block;
-     
+      display: flex;
     }
     .gallery3C{
-      display: block;
+      display: flex;
       
     }
     
@@ -7634,29 +7581,26 @@ text-align: justify;
 }
 .contact_item1 h2{
   margin: 2rem 7rem 0rem;
-  font-size: 2.2rem;
-  font-weight: bold;
+  font-size: 2rem;
   width: 100%;
 }
 .contact_item1 hr{
-  margin:1.5rem 12rem 2rem;
+  margin:1.5rem 7rem 2rem;
   width: 2rem; 
 }
 
 .contact_item1 p{
-  margin: 1rem 3rem 1rem;
+  margin: 1rem 7rem 1rem;
   width: 2rem;
   margin-top: 1rem;
  width: 100%;
  margin-bottom: 2rem;
+ font-size: 1rem;
 }
 .contact_item1 span{
   margin-right: 2rem;
   width: 3rem;
   height: 3rem;
-  color: white;
-  border-radius: 50%;
-  background-color: #782D50;
   padding: 0.8rem 1rem;
   font-size: 1.4rem;
 }
@@ -7666,118 +7610,86 @@ text-align: justify;
   width: 100%;
 }
 .contact_item2 h2{
-  margin-left: 4rem;
-  font-size: 2.2rem;
-  font-weight: bold;
-  margin-top: 2rem;
+  margin: 2rem 7rem 0rem;
+  font-size: 2rem;
 }
 .contact_item2 hr{
-  margin-left: 4rem;
-  width: 2rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin: 1rem 7rem 2rem;
 }
 .contact_item2 p{
-  margin: 1rem 3rem 2rem;
-  width: 2rem;
+  margin: 1rem 7rem 2rem;
+  width: 100%;
   line-height: 30px;
- width: 100%;
- font-weight: bold;
  font-size: 1.3rem;
  padding-right: 5rem;
 }
 .contact_item3{
   display: block;
   line-gap-override: 1rem;
-  margin-left: 0rem;
-  margin-bottom: 0.5rem;
+  margin: 0rem 8rem 0.5;
 }
 .contact_item3A{
-  display: block;
+  display: flex;
+  margin-left: 7rem;
 }
 .contact_item3B{
-  display: block;
- 
+  display:flex;
+ margin-left: 7rem;
 }
 .contact_item3 #name{
-  width: 90%;
+  width: 33rem;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
   font-size: 1.1rem;
 }
 
 .contact_item3 #email{
-  width: 90%;
+  width: 33rem;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
   font-size: 1.1rem;
   
 }
 
 .contact_item3 #subject{
-  width:90%;
+  width:33rem;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
   font-size: 1.1rem;
 }
 
 .contact_item3 #number{
-  width: 90%;
+  width: 33rem;
   height: 8vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
   margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
   font-size: 1.1rem;
  
 }
 .contact_item4 textarea{
-  width: 90%;
+  width: 81%;
   height: 30vh;
-  background-color: whitesmoke;
   padding-left: 1rem;
-  border: none;
-  margin:0rem 1rem 1rem;
-  border-radius: 0.25rem 0.25rem;
+  margin:0rem 8rem 1rem;
   padding-top: 1rem;
   font-size: 1.1rem;
 }
 .contact_item5 button{
-  width: 12rem;
+  width: 13rem;
   height: 8vh;
-  margin:0rem 1rem 1rem;
-  color: white;
-  background-color: #782D50;
-  border-radius: 0.25rem 0.25rem;
-  border: none;
+  margin:0rem 8rem 1rem;
+  font-size: 1rem;
 }
-.contact_item5 a{
-  color: white;
-  text-decoration: none;
-}
-.contact_item5 button:hover{
-  background-color: black;
-  color: white;
-}
+
 .contact_item6{
   margin-bottom: 3rem;
   width: 100%;
 }
 .contact_item6 em{
-  margin:0rem 2rem 1rem;
+  margin:0rem 8rem 1rem;
   width: 100%;
   font-size: 1.2rem;
  
@@ -7791,24 +7703,23 @@ text-align: justify;
 
 .container_volunteers h2 {
   font-size:2rem;
-  display: block;
-  margin-left: 5rem;
+  text-align: center;
 }
 
 .container_volunteers p {
   width: 100%;
-  display: block;
-  line-height: 35px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 2rem 0rem;
   font-size: 0.9rem;
-height: 20%;
+text-align: center;
+
 }
 
 .container_volunteers hr {
-  width: 2rem;
-  text-align: center;
   bottom: 70%;
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 42rem 0rem;
+}
+.container4_volunteer{
+  margin-top: 5rem;
 }
 #donate .events_item1{
   margin-left: 0rem;
@@ -7852,9 +7763,9 @@ height: 20%;
 figure{
   display: flex;
   flex-direction: column;
-  width: 70%;
+  width: 25%;
   height: 20%;
-  margin:3rem 0.2rem 5rem;
+  margin:3rem 0.2rem 4rem;
 }
 
 

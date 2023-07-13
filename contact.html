@@ -57,7 +57,12 @@
                 </ul>
             </div>
                </nav>
-            
+               <script type="text/javascript">
+                window.addEventListener("scroll", function(){
+                    let navbar = document.querySelector('.navbar');
+            navbar.classList.toggle("sticky",window.scrollY> 0)
+                })
+               </script>
             
             <div>
                 <nav class="header_link">

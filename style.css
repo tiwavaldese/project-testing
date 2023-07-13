@@ -43,7 +43,7 @@ img {
   background-color:#782D50;
 
 }
-.navbar.sticky  li a{
+.navbar.sticky ul li a{
   color: #fff;
 }
 .img_1 {
@@ -2985,6 +2985,7 @@ color: gainsboro;
   }
   .navbar {
     padding-bottom: 30px;
+    display: block;
   }
   img {
     max-width: 100%;

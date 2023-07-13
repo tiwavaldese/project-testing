@@ -43,7 +43,12 @@
         
          </div>   
     </ul>
-   
+   <script type="text/javascript">
+    window.addEventListener("scroll", function(){
+        let navbar = document.querySelector('.navbar');
+navbar.classList.toggle("sticky",window.scrollY> 0)
+    })
+   </script>
         
        <nav class="navbar"><img class="img_1" src="img/logo.jpg" alt="LoGo" >
         <div>

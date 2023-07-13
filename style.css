@@ -1973,11 +1973,11 @@ height: 20%;
   .blog_item1 h2 {
     display: flex;
     text-align: center;
-    width:30% ;
-    height: 6vh;
-  padding-top: 2rem;
+    width:100% ;
+    height: 5vh;
+  padding-top: 1.5rem;
     justify-content: center;
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
   .blog_item1 p{
     display: flex;
@@ -2024,7 +2024,7 @@ padding-right:38rem;
   width: 2rem;
   text-align: center;
   bottom: 70%;
-  margin: 1rem 12rem 0rem;
+  margin: 1rem 5rem 0rem;
 }
 
 .blog_item2{
@@ -2969,7 +2969,7 @@ color: gainsboro;
   color: rgb(0,127,255);
   margin: 3rem 1rem 0rem;
 }
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   html, body {
     overflow-x: hidden;
   }
@@ -3092,7 +3092,6 @@ color: gainsboro;
 .slide .captionI {
   bottom: 18%;
   margin-left: -3rem;
-  
   width: 25%;
   height: 2.5rem;
   padding: 0.2rem 1rem 0rem;
@@ -3108,24 +3107,23 @@ width: 90%;
   text-align: justify;
 }
 
-
 .content {
-  margin: 5rem 0rem 73rem 0rem;
+  margin: 5rem 0rem 70rem 0rem;
   
 }
 .grid_item1{
-margin-left: 1rem;
+margin-left: 0.5rem;
 }
 .grid_item2{
-  margin-left: 1rem;
+  margin-left: 0.5rem;
   }
   .grid_item3{
-    margin-left: 1rem;
+    margin-left: 0.5rem;
     }
   .grid_item button {
     width: 30%;
     height:9vh;
-    margin-top: -13rem;
+    margin-top: -16rem;
   }
   .container1 {
     width: 100%;
@@ -3193,6 +3191,7 @@ margin-left: 1rem;
   }
   .img_8 {
     width: 100%;
+    height: 30vh;
   }
   .captionA2 {
     bottom: 71%;
@@ -3204,7 +3203,7 @@ margin-left: 1rem;
     margin-left: 7rem;
   }
   .captionC2 {
-    bottom: 30%;
+    bottom: 22%;
     width: 90%;
     margin-left: 3rem;
     line-height: 20px;
@@ -3214,9 +3213,9 @@ margin-left: 1rem;
   .captionD2 {
     
     width: 8rem;
-    height: 7vh;
+    height: 6vh;
     margin-left: 6rem;
-    padding: 0.7rem 1rem 0rem;
+    padding: 1rem 1rem 0rem;
   }
   
   
@@ -3229,7 +3228,7 @@ margin-left: 1rem;
     background-color: #782D50;
     border-radius: 0.25rem;
     width: 9rem;
-    height:7vh;
+    height:6vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -3270,20 +3269,24 @@ margin-left: 1rem;
   #content1 {
     display: block;
     margin-bottom: 0rem;
-    margin-left: -1rem;
+    margin-left: -1.5rem;
   }
   #content1i {
     display: block;
     position: relative;
     bottom: 12rem;
-    margin-left: -1rem;
+    margin-left: -1.5rem;
   }
   .container_home {
     margin: 3rem 0rem 3rem;
 
   }
+  .container_home h2{
+    margin-left: 0rem;
+    text-align: center;
+  }
   .container_home p {
-    margin-left: 5rem;
+    margin-left: 3rem;
     padding-right: 2rem; 
     width: 100%;
     text-align: justify;
@@ -3331,7 +3334,7 @@ margin-left: 1rem;
   }
   .content2 {
    
-    padding: 1rem 1.7rem 0rem;
+    padding: 1.5rem 1.7rem 0rem;
 
   }
   .content2 a {
@@ -3353,7 +3356,7 @@ margin-left: 1rem;
     width: 100%;
   }
   .content3{
-    margin-left: 3.5rem;
+    margin-left: 3rem;
   }
   .grid_5 img {
     width: 100%;
@@ -3426,7 +3429,7 @@ strong{
 }
 .about_item2  p{
 width:90%;
-height: 10vh;
+height: 38vh;
 margin: 1rem 1.5rem 0rem;
 line-height: 30px;
 padding: 0.5rem 1rem 0rem;
@@ -3441,7 +3444,7 @@ margin-top: 1.5rem;
 .about_item3{
   width: 13rem;
   height: 8vh;
-  padding: 1.8rem 2.4rem;
+  padding: 1.7rem 2.4rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
   font-size: 0.9rem;
@@ -3565,9 +3568,9 @@ font-size: 0.9rem;
 .about_item5 span{
   width: 10rem;
   height: 6vh;
-  margin: 2rem 10rem 0rem;
+  margin: 2rem 7rem 0rem;
   font-size: 0.9rem;
-  padding: 0.6rem 0rem 0rem;
+  padding: 1rem 0rem 0rem;
 }
 
 #creation{
@@ -3576,12 +3579,12 @@ font-size: 0.9rem;
 }
 .about_item6 h2{
   width: 100%;
- margin-left: 8rem;
+ margin-left: 6rem;
   font-size: 2rem;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 13rem 1rem;
+  margin: 2rem 12rem 1rem;
  
 }
 .about_item6 p{
@@ -3596,7 +3599,7 @@ font-size: 0.9rem;
   margin: 0rem 0rem 0rem;
 }
 .about_item7 {
-  margin:4rem 1rem 0rem;
+  margin:4rem 0rem 0rem;
  
 }
 .about_item7 label{
@@ -3654,7 +3657,7 @@ margin-bottom:-0rem ;
   width: 24rem;
 }
 .about_partner{
-  margin-top: -16rem;
+  margin-top: -16rem ;
 }
 .container_about {
   margin: 3rem 0rem 3rem;
@@ -3665,14 +3668,14 @@ margin-bottom:-0rem ;
 .container_about h2 {
   font-size:2rem;
   display: block;
-  margin-left: 5rem;
+  margin-left: 3.5rem;
 }
 
 .container_about p {
   width: 100%;
   display: block;
   line-height: 35px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 4rem 0rem;
   font-size: 0.9rem;
 height: 20%;
 }
@@ -3681,7 +3684,7 @@ height: 20%;
   width: 2rem;
   text-align: center;
   bottom: 70%;
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 12rem 0rem;
 }
 
   
@@ -3708,7 +3711,7 @@ height: 20%;
 }
 
 .container_blog h2 {
-  margin-left: 8rem;
+  margin-left: 6rem;
 }
 
 .container_blog p {
@@ -3719,10 +3722,10 @@ width: 80%;
 
 .container_blog hr {
  
-  margin: 1rem 14rem 0rem;
+  margin: 1rem 11rem 0rem;
 }
 .blog_item2{
-  margin-left: 1.9rem;
+  margin-left: 1.5rem;
   width: 80%;
   height:100vh;
 }
@@ -3730,7 +3733,7 @@ width: 80%;
   height: 30vh;
   }
 .blog_item3{
-  margin:1rem 1.9rem 0rem ;
+  margin:1rem 1.5rem 0rem ;
   width: 80%;
   height: 80vh;
 }
@@ -3740,7 +3743,7 @@ width: 80%;
   }
   
 .blog_item4{
-  margin: 1rem 1.9rem 0rem;
+  margin: 1rem 1.5rem 0rem;
   width: 80%;
   height: 80vh;
 }
@@ -3761,11 +3764,11 @@ width: 80%;
   .events_item2{
     width: 75%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 2rem 2rem;
   }
   
   .events_item2 button{
-    margin: 1rem 6rem 2rem;
+    margin: 1rem 4.5rem 2rem;
   }
   .events_item2 button:hover{
     background-color: black;
@@ -3775,10 +3778,10 @@ width: 80%;
   .events_item3{
     width: 75%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 2rem 2rem;
   }
   .events_item3 button{
-    margin: 1rem 6rem 2rem;
+    margin: 1rem 4.5rem 2rem;
   }
 
   .container_projects {
@@ -3787,20 +3790,20 @@ width: 80%;
   }
   
   .container_projects h2 {
-    margin-left: 6rem;
+    margin-left: 4rem;
   }
   .container_projects p {
-    margin: 1rem 3rem 0rem;
+    margin: 1rem 2.5rem 0rem;
     width: 80%;
   }
   
   .container_projects hr {
-    margin: 1rem 13rem 0rem;
+    margin: 1rem 11rem 0rem;
   }
   .projects_item1 {
     width: 22rem;
-    height: 85%;
-    margin: 1rem 2rem 1rem;
+    height: 100vh;
+    margin: 1rem 0rem 1rem;
   }
   .projects_item1 p{
     width: 20rem;
@@ -3817,8 +3820,8 @@ width: 80%;
   }
   .projects_item2 {
     width: 22rem;
-    margin: 1rem 2rem 1rem;
-    height: 55%;
+    margin: 1rem 0rem 1rem;
+    height: 80vh;
   }
   .projects_item2 p{
     width: 20rem;
@@ -3835,7 +3838,7 @@ width: 80%;
   }
   .projects_item3 {
     width: 22rem;
-    margin: 1rem 2rem 1rem;
+    margin: 1rem 0rem 1rem;
   }
   .projects_item3 p{
     width: 20rem;
@@ -3853,7 +3856,7 @@ width: 80%;
   .projects_item4 {
     width: 22rem;
     margin: 1rem 2rem 1rem;
- 
+ height: 80vh;
   }
   .projects_item4 p{
     width: 20rem;
@@ -3869,8 +3872,20 @@ width: 80%;
     margin: 0rem 1rem 2rem;
   }
   
+  .container_volunteers {
+    margin-left: -2rem;
+  }
 .container4_volunteer{
   margin-top:-17rem ;
+}
+.gallery3{
+  margin-left: -0.5rem;
+}
+.contact_item1 h2{
+  margin-left: 3rem;
+}
+.contact_item1 hr{
+  margin-left: 3.5rem;
 }
 .contact_item6{
   width: 90%;
@@ -3878,7 +3893,7 @@ width: 80%;
 }
 
 .fill{
-  height: 70vh;
+  height: 100vh;
  
 }
 .login{
@@ -3888,13 +3903,13 @@ width: 80%;
 font-size: 1.2rem;
 }
 .login .content_2{
-margin-left: 13rem;
+margin-left: 10rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
   margin: 3rem 1rem 3rem;
-  padding: 0.6rem 1rem 0rem;
-  width: 26rem;
+  padding: 0.5rem 1rem 0rem;
+  width: 24rem;
   height: 4vh;
 }
 .fill .email{
@@ -3903,7 +3918,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 3rem;
-  width: 16.5rem;
+  width: 15.5rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -3912,11 +3927,11 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 16rem;
+  width: 15rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
-  margin: 1rem 8.7rem 0rem;
+  margin: 1rem 8.2rem 0rem;
 
 }
 .checkbox{
@@ -3936,783 +3951,6 @@ font-size: 1.2rem;
   margin: 3rem 1rem 0rem;
 }
 
-  }@media screen and (max-width: 440px) {
- 
-    .about_item2 img{
-      margin-top:-8rem;
-    }
-    .about_item3{
-      padding-top:2rem;
-    }
-.about_item2  p{
-  line-height: 20px;
-  height: 40vh;
-  color: orangered;
-  }
- 
-  .about_item3{
-    width: 13rem;
-    height: 8vh;
-    padding: 1.8rem 2.4rem 0rem;
-    margin: 2rem 2rem 4rem;
-    font-size: 0.9rem;
-  }
-  
-  .about_item4{
-    display: block;
-    margin: 5rem 0rem 3rem;
-  }
-  #fourA{
-    display: flex;
-    flex-direction: row;
-  margin-left: 4rem;
-  font-size: 2.5rem;
-  font-weight: 600;
-  color: black;
-  
-  }
-  #fourA i{
-   display: flex;
-   width: 70px;
-   height: 70px;
-   border-radius: 50%;
-  color: white;
-  background-color: #782D50;
-  padding: 1rem 1.3rem;
-  font-size: 1.9rem;
-  }
-  #fourA span{
-  margin-top: 1rem;
-  margin-left: 1rem;
-  
-  }
-  .fourA{
-    font-size: 1rem;
-    margin: 0rem 12rem 0rem;
-    position: relative;
-    bottom: 1rem;
-    width: 10rem;
-  }
-  #three{
-    margin: 4rem 4rem 0rem;
-    font-size: 2.5rem;
-    color: black;
-    font-weight: 600;
-  }
-  #three i{
-    display: flex;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    color: white;
-  background-color: #782D50;
-  padding: 1rem 1.2rem;
-  font-size: 1.9rem;
-  }
-  #three span{
-    margin-top: 0rem;
-    margin-left: 5.5rem;
-    padding-bottom: 3rem;
-   position: relative;
-   bottom: 3rem;
-     }
-  .three{
-    font-size: 1rem;
-    margin: 0rem 12rem 0rem;
-    position: relative;
-    bottom:3rem;
-    width: 7rem;
-  }
-  #fourB{
-    margin: 3rem 4rem 0rem;
-    font-size: 2.5rem;
-    color: black;
-    font-weight: 600;
-  }
-  #fourB i{
-    display: flex;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    color: white;
-  background-color: #782D50;
-  padding: 1rem 1.5rem;
-  font-size: 1.9rem;
-  }
-  #fourB span{
-    margin-top: 0rem;
-    margin-left: 5.5rem;
-    padding-bottom: 3rem;
-   position: relative;
-   bottom: 3rem;
-     }
-  .fourB{
-    font-size: 1rem;
-    margin: 0rem 12rem 0rem;
-    position: relative;
-    bottom: 4rem;
-  }
-  .about_item5{
-    display: block;
-    text-align: center;
-    color: white;
-    background-color: #782D50;
-    padding-top: 1rem;
-    width: 100%;
-    height: 50rem;
-    margin-left: 0rem;
-    
-  }
-  .about_item5 h2{
-    font-size: 2rem;
-    margin-bottom: 1.5rem;
-  }
-  .about_item5 h3{
-    font-size: 1rem;
-    margin-bottom: 1.5rem;
-  }
-  .about_item5 p{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   width: 100%;
-   line-height: 30px;
-  padding: 0.5rem 2rem 0rem;
-  text-align: justify;
-  font-size: 0.9rem;
-  }
-  .about_item5 span{
-    display: block;
-    justify-content: center;
-    align-items: center;
-    width: 10rem;
-    height: 6vh;
-    margin: 1rem 10rem 0rem;
-    background-color: white;
-    color: #782D50;
-    font-size: 0.9rem;
-    border-radius: 0.25rem;
-    padding: 0.6rem 0rem 0rem;
-  }
-  .about_item5 span:hover{
-    background-color: black;
-  }
-  .about_item5 a{
-    color: #782D50 ;
-    text-decoration: none;
-  }
-  
-  #creation{
-    display: block;
-    margin: 3rem 0rem 0rem;
-    width: 100%;
-  
-  }
-  .about_item6 h2{
-    width: 100%;
-    display: block;
-   margin-left: 8rem;
-    font-size: 2rem;
-  }
-  .about_item6 span{
-    color: #782D50;
-  }
-  .about_item6 hr{
-    width: 2rem;
-    margin: 2rem 13rem 2rem;
-   
-  }
-  .about_item6 p{
-    display: block;
-    width: 100%;
-    margin: 0rem 0rem 1.5rem;
-    line-height: 35px;
-    padding: 0.5rem 1rem;
-    text-align: justify;
-    font-size: 0.9rem;
-  }
-  .about_item6 img{
-    display: block;
-    width: 100%;
-    height: 35vh;
-    margin: 0rem 0rem 0rem;
-  }
-  .about_item7 {
-    margin: 5.5rem 1rem 0rem;
-   
-  }
-  .about_item7 label{
-    display: block;
-    font-size: 1rem;
-    font-weight: bold;
-    height: 8vh;
-    width: 100%;
-    margin: 0rem 0rem 0.7rem;
-    padding: 0.5rem 2rem 0rem;
-  background-color: whitesmoke;
-  }
-  .about_item7 input{
-    width: 10vw;
-    height: 3.5vh;
-  padding: 1rem 0rem 0rem;
-  }
-  .about_item7 p{
-    
-  display: block;
-  width: 100%;
-  font-weight: lighter;
-  line-height: 25px;
-  padding: 0rem 1rem;
-  text-align: justify;
-  font-size: 0.9rem;
-  }
-  #term-of-office{
-   
-   margin-bottom: 4rem;
-   padding: 0rem 1rem 0rem;
-  }
-  .term-of-office p{
-    width: 100%;
-    margin: -3.5rem 0rem -1rem;
-  }
-  .vision-and-goal p{
-    margin: -3.5rem 0rem -1rem;
-  
-  }
-  #project-committee{
-  margin-top:-0rem ;
-  margin-bottom:-0rem ;
-  }
-  .project-committee p{
-    margin: -3.5rem 0rem -1rem;
-    width: 100%;
-  }
-  .membership-status p{
-    margin: -3.5rem 0rem -1rem;
-    width: 100%;
-  }
-  .specific-objective p{
-    margin: -3.5rem 0rem -1rem;
-    width: 100%;
-    line-height: 30px;
-  }
-  .activities p{
-    margin: -3.5rem 0rem -1rem;
-    width: 100%;
-  }
-  
-  .container_about {
-    margin: 3rem 0rem 3rem;
-    display: block;
-    width: 100%;
-  }
-  
-  .container_about h2 {
-    font-size:2rem;
-    display: block;
-    margin-left: 5rem;
-  }
-  
-  .container_about p {
-    width: 100%;
-    display: block;
-    line-height: 35px;
-    margin: 1rem 5rem 0rem;
-    font-size: 0.9rem;
-  height: 20%;
-  }
-  
-  .container_about hr {
-    width: 2rem;
-    text-align: center;
-    bottom: 70%;
-    margin: 1rem 13rem 0rem;
-  }
-  
-    .blog_item1 {
-      width: 100%;
-      margin: -1.5rem 3rem 0rem;
-      background-color: rgba(0, 0, 0, 0.8);
-      color: white;
-      height: 10rem;
-      padding: 0rem 4rem 0rem;
-    }
-    .blog_item1 h2 {
-      width:80% ;
-    }
-    .blog_item1 p{
-      display: flex;
-      text-align: center;
-      width: 30%;
-      height: 5vh;
-    padding-top: 3rem;
-      justify-content: center;
-     
-    }
-  #blog1{
-    display: block;
-    margin-top: 5rem;
-    margin-left: 1rem;
-  }
-  #blog1:hover{
-    opacity: 0.5;
-  }
-  
-  .container_blog {
-    margin: 3rem 0rem 3rem;
-    display: block;
-    width: 100%;
-  }
-  
-  .container_blog h2 {
-    font-size:1.5rem;
-    display: block;
-    margin-left: 6.5rem;
-  }
-  
-  .container_blog p {
-    width: 100%;
-    display: block;
-    line-height: 30px;
-    margin: 1rem 0.5rem 0rem;
-    font-size: 0.9rem;
-    text-align: justify;
-  height: 20%;
-  padding-right:38rem;
-  }
-  
-  .container_blog hr {
-    width: 2rem;
-    text-align: center;
-    bottom: 70%;
-    margin: 1rem 12rem 0rem;
-  }
-  
-  .blog_item2{
-  
-    width: 39%;
-    height:75vh;
-    display: block;
-    background-color: whitesmoke;
-    margin-left: 0rem;
-    border-radius: 0.5rem 0.5rem;
-  }
-  .blog_item2 img{
-  display: block;
-  width: 100%;
-  height: 15vh;
-  border-radius: 0.5rem 0.5rem;
-  }
-  .blog_item2 h2{
-    display: block;
-    padding-left: 2rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 1rem;
-  }
-  .blog_item2 p{
-    display: block;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    line-height: 30px;
-   padding: 0rem 1rem 0rem;
-    text-align: justify;
-    font-size: 0.9rem;
-    width: 100%;
-  }
-  .blog_item2 i{
-    padding-right: 0rem;
-  }
-  
-  
-  .blog_item2 .date{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 0.9rem;
-  padding-left: 2rem;
-  color: #782D50;
-  }
-  .blog_item2 .comment{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 0.9rem;
-  padding-left: 1.5rem;
-  color: #782D50;
-  }
-  
-  .blog_item3{
-  
-    width: 39%;
-    height: 57vh;
-    display: block;
-    background-color: whitesmoke;
-    margin:1rem 0rem 0rem ;
-    border-radius: 0.5rem 0.5rem;
-  
-  }
-  .blog_item3 img{
-  display: block;
-  width: 100%;
-  height:35%;
-  border-radius: 0.5rem 0.5rem;
-  }
-  .blog_item3 h2{
-    display: block;
-    padding-left: 3rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 1rem;
-  }
-  .blog_item3 p{
-    display: block;
-    padding: 1rem 1rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    line-height: 30px;
-    padding: 0.5rem 1rem;
-    text-align: justify;
-    font-size: 0.9rem;
-    width: 100%;
-  }
-  .blog_item3 i{
-    padding-right: 0rem;
-  }
-  
-  .blog_item3 .date{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 0.9rem;
-  padding-left: 2rem;
-  color: #782D50;
-  }
-  .blog_item3 .comment{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 0.9rem;
-  padding-left: 1.5rem;
-  color: #782D50;
-  }
-  
-  .blog_item4{
-  
-    width: 39%;
-    height: 65vh;
-    display: block;
-    background-color: whitesmoke;
-    margin: 1rem 0rem 0rem;
-    
-    border-radius: 0.5rem 0.5rem;
-  
-  }
-  .blog_item4 img{
-  display: block;
-  width: 100%;
-  height: 35%;
-  border-radius: 0.5rem 0.5rem;
-  }
-  .blog_item4 h2{
-    display: block;
-    padding-left: 3rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 1rem;
-  }
-  .blog_item4 p{
-    display: block;
-    padding: 1rem 1rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    line-height: 30px;
-    padding: 0.5rem 1rem;
-    text-align: justify;
-    font-size: 0.9rem;
-  }
-  .blog_item4 i{
-    padding-right: 0rem;
-  }
-  
-  
-  .blog_item4 .date{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 0.9rem;
-  padding-left: 2rem;
-  color: #782D50;
-  }
-  .blog_item4 .comment{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  font-size: 0.9rem;
-  padding-left: 1.5rem;
-  color: #782D50;
-  }
-  #btn{
-    margin:3rem 1rem 3rem;
-    width: 100%;
-    height: 10vh;
-   
-  }
-  .Btn a{
-    color: black;
-    text-decoration: none;
-  }
-  .Btn1 a{
-    color: white;
-    text-decoration: none;
-  }
-  .Btn2 a{
-    color: black;
-    text-decoration: none;
-  }
-  .Btn3 a{
-    color: black;
-    text-decoration: none;
-  }
-  .Btn4 a{
-    color: black;
-    text-decoration: none;
-  }
-  .Btn{
-    width: 15vw;
-    height: 6vh;
-    font-size: 0.9rem;
-    border: none;
-  }
-  .Btn:hover{
-  background-color: #782D50;
-  color: white;
-  }
-  .Btn1{
-    width: 8vw;
-    height: 6vh;
-    font-size: 0.9rem;
-    color: white;
-    background-color: #782D50;
-    border: none;
-  }
-  .Btn2{
-    width: 8vw;
-    height: 6vh;
-    font-size: 0.9rem;
-    border: none;
-  }
-  .Btn2:hover{
-    background-color: #782D50;
-    color: white;
-     }
-  .Btn3{
-    width: 8vw;
-    height: 7vh;
-    font-size: 0.9rem;
-    border: 2px solid aqua;
-   
-  }
-  .Btn3:hover{
-    background-color: #782D50;
-    color: white;
-     }
-  .Btn4{
-    width: 10vw;
-    height: 6vh;
-    font-size: 0.9rem;
-    border: none;
-  }
-  .Btn4:hover{
-    background-color: #782D50;
-    color: white;
-     }
-  
-  
-     .events_item1{
-      margin: -2rem 0rem 0rem;
-      width: 100%;
-      background-color: rgba(0, 0, 0, 0.8);
-      color: white;
-      height: 10rem;
-     }
-    .events_item1 h2 {
-      display: flex;
-      text-align: center;
-      width: 100%;
-    padding-top: 1.5rem;
-      justify-content: center;
-      font-size: 2.5rem;
-    }
-    .events_item1 p{
-      display: flex;
-      text-align: center;
-      width:100%;
-    padding-top: 1rem;
-      justify-content: center;
-      font-size: 0.8rem;
-    }
-    .events_item1 p:hover{
-      color: #782D50;
-    }
-    #events1{
-      display: block;
-      margin: 3rem 1rem 0rem;
-      width: 100%;
-    }
-    
-    .events_item2{
-    
-      width: 85%;
-      height: 77vh;
-      display: block;
-      background-color: whitesmoke;
-    margin: 1rem 2rem 0rem;
-      border-radius: 0.5rem 0.5rem;
-    }
-    
-    .events_item2 h3{
-      display: block;
-      padding: 1rem 1rem 0rem;
-      margin: 1rem 0rem 1rem;
-    font-size: 1.2rem;
-    line-height: 30px;
-    text-align: justify;
-    }
-    .events_item2 p{
-      display: block;
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-      line-height: 35px;
-      padding: 0.5rem 1rem;
-      text-align: justify;
-      font-size: 0.9rem;
-    }
-    .events_item2 i{
-      padding-left: 1rem;
-    }
-    
-    
-    .events_item2 .date{
-      margin-top: 1.5rem;
-      margin-bottom: 1rem;
-    font-size: 0.9rem;
-    padding-left: 0rem;
-    color: #782D50;
-    }
-    .events_item2 .comment{
-      margin-top: 1.5rem;
-      margin-bottom: 1rem;
-    font-size: 0.9rem;
-    padding-left: 2rem;
-    color: #782D50;
-    
-    }
-    .events_item2 button{
-      margin-left: 3rem;
-      width: 10rem;
-      height: 7vh;
-      background-color: #782D50;
-      color: white;
-      border-radius: 0.25rem 0.25rem;
-      border: 0.5px solid aqua;
-    }
-    .events_item2 button:hover{
-      background-color: black;
-      color: white;
-    }
-    
-    .events_item3{
-    
-      width: 85%;
-      height: 47rem;
-      display: block;
-      background-color: whitesmoke;
-      margin: 0rem 2rem 0rem;
-      border-radius: 0.5rem 0.5rem;
-      margin-bottom: 3rem;
-    }
-    
-    .events_item3 h3{
-      display: block;
-      padding: 1rem 1rem 0rem;
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-    font-size: 1.25rem;
-    }
-    .events_item3 p{
-      display: block;
-      padding: 1rem 1rem;
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-      line-height: 30px;
-      padding: 0.5rem 1rem;
-      text-align: justify;
-      font-size: 0.9rem;
-    }
-    .events_item3 i{
-      padding-right: 0rem;
-    }
-    
-    .events_item3 .date{
-      margin-top: 1.5rem;
-      margin-bottom: 1rem;
-    font-size: 0.9rem;
-    padding-left: 2rem;
-    color: #782D50;
-    }
-    .events_item3 .comment{
-      margin-top: 1.5rem;
-      margin-bottom: 1rem;
-    font-size: 0.9rem;
-    padding-left: 1.5rem;
-    color: #782D50;
-    
-    }
-    .events_item3 button{
-      margin-left: 3rem;
-      width: 10rem;
-      height: 7vh;
-      background-color: #782D50;
-      color: white;
-      border-radius: 0.25rem 0.25rem;
-      border: 0.5px solid aqua;
-    }
-    .events_item3 button:hover{
-      background-color: black;
-      color: white;
-    }
-  
-  
-    #projects .events_item1{
-      margin-left: 0rem;
-      width: 100%;
-      height: 9rem;
-      }
-  .container_projects {
-    margin: 2rem 0rem 3rem;
-    display: block;
-    width: 100%;
-  }
-  
-  .container_projects h2 {
-    font-size:2rem;
-    display: block;
-    margin-left: 5rem;
-  }
-  
-  .container_projects p {
-    width: 100%;
-    display: block;
-    line-height: 35px;
-    margin: 1rem 0rem 0rem;
-    font-size: 0.9rem;
-  height: 20%;
-  text-align: justify;
-  }
-  
-  .container_projects hr {
-    width: 2rem;
-    text-align: center;
-    bottom: 70%;
-    margin: 1rem 13rem 0rem;
-  }
-      
-  }
 
 @media screen and (max-width: 480px) {
   html, body {

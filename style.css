@@ -2961,6 +2961,81 @@ color: gainsboro;
   color: rgb(0,127,255);
   margin: 3rem 1rem 0rem;
 }
+@media  only screen and (max-width:420px)
+{
+  
+.fill{
+  height: 100vh;
+  width: 100%;
+}
+.login{
+  display: flex;
+  padding: 2rem 0rem 0rem;
+}
+.content_1{
+font-size: 1.2rem;
+}
+.login .content_2{
+margin-left: 0rem;
+font-size: 0.9rem;
+padding-right: 2rem;
+}
+.fill .content_A{
+  margin: 3rem 1rem 3rem;
+  padding: 0.5rem 1rem 0rem;
+  width: 5rem;
+  height: 4vh;
+}
+.fill .email{
+  margin: 0rem 1rem 1.5rem;
+  width: 30rem;
+}
+.fill .email input{
+  height: 3rem;
+  width: 14.5rem;
+  margin: 0rem 0.5rem 2rem;
+}
+.fill .password{
+  margin: 0rem 3rem 2rem;
+  width: 30rem;
+}
+.fill .password input{
+  height: 3rem;
+  width: 14rem;
+  margin: 0rem 0.5rem 0rem;
+  border-radius: 0.25rem;
+}
+.check{
+  margin: 1rem 7.5rem 0rem;
+  color: white;
+
+}
+.checkbox{
+  width: 3rem;
+  height: 1.5rem;
+}
+.fill .contentA{
+  display: flex;
+  margin:3rem 8rem 0rem ;
+  width: 100%;
+}
+.fill .contentA button{
+  height: 3rem;
+  width: 4rem;
+  color: white;
+  background-color: black;
+  border-radius: 0.25rem;
+  margin-top:-1rem ;
+  border: none;
+}
+.fill .contentA button:hover{
+  background-color: rgb(0,127,255);
+}
+.fill .contentA  a{
+  color: rgb(0,127,255);
+  margin: 3rem 1rem 0rem;
+}
+}
 @media screen and (max-width: 480px) {
   html, body {
     overflow-x: hidden;
@@ -3001,7 +3076,7 @@ color: gainsboro;
   }
   .slider_container {
     width: 100%;
-    height: 30%;
+    height: 20%;
   }
   .slider {
     width:100%;
@@ -3011,7 +3086,7 @@ color: gainsboro;
   .slide.one img {
     width: 100%;
     margin: -1.5rem 0rem 10rem;
-    height: 20%;
+    height: 10%;
   }
   
   .slide.two img {
@@ -3090,7 +3165,7 @@ color: gainsboro;
   padding: 0.2rem 1rem 0rem;
 }
 .container {
-  margin: -7rem 0rem 3rem;
+  margin: -7rem -0.5rem 3rem;
 width: 90%;
 }
 .container p {
@@ -3105,10 +3180,19 @@ width: 90%;
   margin: 5rem 0rem 78rem 0rem;
   
 }
-  
+.grid_item1{
+margin-left: 1rem;
+}
+.grid_item2{
+  margin-left: 1rem;
+  }
+  .grid_item3{
+    margin-left: 1rem;
+    }
   .grid_item button {
     width: 30%;
     height:9vh;
+    margin-top: -10rem;
   }
   .container1 {
     width: 100%;
@@ -3224,6 +3308,7 @@ width: 90%;
   .content1 {
     display: block;
     width: 70%;
+  
   }
   .row_item6 p {
   
@@ -3252,11 +3337,13 @@ width: 90%;
   #content1 {
     display: block;
     margin-bottom: 0rem;
+    margin-left: -1rem;
   }
   #content1i {
     display: block;
     position: relative;
     bottom: 12rem;
+    margin-left: -1rem;
   }
   .container_home {
     margin: 3rem 0rem 3rem;
@@ -3327,10 +3414,13 @@ width: 90%;
   #container p{
     width: 90%;
     
-    margin-left: 3rem;
+    margin-left: 2rem;
   }
   .grid_5 {
     width: 100%;
+  }
+  .content3{
+    margin-left: 3.5rem;
   }
   .grid_5 img {
     width: 100%;
@@ -3344,7 +3434,7 @@ width: 90%;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 4rem 0rem;
+    margin: 2rem 2.7rem 0rem;
   }
   .img_17 {
     height: 30vh;

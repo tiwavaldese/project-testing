@@ -5239,8 +5239,8 @@ font-size: 1.2rem;
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 55%;
-  height: 12vh;
+    bottom: 53%;
+  height: 10vh;
   padding: 0rem 0.5rem 0rem;
 }
 
@@ -5260,19 +5260,19 @@ font-size: 1.2rem;
 
 .slide .captionE {
   width: 62%;
-  height: 12vh;
-  bottom: 60%;
+  height: 10vh;
+  bottom: 57%;
 }
 
 .slide .captionF {
-  bottom: 50%;
+  bottom: 47%;
   padding: 0.2rem 0.4rem 0rem;
 }
 
 .slide .captionG {
   
   bottom: 60%;
-  height: 8vh;
+  height: 5vh;
   padding: 0.5rem 0.5rem 0rem;
   margin-left: -6rem;
 }
@@ -5280,14 +5280,14 @@ font-size: 1.2rem;
 .slide .captionH {
   
   margin-left: -6rem;
-  bottom: 35%;
+  bottom: 30%;
   width: 63%;
-  height: 14vh;
+  height: 10vh;
   padding-left: 1rem;
 }
 
 .slide .captionI {
-  bottom: 18%;
+  bottom: 17%;
   margin-left: -3rem;
   
   width: 25%;
@@ -5299,7 +5299,11 @@ font-size: 1.2rem;
 width: 90%;
 }
 .container h2{
-  margin-left: 5rem;
+  margin-left: 0rem;
+  text-align: center;
+}
+.container hr{
+  margin-left: 11rem;
 }
 .container p {
   margin-left: 2rem;
@@ -5310,23 +5314,24 @@ width: 90%;
 
 
 .content {
-  margin: 5rem 0rem 73rem 0rem;
+  margin: 5rem 0rem 68rem 0rem;
   
 }
 .grid_item1{
-margin-left:1.5rem;
+margin-left:2.8rem;
 }
 .grid_item2{
-  margin-left: 1.5rem;
+  margin-left: 2.8rem;
   }
   .grid_item3{
-    margin-left: 1.5rem;
+    margin-left: 2.8rem;
+    height: 34rem;
     }
   .grid_item button {
     width: 30%;
     height:7vh;
     margin-top: -10rem;
-    margin-left: 1.5rem;
+    margin-left: 2.8rem;
   }
   .container1 {
     width: 100%;
@@ -5420,7 +5425,7 @@ margin-left:1.5rem;
     width: 8rem;
     height: 6vh;
     margin-left: 5rem;
-    padding: 1rem 1rem 0rem;
+    padding: 1.3rem 1rem 0rem;
   }
   
   
@@ -5488,8 +5493,8 @@ margin-left:1.5rem;
 
   }
   .container_home h2{
-    margin-left: 4rem;
-
+    margin-left: 0rem;
+text-align: center;
   }
   .container_home p {
     margin-left: 0.5rem;
@@ -5540,7 +5545,7 @@ margin-left:1.5rem;
   }
   .content2 {
    
-    padding: 1.4rem 1.7rem 0rem;
+    padding: 1.8rem 1.7rem 0rem;
 
   }
   .content2 a {
@@ -5551,7 +5556,8 @@ margin-left:1.5rem;
     width: 90%;
   }
   #container h2 {
-    margin-left: 1.5rem;
+    margin-left: 0rem;
+    text-align: center;
   }
   #container p{
     width: 90%;
@@ -5568,7 +5574,28 @@ margin-left:1.5rem;
     width: 100%;
   }
   .grid_6 h2{
-    bottom: 62.5rem;
+    bottom: 64.5rem;
+  }
+  .grid_6 h3{
+    bottom: 56.5rem;
+    height: 8rem;
+  }
+  .grid_6i {
+    bottom: 52rem;
+    height: 5rem;
+  }
+  .grid_6 p {
+    bottom: 32rem;
+  }
+  .grid_7 h2{
+    bottom: 54.5rem;
+  }
+  .grid_7 hr{
+    bottom: 64.5rem;
+  }
+  .grid_7 button{
+    bottom: 54.5rem;
+    height: 8rem;
   }
   .grid_7 p{
     width: 14rem;
@@ -5577,34 +5604,46 @@ margin-left:1.5rem;
     width: 100%;
     margin-top: -9rem;
   }
+  .content4 h2{
+    text-align: center;
+    margin-left: 0rem;
+  }
   .content4 p {
     width: 70%;
     text-align: center;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 3.3rem 0rem;
+    margin: 2rem 1rem 0rem;
   }
   .img_17 {
     height: 30vh;
     margin-left: 3rem;
+    width: 20rem;
   }
   .img_18 {
     height: 30vh;
     margin-left: 3rem;
+    width: 20rem;
   }
   .img_19 {
     height: 30vh;
     margin-left: 3rem;
+    width: 20rem;
   }
   .container4 {
     width: 100%;
     padding-left: 2rem;
   }
+  .content8 p{
+height: 3rem;
+width: 27%;
+padding-top: 1rem;
+  }
   footer {
     width: 100%;
     bottom: 0.1rem;
-    padding: 2rem 2rem 0rem;
+    padding: 2.8rem 2rem 0rem;
   }
   
 .about_item1 {
@@ -5633,34 +5672,34 @@ display: block;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 1rem 5rem 0rem;
+margin: 1rem 0rem 0rem;
 font-size: 2rem;
-
+text-align: center;
 }
 strong{
   color: #782D50;
 }
 .about_item2  p{
 width:90%;
-height: 10vh;
+height: 19rem;
 margin: 1rem 1.5rem 0rem;
-line-height:25px;
+line-height:30px;
 padding: 0.5rem 1rem 0rem;
 font-size: 0.9rem;
 }
 .about_item2  hr{
   margin-left: 12rem;
 width: 2rem;
-margin-top: 1.5rem;
+margin-top: 1rem;
 
 }
 .about_item3{
-  width: 13rem;
+  width: 11rem;
   height: 8vh;
-  padding: 1.8rem 2.4rem;
+  padding: 1.8rem 1rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .about_item4{
@@ -5755,7 +5794,7 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 70rem;
+  height: 53rem;
   margin-left: 0rem;
   
 }
@@ -5764,7 +5803,7 @@ font-size: 1.9rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
@@ -5773,17 +5812,17 @@ font-size: 1.9rem;
  align-items: center;
  width: 90%;
  line-height: 35px;
-padding: 0.5rem 2rem 0rem;
-margin: 0rem 1rem 2rem;
+padding: 0.5rem 0rem 0rem;
+margin: 0rem 1.2rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
 .about_item5 span{
-  width: 10rem;
-  height: 6vh;
+  width: 27%;
+  height: 3rem;
   margin: 1rem 10rem 0rem;
   font-size: 0.9rem;
-  padding: 0.6rem 0rem 0rem;
+  padding: 1rem 0rem 0rem;
 }
 
 #creation{
@@ -5792,8 +5831,9 @@ font-size: 0.9rem;
 }
 .about_item6 h2{
   width: 100%;
- margin-left: 8rem;
+ margin-left: 0rem;
   font-size: 2rem;
+  text-align: center;
 }
 .about_item6 hr{
   width: 2rem;
@@ -5801,11 +5841,11 @@ font-size: 0.9rem;
  
 }
 .about_item6 p{
-  margin: 0rem 1.5rem 1.5rem;
+  margin: 0rem 2.5rem 1.5rem;
   line-height: 35px;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0rem;
   font-size: 0.9rem;
-  width: 90%;
+  width: 80%;
 }
 .about_item6 img{
   height: 35vh;
@@ -5817,10 +5857,10 @@ font-size: 0.9rem;
 }
 .about_item7 label{
   font-size: 1rem;
-  height: 8vh;
+  height: 6vh;
   width: 90%;
   margin: 0rem 1.2rem 0.7rem;
-  padding: 0.5rem 0.5rem 0rem;
+  padding: 0rem 0.5rem 0rem;
 }
 .about_item7 input{
   width: 10vw;
@@ -5841,10 +5881,10 @@ text-align: justify;
 }
 .term-of-office p{
   width: 24rem;
-  margin: -3.5rem 0.5rem -1rem;
+  margin: -3.5rem -0.5rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem 0.5rem -1rem;
+  margin: -3.5rem -0.5rem -1rem;
   width: 24rem;
 }
 #project-committee{
@@ -5852,21 +5892,21 @@ margin-top:-0rem ;
 margin-bottom:-0rem ;
 }
 .project-committee p{
-  margin: -3.5rem 0.5rem -1rem;
+  margin: -3.5rem -0.5rem -1rem;
   width: 24rem;
 }
 .membership-status p{
-  margin: -3.5rem 0.5rem -1rem;
+  margin: -3.5rem -0.5rem -1rem;
   width: 24rem;
 }
 .specific-objective p{
-  margin: -3.5rem 0.5rem -7rem;
+  margin: -3.5rem -0.5rem -7rem;
   width: 24rem;
   height: 17rem;
   line-height: 35px;
 }
 .activities p{
-  margin: -3.5rem 0.5rem -1rem;
+  margin: -3.5rem -0.5rem -1rem;
   width: 24rem;
 }
 .about_partner{
@@ -5881,14 +5921,15 @@ margin-bottom:-0rem ;
 .container_about h2 {
   font-size:2rem;
   display: block;
-  margin-left: 5rem;
+  margin-left: 0rem;
+  text-align: center;
 }
 
 .container_about p {
   width: 100%;
   display: block;
   line-height: 35px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 4rem 0rem;
   font-size: 0.9rem;
 height: 20%;
 }
@@ -5924,7 +5965,8 @@ height: 20%;
 }
 
 .container_blog h2 {
-  margin-left: 8rem;
+  margin-left: 0rem;
+  text-align: center;
 }
 
 .container_blog p {
@@ -5935,32 +5977,34 @@ width: 80%;
 
 .container_blog hr {
  
-  margin: 1rem 14rem 0rem;
+  margin: 1rem 12rem 0rem;
 }
 .blog_item2{
   margin-left: 1.4rem;
   width: 80%;
-  height:100vh;
+  height:70vh;
 }
 .blog_item2 img{
-  height: 30vh;
+  height: 15rem;
   }
 .blog_item3{
-  margin:1rem 1.9rem 0rem ;
+  margin:1rem 1.4rem 0rem ;
   width: 80%;
-  height: 80vh;
+  height: 55vh;
 }
 .blog_item3 img{
   width: 100%;
-  height:40%;
+  height:15rem;
   }
   
 .blog_item4{
-  margin: 1rem 1.9rem 0rem;
+  margin: 1rem 1.4rem 0rem;
   width: 80%;
-  height: 80vh;
+  height: 60vh;
 }
-
+.blog_item4 img{
+  height:15rem;
+  }
 
 #btn{
   margin:3rem 2rem 3rem;
@@ -6003,10 +6047,11 @@ width: 80%;
   }
   
   .container_projects h2 {
-    margin-left: 5rem;
+    margin-left: 0rem;
+    text-align: center;
   }
   .container_projects p {
-    margin: 1rem 2rem 0rem;
+    margin: 1rem 2.6rem 0rem;
     width: 80%;
   }
   
@@ -6015,30 +6060,36 @@ width: 80%;
   }
   .projects_item1 {
     width: 22rem;
-    height: 85%;
-    margin: 1rem 0rem 1rem;
+    height: 45rem;
+    margin: 1rem 1rem 1rem;
+  }
+  .projects_item1 img{
+    height: 15rem;
   }
   .projects_item1 p{
     width: 20rem;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 0.5rem 0rem;
   }
   .projects_item1 h3{
     margin: 2rem 0rem 0rem;
   }
   .projects_item1 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0.5rem 2rem;
   }
   .projects_item1 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0rem 2rem;
   }
   .projects_item2 {
     width: 22rem;
-    margin: 1rem 2rem 1rem;
-    height: 55%;
+    margin: 1rem 1rem 1rem;
+    height: 37rem;
   }
   .projects_item2 p{
     width: 20rem;
-    margin: 1rem 1rem 1rem;
+    margin: 0rem 0rem 0rem;
+  }
+  .projects_item2 img{
+    height: 15rem;
   }
   .projects_item2 h3{
     margin: 2rem 0rem 0rem;
@@ -6051,29 +6102,34 @@ width: 80%;
   }
   .projects_item3 {
     width: 22rem;
-    margin: 1rem 2rem 1rem;
+    margin: 1rem 1rem 1rem;
+  }
+  .projects_item3 img{
+    height: 15rem;
   }
   .projects_item3 p{
     width: 20rem;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 0rem 0rem;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
   }
   .projects_item3 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0rem 2rem;
   }
   .projects_item3 .comment{
     margin: 0rem 1rem 2rem;
   }
   .projects_item4 {
     width: 22rem;
-    margin: 1rem 2rem 1rem;
- 
+    margin: 1rem 3rem 1rem;
+  }
+  .projects_item5 img{
+    height: 15rem;
   }
   .projects_item4 p{
     width: 20rem;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 0rem 0rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
@@ -6084,9 +6140,15 @@ width: 80%;
   .projects_item4 .comment{
     margin: 0rem 1rem 2rem;
   }
-  
+  .container_volunteers{
+    text-align: center;
+    margin-left: 0rem;
+  }
 .container4_volunteer{
   margin-top:-17rem ;
+}
+.gallery3{
+  margin-left: 2rem;
 }
 .contact_item6{
   width: 90%;
@@ -6094,11 +6156,11 @@ width: 80%;
 }
 
 .fill{
-  height: 70vh;
+  height: 100vh;
  
 }
 .login{
-  padding: 2rem 3rem 0rem;
+  padding: 4rem 3rem 0rem;
 }
 .content_1{
 font-size: 1.2rem;
@@ -6108,10 +6170,10 @@ margin-left: 13rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
-  margin: 3rem 1rem 3rem;
-  padding: 0.6rem 1rem 0rem;
+  margin: 8rem 1rem 3rem;
+  padding: 0.8rem 1rem 0rem;
   width: 26rem;
-  height: 4vh;
+  height: 5vh;
 }
 .fill .email{
   margin: 0rem 2rem 1.5rem;
@@ -6119,7 +6181,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 3rem;
-  width: 16.5rem;
+  width: 17.5rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -6128,7 +6190,7 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 16rem;
+  width: 17rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
@@ -6188,7 +6250,7 @@ font-size: 1.2rem;
     margin: 1rem 12rem 0rem;
   }
   .description1 {
-    margin: 0.5rem 22rem 0rem;
+    margin: 0.5rem 18rem 0rem;
     padding-top: 0.7rem;
   }
   .image{
@@ -6199,7 +6261,7 @@ font-size: 1.2rem;
     width: 100%;
   }
   .italic {
-    margin: 18rem 13rem 0rem;
+    margin: 19rem 13rem 0rem;
   }
   .slider_container {
     width: 100%;
@@ -6230,7 +6292,7 @@ font-size: 1.2rem;
   }
 .slide .captionA {
     margin: 0rem 3rem 0rem;
-    padding: 0.4rem 1em 0rem;
+    padding: 0.6rem 1em 0rem;
     bottom: 80%;
 }
 
@@ -6238,16 +6300,16 @@ font-size: 1.2rem;
   
     margin: 0rem 3rem 0rem;
     bottom: 55%;
-  height: 12vh;
+  height: 10vh;
   padding: 0rem 0.5rem 0rem;
 }
 
 .slide .captionC {
     margin-left: 3rem;
-    bottom: 40%;
+    bottom: 43%;
   width: 23%;
   height: 2.5rem;
-  padding: 0.8rem 0.4rem 0rem;
+  padding: 0.8rem 0.9rem 0rem;
 }
 
 
@@ -6258,7 +6320,7 @@ font-size: 1.2rem;
 
 .slide .captionE {
   width: 62%;
-  height: 12vh;
+  height: 9vh;
   bottom: 60%;
 }
 
@@ -6270,17 +6332,17 @@ font-size: 1.2rem;
 .slide .captionG {
   
   bottom: 60%;
-  height: 8vh;
-  padding: 0.5rem 0.5rem 0rem;
+  height: 6vh;
+  padding: 0.7rem 0.5rem 0rem;
   margin-left: -6rem;
 }
 
 .slide .captionH {
   
   margin-left: -6rem;
-  bottom: 35%;
+  bottom: 31%;
   width: 63%;
-  height: 14vh;
+  height: 10vh;
   padding-left: 1rem;
 }
 
@@ -6297,29 +6359,63 @@ font-size: 1.2rem;
 width: 90%;
 }
 .container h2{
-  margin-left: 5rem;
+  margin-left: 0rem;
+  text-align: center;
+}
+.container hr{
+  margin-left: 13rem;
 }
 .container p {
-  margin-left: 2rem;
+  margin-left: 3.2rem;
   padding-right: 0rem; 
-  width:95%;
+  width:85%;
   text-align: justify;
 }
 
 
 .content {
-  margin: 5rem 0rem 55rem 0rem;
+  margin: 5rem 0rem 62rem 0rem;
   
 }
 .grid_item1{
-margin-left:2.5rem;
+margin-left:2.4rem;
+width: 25rem;
 }
-.grid_item2{
-  margin-left: 2.5rem;
+.grid_item1 p{
+  padding-right: 0rem;
+  margin-left: 1rem;
+  width: 22rem;
   }
-  .grid_item3{
-    margin-left: 2.5rem;
+  .grid_item1 h3{
+    text-align: center;
+    padding-left: 0rem;
+  }
+.grid_item2{
+  margin-left:2.4rem;
+  width: 25rem;
+  }
+  .grid_item2 h3{
+    text-align: center;
+    padding-left: 0rem;
+  }
+  .grid_item2 p{
+    padding-right: 0rem;
+    margin-left: 0.5rem;
+    width: 22rem;
     }
+  .grid_item3{
+    margin-left:2.4rem;
+    width: 25rem;
+    }
+    .grid_item3 h3{
+      text-align: center;
+      padding-left: 0rem;
+    }
+    .grid_item3 p{
+      padding-right: 0rem;
+      margin-left: 0.5rem;
+      width: 22rem;
+      }
   .grid_item button {
     width: 30%;
     height:7vh;
@@ -6374,7 +6470,7 @@ margin-left:2.5rem;
     width: 100%;
   }
   .row_item5 {
-    margin-left: 1rem;
+    margin-left: 2rem;
     width: 100%;
   }
   .row_item5 span {
@@ -6418,7 +6514,7 @@ margin-left:2.5rem;
     width: 8rem;
     height: 6vh;
     margin-left: 7rem;
-    padding: 1.5rem 1rem 0rem;
+    padding: 1.3rem 1rem 0rem;
   }
   
   
@@ -6486,8 +6582,8 @@ margin-left:2.5rem;
 
   }
   .container_home h2{
-    margin-left: 4.5rem;
-
+    margin-left: 0rem;
+text-align: center;
   }
   .container_home p {
     margin-left: 0.5rem;
@@ -6566,25 +6662,29 @@ margin-left:2.5rem;
     width: 100%;
   }
   .grid_6 h2{
-    bottom: 66.5rem;
+    bottom: 67.5rem;
+    height: 3rem;
+    padding-top: 0.5rem;
   }
   .grid_6 h3{
-    bottom: 58.5rem;
+    bottom: 59.5rem;
     height: 8rem;
   }
   .grid_6i{
-    bottom: 52.5rem;
+    bottom: 53.5rem;
     height: 6rem;
   }
   .grid_6 p{
-    bottom: 33rem;
-    height: 20rem;
+    bottom: 34rem;
+    height: 19rem;
   }
   .grid_7 h2{
     bottom: 53rem;
   }
   .grid_7 button{
-    bottom: 55rem;
+    bottom: 57rem;
+    height: 5rem;
+    width: 6rem;
   }
   .grid_7 p{
     width: 15rem;
@@ -6593,25 +6693,35 @@ margin-left:2.5rem;
     width: 100%;
     margin-top: -9rem;
   }
+  .content4 {
+    margin-left: 0rem;
+    text-align: center;
+  }
+  .content4 hr{
+    margin-left: 14rem;
+  }
   .content4 p {
     width: 70%;
     text-align: center;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 4.2rem 0rem;
+    margin: 2rem 1.3rem 0rem;
   }
   .img_17 {
     height: 30vh;
-    margin-left: 3rem;
+    margin-left: 2rem;
+    width: 23rem;
   }
   .img_18 {
     height: 30vh;
-    margin-left: 3rem;
+    margin-left: 2rem;
+    width: 23rem;
   }
   .img_19 {
     height: 30vh;
-    margin-left: 3rem;
+    margin-left: 2rem;
+    width: 23rem;
   }
   .container4 {
     width: 100%;
@@ -6619,12 +6729,14 @@ margin-left:2.5rem;
     height: 70rem;
   }
   .content8 p{
-    height: 4rem;
+    height: 3rem;
+    width: 27%;
+    padding: 1rem 0.8rem 0rem;
   }
   footer {
     width: 100%;
     bottom: 0.1rem;
-    padding: 2rem 2rem 0rem;
+    padding: 3.5rem 2rem 0rem;
   }
   
 .about_item1 {
@@ -6653,34 +6765,34 @@ display: block;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 1rem 5rem 0rem;
+margin: 1rem 0rem 0rem;
 font-size: 2rem;
-
+text-align: center;
 }
 strong{
   color: #782D50;
 }
 .about_item2  p{
 width:90%;
-height: 10vh;
+height: 18rem;
 margin: 1rem 1.5rem 0rem;
-line-height:25px;
+line-height:30px;
 padding: 0.5rem 1rem 0rem;
 font-size: 0.9rem;
 }
 .about_item2  hr{
   margin-left: 12rem;
 width: 2rem;
-margin-top: 1.5rem;
+margin-top: 1rem;
 
 }
 .about_item3{
   width: 13rem;
   height: 8vh;
-  padding: 1.8rem 2.4rem;
+  padding: 2rem 1rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 
 .about_item4{
@@ -6775,7 +6887,7 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 70rem;
+  height: 53rem;
   margin-left: 0rem;
   
 }
@@ -6784,26 +6896,26 @@ font-size: 1.9rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
  display: flex;
  justify-content: center;
  align-items: center;
- width: 90%;
+ width:85%;
  line-height: 35px;
-padding: 0.5rem 2rem 0rem;
-margin: 0rem 1rem 2rem;
+padding: 0.5rem 0rem 0rem;
+margin: 0rem 2.2rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
 .about_item5 span{
-  width: 10rem;
-  height: 6vh;
+  width: 27%;
+  height: 3rem;
   margin: 1rem 10rem 0rem;
-  font-size: 0.9rem;
-  padding: 0.6rem 0rem 0rem;
+  font-size: 1rem;
+  padding: 1rem 0rem 0rem;
 }
 
 #creation{
@@ -6812,12 +6924,13 @@ font-size: 0.9rem;
 }
 .about_item6 h2{
   width: 100%;
- margin-left: 8rem;
+ margin-left: 0rem;
   font-size: 2rem;
+  text-align: center;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 13rem 1rem;
+  margin: 1rem 13rem 1rem;
  
 }
 .about_item6 p{
@@ -6837,10 +6950,10 @@ font-size: 0.9rem;
 }
 .about_item7 label{
   font-size: 1rem;
-  height: 8vh;
+  height: 6vh;
   width: 90%;
   margin: 0rem 1.2rem 0.7rem;
-  padding: 0.5rem 0.5rem 0rem;
+  padding: 0rem 0.5rem 0rem;
 }
 .about_item7 input{
   width: 10vw;
@@ -6901,7 +7014,8 @@ margin-bottom:-0rem ;
 .container_about h2 {
   font-size:2rem;
   display: block;
-  margin-left: 5rem;
+  margin-left: 0rem;
+  text-align: center;
 }
 
 .container_about p {
@@ -6944,11 +7058,12 @@ height: 20%;
 }
 
 .container_blog h2 {
-  margin-left: 8rem;
+  margin-left: 0rem;
+  text-align: center;
 }
 
 .container_blog p {
-  margin: 1rem 2.5rem 0rem;
+  margin: 1rem 2.7rem 0rem;
 padding-right:0rem;
 width: 80%;
 }
@@ -6958,29 +7073,31 @@ width: 80%;
   margin: 1rem 14rem 0rem;
 }
 .blog_item2{
-  margin-left: 1.4rem;
-  width: 80%;
-  height:100vh;
+  margin-left: 1.2rem;
+  width: 85%;
+  height:60vh;
 }
 .blog_item2 img{
-  height: 30vh;
+  height: 15rem;
   }
 .blog_item3{
-  margin:1rem 1.9rem 0rem ;
-  width: 80%;
-  height: 80vh;
+  margin:1rem 1.2rem 0rem ;
+  width: 85%;
+  height: 50vh;
 }
 .blog_item3 img{
   width: 100%;
-  height:40%;
+  height: 15rem;
   }
   
 .blog_item4{
-  margin: 1rem 1.9rem 0rem;
-  width: 80%;
-  height: 80vh;
+  margin: 1rem 1.2rem 0rem;
+  width: 85%;
+  height: 50vh;
 }
-
+.blog_item4 img{
+  height: 15rem;
+  }
 
 #btn{
   margin:3rem 2rem 3rem;
@@ -6995,9 +7112,17 @@ width: 80%;
   }
 
   .events_item2{
-    width: 75%;
+    width: 80%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 1.8rem 2rem;
+  }
+  .events_item2 h3{
+    text-align: center;
+    padding-left: 0rem;
+  }
+  .events_item2 p{
+    width: 22rem;
+    margin-left: 1rem;
   }
   
   .events_item2 button{
@@ -7009,56 +7134,71 @@ width: 80%;
   }
   
   .events_item3{
-    width: 75%;
+    width: 80%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 1.8rem 2rem;
   }
   .events_item3 button{
-    margin: 1rem 6rem 2rem;
+    margin: 0.5rem 6rem 2rem;
   }
-
+  .events_item3 h3{
+    text-align: center;
+    padding-left: 0rem;
+  }
+  .events_item3 p{
+    width: 22rem;
+    margin-left: 1rem;
+  }
   .container_projects {
     margin: 3rem 0rem 3rem;
     
   }
   
   .container_projects h2 {
-    margin-left: 5rem;
+    margin-left: 0rem;
+    text-align: center;
   }
   .container_projects p {
-    margin: 1rem 2rem 0rem;
-    width: 80%;
+    margin: 1rem 3rem 0rem;
   }
   
   .container_projects hr {
     margin: 1rem 13rem 0rem;
   }
   .projects_item1 {
-    width: 22rem;
-    height: 85%;
-    margin: 1rem 0rem 1rem;
+    width: 25rem;
+    height: 43rem;
+    margin: 1rem 0.4rem 1rem;
+  }
+  .projects_item1 img{
+    height: 15rem;
   }
   .projects_item1 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 22rem;
+    margin: 1rem 1rem 0rem;
+    padding-right: 0rem;
   }
   .projects_item1 h3{
     margin: 2rem 0rem 0rem;
   }
   .projects_item1 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0rem 0rem;
   }
   .projects_item1 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0rem 0rem;
   }
   .projects_item2 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
-    height: 55%;
+    width: 25rem;
+    margin: 1rem 0.5rem 1rem;
+    height:37rem;
+  }
+  .projects_item2 img{
+    height: 15rem;
   }
   .projects_item2 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 22rem;
+    margin: 1rem 0.5rem 0rem;
+    padding-right: 0rem;
   }
   .projects_item2 h3{
     margin: 2rem 0rem 0rem;
@@ -7070,12 +7210,17 @@ width: 80%;
     margin: 0rem 1rem 0rem;
   }
   .projects_item3 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
+    width: 25rem;
+    margin: 1rem 0.5rem 1rem;
+    height: 35rem;
+  }
+  .projects_item3 img{
+    height: 15rem;
   }
   .projects_item3 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 22rem;
+    padding-right: 0rem;
+    margin: 1rem 0.5rem 0rem;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
@@ -7087,13 +7232,16 @@ width: 80%;
     margin: 0rem 1rem 2rem;
   }
   .projects_item4 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
- 
+    width: 25rem;
+    margin: 1rem 2.3rem 1rem;
+ height: 33rem;
+  }
+  .projects_item4 img{
+    height: 15rem;
   }
   .projects_item4 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 22rem;
+    margin: 1rem 0.5rem 0rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
@@ -7104,9 +7252,15 @@ width: 80%;
   .projects_item4 .comment{
     margin: 0rem 1rem 2rem;
   }
-  
+  .container_volunteers h2{
+    margin-left: 0rem;
+    text-align: center;
+  }
 .container4_volunteer{
   margin-top:-17rem ;
+}
+.gallery3{
+  margin-left: 3rem;
 }
 .contact_item6{
   width: 90%;
@@ -7114,11 +7268,11 @@ width: 80%;
 }
 
 .fill{
-  height: 70vh;
+  height: 100vh;
  
 }
 .login{
-  padding: 2rem 3rem 0rem;
+  padding: 4rem 3rem 0rem;
 }
 .content_1{
 font-size: 1.2rem;
@@ -7128,10 +7282,10 @@ margin-left: 13rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
-  margin: 3rem 1rem 3rem;
-  padding: 0.6rem 1rem 0rem;
+  margin: 8rem 1rem 3rem;
+  padding: 1rem 1rem 0rem;
   width: 26rem;
-  height: 4vh;
+  height: 5vh;
 }
 .fill .email{
   margin: 0rem 2rem 1.5rem;
@@ -7139,7 +7293,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 3rem;
-  width: 16.5rem;
+  width: 17.5rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -7148,11 +7302,11 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 16rem;
+  width: 17rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
-  margin: 1rem 8.7rem 0rem;
+  margin: 1rem 8.5rem 0rem;
 
 }
 .checkbox{
@@ -7160,7 +7314,7 @@ font-size: 1.2rem;
   height: 1.5rem;
 }
 .fill .contentA{
-  margin:3rem 9.2rem 0rem ;
+  margin:3rem 9rem 0rem ;
 }
 .fill .contentA button{
   height: 3rem;

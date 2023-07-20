@@ -7381,7 +7381,7 @@ font-size: 1.2rem;
     width: 100%;
   }
   .italic {
-    margin: 20.5rem 15rem 0rem;
+    margin: 21.7rem 15rem 0rem;
     font-size: 1rem;
   }
   .slider_container {
@@ -7413,21 +7413,21 @@ font-size: 1.2rem;
   }
 .slide .captionA {
     margin: 0rem 3rem 0rem;
-    padding: 0.4rem 1em 0rem;
+    padding: 0.6rem 1em 0rem;
     bottom: 80%;
 }
 
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 55%;
+    bottom: 62%;
   height: 12vh;
   padding: 0rem 0.5rem 0rem;
 }
 
 .slide .captionC {
     margin-left: 3rem;
-    bottom: 40%;
+    bottom: 50%;
   width: 23%;
   height: 3rem;
   padding: 0.8rem 0.6rem 0rem;
@@ -7447,7 +7447,7 @@ font-size: 1.2rem;
 }
 
 .slide .captionF {
-  bottom: 50%;
+  bottom: 51%;
   padding: 0.2rem 0.4rem 0rem;
   height: 3rem;
   font-size: 1rem;
@@ -7456,8 +7456,8 @@ font-size: 1.2rem;
 .slide .captionG {
   
   bottom: 60%;
-  height: 8vh;
-  padding: 0.5rem 0.5rem 0rem;
+  height: 6vh;
+  padding: 0.6rem 0.5rem 0rem;
   margin-left: -6rem;
 }
 
@@ -7471,7 +7471,7 @@ font-size: 1.2rem;
 }
 
 .slide .captionI {
-  bottom: 18%;
+  bottom: 22%;
   margin-left: -3rem;
   font-size: 1rem;
   width: 25%;
@@ -7490,68 +7490,71 @@ width: 90%;
   margin-left: 18rem;
 }
 .container p {
-  margin-left: 2.7rem;
+  margin-left: 3.5rem;
   padding-right: 0rem; 
-  width:95%;
+  width:90%;
   text-align: justify;
 font-size: 1rem;
 }
 
 
 .content {
-  margin: 5rem 0rem 67rem 0rem;
+  margin: 5rem 0rem 75rem 0rem;
   
 }
 .grid_item1{
-margin-left:2rem;
-width: 35rem;
+margin-left:4.3rem;
+width: 30rem;
 }
 .grid_item1 h3{
   text-align: center;
 }
 .grid_item1 p{
-  padding-left: 2rem;
+  padding-left: 0rem;
   padding-right: 0rem;
   padding-top: 0.5rem;
-  width: 33rem;
+  width: 26rem;
   line-height: 35px;
   font-size: 1rem;
+  margin-left: 2rem;
 }
 .grid_item2{
-  margin-left: 2rem;
-  width: 35rem;
+  margin-left: 4.3rem;
+  width: 30rem;
   }
   .grid_item2 h3{
     text-align: center;
   }
   .grid_item2 p{
-    padding-left: 2rem;
+    padding-left: 0rem;
     padding-right: 0rem;
     padding-top: 0.5rem;
-    width: 33rem;
+    width: 26rem;
     line-height: 35px;
     font-size: 1rem;
+    margin-left: 2rem;
   }
   .grid_item3{
-    margin-left: 2rem;
-    width: 35rem;
+    margin-left: 4.3rem;
+    width: 30rem;
     }
     .grid_item3 h3{
       text-align: center;
     }
     .grid_item3 p{
-      padding-left: 2rem;
+      padding-left: 0rem;
       padding-right: 0rem;
       padding-top: 0.5rem;
-      width: 33rem;
+      width: 26rem;
       line-height: 35px;
       font-size: 1rem;
+      margin-left: 2rem;
     }
   .grid_item button {
     width: 28%;
     height:9vh;
     margin-top: 0rem;
-    margin-left: 2rem;
+    margin-left: 4.3rem;
     font-size: 1rem;
   }
   .container1 {
@@ -7726,8 +7729,9 @@ width: 35rem;
 
   }
   .container_home h2{
-    margin-left: 8.5rem;
+    margin-left: 0rem;
 font-size: 2rem;
+text-align: center;
   }
   .container_home hr{
     margin-left: 16.5rem;
@@ -7794,8 +7798,9 @@ font-size: 2rem;
     width: 90%;
   }
   #container h2 {
-    margin-left: 1rem;
+    margin-left: 0rem;
     font-size: 2rem;
+    text-align: center;
   }
   #container hr {
     margin-left: 18rem;
@@ -7829,19 +7834,32 @@ font-size: 2rem;
   .grid_6 h2{
     bottom: 63rem;
     height: 3rem;
+    width: 15rem;
   }
   .grid_6 h3{
     bottom: 54.5rem;
+    width: 15rem;
   }
   .grid_6i{
     bottom: 49rem;
+    width: 15rem;
   }
   .grid_6 p{
     bottom: 29rem;
     height: 20rem;
+    width: 15rem;
+  }
+  .grid_7{
+    margin-left: 5rem;
+  }
+  .grid_7 button{
+  bottom: 55rem;
+  }
+  .grid_7 hr{
+    bottom: 63rem;
   }
   .grid_7 p{
-    width: 14rem;
+    width: 17rem;
   }
   .content4 {
     width: 100%;
@@ -7934,11 +7952,11 @@ font-size: 2rem;
 }
 
 .content8 P {
-  width: 9rem;
-  padding: 1.5rem 1.6rem 0rem;
-  font-size: 0.8rem;
+  width: 27%;
+  padding: 1rem 1rem 0rem;
+  font-size: 1rem;
   margin-top: 1.5rem;
-  height: 8vh;
+  height: 3rem;
 }
 
 
@@ -7958,7 +7976,7 @@ h4 i {
   footer {
     width: 100%;
     bottom: 0.1rem;
-    padding: 2rem 2rem 0rem;
+    padding: 3rem 2rem 0rem;
   }
   
 .about_item1 {
@@ -7987,23 +8005,24 @@ display: block;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 1rem 5rem 0rem;
+margin: 1rem 0rem 0rem;
 font-size: 2rem;
+text-align: center;
 
 }
 strong{
   color: #782D50;
 }
 .about_item2  p{
-width:90%;
-height: 10vh;
-margin: 1rem 1.5rem 0rem;
-line-height:25px;
-padding: 0.5rem 1rem 0rem;
+width:80%;
+height: 16rem;
+margin: 1rem 3.8rem 0rem;
+line-height:30px;
+padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
 }
 .about_item2  hr{
-  margin-left: 12rem;
+  margin-left: 18rem;
 width: 2rem;
 margin-top: 1.5rem;
 
@@ -8011,10 +8030,10 @@ margin-top: 1.5rem;
 .about_item3{
   width: 13rem;
   height: 8vh;
-  padding: 1.8rem 2.4rem;
+  padding: 1.5rem 2rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .about_item4{
@@ -8109,7 +8128,7 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 70rem;
+  height: 45rem;
   margin-left: 0rem;
   
 }
@@ -8118,7 +8137,7 @@ font-size: 1.9rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
@@ -8127,17 +8146,17 @@ font-size: 1.9rem;
  align-items: center;
  width: 90%;
  line-height: 35px;
-padding: 0.5rem 2rem 0rem;
-margin: 0rem 1rem 2rem;
+padding: 0.5rem 0rem 0rem;
+margin: 0rem 1.8rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
 .about_item5 span{
-  width: 10rem;
-  height: 6vh;
-  margin: 1rem 10rem 0rem;
-  font-size: 0.9rem;
-  padding: 0.6rem 0rem 0rem;
+  width: 25%;
+  height: 3rem;
+  margin: 3rem 14rem 0rem;
+  font-size: 1rem;
+  padding: 1rem 0rem 0rem;
 }
 
 #creation{
@@ -8146,20 +8165,21 @@ font-size: 0.9rem;
 }
 .about_item6 h2{
   width: 100%;
- margin-left: 8rem;
+ margin-left: 0rem;
   font-size: 2rem;
+  text-align: center;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 13rem 1rem;
+  margin: 1rem 18rem 1rem;
  
 }
 .about_item6 p{
-  margin: 0rem 1.5rem 1.5rem;
+  margin: 0rem 2.8rem 1.5rem;
   line-height: 35px;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0rem;
   font-size: 0.9rem;
-  width: 90%;
+  width: 85%;
 }
 .about_item6 img{
   height: 35vh;
@@ -8194,34 +8214,34 @@ text-align: justify;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 24rem;
-  margin: -3.5rem 0.5rem -1rem;
+  width: 30rem;
+  margin: -3.5rem 1.7rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem 0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 1.7rem -1rem;
+  width: 30rem;
 }
 #project-committee{
 margin-top:-0rem ;
 margin-bottom:-0rem ;
 }
 .project-committee p{
-  margin: -3.5rem 0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 1.7rem -1rem;
+  width: 30rem;
 }
 .membership-status p{
-  margin: -3.5rem 0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 1.7rem -1rem;
+  width: 30rem;
 }
 .specific-objective p{
-  margin: -3.5rem 0.5rem -7rem;
-  width: 24rem;
+  margin: -3.5rem 1.7rem -7rem;
+  width: 30rem;
   height: 17rem;
   line-height: 35px;
 }
 .activities p{
-  margin: -3.5rem 0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 1.7rem -1rem;
+  width: 30rem;
 }
 .about_partner{
   margin-top: -16rem;
@@ -8235,23 +8255,25 @@ margin-bottom:-0rem ;
 .container_about h2 {
   font-size:2rem;
   display: block;
-  margin-left: 5rem;
+  margin-left:0rem;
+  text-align: center;
 }
 
 .container_about p {
   width: 100%;
   display: block;
   line-height: 35px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 0rem 0rem;
   font-size: 0.9rem;
 height: 20%;
+text-align: center;
 }
 
 .container_about hr {
   width: 2rem;
   text-align: center;
   bottom: 70%;
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 18rem 0rem;
 }
 
   
@@ -8278,31 +8300,32 @@ height: 20%;
 }
 
 .container_blog h2 {
-  margin-left: 8rem;
+  margin-left: 0rem;
+  text-align: center;
 }
 
 .container_blog p {
-  margin: 1rem 2.5rem 0rem;
+  margin: 1rem 3.7rem 0rem;
 padding-right:0rem;
 width: 80%;
 }
 
 .container_blog hr {
  
-  margin: 1rem 14rem 0rem;
+  margin: 1rem 18rem 0rem;
 }
 .blog_item2{
-  margin-left: 1.4rem;
+  margin-left: 2.7rem;
   width: 80%;
-  height:100vh;
+  height:82vh;
 }
 .blog_item2 img{
   height: 30vh;
   }
 .blog_item3{
-  margin:1rem 1.9rem 0rem ;
+  margin:1rem 2.7rem 0rem ;
   width: 80%;
-  height: 80vh;
+  height: 65vh;
 }
 .blog_item3 img{
   width: 100%;
@@ -8310,9 +8333,9 @@ width: 80%;
   }
   
 .blog_item4{
-  margin: 1rem 1.9rem 0rem;
+  margin: 1rem 2.7rem 0rem;
   width: 80%;
-  height: 80vh;
+  height: 67vh;
 }
 
 
@@ -8331,11 +8354,15 @@ width: 80%;
   .events_item2{
     width: 75%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 3.8rem 2rem;
   }
-  
+  .events_item2 p{
+    padding-right: 0rem;
+    margin-left: 1.5rem;
+    width: 25rem;
+  }
   .events_item2 button{
-    margin: 1rem 6rem 2rem;
+    margin: 0rem 9rem 2rem;
   }
   .events_item2 button:hover{
     background-color: black;
@@ -8345,10 +8372,15 @@ width: 80%;
   .events_item3{
     width: 75%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 3.8rem 2rem;
+  }
+  .events_item3 p{
+    padding-right: 0rem;
+    margin-left: 1.5rem;
+    width: 25rem;
   }
   .events_item3 button{
-    margin: 1rem 6rem 2rem;
+    margin: 0rem 9rem 2rem;
   }
 
   .container_projects {
@@ -8357,23 +8389,24 @@ width: 80%;
   }
   
   .container_projects h2 {
-    margin-left: 5rem;
+    margin-left: 0rem;
+    text-align: center;
   }
   .container_projects p {
-    margin: 1rem 2rem 0rem;
+    margin: 1rem 3.8rem 0rem;
     width: 80%;
   }
   
   .container_projects hr {
-    margin: 1rem 13rem 0rem;
+    margin: 1rem 18rem 0rem;
   }
   .projects_item1 {
-    width: 22rem;
-    height: 85%;
-    margin: 1rem 0rem 1rem;
+    width: 30rem;
+    height: 45rem;
+    margin: 1rem 2.6rem 1rem;
   }
   .projects_item1 p{
-    width: 20rem;
+    width: 27rem;
     margin: 1rem 1rem 1rem;
   }
   .projects_item1 h3{
@@ -8386,13 +8419,13 @@ width: 80%;
     margin: 0rem 1rem 2rem;
   }
   .projects_item2 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
-    height: 55%;
+    width: 30rem;
+    margin: 1rem 2.6rem 1rem;
+    height: 37rem;
   }
   .projects_item2 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 27rem;
+    margin: 1rem 0.5rem 1rem;
   }
   .projects_item2 h3{
     margin: 2rem 0rem 0rem;
@@ -8404,12 +8437,13 @@ width: 80%;
     margin: 0rem 1rem 0rem;
   }
   .projects_item3 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
+    width: 30rem;
+    height: 37rem;
+    margin: 1rem 2.6rem 1rem;
   }
   .projects_item3 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 27rem;
+    margin: 1rem 0.5rem 1rem;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
@@ -8421,13 +8455,13 @@ width: 80%;
     margin: 0rem 1rem 2rem;
   }
   .projects_item4 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
- 
+    width: 30rem;
+    margin: 1rem 4.5rem 1rem;
+    height: 37rem;
   }
   .projects_item4 p{
-    width: 20rem;
-    margin: 1rem 1rem 1rem;
+    width: 27rem;
+    margin: 1rem 0.5rem 1rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
@@ -8438,9 +8472,22 @@ width: 80%;
   .projects_item4 .comment{
     margin: 0rem 1rem 2rem;
   }
-  
+  .container_volunteers h2{
+    text-align: center;
+    margin-left: 0rem;
+  }
+  .container_volunteers hr{
+
+    margin-left: 19rem;
+  }
 .container4_volunteer{
   margin-top:-17rem ;
+}
+.gallery3{
+  margin-left: 4.3rem;
+}
+.gallery3 img{
+width: 28rem;
 }
 .contact_item6{
   width: 90%;
@@ -8448,45 +8495,45 @@ width: 80%;
 }
 
 .fill{
-  height: 70vh;
+  height: 100vh;
  
 }
 .login{
-  padding: 2rem 3rem 0rem;
+  padding: 4rem 3rem 0rem;
 }
 .content_1{
 font-size: 1.2rem;
 }
 .login .content_2{
-margin-left: 13rem;
+margin-left: 18rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
-  margin: 3rem 1rem 3rem;
-  padding: 0.6rem 1rem 0rem;
-  width: 26rem;
-  height: 4vh;
+  margin: 8rem 1rem 3rem;
+  padding: 0.8rem 1rem 0rem;
+  width: 35rem;
+  height: 6vh;
 }
 .fill .email{
   margin: 0rem 2rem 1.5rem;
-  width: 32rem;
+  width: 40rem;
 }
 .fill .email input{
   height: 3rem;
-  width: 16.5rem;
+  width: 25.5rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
   margin: 0rem 4rem 2rem;
-  width: 30rem;
+  width: 40rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 16rem;
+  width: 25rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
-  margin: 1rem 8.7rem 0rem;
+  margin: 1rem 9.5rem 0rem;
 
 }
 .checkbox{
@@ -8494,7 +8541,7 @@ font-size: 1.2rem;
   height: 1.5rem;
 }
 .fill .contentA{
-  margin:3rem 9.2rem 0rem ;
+  margin:3rem 9.5rem 0rem ;
 }
 .fill .contentA button{
   height: 3rem;
@@ -8581,7 +8628,7 @@ h1 {
 }
 
 .slide .captionB {
-  bottom: 50%;
+  bottom: 49%;
   font-size:1.2rem;
   height: 13vh;
   line-height: 30px;
@@ -8590,7 +8637,7 @@ h1 {
 }
 
 .slide .captionC {
-  bottom: 40%;
+  bottom: 39%;
   font-size: 1.2rem;
   width: 22%;
   display: flex;
@@ -8609,7 +8656,7 @@ h1 {
 }
 
 .slide .captionE {
-  bottom: 50%;
+  bottom: 49%;
   font-size: 1.2rem;
   margin-left: 13rem;
   padding: 0rem 1rem 0rem;
@@ -8619,7 +8666,7 @@ h1 {
 }
 
 .slide .captionF {
-  bottom: 40%;
+  bottom: 39%;
   font-size: 1.2rem;
   margin: 10rem 36rem 0rem;
   width: 20%;
@@ -8645,7 +8692,7 @@ h1 {
 }
 
 .slide .captionI {
-  bottom: 22%;
+  bottom: 23%;
   font-size: 1.2rem;
   width: 20%;
   height: 3.5rem;
@@ -8678,17 +8725,17 @@ line-height: 40px;
 }
 
 .img_2 {
-  height: 40%;
+  height: 25rem;
 }
 .img_3 {
-  height: 50%;
+  height:  25rem;
 }
 .img_4 {
-  height: 50%;
+  height:  25rem;
 }
 
 .img_5 {
-  height: 50%;
+  height:  25rem;
 }
 .content {
   margin: 5rem 0rem 116rem 0rem;
@@ -8731,7 +8778,7 @@ line-height: 40px;
   width: 43rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
-  margin: 0rem 1rem 0rem;
+  margin: 0rem 1rem 1rem;
 }
 
 .grid_item1 .date {
@@ -8760,7 +8807,7 @@ line-height: 40px;
   width: 43rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
-  margin: 0rem 1rem 0rem;
+  margin: 0rem 1rem 1rem;
 }
 
 .grid_item2 .date {
@@ -8786,7 +8833,7 @@ line-height: 40px;
   width: 43rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
-  margin: 0rem 1rem 0rem;
+  margin: 0rem 1rem 1rem;
 }
 
 .grid_item3 .date {
@@ -9017,12 +9064,14 @@ h3 i {
 
 .container_home h2 {
   font-size:2.5rem;
-  margin-left: 5rem;
+  margin-left: 0rem;
+  text-align: center;
 }
 
 .container_home p {
-  margin: 1rem 2rem 0rem;
+  margin: 1rem 0rem 0rem;
   font-size: 1.5rem;
+  text-align: center;
 }
 
 .container_home hr {
@@ -9097,7 +9146,7 @@ h3 i {
 
 .content2 {
   width: 22rem;
-  padding: 1.9rem 2rem 0rem;
+  padding: 2rem 2rem 0rem;
   height: 8vh;
   margin: 0 0 0 2rem;
   font-size: 1.5rem;
@@ -9106,7 +9155,7 @@ h3 i {
 
 
 #container {
-  bottom: 18rem;
+  bottom: 15rem;
 }
 
 #container h2 {
@@ -9116,9 +9165,9 @@ h3 i {
 }
 
 #container p {
-  width: 80%;
+  width: 85%;
   line-height: 25px;
-  margin-left: 6rem;
+  margin-left: 5rem;
   font-size: 1.5rem;
 }
 
@@ -9127,7 +9176,7 @@ h3 i {
 }
 
 .content3 {
-  bottom: 13rem;
+  bottom: 10rem;
   margin: 0 7.5rem 0 ;
   width: 100rem;
 }
@@ -9233,7 +9282,7 @@ h3 i {
 }
 
 .grid_7 hr {
-  bottom: 75rem;
+  bottom: 83rem;
   width: 3rem;
   margin-left: 15rem;
 }
@@ -9242,9 +9291,9 @@ h3 i {
   bottom: 45rem;
   font-size: 1.5rem;
   line-height: 40px;
-  width: 30rem;
+  width: 27rem;
   height: 30vh;
-  margin-left: 9rem;
+  margin-left: 11rem;
 }
 
 .grid_7i {
@@ -9261,7 +9310,7 @@ h3 i {
 }
 
 .grid_7 button {
-  bottom: 65rem;
+  bottom: 70rem;
   font-size: 1.2rem;
   width: 10rem;
   height: 12vh;
@@ -9302,19 +9351,19 @@ h3 i {
 
 .img_17 {
   width: 40rem;
-  height: 25rem;
+  height: 27rem;
   margin:0rem 3rem 1rem;
 }
 
 .img_18 {
   width: 40rem;
-  height: 25rem;
+  height: 27rem;
   margin:0rem 3rem 1rem;
 }
 
 .img_19 {
   width: 40rem;
-  height: 25rem;
+  height: 27rem;
   margin:0rem 3rem 1rem;
 }
 
@@ -9380,11 +9429,11 @@ h3 i {
 }
 
 .content8 P {
-  width: 12rem;
-  padding: 1.9rem 1.6rem 0rem;
+  width: 20%;
+  padding: 1.3rem 1rem 0rem;
   font-size: 1.2rem;
   margin: 0rem 20rem 1rem;
-  height: 7vh;
+  height: 4rem;
 }
 
 
@@ -9400,42 +9449,42 @@ h3 i {
 footer {
   width: 100%;
   height: 10vh;
-  padding: 2.8rem 3rem 0rem;
+  padding: 3rem 3rem 0rem;
   font-size: 1.2rem;
 margin: -1rem 0rem 0rem;
 }
 
 .about_item1 h2 {
-padding-top: 2rem;
+padding-top: 1.5rem;
   font-size: 2.5rem;
  
 }
 .about_item1 p{
-padding-top: 1rem;;
+padding-top: 1.5rem;;
   font-size:1.2rem;
 }
 .about_item2{
-  margin: 5rem 2rem 0rem;
- width: 90%;
+  margin: 5rem 0rem 0rem;
+ width: 100%;
 }
 .about_item2 img{
-  margin: 3rem 1rem 0rem;
+  margin: 3rem 0rem 0rem;
 height: 50vh;
-
+width: 100%;
 }
 .about_item2  h2{
-margin: 2rem 2rem 0rem;
+margin: 2rem 0rem 0rem;
 text-align: center;
 font-size: 2.5rem;
 }
 
 .about_item2  p{
-  height: 28%;
-margin: 1rem 3rem 2rem;
+  height: 22rem;
+margin: 1rem 4rem 2rem;
 line-height: 45px;
 padding: 0.5rem 0rem;
 font-size: 1.5rem;
-width: 90%;
+width: 85%;
 }
 .about_item2  hr{
 margin: 1rem 28rem 1rem;
@@ -9446,7 +9495,7 @@ display: block;
   height: 7vh;
   background-color:#782D50;
   color: white;
-  padding: 1.8rem 2.2rem;
+  padding: 1.6rem 2.7rem;
   border-radius: 0.25rem;
   margin: 2rem 3rem 4rem;
   font-size: 1.5rem;
@@ -9461,23 +9510,23 @@ font-size: 2.5rem;
 
 }
 #fourA i{
- width: 100px;
- height: 100px;
+ width: 130px;
+ height: 130px;
  border-radius: 50%;
-padding: 1.4rem 1.8rem;
-font-size: 3rem;
+padding: 2rem 2.3rem 0rem;
+font-size: 4rem;
 }
 #fourA span{
-margin: 2rem 1rem 0rem;
-font-size: 4rem;
+margin: 2rem 2rem 0rem;
+font-size: 6rem;
 
 }
 .fourA{
-  font-size: 1.5rem;
-  margin: 0rem 15rem 0rem;
+  font-size: 2.5rem;
+  margin: 0rem 20rem 0rem;
   position: relative;
-  bottom: 2rem;
-  width: 15rem;
+  bottom: 3rem;
+  width: 25rem;
 }
 #three{
   margin: 4rem 4rem 0rem;
@@ -9486,55 +9535,55 @@ font-size: 4rem;
 }
 #three i{
   
- width: 100px;
- height: 100px;
+  width: 130px;
+ height: 130px;
  border-radius: 50%;
-padding: 1.4rem 1.8rem;
-font-size: 3rem;
+ padding: 2rem 2rem 0rem;
+font-size: 4rem;
 }
 #three span{
   
-margin: 1rem 8rem 0rem;
-font-size: 4rem;
-bottom: 4rem;
+margin: 0rem 10rem 0rem;
+font-size: 6rem;
+bottom: 7rem;
 
    }
 .three{
-  font-size: 1.5rem;
-  margin: 0rem 15rem 0rem;
+  font-size: 2.5rem;
+  margin: 0rem 20rem 0rem;
   position: relative;
-  bottom:5rem;
-  width: 10rem;
+  bottom:10rem;
+  width: 15rem;
 }
 #fourB{
-  margin: 3rem 4rem 0rem;
+  margin: 1rem 4rem 0rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
 }
 #fourB i{
-  width: 100px;
-  height: 100px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
- padding: 1.4rem 2rem;
- font-size: 3rem;
+  padding: 2rem 2.8rem 0rem;
+ font-size: 4rem;
 }
 #fourB span{
-  margin: 1rem 8rem 0rem;
-  font-size: 4rem;
-  bottom: 4rem;
+  margin: 1rem 10rem 0rem;
+  font-size: 6rem;
+  bottom: 6rem;
    }
 .fourB{
-  font-size: 1.5rem;
-  margin: 0rem 15rem 0rem;
+  font-size: 2.5rem;
+  margin: 0rem 20rem 0rem;
   position: relative;
-  bottom: 6rem;
+  bottom: 9rem;
 }
 .about_item5{
-  padding-top: 4rem;
+  padding-top: 3rem;
   height: 90vh;
-  margin-left: 2.5rem;
-  width: 90%;
+  margin-left: 0rem;
+  width: 100%;
 }
 .about_item5 h2{
   font-size: 2.5rem;
@@ -9546,20 +9595,21 @@ bottom: 4rem;
 }
 .about_item5 p{
  line-height: 45px;
-padding: 0.5rem 2rem 0rem;
+padding: 0.5rem 0rem 0rem;
 font-size: 1.5rem;
+margin-left: 2.5rem;
 }
 .about_item5 span{
-  width: 12rem;
-  height: 6vh;
-  margin: 4rem 18rem 0rem;
+  width: 26%;
+  height: 5rem;
+  margin: 4rem 20rem 0rem;
   font-size: 1.5rem;
   padding: 1.5rem 0rem 0rem;
 }
 
 #creation{
   margin: 3rem 0rem 0rem;
-width: 90%;
+width: 100%;
 }
 .about_item6 h2{
  margin-left: 0rem;
@@ -9571,16 +9621,16 @@ width: 90%;
   margin: 2rem 25rem 2rem;
 }
 .about_item6 p{
-  margin: 0rem 4.5rem 1.5rem;
+  margin: 0rem 3.8rem 1.5rem;
   line-height: 45px;
   padding: 0.5rem 0rem;
   font-size: 1.5rem;
-  width: 90%;
+  width: 85%;
 }
 .about_item6 img{
   height: 50vh;
-  margin: 3rem 5rem 0rem;
-  width: 90%;
+  margin: 3rem 0rem 0rem;
+  width: 100%;
 }
 .about_item7 {
   margin: 5.5rem 1rem 0rem;
@@ -9589,7 +9639,7 @@ width: 90%;
 .about_item7 label{
   font-size: 1.5rem;
   height: 8vh;
-  margin: 0rem 0rem 0.7rem;
+  margin: 0rem 2.3rem 0.7rem;
   padding: 0.5rem 1rem 0rem;
 }
 .about_item7 input{
@@ -9660,7 +9710,7 @@ margin-bottom:-0rem ;
 .container_about hr {
   width: 2rem;
   bottom: 70%;
-  margin: 1rem 25rem 0rem;
+  margin: 1.5rem 25rem 0rem;
 }
 
   .blog_item1 {
@@ -9688,7 +9738,7 @@ width: 90%;
 .container_blog h2 {
   font-size:2.5rem;
   text-align: center;
-  margin-left: 1rem;
+  margin-left: 0rem;
 }
 
 .container_blog p {
@@ -9705,8 +9755,8 @@ width: 90%;
 
 .blog_item2{
   width: 80%;
-  height:85vh;
-  margin-left: 5rem;
+  height:90vh;
+  margin-left: 4.7rem;
 }
 .blog_item2 img{
 width: 100%;
@@ -9738,8 +9788,8 @@ padding-left: 1.5rem;
 .blog_item3{
 
   width: 80%;
-  height:80vh;
-  margin-left: 5rem;
+  height:84vh;
+  margin-left: 4.7rem;
 }
 .blog_item3 img{
 height:60%;
@@ -9769,8 +9819,8 @@ padding-left: 1.5rem;
 
 .blog_item4{
   width: 80%;
-  height:80vh;
-  margin-left: 5rem;
+  height:90vh;
+  margin-left: 4.7rem;
 }
 .blog_item4 img{
   height:55%;
@@ -9841,14 +9891,15 @@ padding-left: 1.5rem;
   .events_item1 p{
   padding-top: 1rem;
     font-size: 1.5rem;
+    
   }
   #events1{
     margin: 3rem 1rem 0rem;
   }
   
   .events_item2{
-    height: 70vh;
-  margin: 1rem 3.3rem 0rem;
+    height: 80vh;
+  margin: 1rem 5.3rem 0rem;
   }
   
   .events_item2 h3{
@@ -9858,11 +9909,11 @@ padding-left: 1.5rem;
   line-height: 45px;
   }
   .events_item2 p{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem 3rem 1rem;
     line-height: 50px;
-    padding: 0.5rem 3rem 0rem;
+    padding: 0.5rem 0rem 0rem;
     font-size: 1.5rem;
+    width: 35rem;
   }
   
   .events_item2 .date{
@@ -9877,14 +9928,14 @@ padding-left: 1.5rem;
   
   }
   .events_item2 button{
-    margin:2rem 17rem 0rem;
+    margin:2rem 13rem 0rem;
     width: 15rem;
     height: 7vh;
     font-size: 1.5rem;
   }
   .events_item3{
-    height: 63rem;
-    margin: 0rem 3.3rem 3rem;
+    height: 73rem;
+    margin: 0rem 5.3rem 3rem;
   }
   
   .events_item3 h3{
@@ -9895,9 +9946,9 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item3 p{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    line-height: 50px;
+    margin: 1rem 2.5rem 1rem;
+    width: 37rem;
+    line-height: 45px;
     padding: 0.5rem 2rem 0rem;
     font-size: 1.5rem;
   }
@@ -9915,7 +9966,7 @@ padding-left: 1.5rem;
   }
   .events_item3 button{
     
-    margin:3rem 15rem 0rem;
+    margin:2rem 14rem 0rem;
     width: 15rem;
     height: 7vh;
     font-size: 1.5rem;
@@ -9975,15 +10026,17 @@ width: 90%;
 .projects_item1 {
   margin: 1rem 4rem 3rem;
   width:85%;
-  height: 85rem;
+  height: 80rem;
 }
-
+.projects_item1 img{
+  height: 25rem;
+}
 .projects_item1 p {
   line-height: 55px;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 2rem 0rem;
-  margin: 0rem 2rem 0rem;
+  margin: 0rem 2rem 1rem;
 }
 
 
@@ -10010,7 +10063,7 @@ width: 90%;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 2rem 0rem;
-  margin: 0rem 2rem 0rem;
+  margin: 0rem 2rem 1rem;
 }
 
 .projects_item2 .date {
@@ -10036,7 +10089,7 @@ width: 90%;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 1rem 0rem;
-  margin: 0rem 2rem 0rem;
+  margin: 0rem 2rem 1rem;
 }
 
 
@@ -10053,20 +10106,21 @@ width: 90%;
 }
 
 .projects_item4 {
-  margin: 1rem 4rem 0rem;
+  margin: 1rem 6rem 0rem;
   width:85%;
   height: 50rem;
 }
 .projects_item4 img{
   width: 100%;
   margin: 0rem;
+  height: 25rem;
 }
 .projects_item4 p {
   line-height: 45px;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 2rem 0rem;
-  margin: 0rem 2rem 0rem;
+  margin: 0rem 2rem 1rem;
 }
 .projects_item4 .date {
   margin: 5rem 1rem 1rem;
@@ -10081,25 +10135,26 @@ width: 90%;
 }
    
 .container_volunteers {
-  margin: 4rem 3rem 3rem;
-  width: 90%;
+  margin: 4rem 0rem 3rem;
+  width: 100%;
 }
 
 .container_volunteers h2 {
   font-size:2.5rem;
-  margin-left: 5rem;
+  margin-left: 0rem;
   text-align: center;
 }
 
 .container_volunteers p {
   width: 90%;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 3rem 0rem;
   font-size: 1.5rem;
 height: 20%;
 }
 .container_volunteers hr {
   width: 2.5rem;
-  margin: 1rem 20rem 0rem;
+  margin: 1rem 30rem 0rem;
+  display: block;
 } 
 .container4_volunteer{
   margin-top:-14rem ;
@@ -10155,25 +10210,25 @@ height: 20%;
   margin-left: 0rem;
 }
 .contact_item1 h2{
-  margin: 2rem 7rem 0rem;
+  margin: 2rem 4rem 0rem;
   font-size: 2.5rem;
 }
 .contact_item1 hr{
-  margin:1.5rem 12rem 2rem;
+  margin:1.5rem 5rem 2rem;
 }
 
 .contact_item1 p{
   margin: 1rem 3rem 2rem;
   width: 2rem;
- font-size: 1.5rem;
+ font-size: 2rem;
  width: 100%;
 }
 .contact_item1 span{
   margin-right: 2rem;
-  width: 5rem;
-  height: 5rem;
-  padding: 1rem 1.5rem 0rem;
-  font-size: 2.5rem;
+  width: 8rem;
+  height: 8rem;
+  padding: 1.5rem 2.3rem 0rem;
+  font-size: 4.5rem;
 }
 
 .contact_item2{
@@ -10185,7 +10240,7 @@ height: 20%;
   font-size: 2.5rem;
 }
 .contact_item2 hr{
-  margin-left: 4rem;
+  margin-left: 5rem;
   width: 2rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -10331,11 +10386,11 @@ figure{
 }
 
 .fill{
-  height: 70vh;
+  height: 100rem;
   
 }
 .login{
-  padding: 2rem 5rem 0rem;
+  padding: 4rem 5rem 0rem;
 }
 .content_1{
 font-size: 2rem;
@@ -10345,10 +10400,10 @@ margin-left: 30rem;
 font-size:2rem;
 }
 .fill .content_A{
-  margin: 5rem 2rem 4rem;
-  padding:1rem 1rem 0rem;
-  width: 48rem;
-  height: 5vh;
+  margin: 8rem 2rem 4rem;
+  padding:1.2rem 1rem 0rem;
+  width: 50rem;
+  height: 6vh;
   font-size: 1.5rem;
 }
 .fill .email{
@@ -10358,7 +10413,7 @@ font-size:2rem;
 }
 .fill .email input{
   height:4rem;
-  width: 32rem;
+  width: 37rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -10368,7 +10423,7 @@ font-size:2rem;
 }
 .fill .password input{
   height: 4rem;
-  width: 32rem;
+  width: 37rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }

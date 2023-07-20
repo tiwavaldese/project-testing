@@ -6634,7 +6634,7 @@ text-align: center;
   }
   .content2 {
    
-    padding: 2rem 1.7rem 0rem;
+    padding: 1.4rem 1.7rem 0rem;
 
   }
   .content2 a {
@@ -6789,7 +6789,7 @@ margin-top: 1rem;
 .about_item3{
   width: 13rem;
   height: 8vh;
-  padding: 2rem 1rem;
+  padding: 1.4rem 1rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
   font-size: 1.2rem;
@@ -7075,7 +7075,7 @@ width: 80%;
 .blog_item2{
   margin-left: 1.2rem;
   width: 85%;
-  height:60vh;
+  height:70vh;
 }
 .blog_item2 img{
   height: 15rem;
@@ -7083,7 +7083,7 @@ width: 80%;
 .blog_item3{
   margin:1rem 1.2rem 0rem ;
   width: 85%;
-  height: 50vh;
+  height: 60vh;
 }
 .blog_item3 img{
   width: 100%;
@@ -7093,7 +7093,7 @@ width: 80%;
 .blog_item4{
   margin: 1rem 1.2rem 0rem;
   width: 85%;
-  height: 50vh;
+  height:60vh;
 }
 .blog_item4 img{
   height: 15rem;

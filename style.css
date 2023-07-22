@@ -96,7 +96,9 @@ h1 {
   height: 2.5rem;
   width: 7rem;
   background-color: #782D50;
-  padding: 0.5rem 0.5rem 0rem;
+  padding: 0rem 0.5rem 0rem;
+  display: flex;
+  text-align: center;
 }
 
 .description1:hover {
@@ -500,9 +502,10 @@ height: 20%;
 .content h3 {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  padding-left: 1rem;
+  padding-left: 0rem;
   font-size: 1.2rem;
   line-height: 30px;
+  text-align: center;
 }
 
 .grid_item1:hover {
@@ -546,14 +549,14 @@ height: 20%;
 }
 
 .grid_item1 .date {
-  margin: 1rem 2rem 1rem;
+  margin: 0rem 1rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item1 .comment {
-  margin: 2rem 2rem 1rem;
+  margin: 0rem 2rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -585,14 +588,14 @@ height: 20%;
 }
 
 .grid_item2 .date {
-  margin: 2rem 2rem 1rem;
+  margin: 0rem 1rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item2 .comment {
-  margin: 2rem 2rem 1rem;
+  margin: 0rem 2rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -625,14 +628,14 @@ height: 20%;
 }
 
 .grid_item3 .date {
-  margin: 2rem 2rem 1rem;
+  margin:0rem 1rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item3 .comment {
-  margin: 2rem 2rem 1rem;
+  margin: 0rem 2rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
@@ -665,16 +668,16 @@ height: 20%;
 }
 
 .grid_item4 .date {
-  margin: 2rem 2rem 1rem;
+  margin: 0rem 1rem 0rem;
   font-size: 0.9rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .grid_item4 .comment {
-  margin: 2rem 2rem 1rem;
+  margin: 0rem 2rem 0rem;
   font-size: 0.9rem;
-  padding-left: 1rem;
+  padding-left: 0rem;
   color: #782D50;
 }
 
@@ -682,10 +685,13 @@ height: 20%;
   color: white;
   border: 1px solid rgb(69, 235, 235);
   background-color: #782D50;
-  width: 10%;
+  width: 13%;
   height: 9vh;
   margin: 2rem 3rem 3rem;
   border-radius: 5px;
+  display: flex;
+  align-items: center;
+  padding: 0rem 0.5rem 0rem;
 }
 
 .grid_item button:hover {

@@ -3060,7 +3060,7 @@ color: gainsboro;
 .slide .captionA {
     margin: 0rem 3rem 0rem;
     padding: 0.6rem 1em 0rem;
-    bottom: 80%;
+    bottom: 84%;
     height: 2rem;
     width: 73%;
 }
@@ -3068,8 +3068,8 @@ color: gainsboro;
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 55%;
-  height: 13vh;
+    bottom: 57%;
+  height: 14vh;
   width: 73%;
   padding: 0.5rem 0.5rem 0rem;
 }
@@ -3086,14 +3086,16 @@ color: gainsboro;
 
 
 .slide .captionD {
-  bottom: 85%;
-  width: 73%;
+  bottom: 86%;
+  width: 76%;
+  margin-left: 4rem;
 }
 
 .slide .captionE {
-  width: 76%;
-  height: 14vh;
+  width: 80%;
+  height: 15vh;
   bottom: 54%;
+  margin-left: 4rem;
   padding: 0.5rem 0.5rem 0rem;
 }
 
@@ -3104,29 +3106,30 @@ color: gainsboro;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
+  margin-left: 6rem;
 }
 
 .slide .captionG {
   
-  bottom: 60%;
+  bottom: 62%;
   height: 7vh;
   padding: 0.8rem 0.5rem 0rem;
-  margin-left: -6rem;
+  margin-left: -9rem;
   width: 73%;
 }
 
 .slide .captionH {
   
-  margin-left: -6rem;
+  margin-left: -9rem;
   bottom: 28%;
   width:73%;
-  height: 10vh;
+  height: 12vh;
   padding-left: 1rem;
 }
 
 .slide .captionI {
-  bottom: 11%;
-  margin-left: -3rem;
+  bottom: 9%;
+  margin-left: -9rem;
   width: 7.2rem;
   height: 2.5rem;
   padding: 0rem 1rem 0rem;
@@ -3158,11 +3161,11 @@ padding: 0rem;
 
 
 .content {
-  margin: 5rem 0rem 90rem 0rem;
+  margin: 5rem 0rem 95rem 0rem;
   
 }
 .grid_item1{
-margin-left:1rem;
+margin-left:0.5rem;
 width: 20rem;
 height: 50rem;
 justify-content: center;
@@ -3185,7 +3188,7 @@ align-items: center;
   }
 .grid_item2{
  
-margin-left: 1rem;
+margin-left: 0.5rem;
 width: 20rem;
 height: 40rem;
   }
@@ -3205,7 +3208,7 @@ height: 40rem;
     }
   .grid_item3{
     
-margin-left: 1rem;
+margin-left: 0.5rem;
 width: 20rem;
 height: 35rem;
     }
@@ -3288,6 +3291,9 @@ height: 35rem;
     margin-left: 2rem;
     width: 100%;
   }
+  .row_item5 h2 {
+    width: 100%;
+  }
   .row_item5 span {
     display: block;
     margin-left: 5rem;
@@ -3307,17 +3313,17 @@ height: 35rem;
     height: 17rem;
   }
   .captionA2 {
-    bottom: 71%;
+    bottom: 72%;
     width: 90%;
     margin-left: 4rem;
   }
   .captionB2 {
-    bottom: 53%;
+    bottom: 55%;
     width: 100%;
     margin-left: 3rem;
   }
   .captionC2 {
-    bottom: 26%;
+    bottom: 28%;
     width: 90%;
     margin-left: 3rem;
     line-height: 20px;
@@ -3389,7 +3395,7 @@ height: 35rem;
     display: flex;
     position: relative;
     bottom: 4rem;
-    margin-left: 7rem;
+    margin-left: 5rem;
   }
   .row_item6 strong {
     flex-direction: row;
@@ -3478,7 +3484,7 @@ width: 13.6rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 2.5rem;
+    margin-left: 2rem;
   }
   #img_13 {
     width: 17rem;
@@ -3562,7 +3568,7 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2.5rem 0rem;
+    margin: 2rem 2rem 0rem;
   }
   .img_17 {
     width: 17rem;
@@ -3585,7 +3591,7 @@ width: 13.6rem;
     margin-left: 0rem;
   }
   .img_20{
-    margin-left: 1.5rem;
+    margin-left: 2.1rem;
     width: 17rem;
     height: 16rem;
   }
@@ -3619,7 +3625,7 @@ width: 13.6rem;
   footer {
     width: 100%;
     bottom: 1rem;
-    line-height: 1rem;
+    line-height: 1.5rem;
     padding: 1.4rem 1rem 0rem;
   }
   

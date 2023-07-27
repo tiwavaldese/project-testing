@@ -3054,7 +3054,7 @@ color: gainsboro;
   
   .slide.three img {
     width: 100%;
-    margin: 2.5rem -12rem 0rem;
+    margin: 2.5rem -9rem 0rem;
     height: 20%;
   }
 .slide .captionA {
@@ -3151,7 +3151,7 @@ padding: 0rem;
   margin-left: 10rem;
  }
 .container p {
-  margin-left: 2rem;
+  margin-left: 2.2rem;
   padding-right: 0rem; 
   width:80%;
   display: block;
@@ -3166,7 +3166,7 @@ padding: 0rem;
   
 }
 .grid_item1{
-margin-left:0.7rem;
+margin-left:1rem;
 width: 20rem;
 height: 50rem;
 justify-content: center;
@@ -3189,7 +3189,7 @@ align-items: center;
   }
 .grid_item2{
  
-margin-left: 0.7rem;
+margin-left: 1rem;
 width: 20rem;
 height: 40rem;
   }
@@ -3209,7 +3209,7 @@ height: 40rem;
     }
   .grid_item3{
     
-margin-left: 0.7rem;
+margin-left: 1rem;
 width: 20rem;
 height: 35rem;
     }
@@ -3231,7 +3231,7 @@ height: 35rem;
     width: 30%;
     height:7vh;
     margin-top: 0rem;
-    margin-left: 0.5rem;
+    margin-left:1rem;
     width: 8.6rem;
     padding: 0rem 1rem 0rem;
     display: flex;
@@ -3386,7 +3386,7 @@ height: 35rem;
     width:19rem;
     padding-bottom: 4rem;
     height: 4rem;
-    margin-left: 2rem;
+    margin-left: 2.5rem;
     line-height: 1.5rem;
     font-size: 0.8rem;
     margin-bottom: 1.7rem;
@@ -3485,7 +3485,7 @@ width: 13.6rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 2.2rem;
+    margin-left: 3rem;
   }
   #img_13 {
     width: 17rem;
@@ -3563,13 +3563,16 @@ width: 13.6rem;
     margin-left: 0rem;
     text-align: center;
   }
+  .content4 hr{
+    margin-left: 9rem;
+  }
   .content4 p {
     width: 70%;
     text-align: center;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2.2rem 0rem;
+    margin: 2rem 3rem 0rem;
   }
   .img_17 {
     width: 17rem;
@@ -3592,7 +3595,7 @@ width: 13.6rem;
     margin-left: 0rem;
   }
   .img_20{
-    margin-left: 2.1rem;
+    margin-left: 2.5rem;
     width: 17rem;
     height: 16rem;
   }
@@ -3671,7 +3674,6 @@ margin: 1rem 2rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
-text-align: center;
 }
 .about_item2  hr{
   margin-left: 9rem;

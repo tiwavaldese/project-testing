@@ -3060,17 +3060,17 @@ color: gainsboro;
 .slide .captionA {
     margin: 0rem 3rem 0rem;
     padding: 0.6rem 1em 0rem;
-    bottom: 84%;
+    bottom: 85%;
     height: 2rem;
-    width: 73%;
+    width: 76%;
 }
 
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 57%;
-  height: 14vh;
-  width: 73%;
+    bottom: 58%;
+  height: 15vh;
+  width: 76%;
   padding: 0.5rem 0.5rem 0rem;
 }
 
@@ -3094,7 +3094,7 @@ color: gainsboro;
 .slide .captionE {
   width: 80%;
   height: 15vh;
-  bottom: 54%;
+  bottom: 55%;
   margin-left: 4rem;
   padding: 0.5rem 0.5rem 0rem;
 }
@@ -3121,14 +3121,15 @@ color: gainsboro;
 .slide .captionH {
   
   margin-left: -9rem;
-  bottom: 28%;
+  bottom: 27%;
   width:73%;
-  height: 12vh;
+  height: 13vh;
   padding-left: 1rem;
+  padding-top: 0.2rem;
 }
 
 .slide .captionI {
-  bottom: 9%;
+  bottom: 8%;
   margin-left: -9rem;
   width: 7.2rem;
   height: 2.5rem;
@@ -3161,11 +3162,11 @@ padding: 0rem;
 
 
 .content {
-  margin: 5rem 0rem 95rem 0rem;
+  margin: 5rem 0rem 93rem 0rem;
   
 }
 .grid_item1{
-margin-left:0.5rem;
+margin-left:0.7rem;
 width: 20rem;
 height: 50rem;
 justify-content: center;
@@ -3188,7 +3189,7 @@ align-items: center;
   }
 .grid_item2{
  
-margin-left: 0.5rem;
+margin-left: 0.7rem;
 width: 20rem;
 height: 40rem;
   }
@@ -3208,7 +3209,7 @@ height: 40rem;
     }
   .grid_item3{
     
-margin-left: 0.5rem;
+margin-left: 0.7rem;
 width: 20rem;
 height: 35rem;
     }
@@ -3323,7 +3324,7 @@ height: 35rem;
     margin-left: 3rem;
   }
   .captionC2 {
-    bottom: 28%;
+    bottom: 29%;
     width: 90%;
     margin-left: 3rem;
     line-height: 20px;
@@ -3421,7 +3422,7 @@ height: 35rem;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 9.5rem;
+    margin-left: 9rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -3429,7 +3430,7 @@ height: 35rem;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 9.5rem;
+    margin-left: 9rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -3437,7 +3438,7 @@ height: 35rem;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 9.5rem;
+    margin-left: 9rem;
     display: block;
     margin-top: 3rem;
     margin-bottom: 1rem;
@@ -3446,7 +3447,7 @@ height: 35rem;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 9.5rem;
+    margin-left: 9rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -3484,7 +3485,7 @@ width: 13.6rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 2rem;
+    margin-left: 2.2rem;
   }
   #img_13 {
     width: 17rem;
@@ -3568,7 +3569,7 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2rem 0rem;
+    margin: 2rem 2.2rem 0rem;
   }
   .img_17 {
     width: 17rem;

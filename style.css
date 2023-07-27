@@ -3676,7 +3676,7 @@ strong{
 }
 .about_item2  p{
 width:80%;
-height: 19rem;
+height:20rem;
 margin: 1rem 2.3rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
@@ -3990,7 +3990,7 @@ width: 82%;
 .blog_item2{
   margin-left: 0rem;
   width: 85%;
-  height:60rem;
+  height:50rem;
 }
 .blog_item2 h2{
   text-align: center;
@@ -4000,7 +4000,7 @@ width: 82%;
   height: 12rem;
   }
   .blog_item2 .date{
-    margin: 0rem 0rem 0rem;
+    margin: 0rem 0.3rem 0rem;
   padding: 0rem;
     
   }
@@ -4012,7 +4012,7 @@ width: 82%;
 .blog_item3{
   margin:1rem  0rem 0rem ;
   width: 85%;
-  height: 45rem;
+  height: 35rem;
 }
 .blog_item3 img{
   width: 100%;
@@ -4022,8 +4022,8 @@ width: 82%;
     text-align: center;
     padding-left: 0rem;
   }
-  .blog_item3.date{
-    margin: 0rem 0rem 0rem;
+  .blog_item3 .date{
+    margin: 0rem 0.3rem 0rem;
   padding: 0rem;
     
   }
@@ -4035,7 +4035,7 @@ width: 82%;
 .blog_item4{
   margin: 1rem  0rem 0rem;
   width: 85%;
-  height: 45rem;
+  height: 35rem;
 }
 .blog_item4 img{
   height:12rem;
@@ -4044,8 +4044,8 @@ width: 82%;
   text-align: center;
   padding-left: 0rem;
 }
-.blog_item4.date{
-  margin: 0rem 0rem 0rem;
+.blog_item4 .date{
+  margin: 0rem 0.3rem 0rem;
   padding: 0rem;
 }
 .blog_item4 .comment{

@@ -3995,6 +3995,14 @@ width: 82%;
 .blog_item2 img{
   height: 12rem;
   }
+  .blog_item2 .date{
+    margin: 0rem 1rem 0rem;
+    
+  }
+  .blog_item2 .comment{
+    margin: 0rem 1rem 0rem;
+    
+  }
 .blog_item3{
   margin:1rem 1rem 0rem ;
   width: 85%;
@@ -4008,6 +4016,14 @@ width: 82%;
     text-align: center;
     padding-left: 0rem;
   }
+  .blog_item3.date{
+    margin: 0rem 1rem 0rem;
+    
+  }
+  .blog_item3 .comment{
+    margin: 0rem 1rem 0rem;
+    
+  }
 .blog_item4{
   margin: 1rem 1rem 0rem;
   width: 85%;
@@ -4020,7 +4036,14 @@ width: 82%;
   text-align: center;
   padding-left: 0rem;
 }
-
+.blog_item4.date{
+  margin: 0rem 1rem 0rem;
+  
+}
+.blog_item4 .comment{
+  margin: 0rem 1rem 0rem;
+  
+}
 #btn{
   margin:3rem 2rem 3rem;
 }

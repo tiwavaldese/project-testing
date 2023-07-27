@@ -4102,20 +4102,64 @@ width: 82%;
     text-align: center;
   }
   .container_projects p {
-    margin: 1rem 2.5rem 0rem;
+    margin: 1rem 1.7rem 0rem;
     width: 80%;
   }
   
   .container_projects hr {
-    margin: 1rem 12rem 0rem;
+    margin: 1rem 10rem 0rem;
   }
+
+    .grid_item2{
+     
+    margin-left: 1.3rem;
+    width: 20rem;
+    height: 40rem;
+      }
+      .grid_item2 img{
+        height: 15rem;
+      }
+      .grid_item2 p{
+        width: 20rem;
+        padding: 0rem 2rem 0rem;
+      
+        }
+        .grid_item2 .date{
+          margin: 0rem 1rem 0rem;
+        }
+        .grid_item2 .comment{
+          margin: 0rem 0.5rem 0rem;
+        }
+      .grid_item3{
+        
+    margin-left: 1.3rem;
+    width: 20rem;
+    height: 35rem;
+        }
+        .grid_item3 img{
+          height: 15rem;
+        }
+        .grid_item3 p{
+          width: 20rem;
+          padding: 0rem 2rem 0rem;
+        
+          }
+          .grid_item3 .date{
+            margin: 0rem 1rem 0rem;
+          }
+          .grid_item3 .comment{
+            margin: 0rem 0.5rem 0rem;
+          }
   .projects_item1 {
-    width: 22rem;
-    height: 48rem;
-    margin: 1rem 0rem 1rem;
+    margin-left:1.3rem;
+    width: 20rem;
+    height: 50rem;
+    justify-content: center;
+    align-items: center;
   }
   .projects_item1 p{
     width: 20rem;
+      padding: 0rem 2rem 0rem;
     margin: 0rem 1rem 0rem;
   }
   .projects_item1 h3{
@@ -4123,10 +4167,10 @@ width: 82%;
     text-align: center;
   }
   .projects_item1 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item1 .comment{
-    margin:0rem 1rem 2rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .projects_item1 img{
     height: 15rem;

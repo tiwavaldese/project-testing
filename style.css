@@ -3676,8 +3676,8 @@ strong{
 }
 .about_item2  p{
 width:90%;
-height: 23rem;
-margin: 1rem 2rem 0rem;
+height: 21rem;
+margin: 1rem 0.2rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
@@ -3812,7 +3812,7 @@ font-size: 1.9rem;
  width: 95%;
  line-height: 30px;
 padding: 0.5rem 0rem 0rem;
-margin: 0rem 2rem 2rem;
+margin: 0rem 0.2rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
@@ -3904,7 +3904,7 @@ text-align: justify;
 .specific-objective p{
   margin: -3.5rem 0rem -12rem;
   width: 18rem;
-  height: 22rem;
+  height: 24rem;
   line-height: 35px;
 }
 .activities p{

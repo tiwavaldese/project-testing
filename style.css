@@ -3069,7 +3069,7 @@ color: gainsboro;
   
     margin: 0rem 3rem 0rem;
     bottom: 58%;
-  height: 15vh;
+  height: 16vh;
   width: 76%;
   padding: 0.5rem 0.5rem 0rem;
 }
@@ -3123,9 +3123,9 @@ color: gainsboro;
   margin-left: -9rem;
   bottom: 27%;
   width:73%;
-  height: 13vh;
+  height: 14vh;
   padding-left: 1rem;
-  padding-top: 0.2rem;
+  padding-top: 0.5rem;
 }
 
 .slide .captionI {
@@ -3222,7 +3222,7 @@ height: 35rem;
     
       }
       .grid_item3 .date{
-        margin: 0rem1rem 0rem;
+        margin: 0rem 1rem 0rem;
       }
       .grid_item3 .comment{
         margin: 0rem 0.5rem 0rem;
@@ -3231,7 +3231,7 @@ height: 35rem;
     width: 30%;
     height:7vh;
     margin-top: 0rem;
-    margin-left: 2rem;
+    margin-left: 0.7rem;
     width: 8.6rem;
     padding: 0rem 1rem 0rem;
     display: flex;
@@ -3537,7 +3537,7 @@ width: 13.6rem;
   }
   .grid_7 h2{
     bottom: 52rem;
-    margin-left: 10rem;
+    margin-left: 9rem;
   }
   .grid_7 hr{
     bottom: 56rem;

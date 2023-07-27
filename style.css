@@ -3010,7 +3010,7 @@ color: gainsboro;
     height: 8rem;
     width: 10rem;
     font-size: 0.9rem;
-    bottom: 18rem;
+    bottom: 20rem;
   }
   #header {
     width: 100%;
@@ -3061,7 +3061,7 @@ color: gainsboro;
   
   .slide.three img {
     width: 100%;
-    margin: 2.5rem -9.5rem 0rem;
+    margin: 2.5rem -10rem 0rem;
     height: 20%;
   }
 .slide .captionA {
@@ -3173,7 +3173,7 @@ padding: 0rem;
   
 }
 .grid_item1{
-margin-left:1.4rem;
+margin-left:1.3rem;
 width: 20rem;
 height: 50rem;
 justify-content: center;
@@ -3189,14 +3189,14 @@ align-items: center;
 
   }
   .grid_item1 .date{
-    margin: 0rem1rem 0rem;
+    margin: 0rem 1rem 0rem;
   }
   .grid_item1 .comment{
     margin: 0rem 0.5rem 0rem;
   }
 .grid_item2{
  
-margin-left: 1.4rem;
+margin-left: 1.3rem;
 width: 20rem;
 height: 40rem;
   }
@@ -3209,14 +3209,14 @@ height: 40rem;
   
     }
     .grid_item2 .date{
-      margin: 0rem1rem 0rem;
+      margin: 0rem 1rem 0rem;
     }
     .grid_item2 .comment{
       margin: 0rem 0.5rem 0rem;
     }
   .grid_item3{
     
-margin-left: 1.4rem;
+margin-left: 1.3rem;
 width: 20rem;
 height: 35rem;
     }

@@ -4119,13 +4119,13 @@ width: 82%;
   }
   .projects_item1 p{
     width: 18rem;
-    margin: 0rem 1.4rem 0rem;
+    margin: 0rem 1.6rem 0rem;
     padding-left: 0rem;
   }
   .projects_item1 h3{
     margin: 2rem 0rem 0rem;
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   .projects_item1 .date{
     margin: 0rem 0.5rem 0rem;
@@ -4152,7 +4152,7 @@ width: 82%;
   }
   .projects_item2 h3{
     margin: 2rem 0rem 0rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   .projects_item2 .date{
     margin: 0rem 1rem 0rem;
@@ -4175,7 +4175,7 @@ width: 82%;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   .projects_item3 .date{
     margin: 0rem 1rem 0rem;
@@ -4199,7 +4199,7 @@ width: 82%;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   .projects_item4 .date{
     margin: 0rem 1rem 0rem;

@@ -3666,9 +3666,9 @@ strong{
 }
 .about_item2  p{
 width:90%;
-height: 30rem;
+height: 25rem;
 margin: 1rem 1.2rem 0rem;
-line-height:30px;
+line-height:25px;
 padding: 0.5rem 1rem 0rem;
 font-size: 0.9rem;
 }
@@ -3712,7 +3712,7 @@ margin-left: 1rem;
 }
 .fourA{
   font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 10rem 0rem;
   position: relative;
   bottom: 1rem;
   width: 10rem;
@@ -3742,7 +3742,7 @@ font-size: 1.9rem;
    }
 .three{
   font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 10rem 0rem;
   position: relative;
   bottom:4rem;
   width: 7rem;
@@ -3772,7 +3772,7 @@ font-size: 1.9rem;
    }
 .fourB{
   font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 10rem 0rem;
   position: relative;
   bottom: 4rem;
 }
@@ -3783,7 +3783,7 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 70rem;
+  height: 65rem;
   margin-left: 0rem;
   
 }
@@ -3800,7 +3800,7 @@ font-size: 1.9rem;
  justify-content: center;
  align-items: center;
  width: 95%;
- line-height: 35px;
+ line-height: 30px;
 padding: 0.5rem 1.5rem 0rem;
 margin: 0rem 0.5rem 2rem;
 text-align: justify;
@@ -3829,7 +3829,7 @@ justify-content: center;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 11.5rem 1rem;
+  margin: 2rem 9rem 1rem;
  
 }
 .about_item6 p{
@@ -3873,33 +3873,33 @@ text-align: justify;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 20rem;
+  width: 18rem;
   margin: -3.5rem -2rem -1rem;
 }
 .vision-and-goal p{
   margin: -3.5rem -2rem -1rem;
-  width: 20rem;
+  width: 18rem;
 }
 #project-committee{
   margin: 0.5rem 0rem 4rem;
 }
 .project-committee p{
   margin: -3.5rem -2rem -1rem;
-  width: 20rem;
+  width: 18rem;
 }
 .membership-status p{
   margin: -3.5rem -2rem -1rem;
-  width: 20rem;
+  width: 18rem;
 }
 .specific-objective p{
   margin: -3.5rem -2rem -7rem;
-  width: 20rem;
-  height: 17rem;
+  width: 18rem;
+  height: 20rem;
   line-height: 35px;
 }
 .activities p{
   margin: -3.5rem -2rem -1rem;
-  width: 20rem;
+  width: 18rem;
 }
 .about_partner{
   margin-top: -16rem;

@@ -3676,8 +3676,8 @@ strong{
 }
 .about_item2  p{
 width:80%;
-height: 22rem;
-margin: 1rem 3.2rem 0rem;
+height: 19rem;
+margin: 1rem 2.3rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
@@ -3812,7 +3812,7 @@ font-size: 1.9rem;
  width:80%;
  line-height: 30px;
 padding: 0.5rem 0rem 0rem;
-margin: 0rem 3.2rem 2rem;
+margin: 0rem 2.3rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
@@ -3988,9 +3988,9 @@ width: 82%;
   margin: 1rem 9rem 0rem;
 }
 .blog_item2{
-  margin-left: -1.5rem;
+  margin-left: 0rem;
   width: 85%;
-  height:80rem;
+  height:60rem;
 }
 .blog_item2 h2{
   text-align: center;
@@ -4010,9 +4010,9 @@ width: 82%;
     
   }
 .blog_item3{
-  margin:1rem  -1.5rem 0rem ;
+  margin:1rem  0rem 0rem ;
   width: 85%;
-  height: 55rem;
+  height: 45rem;
 }
 .blog_item3 img{
   width: 100%;
@@ -4033,9 +4033,9 @@ width: 82%;
     
   }
 .blog_item4{
-  margin: 1rem  -1.5rem 0rem;
+  margin: 1rem  0rem 0rem;
   width: 85%;
-  height: 55rem;
+  height: 45rem;
 }
 .blog_item4 img{
   height:12rem;

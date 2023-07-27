@@ -3001,7 +3001,7 @@ color: gainsboro;
     max-width: 100%;
   }
   .img_1{
-    height: 4rem;
+    height: 3rem;
     margin-top: 0rem;
     padding-top: 0.1rem;
   }
@@ -3062,7 +3062,7 @@ color: gainsboro;
     padding: 0.6rem 1em 0rem;
     bottom: 80%;
     height: 3rem;
-    width: 65%;
+    width: 73%;
 }
 
 .slide .captionB {
@@ -3070,8 +3070,8 @@ color: gainsboro;
     margin: 0rem 3rem 0rem;
     bottom: 55%;
   height: 12vh;
-  width: 65%;
-  padding: 0rem 0.5rem 0rem;
+  width: 73%;
+  padding: 0.5rem 0.5rem 0rem;
 }
 
 .slide .captionC {
@@ -3087,13 +3087,14 @@ color: gainsboro;
 
 .slide .captionD {
   bottom: 80%;
-  width: 65%;
+  width: 73%;
 }
 
 .slide .captionE {
-  width: 65%;
+  width: 73%;
   height: 12vh;
   bottom: 54%;
+  padding: 0.5rem 0.5rem 0rem;
 }
 
 .slide .captionF {
@@ -3111,14 +3112,14 @@ color: gainsboro;
   height: 7vh;
   padding: 0.8rem 0.5rem 0rem;
   margin-left: -6rem;
-  width: 65%;
+  width: 73%;
 }
 
 .slide .captionH {
   
   margin-left: -6rem;
   bottom: 28%;
-  width: 65%;
+  width:73%;
   height: 10vh;
   padding-left: 1rem;
 }
@@ -3146,7 +3147,7 @@ padding: 0rem;
   margin-left: 12rem;
  }
 .container p {
-  margin-left: 2.3rem;
+  margin-left: 2rem;
   padding-right: 0rem; 
   width:80%;
   display: block;
@@ -3157,11 +3158,11 @@ padding: 0rem;
 
 
 .content {
-  margin: 5rem 0rem 85rem 0rem;
+  margin: 5rem 0rem 86.5rem 0rem;
   
 }
 .grid_item1{
-margin-left:1.5rem;
+margin-left:0.2rem;
 width: 22rem;
 height: 47rem;
 justify-content: center;
@@ -3184,7 +3185,7 @@ align-items: center;
   }
 .grid_item2{
  
-margin-left: 1.5rem;
+margin-left: 0.2rem;
 width: 22rem;
 height: 37rem;
   }
@@ -3204,7 +3205,7 @@ height: 37rem;
     }
   .grid_item3{
     
-margin-left: 1.5rem;
+margin-left: 0.2rem;
 width: 22rem;
 height: 35rem;
     }
@@ -3258,7 +3259,7 @@ height: 35rem;
     width: 45vw;
     height: 25vh;
     display: flex;
-    margin: 5rem 3rem 0rem;
+    margin: 7rem 3rem 0rem;
     padding-top: 1.5rem;
   }
   .slide .captionA1 {
@@ -3307,13 +3308,13 @@ height: 35rem;
   }
   .captionA2 {
     bottom: 71%;
-    width: 70%;
-    margin-left: 5rem;
+    width: 90%;
+    margin-left: 4rem;
   }
   .captionB2 {
     bottom: 50%;
     width: 100%;
-    margin-left: 5rem;
+    margin-left: 3rem;
   }
   .captionC2 {
     bottom: 23%;
@@ -3331,14 +3332,14 @@ height: 35rem;
     display: flex;
     align-items: center;
     margin-left:3rem;
-   
+    bottom: 7%;
   }
   
   
   .captionE2 {
     position: absolute;
     left: 0;
-    bottom: 10%;
+    bottom: 7%;
     font-size: 0.9rem;
     color: white;
     background-color: #782D50;
@@ -3358,7 +3359,7 @@ height: 35rem;
     text-align: center;
   }
   .container_home hr{
-    margin-left: 11rem;
+    margin-left: 10rem;
   }
   .container_home p {
     margin-left: 1rem;
@@ -3376,7 +3377,7 @@ height: 35rem;
     width:21rem;
     padding-bottom: 4rem;
     height: 4rem;
-    margin-left: 3rem;
+    margin-left: 1rem;
     line-height: 1.5rem;
     font-size: 0.8rem;
     margin-bottom: 1.7rem;
@@ -3407,10 +3408,7 @@ height: 35rem;
     bottom: 12rem;
     margin-left: -1.5rem;
   }
-  .container_home {
-    margin: 3rem 0rem 3rem;
-
-  }
+ 
   .img_9 {
     width: 120px;
     height: 120px;
@@ -3471,14 +3469,14 @@ width: 13.6rem;
     text-align: center;
   }
   #container hr {
-    margin-left: 10.5rem;
+    margin-left: 9rem;
   }
   #container p{
     width: 90%;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 4rem;
+    margin-left: 1.5rem;
   }
   #img_13 {
     width: 17rem;
@@ -3524,14 +3522,14 @@ width: 13.6rem;
     bottom: 29.5rem;
   }
   .grid_7 h2{
-    bottom: 49rem;
+    bottom: 52rem;
     margin-left: 10rem;
   }
   .grid_7 hr{
-    bottom: 57rem;
+    bottom: 56rem;
   }
   .grid_7 button{
-    bottom: 50rem;
+    bottom: 48rem;
   }
   .grid_7 p{
     width: 14rem;
@@ -3557,7 +3555,7 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 4rem 0rem;
+    margin: 2rem 1.5rem 0rem;
   }
   .img_17 {
     width: 17rem;
@@ -3576,7 +3574,8 @@ width: 13.6rem;
   }
   .container4 {
     width: 100%;
-    padding-left: 1rem;
+    padding-left: 0rem;
+    margin-left: 0rem;
   }
   .img_20{
     margin-left: 3rem;
@@ -3613,7 +3612,8 @@ width: 13.6rem;
   footer {
     width: 100%;
     bottom: 1rem;
-    padding: 2.5rem 1rem 0rem;
+    line-height: 2rem;
+    padding: 1.7rem 1rem 0rem;
   }
   
 .about_item1 {

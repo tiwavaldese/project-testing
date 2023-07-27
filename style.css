@@ -3978,7 +3978,7 @@ height: 20%;
 }
 
 .container_blog p {
-  margin: 1rem 1.8rem 0rem;
+  margin: 1rem 1.9rem 0rem;
 padding-right:0rem;
 width: 82%;
 }
@@ -3988,9 +3988,9 @@ width: 82%;
   margin: 1rem 9rem 0rem;
 }
 .blog_item2{
-  margin-left: 1rem;
+  margin-left: 0.7rem;
   width: 85%;
-  height:50rem;
+  height:45rem;
 }
 .blog_item2 h2{
   text-align: center;
@@ -4010,9 +4010,9 @@ width: 82%;
     
   }
 .blog_item3{
-  margin:1rem  1rem 0rem ;
+  margin:1rem  0.7rem 0rem ;
   width: 85%;
-  height: 35rem;
+  height: 32rem;
 }
 .blog_item3 img{
   width: 100%;
@@ -4033,7 +4033,7 @@ width: 82%;
     
   }
 .blog_item4{
-  margin: 1rem  1rem 0rem;
+  margin: 1rem  0.7rem 0rem;
   width: 85%;
   height: 35rem;
 }

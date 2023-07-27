@@ -3677,7 +3677,7 @@ strong{
 .about_item2  p{
 width:90%;
 height: 21rem;
-margin: 1rem 0.5rem 0rem;
+margin: 1rem 1rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
@@ -3809,10 +3809,10 @@ font-size: 1.9rem;
  display: flex;
  justify-content: center;
  align-items: center;
- width: 95%;
+ width:80%;
  line-height: 30px;
 padding: 0.5rem 0rem 0rem;
-margin: 0rem 0.4rem 2rem;
+margin: 0rem 0.5rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }

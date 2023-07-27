@@ -3947,14 +3947,18 @@ height: 20%;
   .blog_item1 {
     margin: -1.5rem 0rem 0rem;
     width: 100%;
-    padding: 0rem 8rem 0rem;
+    padding: 0rem 0rem 0rem;
   }
   .blog_item1 h2{
     width: 100%;
+    text-align: center;
+    margin-left: 0rem;
   }
   .blog_item1 p{
     width: 100%;
     margin-top: 0rem;
+    text-align: center;
+    margin-left: 0rem;
   }
   
 #blog1{
@@ -3984,9 +3988,9 @@ width: 82%;
   margin: 1rem 9rem 0rem;
 }
 .blog_item2{
-  margin-left: 1rem;
+  margin-left: 0rem;
   width: 85%;
-  height:90vh;
+  height:70rem;
 }
 .blog_item2 h2{
   text-align: center;
@@ -4004,9 +4008,9 @@ width: 82%;
     
   }
 .blog_item3{
-  margin:1rem 1rem 0rem ;
+  margin:1rem 0rem 0rem ;
   width: 85%;
-  height: 70vh;
+  height: 50rem;
 }
 .blog_item3 img{
   width: 100%;
@@ -4025,9 +4029,9 @@ width: 82%;
     
   }
 .blog_item4{
-  margin: 1rem 1rem 0rem;
+  margin: 1rem 0rem 0rem;
   width: 85%;
-  height: 75vh;
+  height: 50rem;
 }
 .blog_item4 img{
   height:12rem;

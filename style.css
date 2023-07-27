@@ -3005,6 +3005,13 @@ color: gainsboro;
     margin-top: 0rem;
     padding-top: 0.3rem;
   }
+  .menu {
+    padding: 1.5px 0;
+    height: 8rem;
+    width: 10rem;
+    font-size: 0.9rem;
+    bottom: 15rem;
+  }
   #header {
     width: 100%;
   }

@@ -4102,7 +4102,7 @@ width: 82%;
     text-align: center;
   }
   .container_projects p {
-    margin: 1rem 1.7rem 0rem;
+    margin: 1rem 2.2rem 0rem;
     width: 80%;
   }
   
@@ -4110,48 +4110,8 @@ width: 82%;
     margin: 1rem 10rem 0rem;
   }
 
-    .grid_item2{
-     
-    margin-left: 1.3rem;
-    width: 20rem;
-    height: 40rem;
-      }
-      .grid_item2 img{
-        height: 15rem;
-      }
-      .grid_item2 p{
-        width: 20rem;
-        padding: 0rem 2rem 0rem;
-      
-        }
-        .grid_item2 .date{
-          margin: 0rem 1rem 0rem;
-        }
-        .grid_item2 .comment{
-          margin: 0rem 0.5rem 0rem;
-        }
-      .grid_item3{
-        
-    margin-left: 1.3rem;
-    width: 20rem;
-    height: 35rem;
-        }
-        .grid_item3 img{
-          height: 15rem;
-        }
-        .grid_item3 p{
-          width: 20rem;
-          padding: 0rem 2rem 0rem;
-        
-          }
-          .grid_item3 .date{
-            margin: 0rem 1rem 0rem;
-          }
-          .grid_item3 .comment{
-            margin: 0rem 0.5rem 0rem;
-          }
   .projects_item1 {
-    margin-left:1.3rem;
+    margin-left:0.5rem;
     width: 20rem;
     height: 50rem;
     justify-content: center;
@@ -4159,7 +4119,6 @@ width: 82%;
   }
   .projects_item1 p{
     width: 20rem;
-      padding: 0rem 2rem 0rem;
     margin: 0rem 1rem 0rem;
   }
   .projects_item1 h3{
@@ -4176,9 +4135,9 @@ width: 82%;
     height: 15rem;
   }
   .projects_item2 {
-    width: 22rem;
-    margin: 1rem 0rem 1rem;
-    height: 37rem;
+    margin-left: 0.5rem;
+    width: 20rem;
+    height: 40rem;
   }
   .projects_item2 img{
     height: 15rem;
@@ -4195,11 +4154,11 @@ width: 82%;
     margin: 0rem 1rem 0rem;
   }
   .projects_item2 .comment{
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .projects_item3 {
-    width: 22rem;
-    margin: 1rem 0rem 1rem;
+    width: 20rem;
+    margin: 1rem 0.5rem 1rem;
   }
   .projects_item3 p{
     width: 20rem;
@@ -4213,14 +4172,14 @@ width: 82%;
     margin: 2rem 0rem 0rem;
   }
   .projects_item3 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item3 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .projects_item4 {
-    width: 22rem;
-    margin: 1rem 2rem 1rem;
+    width: 20rem;
+    margin: 1rem 1.5rem 1rem;
  height:35rem;
   }
   .projects_item4 p{
@@ -4235,10 +4194,10 @@ width: 82%;
     margin: 2rem 0rem 0rem;
   }
   .projects_item4 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item4 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .container_volunteers h2{
 text-align: center;

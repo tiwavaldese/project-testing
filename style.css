@@ -3671,6 +3671,7 @@ margin: 1rem 2rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
+text-align: center;
 }
 .about_item2  hr{
   margin-left: 9rem;
@@ -3783,7 +3784,7 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 62rem;
+  height: 59rem;
   margin-left: 0rem;
   
 }
@@ -3833,7 +3834,7 @@ justify-content: center;
  
 }
 .about_item6 p{
-  margin: 0rem 2.4rem 1.5rem;
+  margin: 0rem 2.1rem 1.5rem;
   line-height: 35px;
   padding: 0rem 0rem 0rem;
   font-size: 0.9rem;
@@ -3894,7 +3895,7 @@ text-align: justify;
 .specific-objective p{
   margin: -3.5rem 0rem -12rem;
   width: 18rem;
-  height: 20rem;
+  height: 22rem;
   line-height: 35px;
 }
 .activities p{

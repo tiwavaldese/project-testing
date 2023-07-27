@@ -3002,6 +3002,8 @@ color: gainsboro;
   }
   .img_1{
     height: 4rem;
+    margin-top: 0rem;
+    padding-top: 0.1rem;
   }
   #header {
     width: 100%;
@@ -3014,7 +3016,7 @@ color: gainsboro;
     margin: 1rem 9rem 0rem;
   }
   .description1 {
-    margin: 0.5rem 18rem 0rem;
+    margin: 0.5rem 13rem 0rem;
     width: 8rem;
     height: 2.5rem;
     padding: 0rem 1rem 0rem;
@@ -3052,13 +3054,15 @@ color: gainsboro;
   
   .slide.three img {
     width: 100%;
-    margin: 1.5rem -12rem 0rem;
+    margin: 2.5rem -12rem 0rem;
     height: 20%;
   }
 .slide .captionA {
     margin: 0rem 3rem 0rem;
     padding: 0.6rem 1em 0rem;
     bottom: 80%;
+    height: 3rem;
+    width: 65%;
 }
 
 .slide .captionB {
@@ -3066,6 +3070,7 @@ color: gainsboro;
     margin: 0rem 3rem 0rem;
     bottom: 55%;
   height: 12vh;
+  width: 65%;
   padding: 0rem 0.5rem 0rem;
 }
 
@@ -3082,17 +3087,17 @@ color: gainsboro;
 
 .slide .captionD {
   bottom: 80%;
-  width: 63%;
+  width: 65%;
 }
 
 .slide .captionE {
-  width: 62%;
+  width: 65%;
   height: 12vh;
-  bottom: 56%;
+  bottom: 54%;
 }
 
 .slide .captionF {
-  bottom: 47%;
+  bottom: 44%;
   width: 7.2rem;
   height: 2.5rem;
   padding: 0rem 1rem 0rem;
@@ -3103,22 +3108,23 @@ color: gainsboro;
 .slide .captionG {
   
   bottom: 60%;
-  height: 6vh;
+  height: 7vh;
   padding: 0.8rem 0.5rem 0rem;
   margin-left: -6rem;
+  width: 65%;
 }
 
 .slide .captionH {
   
   margin-left: -6rem;
-  bottom: 30%;
-  width: 63%;
+  bottom: 28%;
+  width: 65%;
   height: 10vh;
   padding-left: 1rem;
 }
 
 .slide .captionI {
-  bottom: 16%;
+  bottom: 13%;
   margin-left: -3rem;
   width: 7.2rem;
   height: 2.5rem;
@@ -3127,25 +3133,40 @@ color: gainsboro;
   align-items: center;
 }
 .container {
-  margin: -7rem -1rem 3rem;
-width: 90%;
+  margin: -7rem 0rem 3rem;
+width: 100%;
+text-align: center;
 }
+.container h2 {
+ margin-left: 0rem;
+text-align: center;
+padding: 0rem;
+}
+.container hr {
+  margin-left: 12rem;
+ }
 .container p {
-  margin-left: 3rem;
+  margin-left: 2.3rem;
   padding-right: 0rem; 
-  width:95%;
+  width:80%;
+  display: block;
   text-align: justify;
+  justify-content: center;
+  align-items: center;
 }
 
 
 .content {
-  margin: 5rem 0rem 74rem 0rem;
+  margin: 5rem 0rem 85rem 0rem;
   
 }
 .grid_item1{
-margin-left: 2rem;
+margin-left:1.5rem;
 width: 22rem;
 height: 47rem;
+justify-content: center;
+align-items: center;
+
 }
 .grid_item1 img{
   height: 15rem;
@@ -3155,9 +3176,15 @@ height: 47rem;
   padding: 0rem 2rem 0rem;
 
   }
+  .grid_item1 .date{
+    margin: 0rem1rem 0rem;
+  }
+  .grid_item1 .comment{
+    margin: 0rem 0.5rem 0rem;
+  }
 .grid_item2{
  
-margin-left: 2rem;
+margin-left: 1.5rem;
 width: 22rem;
 height: 37rem;
   }
@@ -3169,9 +3196,15 @@ height: 37rem;
     padding: 0rem 2rem 0rem;
   
     }
+    .grid_item2 .date{
+      margin: 0rem1rem 0rem;
+    }
+    .grid_item2 .comment{
+      margin: 0rem 0.5rem 0rem;
+    }
   .grid_item3{
     
-margin-left: 2rem;
+margin-left: 1.5rem;
 width: 22rem;
 height: 35rem;
     }
@@ -3182,6 +3215,12 @@ height: 35rem;
       width: 22rem;
       padding: 0rem 2rem 0rem;
     
+      }
+      .grid_item3 .date{
+        margin: 0rem1rem 0rem;
+      }
+      .grid_item3 .comment{
+        margin: 0rem 0.5rem 0rem;
       }
   .grid_item button {
     width: 30%;
@@ -3269,12 +3308,12 @@ height: 35rem;
   .captionA2 {
     bottom: 71%;
     width: 70%;
-    margin-left: 6rem;
+    margin-left: 5rem;
   }
   .captionB2 {
     bottom: 50%;
     width: 100%;
-    margin-left: 6rem;
+    margin-left: 5rem;
   }
   .captionC2 {
     bottom: 23%;
@@ -3291,7 +3330,7 @@ height: 35rem;
     padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
-    margin-left: 5rem;
+    margin-left:3rem;
    
   }
   
@@ -3309,11 +3348,24 @@ height: 35rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 14rem;
+    margin-left: 12rem;
     padding: 0rem 1rem 0rem;
     text-align: center;
   }
  
+  .container_home h2{
+    margin-left: 0rem;
+    text-align: center;
+  }
+  .container_home hr{
+    margin-left: 11rem;
+  }
+  .container_home p {
+    margin-left: 1rem;
+    padding-right: 2rem; 
+    width: 100%;
+    text-align: center;
+  }
   .content1 {
     display: block;
     width: 70%;
@@ -3321,10 +3373,10 @@ height: 35rem;
   }
   .row_item6 p {
   
-    width:23rem;
+    width:21rem;
     padding-bottom: 4rem;
     height: 4rem;
-    margin-left: 2.2rem;
+    margin-left: 3rem;
     line-height: 1.5rem;
     font-size: 0.8rem;
     margin-bottom: 1.7rem;
@@ -3334,7 +3386,7 @@ height: 35rem;
     display: flex;
     position: relative;
     bottom: 4.5rem;
-    margin-left: 8.5rem;
+    margin-left: 7rem;
   }
   .row_item6 strong {
     flex-direction: row;
@@ -3359,21 +3411,11 @@ height: 35rem;
     margin: 3rem 0rem 3rem;
 
   }
-  .container_home h2{
-    margin-left: 0rem;
-    text-align: center;
-  }
-  .container_home p {
-    margin-left: 1rem;
-    padding-right: 2rem; 
-    width: 100%;
-    text-align: center;
-  }
   .img_9 {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 11rem;
+    margin-left: 9.5rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -3381,7 +3423,7 @@ height: 35rem;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 11rem;
+    margin-left: 9.5rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -3389,9 +3431,17 @@ height: 35rem;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 11rem;
+    margin-left: 9.5rem;
     display: block;
     margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+  .img_12 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 9.5rem;
+    display: block;
     margin-bottom: 1rem;
   }
   #row1 {
@@ -3402,19 +3452,12 @@ height: 35rem;
     position: relative;
     bottom: 1rem;
   }
-  .img_12 {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    margin-left: 11rem;
-    display: block;
-    margin-bottom: 1rem;
-  }
+ 
   .content2 {
    display: flex;
     padding: 0rem 1rem 0rem;
 align-items: center;
-width: 13.7rem;
+width: 13.6rem;
   }
   .content2 a {
     color: white;
@@ -3424,53 +3467,89 @@ width: 13.7rem;
     width: 90%;
   }
   #container h2 {
-    margin-left: 2rem;
+    margin-left: 0rem;
     text-align: center;
   }
   #container hr {
-    margin-left: 12rem;
+    margin-left: 10.5rem;
   }
   #container p{
     width: 90%;
-    
     margin-left: 2rem;
   }
+  .content3{
+    margin-left: 4rem;
+  }
+  #img_13 {
+    width: 17rem;
+    height: 16rem;
+    display: flex;
+    margin-bottom: 1rem;
+    
+  }
+  
+  #img_14 {
+    width: 17rem;
+    height: 16rem;
+    display: block;
+    margin-bottom: 1rem;
+  }
+  
+  #img_15 {
+    width: 17rem;
+    height: 16rem;
+    display: block;
+  }
+  
   .grid_5 {
     width: 100%;
   }
-  .content3{
-    margin-left: 2.8rem;
-  }
+  
   .grid_5 img {
     width: 100%;
   }
   .grid_6 h2{
-    bottom: 63.5rem;
+    bottom: 59rem;
   }
   .grid_6 h3{
-    height: 8rem;
-    bottom:55.5rem;
+    height: 7rem;
+    bottom:52rem;
   }
   .grid_6i{
-    height: 5rem;
-    bottom: 50.5rem;
+    height: 4rem;
+    bottom: 48.3rem;
   }
   .grid_6 p{
     height: 19rem;
-    bottom: 31.5rem;
+    bottom: 29.5rem;
+  }
+  .grid_7 h2{
+    bottom: 49rem;
+    margin-left: 10rem;
   }
   .grid_7 hr{
-    bottom: 59.5rem;
+    bottom: 57rem;
   }
   .grid_7 button{
-    bottom: 52.5rem;
+    bottom: 50rem;
   }
   .grid_7 p{
     width: 14rem;
+    bottom: 31.5rem;
+    margin-left: 10.5rem;
+  }
+  .grid_7i{
+    bottom: 23rem;
+    margin-left: 9.5rem;
   }
   .content4 {
     width: 100%;
     margin-top: -9rem;
+    margin-left: 0rem;
+  }
+  .content4 h2{
+    margin-left: 0rem;
+    text-align: center;
   }
   .content4 p {
     width: 70%;
@@ -3478,23 +3557,47 @@ width: 13.7rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2.2rem 0rem;
+    margin: 2rem 4rem 0rem;
   }
   .img_17 {
-    height: 30vh;
-    margin-left: 3rem;
+    width: 17rem;
+    height: 16rem;
+    margin-left: 0rem;
   }
   .img_18 {
-    height: 30vh;
-    margin-left: 3rem;
+    width: 17rem;
+    height: 16rem;
+    margin-left: 0rem;
   }
   .img_19 {
-    height: 30vh;
-    margin-left: 3rem;
+    width: 17rem;
+    height: 16rem;
+    margin-left: 0rem;
   }
   .container4 {
     width: 100%;
     padding-left: 1rem;
+  }
+  .img_20{
+    margin-left: 3rem;
+    width: 17rem;
+    height: 16rem;
+  }
+  .content6{
+    margin-left: 0rem;
+  }
+  .content6 hr{
+    margin-left:5.2rem;
+  }
+  .content7{
+    margin-left:0rem;
+    padding-left: 0rem;
+  }
+  .content7 hr{
+    margin-left:5.2rem;
+  }
+  .content8 h3{
+    margin-left:4.5rem;
   }
   .content8 p{
     display: flex;
@@ -3503,10 +3606,14 @@ width: 13.7rem;
     width: 7.5rem;
     padding: 0rem 1rem 0rem;
   }
+  .content8 hr{
+    margin-left:5.2rem;
+    width: 2rem;
+  }
   footer {
     width: 100%;
-    bottom: 0rem;
-    padding: 1rem 2rem 0rem;
+    bottom: 1rem;
+    padding: 2.5rem 1rem 0rem;
   }
   
 .about_item1 {

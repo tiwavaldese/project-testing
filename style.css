@@ -3069,7 +3069,7 @@ color: gainsboro;
   
     margin: 0rem 3rem 0rem;
     bottom: 58%;
-  height: 16vh;
+  height: 17vh;
   width: 76%;
   padding: 0.5rem 0.5rem 0rem;
 }
@@ -3123,7 +3123,7 @@ color: gainsboro;
   margin-left: -9rem;
   bottom: 27%;
   width:73%;
-  height: 14vh;
+  height: 16vh;
   padding-left: 1rem;
   padding-top: 0.5rem;
 }
@@ -3231,7 +3231,7 @@ height: 35rem;
     width: 30%;
     height:7vh;
     margin-top: 0rem;
-    margin-left: 0.7rem;
+    margin-left: 0.5rem;
     width: 8.6rem;
     padding: 0rem 1rem 0rem;
     display: flex;

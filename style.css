@@ -3061,7 +3061,7 @@ color: gainsboro;
   
   .slide.three img {
     width: 100%;
-    margin: 2.5rem -11rem 0rem;
+    margin: 2.5rem -10rem 0rem;
     height: 20%;
   }
 .slide .captionA {
@@ -3492,7 +3492,7 @@ width: 13.6rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 2.6rem;
+    margin-left: 2.7rem;
   }
   #img_13 {
     width: 17rem;
@@ -3579,7 +3579,7 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2.6rem 0rem;
+    margin: 2rem 2.7rem 0rem;
   }
   .img_17 {
     width: 17rem;
@@ -3677,7 +3677,7 @@ strong{
 .about_item2  p{
 width:90%;
 height: 21rem;
-margin: 1rem 0.2rem 0rem;
+margin: 1rem 0.5rem 0rem;
 line-height:25px;
 padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
@@ -3812,7 +3812,7 @@ font-size: 1.9rem;
  width: 95%;
  line-height: 30px;
 padding: 0.5rem 0rem 0rem;
-margin: 0rem 0.2rem 2rem;
+margin: 0rem 0.4rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
@@ -3904,7 +3904,7 @@ text-align: justify;
 .specific-objective p{
   margin: -3.5rem 0rem -12rem;
   width: 18rem;
-  height: 24rem;
+  height: 25rem;
   line-height: 35px;
 }
 .activities p{

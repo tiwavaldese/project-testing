@@ -5713,7 +5713,7 @@ font-size: 1.2rem;
       height: 8rem;
       width: 10rem;
       font-size: 0.9rem;
-      bottom: 20rem;
+      bottom: 19rem;
     }
     #header {
       width: 100%;
@@ -5727,6 +5727,7 @@ font-size: 1.2rem;
     }
     .image{
       height: 7rem;
+      width: 6rem;
     }
     .description1 {
       margin: 0.5rem 13rem 0rem;
@@ -5956,6 +5957,7 @@ font-size: 1.2rem;
     }
     .slide .img {
       width: 100%;
+      height: 40rem;
     }
     .slide .img_6 {
       margin: 320rem 0.3rem 0rem;

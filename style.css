@@ -3001,7 +3001,7 @@ color: gainsboro;
   }
 }
 
-@media only screen and (min-width:400px) {
+@media only screen and (min-width:380px) {
   html, body {
     overflow-x: hidden;
   }

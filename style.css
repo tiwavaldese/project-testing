@@ -5963,10 +5963,10 @@ font-size: 1.2rem;
       margin: 320rem 0.3rem 0rem;
       width: 40rem;
       height: 40rem;
-      bottom:-25%;
+      bottom:-37%;
     }
     .slide hr {
-      bottom:87%;
+      bottom:85%;
       margin: 220rem 3rem 0rem;
     }
     .slide .captionAA {
@@ -5979,12 +5979,12 @@ font-size: 1.2rem;
       width: 45vw;
       height: 25vh;
       display: flex;
-      margin: 3rem 3rem 0rem;
+      margin: 0rem 3rem 0rem;
       padding-top: 1.5rem;
     }
     .slide .captionA1 {
       width: 10rem;
-      bottom:80%;
+      bottom:76%;
       color: #782D50;
       margin: 228rem 3rem 0rem;
     }

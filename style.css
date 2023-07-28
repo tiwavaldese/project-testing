@@ -4275,21 +4275,21 @@ font-size: 1.2rem;
 .fill .email{
   margin: 0rem 1rem 1.5rem;
   width: 32rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 .fill .email input{
   height: 2.5rem;
-  width: 14rem;
+  width: 13rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
   margin: 0rem 2.5rem 2rem;
   width: 30rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 .fill .password input{
   height: 2.5rem;
-  width: 14rem;
+  width: 13rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{

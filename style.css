@@ -5772,7 +5772,7 @@ font-size: 1.2rem;
     }
   .slide .captionA {
       margin: 0rem 3rem 0rem;
-      padding: 0.6rem 1em 0rem;
+      padding: 0.4rem 1em 0rem;
       bottom: 85%;
       height: 2rem;
       width: 76%;
@@ -5802,6 +5802,7 @@ font-size: 1.2rem;
     bottom: 84%;
     width: 76%;
     margin-left: 4rem;
+    padding-top: 0.4rem;
   }
   
   .slide .captionE {
@@ -5826,7 +5827,7 @@ font-size: 1.2rem;
     
     bottom: 62%;
     height: 7vh;
-    padding: 0.8rem 0.5rem 0rem;
+    padding: 0.4rem 0.5rem 0rem;
     margin-left: -9rem;
     width: 73%;
   }

@@ -2978,8 +2978,30 @@ color: gainsboro;
   margin: 3rem 1rem 0rem;
 }
 
+@media screen and (min-width: 330px) {
+  html, body {
+    overflow-x: hidden;
+  }
+  body {
+    flex-direction: flex;
+    font-size: 1rem;
+    width: 100%;
+    background-color:lightskyblue;
+  }
+  .wrapper {
+    width: 100%;
+    margin: 0 
+  }
+  .navbar {
+    padding-bottom: 30px;
+    display: block;
+  }
+  img {
+    max-width: 100%;
+  }
+}
 
-@media only screen and (max-width:430px) {
+@media only screen and (min-width:400px) {
   html, body {
     overflow-x: hidden;
   }
@@ -4316,7 +4338,6 @@ font-size: 1.2rem;
 
   }
 
-  
 @media screen and (min-width: 430px) {
   html, body {
     overflow-x: hidden;

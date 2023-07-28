@@ -8395,6 +8395,7 @@ font-size: 1.2rem;
  
   
 @media screen and (min-width:400px) {
+  
   html, body {
     overflow-x: hidden;
   }
@@ -8402,7 +8403,7 @@ font-size: 1.2rem;
     flex-direction: flex;
     font-size: 1rem;
     width: 100%;
-    background-color: grey;
+    background-color:grey;
   }
   .wrapper {
     width: 100%;
@@ -8411,9 +8412,23 @@ font-size: 1.2rem;
   .navbar {
     padding-bottom: 30px;
     display: block;
+    height: 4.5rem;
   }
   img {
     max-width: 100%;
+  }
+  
+  .img_1{
+    height: 4rem;
+    margin-top: 0rem;
+    padding-top: 0.3rem;
+  }
+  .menu {
+    padding: 1.5px 0;
+    height: 8rem;
+    width: 10rem;
+    font-size: 0.9rem;
+    bottom: 18rem;
   }
   #header {
     width: 100%;
@@ -8425,11 +8440,15 @@ font-size: 1.2rem;
     width: 2rem;
     margin: 1rem 9rem 0rem;
   }
+  .image{
+    height: 7rem;
+    width: 6rem;
+  }
   .description1 {
-    margin: 0.5rem 18rem 0rem;
-    padding: 0 1rem 0rem;
+    margin: 0.5rem 13rem 0rem;
     width: 8rem;
-    height: 3.5rem;
+    height: 2.5rem;
+    padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -8464,141 +8483,205 @@ font-size: 1.2rem;
   
   .slide.three img {
     width: 100%;
-    margin: 1.5rem -12rem 0rem;
+    margin: 2.5rem -10rem 0rem;
     height: 20%;
   }
 .slide .captionA {
     margin: 0rem 3rem 0rem;
     padding: 0.4rem 1em 0rem;
-    bottom: 80%;
+    bottom: 85%;
+    height: 2rem;
+    width: 76%;
 }
 
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 53%;
-  height: 10vh;
-  padding: 0rem 0.5rem 0rem;
+    bottom: 56%;
+  height: 17vh;
+  width: 76%;
+  padding: 0.5rem 0.5rem 0rem;
 }
 
 .slide .captionC {
     margin-left: 3rem;
-    bottom: 40%;
-    padding: 0 1rem 0rem;
-    width: 7.5rem;
-    height: 3rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    bottom: 44%;
+  width: 7.2rem;
+  height: 2.5rem;
+  padding: 0rem 1rem 0rem;
+  display: flex;
+  align-items: center;
 }
 
 
 .slide .captionD {
-  bottom: 80%;
-  width: 63%;
+  bottom: 84%;
+  width: 76%;
+  margin-left: 4rem;
+  padding-top: 0.4rem;
 }
 
 .slide .captionE {
-  width: 62%;
-  height: 10vh;
-  bottom: 57%;
+  width: 80%;
+  height: 15vh;
+  bottom: 55%;
+  margin-left: 4rem;
+  padding: 0.5rem 0.5rem 0rem;
 }
 
 .slide .captionF {
   bottom: 44%;
-  padding: 0 1rem 0rem;
-  width: 7.5rem;
-  height: 3rem;
+  width: 7.2rem;
+  height: 2.5rem;
+  padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
-  justify-content: center;
+  margin-left: 15rem;
 }
 
 .slide .captionG {
   
-  bottom: 60%;
-  height: 5vh;
-  padding: 0.5rem 0.5rem 0rem;
+  bottom: 62%;
+  height: 7vh;
+  padding: 0.4rem 0.5rem 0rem;
   margin-left: -6rem;
+  width: 73%;
 }
 
 .slide .captionH {
   
   margin-left: -6rem;
-  bottom: 30%;
-  width: 63%;
-  height: 10vh;
+  bottom: 24%;
+  width:73%;
+  height: 16vh;
   padding-left: 1rem;
+  padding-top: 0.5rem;
 }
 
 .slide .captionI {
-  bottom: 13%;
-  margin-left: -3rem;
-  padding: 0 1rem 0rem;
-  width: 7.5rem;
-  height: 3rem;
+  bottom: 8%;
+  margin-left: 0rem;
+  width: 7.2rem;
+  height: 2.5rem;
+  padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 .container {
   margin: -7rem 0rem 3rem;
-width: 90%;
+width: 100%;
+text-align: center;
 }
-.container h2{
-  margin-left: 0rem;
-  text-align: center;
+.container h2 {
+ margin-left: 0rem;
+text-align: center;
+padding: 0rem;
 }
-.container hr{
-  margin-left: 11rem;
-}
+.container hr {
+  margin-left: 10rem;
+ }
 .container p {
-  margin-left: 2rem;
+  margin-left: 2.3rem;
   padding-right: 0rem; 
-  width:95%;
+  width:80%;
+  display: block;
   text-align: justify;
+  justify-content: center;
+  align-items: center;
 }
 
 
 .content {
-  margin: 5rem 0rem 75rem 0rem;
+  margin: 5rem 0rem 93rem 0rem;
   
 }
 .grid_item1{
-margin-left:2.8rem;
+margin-left:1.9rem;
+width: 20rem;
+height: 50rem;
+justify-content: center;
+align-items: center;
+
 }
-.grid_item2{
-  margin-left: 2.8rem;
+.grid_item1 img{
+  height: 15rem;
+}
+.grid_item1 p{
+  width: 20rem;
+  padding: 0rem 2rem 0rem;
+
   }
-  .grid_item3{
-    margin-left: 2.8rem;
-    height: 34rem;
+  .grid_item1 .date{
+    margin: 0rem 1rem 0rem;
+  }
+  .grid_item1 .comment{
+    margin: 0rem 0.3rem 0rem;
+  }
+.grid_item2{
+ 
+margin-left: 1.9rem;
+width: 20rem;
+height: 40rem;
+  }
+  .grid_item2 img{
+    height: 15rem;
+  }
+  .grid_item2 p{
+    width: 20rem;
+    padding: 0rem 2rem 0rem;
+  
     }
+    .grid_item2 .date{
+      margin: 0rem 1rem 0rem;
+    }
+    .grid_item2 .comment{
+      margin: 0rem 0.3rem 0rem;
+    }
+  .grid_item3{
+    
+margin-left: 1.9rem;
+width: 20rem;
+height: 35rem;
+    }
+    .grid_item3 img{
+      height: 15rem;
+    }
+    .grid_item3 p{
+      width: 20rem;
+      padding: 0rem 2rem 0rem;
+    
+      }
+      .grid_item3 .date{
+        margin: 0rem 1rem 0rem;
+      }
+      .grid_item3 .comment{
+        margin: 0rem 0.3rem 0rem;
+      }
   .grid_item button {
-    padding: 0 1rem 0rem;
-    width: 10rem;
-    height: 4rem;
+    width: 30%;
+    height:7vh;
+    margin-top: 0rem;
+    margin-left:1.7rem;
+    width: 8.6rem;
+    padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
-    justify-content: center;
-    margin-top: -10rem;
-    margin-left: 2.8rem;
-    font-size: 1rem;
   }
   .container1 {
     width: 100%;
   }
   .slide .img {
     width: 100%;
+    height: 40rem;
   }
   .slide .img_6 {
-    margin: 290rem 4rem 0rem;
-    bottom: 0%;
+    margin: 320rem 2rem 0rem;
     width: 40rem;
     height: 40rem;
-    bottom:-30%;
+    bottom:-60%;
   }
   .slide hr {
+    bottom:88%;
     margin: 220rem 3rem 0rem;
   }
   .slide .captionAA {
@@ -8611,23 +8694,28 @@ margin-left:2.8rem;
     width: 45vw;
     height: 25vh;
     display: flex;
-    margin: 5rem 3rem 0rem;
+    margin: 0rem 3rem 0rem;
     padding-top: 1.5rem;
   }
   .slide .captionA1 {
+    width: 10rem;
+    bottom:76%;
+    color: #782D50;
     margin: 228rem 3rem 0rem;
   }
   .slide .captionBB {
+   width: 18rem;
     margin: 231rem 3rem 0rem;
   }
   .slide .captionCC {
-    margin: 250rem 10rem 0rem;
-    padding: 0 1rem 0rem;
-    width: 7.5rem;
-    height: 3rem;
+    margin: 250rem 8rem 0rem;
+    width: 7.2rem;
+    padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
     justify-content: center;
+    bottom:14%;
+  
   }
   .container2 {
     display: inline-block;
@@ -8638,7 +8726,10 @@ margin-left:2.8rem;
     width: 100%;
   }
   .row_item5 {
-    margin-left: 3rem;
+    margin-left: 2rem;
+    width: 100%;
+  }
+  .row_item5 h2 {
     width: 100%;
   }
   .row_item5 span {
@@ -8660,17 +8751,17 @@ margin-left:2.8rem;
     height: 17rem;
   }
   .captionA2 {
-    bottom: 71%;
-    width: 70%;
-    margin-left: 6rem;
+    bottom: 72%;
+    width: 90%;
+    margin-left: 4rem;
   }
   .captionB2 {
     bottom: 55%;
     width: 100%;
-    margin-left: 6rem;
+    margin-left: 3rem;
   }
   .captionC2 {
-    bottom: 25%;
+    bottom: 29%;
     width: 90%;
     margin-left: 3rem;
     line-height: 20px;
@@ -8679,35 +8770,49 @@ margin-left:2.8rem;
   }
   .captionD2 {
     
-    padding: 0 1rem 0rem;
     width: 8rem;
-    height: 3.5rem;
+    height: 3rem;
+    padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
-    justify-content: center;
-    margin-left: 5rem;
-    
+    margin-left:3rem;
+    bottom: 7%;
   }
   
   
   .captionE2 {
     position: absolute;
     left: 0;
-    bottom: 10%;
+    bottom: 7%;
     font-size: 0.9rem;
     color: white;
     background-color: #782D50;
     border-radius: 0.25rem;
-    width: 8rem;
-    height:3.5rem;
+    width: 9rem;
+    height:3rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 14rem;
+    margin-left: 12rem;
     padding: 0rem 1rem 0rem;
     text-align: center;
   }
- 
+  .container_home {
+    margin-top: 2rem;
+  }
+  .container_home h2{
+    margin-left: 0rem;
+    text-align: center;
+  }
+  .container_home hr{
+    margin-left: 10rem;
+  }
+  .container_home p {
+    margin: 0rem 1rem 1rem;
+    padding-right: 2rem; 
+    width: 100%;
+    text-align: center;
+  }
   .content1 {
     display: block;
     width: 70%;
@@ -8715,10 +8820,10 @@ margin-left:2.8rem;
   }
   .row_item6 p {
   
-    width:25rem;
+    width:19rem;
     padding-bottom: 4rem;
     height: 4rem;
-    margin-left: 1.5rem;
+    margin-left: 3.1rem;
     line-height: 1.5rem;
     font-size: 0.8rem;
     margin-bottom: 1.7rem;
@@ -8728,12 +8833,12 @@ margin-left:2.8rem;
     display: flex;
     position: relative;
     bottom: 4rem;
-    margin-left: 8.5rem;
+    margin-left: 6.5rem;
   }
   .row_item6 strong {
     flex-direction: row;
     position: relative;
-    bottom: 1rem;
+    bottom: 0rem;
   }
   .row_item6:hover {
     opacity: 0.5;
@@ -8741,33 +8846,20 @@ margin-left:2.8rem;
   #content1 {
     display: block;
     margin-bottom: 0rem;
-    margin-left: -0.7rem;
+    margin-left: -1.5rem;
   }
   #content1i {
     display: block;
     position: relative;
     bottom: 12rem;
-    margin-left:-0.7rem;
+    margin-left: -1.5rem;
   }
-  .container_home {
-    margin: 3rem 0rem 3rem;
-
-  }
-  .container_home h2{
-    margin-left: 0rem;
-text-align: center;
-  }
-  .container_home p {
-    margin-left: 0.5rem;
-    padding-right: 2rem; 
-    width: 100%;
-    text-align: center;
-  }
+ 
   .img_9 {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 11rem;
+    margin-left: 9rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -8775,7 +8867,7 @@ text-align: center;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 11rem;
+    margin-left: 9rem;
     display: block;
     margin-bottom: 1rem;
   }
@@ -8783,9 +8875,17 @@ text-align: center;
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    margin-left: 11rem;
+    margin-left: 9rem;
     display: block;
     margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+  .img_12 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 9rem;
+    display: block;
     margin-bottom: 1rem;
   }
   #row1 {
@@ -8796,22 +8896,12 @@ text-align: center;
     position: relative;
     bottom: 1rem;
   }
-  .img_12 {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    margin-left: 11rem;
-    display: block;
-    margin-bottom: 1rem;
-  }
+ 
   .content2 {
-    width: 14rem;
-    height: 4rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   display: flex;
     padding: 0rem 1rem 0rem;
-
+align-items: center;
+width: 13.6rem;
   }
   .content2 a {
     color: white;
@@ -8821,57 +8911,99 @@ text-align: center;
     width: 90%;
   }
   #container h2 {
-    margin-left: 3rem;
+    margin-left: 0rem;
     text-align: center;
+  }
+  #container hr {
+    margin-left: 9rem;
   }
   #container p{
     width: 90%;
-    
     margin-left: 2rem;
   }
+  .content3{
+    margin-left: 3.4rem;
+  }
+  #img_13 {
+    width: 17rem;
+    height: 16rem;
+    display: flex;
+    margin-bottom: 1rem;
+    
+  }
+  
+  #img_14 {
+    width: 17rem;
+    height: 16rem;
+    display: block;
+    margin-bottom: 1rem;
+  }
+  
+  #img_15 {
+    width: 17rem;
+    height: 16rem;
+    display: block;
+  }
+  
   .grid_5 {
     width: 100%;
   }
-  .content3{
-    margin-left: 4rem;
-  }
+  
   .grid_5 img {
     width: 100%;
   }
   .grid_6 h2{
-    bottom: 64.5rem;
+    bottom: 59rem;
+    width: 12rem;
   }
   .grid_6 h3{
-    bottom: 56.5rem;
-    height: 8rem;
+    height: 8.5rem;
+    bottom:50.5rem;
+    width: 12rem;
   }
-  .grid_6i {
-    bottom: 52rem;
-    height: 5rem;
+  .grid_6i{
+    height: 4rem;
+    bottom: 46.5rem;
+    width: 12rem;
   }
-  .grid_6 p {
-    bottom: 32rem;
+  .grid_6 p{
+    height: 17rem;
+    bottom: 29.5rem;
+    width: 12rem;
+    line-height: 20px;
   }
   .grid_7 h2{
-    bottom: 54.5rem;
+    bottom: 52rem;
+    margin-left: 9rem;
   }
   .grid_7 hr{
-    bottom: 64.5rem;
+    bottom: 57rem;
+    margin-left: 12rem;
   }
   .grid_7 button{
-    bottom: 54.5rem;
-    height: 8rem;
+    bottom: 48rem;
+    margin-left: 12rem;
   }
   .grid_7 p{
-    width: 14rem;
+    width: 13rem;
+    bottom: 31.5rem;
+    margin-left: 10rem;
+  }
+  .grid_7i{
+    bottom: 23rem;
+    margin-left: 8.5rem;
   }
   .content4 {
     width: 100%;
     margin-top: -9rem;
+    margin-left: 0rem;
   }
   .content4 h2{
-    text-align: center;
     margin-left: 0rem;
+    text-align: center;
+  }
+  .content4 hr{
+    margin-left: 10rem;
   }
   .content4 p {
     width: 70%;
@@ -8879,40 +9011,65 @@ text-align: center;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 1rem 0rem;
+    margin: 2rem 3.4rem 0rem;
   }
   .img_17 {
-    height: 30vh;
-    margin-left: 3rem;
-    width: 20rem;
+    width: 17rem;
+    height: 16rem;
+    margin-left: 0rem;
   }
   .img_18 {
-    height: 30vh;
-    margin-left: 3rem;
-    width: 20rem;
+    width: 17rem;
+    height: 16rem;
+    margin-left: 0rem;
   }
   .img_19 {
-    height: 30vh;
-    margin-left: 3rem;
-    width: 20rem;
+    width: 17rem;
+    height: 16rem;
+    margin-left: 0rem;
   }
   .container4 {
     width: 100%;
-    padding-left: 2rem;
-    height: 65rem;
+    padding-left: 0rem;
+    margin-left: 0rem;
+  }
+  .img_20{
+    margin-left: 3.2rem;
+    width: 17rem;
+    height: 16rem;
+  }
+  .content6{
+    margin-left: -1rem;
+  }
+  .content6 hr{
+    margin-left:5.2rem;
+  }
+  .content7{
+    margin-left:-1rem;
+    padding-left: 0rem;
+  }
+  .content7 hr{
+    margin-left:5.2rem;
+  }
+  .content8 h3{
+    margin-left:4.5rem;
   }
   .content8 p{
-    padding: 0 1rem 0rem;
-    width: 8rem;
-    height: 3.5rem;
     display: flex;
     align-items: center;
-    justify-content: center;
+    height: 3rem;
+    width: 7.5rem;
+    padding: 0rem 1rem 0rem;
+  }
+  .content8 hr{
+    margin-left:5.2rem;
+    width: 2rem;
   }
   footer {
     width: 100%;
-    bottom: 0.1rem;
-    padding: 2.8rem 2rem 0rem;
+    bottom: 1rem;
+    line-height: 1.5rem;
+    padding: 1.4rem 1rem 0rem;
   }
   
 .about_item1 {
@@ -8944,48 +9101,50 @@ height: 5vh;
 margin: 1rem 0rem 0rem;
 font-size: 2rem;
 text-align: center;
+
 }
 strong{
   color: #782D50;
 }
 .about_item2  p{
-width:90%;
-height: 19rem;
-margin: 1rem 1.5rem 0rem;
-line-height:30px;
-padding: 0.5rem 1rem 0rem;
+width:80%;
+height:20rem;
+margin: 1rem 2.3rem 0rem;
+line-height:25px;
+padding: 0.5rem 0rem 0rem;
 font-size: 0.9rem;
 }
 .about_item2  hr{
-  margin-left: 12rem;
+  margin-left: 9rem;
 width: 2rem;
-margin-top: 1rem;
+margin-top: 1.5rem;
 
 }
 .about_item3{
-  padding: 0 1rem 0rem;
-  width: 12rem;
-  height: 4rem;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 11rem;
+  height: 8vh;
+  padding: 0rem 1rem 0rem;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
   font-size: 1rem;
+
 }
 
 .about_item4{
   margin: 5rem 0rem 3rem;
 }
 #fourA{
-margin-left: 4rem;
+margin-left: 2rem;
 font-size: 2.5rem;
 
 }
 #fourA i{
  width: 70px;
  height: 70px;
-padding: 1rem 1.3rem;
+padding: 1.2rem 1.3rem;
 font-size: 1.9rem;
 }
 #fourA span{
@@ -8995,13 +9154,13 @@ margin-left: 1rem;
 }
 .fourA{
   font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 10rem 0rem;
   position: relative;
   bottom: 1rem;
   width: 10rem;
 }
 #three{
-  margin: 4rem 4rem 0rem;
+  margin: 4rem 2rem 0rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
@@ -9013,7 +9172,7 @@ margin-left: 1rem;
   border-radius: 50%;
   color: white;
 background-color: #782D50;
-padding: 1rem 1.2rem;
+padding: 1.2rem 1.2rem;
 font-size: 1.9rem;
 }
 #three span{
@@ -9025,13 +9184,13 @@ font-size: 1.9rem;
    }
 .three{
   font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 10rem 0rem;
   position: relative;
-  bottom:3rem;
+  bottom:4rem;
   width: 7rem;
 }
 #fourB{
-  margin: 3rem 4rem 0rem;
+  margin: 3rem 2rem 0rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
@@ -9043,7 +9202,7 @@ font-size: 1.9rem;
   border-radius: 50%;
   color: white;
 background-color: #782D50;
-padding: 1rem 1.5rem;
+padding: 1.2rem 1.5rem;
 font-size: 1.9rem;
 }
 #fourB span{
@@ -9055,7 +9214,7 @@ font-size: 1.9rem;
    }
 .fourB{
   font-size: 1rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 10rem 0rem;
   position: relative;
   bottom: 4rem;
 }
@@ -9066,38 +9225,38 @@ font-size: 1.9rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 53rem;
+  height: 59rem;
   margin-left: 0rem;
   
 }
 .about_item5 h2{
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
+  font-size: 1.7rem;
+  margin:0rem 0.5rem 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
  display: flex;
  justify-content: center;
  align-items: center;
- width: 90%;
- line-height: 35px;
+ width:80%;
+ line-height: 30px;
 padding: 0.5rem 0rem 0rem;
-margin: 0rem 1.2rem 2rem;
+margin: 0rem 2.3rem 2rem;
 text-align: justify;
 font-size: 0.9rem;
 }
 .about_item5 span{
-  padding: 0 1rem 0rem;
-    width: 8rem;
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  margin: 1rem 10rem 0rem;
+display: flex;
+align-items: center;
+justify-content: center;
+  width: 8rem;
+  height: 3rem;
+  margin: 3rem 7rem 0rem;
   font-size: 0.9rem;
+  padding: 0rem 1rem 0rem;
 }
 
 #creation{
@@ -9112,13 +9271,13 @@ font-size: 0.9rem;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 13rem 1rem;
+  margin: 2rem 9rem 1rem;
  
 }
 .about_item6 p{
-  margin: 0rem 2.5rem 1.5rem;
+  margin: 0rem 2.1rem 1.5rem;
   line-height: 35px;
-  padding: 0.5rem 0rem;
+  padding: 0rem 0rem 0rem;
   font-size: 0.9rem;
   width: 80%;
 }
@@ -9132,15 +9291,16 @@ font-size: 0.9rem;
 }
 .about_item7 label{
   font-size: 1rem;
-  height: 6vh;
-  width: 90%;
-  margin: 0rem 1.2rem 0.7rem;
-  padding: 0rem 0.5rem 0rem;
+  height: 7vh;
+  width: 95%;
+  margin: 0rem 0.2rem 0.7rem;
+  padding:0rem 0.5rem 0rem;
 }
 .about_item7 input{
   width: 10vw;
   height: 3.5vh;
-padding: 1rem 0rem 0rem;
+padding: 0rem 0rem 0rem;
+margin-top: 0.7rem;
 }
 .about_item7 p{
   display: flex;
@@ -9151,38 +9311,37 @@ text-align: justify;
 }
 #term-of-office{
  
- margin-bottom: 4rem;
+ margin: 0.5rem 0rem 4rem;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 24rem;
-  margin: -3.5rem -0.5rem -1rem;
+  width: 18rem;
+  margin: -3.5rem 0rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem -0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 0rem -1rem;
+  width: 18rem;
 }
 #project-committee{
-margin-top:-0rem ;
-margin-bottom:-0rem ;
+  margin: 0.5rem 0rem 4rem;
 }
 .project-committee p{
-  margin: -3.5rem -0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 0rem -1rem;
+  width: 18rem;
 }
 .membership-status p{
-  margin: -3.5rem -0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 0rem -1rem;
+  width: 18rem;
 }
 .specific-objective p{
-  margin: -3.5rem -0.5rem -7rem;
-  width: 24rem;
-  height: 17rem;
+  margin: -3.5rem 0rem -12rem;
+  width: 18rem;
+  height: 25rem;
   line-height: 35px;
 }
 .activities p{
-  margin: -3.5rem -0.5rem -1rem;
-  width: 24rem;
+  margin: -3.5rem 0rem -1rem;
+  width: 18rem;
 }
 .about_partner{
   margin-top: -16rem;
@@ -9204,7 +9363,7 @@ margin-bottom:-0rem ;
   width: 100%;
   display: block;
   line-height: 35px;
-  margin: 1rem 4rem 0rem;
+  margin: 1rem 1.5rem 0rem;
   font-size: 0.9rem;
 height: 20%;
 }
@@ -9213,19 +9372,25 @@ height: 20%;
   width: 2rem;
   text-align: center;
   bottom: 70%;
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 9rem 0rem;
 }
 
   
   .blog_item1 {
     margin: -1.5rem 0rem 0rem;
-    padding: 0rem 8rem 0rem;
+    width: 100%;
+    padding: 0rem 0rem 0rem;
   }
   .blog_item1 h2{
-    width: 90%;
+    width: 100%;
+    text-align: center;
+    margin-left: 0rem;
   }
   .blog_item1 p{
-    width: 90%;
+    width: 100%;
+    margin-top: 0rem;
+    text-align: center;
+    margin-left: 0rem;
   }
   
 #blog1{
@@ -9245,42 +9410,81 @@ height: 20%;
 }
 
 .container_blog p {
-  margin: 1rem 2.5rem 0rem;
+  margin: 1rem 1.9rem 0rem;
 padding-right:0rem;
-width: 80%;
+width: 82%;
 }
 
 .container_blog hr {
  
-  margin: 1rem 12rem 0rem;
+  margin: 1rem 9rem 0rem;
 }
 .blog_item2{
-  margin-left: 1.4rem;
-  width: 80%;
-  height:70vh;
+  margin-left: 0.7rem;
+  width: 85%;
+  height:45rem;
+}
+.blog_item2 h2{
+  text-align: center;
+  padding-left: 0rem;
 }
 .blog_item2 img{
-  height: 15rem;
+  height: 12rem;
+  }
+  .blog_item2 .date{
+    margin: 0rem 0.7rem 0rem;
+  padding: 0rem;
+    
+  }
+  .blog_item2 .comment{
+    margin: 0rem 0.5rem 0rem;
+  padding: 0rem;
+    
   }
 .blog_item3{
-  margin:1rem 1.4rem 0rem ;
-  width: 80%;
-  height: 55vh;
+  margin:1rem  0.7rem 0rem ;
+  width: 85%;
+  height: 32rem;
 }
 .blog_item3 img{
   width: 100%;
-  height:15rem;
+  height:12rem;
   }
-  
+  .blog_item3 h2{
+    text-align: center;
+    padding-left: 0rem;
+  }
+  .blog_item3 .date{
+    margin: 0rem 0.7rem 0rem;
+  padding: 0rem;
+    
+  }
+  .blog_item3 .comment{
+    margin: 0rem 0.5rem 0rem;
+  padding: 0rem;
+    
+  }
 .blog_item4{
-  margin: 1rem 1.4rem 0rem;
-  width: 80%;
-  height: 60vh;
+  margin: 1rem  0.7rem 0rem;
+  width: 85%;
+  height: 35rem;
 }
 .blog_item4 img{
-  height:15rem;
+  height:12rem;
   }
-
+.blog_item4 h2{
+  text-align: center;
+  padding-left: 0rem;
+}
+.blog_item4 .date{
+  margin: 0rem 0.7rem 0rem;
+  padding: 0rem;
+}
+.blog_item4 .comment{
+  margin: 0rem 0.5rem 0rem;
+  padding: 0rem;
+  
+}
 #btn{
   margin:3rem 2rem 3rem;
 }
@@ -9294,13 +9498,16 @@ width: 80%;
   }
 
   .events_item2{
-    width: 75%;
+    width: 85%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 0.8rem 2rem;
   }
   
   .events_item2 button{
-    margin: 1rem 6rem 2rem;
+    margin: 1rem 5.3rem 2rem;
+    font-size: 1rem;
+    width: 8rem;
+    justify-content: center;
   }
   .events_item2 button:hover{
     background-color: black;
@@ -9308,12 +9515,15 @@ width: 80%;
   }
   
   .events_item3{
-    width: 75%;
+    width: 85%;
     height: 85%;
-    margin: 2rem 2.5rem 2rem;
+    margin: 2rem 0.8rem 2rem;
   }
   .events_item3 button{
-    margin: 1rem 6rem 2rem;
+    margin: 1rem 5.3rem 2rem;
+    font-size: 1rem;
+    width: 8rem;
+    justify-content: center;
   }
 
   .container_projects {
@@ -9326,108 +9536,146 @@ width: 80%;
     text-align: center;
   }
   .container_projects p {
-    margin: 1rem 2.6rem 0rem;
+    margin: 1rem 2.2rem 0rem;
     width: 80%;
   }
   
   .container_projects hr {
-    margin: 1rem 13rem 0rem;
+    margin: 1rem 10rem 0rem;
   }
+
   .projects_item1 {
-    width: 22rem;
+    margin-left:0rem;
+    width: 20rem;
     height: 45rem;
-    margin: 1rem 1rem 1rem;
-  }
-  .projects_item1 img{
-    height: 15rem;
+    justify-content: center;
+    align-items: center;
   }
   .projects_item1 p{
-    width: 20rem;
-    margin: 1rem 0.5rem 0rem;
+    width: 18rem;
+    margin: 0rem 1.6rem 0rem;
+    padding-left: 0rem;
   }
   .projects_item1 h3{
     margin: 2rem 0rem 0rem;
+    text-align: center;
+    font-size: 0.9rem;
   }
   .projects_item1 .date{
-    margin: 0rem 0.5rem 2rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .projects_item1 .comment{
-    margin: 0rem 0rem 2rem;
+    margin: 0rem 0.5rem 0rem;
+  }
+  .projects_item1 img{
+    height: 12rem;
   }
   .projects_item2 {
-    width: 22rem;
-    margin: 1rem 1rem 1rem;
-    height: 37rem;
-  }
-  .projects_item2 p{
+    margin-left: 0rem;
     width: 20rem;
-    margin: 0rem 0rem 0rem;
+    height: 35rem;
   }
   .projects_item2 img{
-    height: 15rem;
+    height: 12rem;
+  }
+  .projects_item2 p{
+    width: 18rem;
+    margin: 0rem 1rem 0rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
   .projects_item2 h3{
     margin: 2rem 0rem 0rem;
+    font-size: 0.9rem;
   }
   .projects_item2 .date{
     margin: 0rem 1rem 0rem;
   }
   .projects_item2 .comment{
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .projects_item3 {
-    width: 22rem;
-    margin: 1rem 1rem 1rem;
-  }
-  .projects_item3 img{
-    height: 15rem;
+    width: 20rem;
+    margin: 1rem 0rem 1rem;
   }
   .projects_item3 p{
-    width: 20rem;
-    margin: 1rem 0rem 0rem;
+    width: 18rem;
+    margin: 1rem 1rem 0rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
+  }
+  .projects_item3 img{
+    height: 12rem;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
+    font-size: 0.9rem;
   }
   .projects_item3 .date{
-    margin: 0rem 0rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item3 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0.5rem 0rem;
   }
   .projects_item4 {
-    width: 22rem;
-    margin: 1rem 3rem 1rem;
-  }
-  .projects_item5 img{
-    height: 15rem;
+    width: 20rem;
+    margin: 1rem 2rem 1rem;
+ height:30rem;
   }
   .projects_item4 p{
-    width: 20rem;
-    margin: 1rem 0rem 0rem;
+    width: 18rem;
+    margin: 1rem 1rem 0rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
+  }
+  .projects_item4 img{
+    height: 12rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
+    font-size: 0.9rem;
   }
   .projects_item4 .date{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 1rem 0rem;
   }
   .projects_item4 .comment{
-    margin: 0rem 1rem 2rem;
+    margin: 0rem 0.5rem 0rem;
   }
-  .container_volunteers{
-    text-align: center;
-    margin-left: 0rem;
+  .container_volunteers h2{
+text-align: center;
+margin-left: 0rem;
   }
+  .container_volunteers hr{
+    margin-left: 11rem;
+      }
+.container_volunteers p{
+        margin-left: 2rem;
+          }
 .container4_volunteer{
   margin-top:-17rem ;
 }
 .gallery3{
-  margin-left: 2rem;
+  margin-left:2.2rem;
+}
+.gallery3 img{
+  width: 17rem;
+  height: 14rem;
+}
+.contact_item1 h2{
+  margin-left: 3rem;
+}
+.contact_item1 hr{
+  margin-left: 3.5rem;
+}
+.contact_item2 h2{
+  margin-left: 3rem;
+}
+.contact_item2 hr{
+  margin-left: 3.5rem;
 }
 .contact_item5 button{
+  font-size: 1.2rem;
   width: 12rem;
-  height: 4.5rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
@@ -9443,64 +9691,63 @@ width: 80%;
  
 }
 .login{
-  padding: 4rem 3rem 0rem;
+  padding: 4rem 2rem 0rem;
 }
 .content_1{
 font-size: 1.2rem;
 }
 .login .content_2{
-margin-left: 13rem;
+margin-left: 7rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
-  margin: 8rem 1rem 3rem;
-  padding: 0.8rem 1rem 0rem;
-  width: 26rem;
-  height: 5vh;
+  margin: 4rem 0.5rem 3rem;
+  padding: 0.5rem 1rem 0rem;
+  width: 21rem;
+  height: 6vh;
 }
 .fill .email{
-  margin: 0rem 2rem 1.5rem;
+  margin: 0rem 1rem 1.5rem;
   width: 32rem;
+  font-size: 0.9rem;
 }
 .fill .email input{
-  height: 3rem;
-  width: 17.5rem;
+  height: 2.5rem;
+  width: 14rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
-  margin: 0rem 4rem 2rem;
+  margin: 0rem 2.5rem 2rem;
   width: 30rem;
+  font-size: 0.9rem;
 }
 .fill .password input{
-  height: 3rem;
-  width: 17rem;
+  height: 2.5rem;
+  width: 14rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
-  margin: 1rem 8.7rem 0rem;
-
+  margin: 1rem 6.5rem 0rem;
+  font-size: 0.8rem;
 }
 .checkbox{
   width: 3rem;
   height: 1.5rem;
 }
 .fill .contentA{
-  margin:3rem 9.2rem 0rem ;
+  margin:3rem 7.2rem 0rem ;
+  font-size: 0.8rem;
 }
 .fill .contentA button{
   height: 3rem;
   width: 4rem;
-  padding: 0rem 1rem 0rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   margin-top:-1rem ;
 }
 
 .fill .contentA  a{
   margin: 3rem 1rem 0rem;
 }
-
+  
   }
   
 @media screen and (min-width:470px) {

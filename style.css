@@ -4017,7 +4017,7 @@ width: 82%;
   height: 10rem;
   }
   .blog_item2 .date{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 0.6rem 0rem;
   padding: 0rem;
   font-size: 0.7rem;
     
@@ -4042,7 +4042,7 @@ width: 82%;
     padding-left: 0rem;
   }
   .blog_item3 .date{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 0.6rem 0rem;
   padding: 0rem;
   font-size: 0.7rem;
   }
@@ -4064,7 +4064,7 @@ width: 82%;
   padding-left: 0rem;
 }
 .blog_item4 .date{
-  margin: 0rem 0.5rem 0rem;
+  margin: 0rem 0.6rem 0rem;
   padding: 0rem;
   font-size: 0.7rem;
 }
@@ -4094,7 +4094,7 @@ width: 82%;
   .events_item2 button{
     margin: 1rem 4rem 2rem;
     font-size: 1rem;
-    width: 9rem;
+    width: 8rem;
     height: 2.5rem;
     justify-content: center;
   }
@@ -4111,7 +4111,7 @@ width: 82%;
   .events_item3 button{
     margin: 1rem 4rem 2rem;
     font-size: 1rem;
-    width: 9rem;
+    width: 8rem;
     height: 2.5rem;
     justify-content: center;
   }

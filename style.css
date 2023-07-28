@@ -8428,7 +8428,7 @@ font-size: 1.2rem;
     height: 8rem;
     width: 10rem;
     font-size: 0.9rem;
-    bottom: 22rem;
+    bottom: 23rem;
   }
   #header {
     width: 100%;
@@ -8596,7 +8596,7 @@ padding: 0rem;
   
 }
 .grid_item1{
-margin-left:1.9rem;
+margin-left:1.8rem;
 width: 22rem;
 height: 50rem;
 justify-content: center;
@@ -8619,7 +8619,7 @@ align-items: center;
   }
 .grid_item2{
  
-margin-left: 1.9rem;
+margin-left: 1.8rem;
 width: 22rem;
 height: 40rem;
   }
@@ -8639,7 +8639,7 @@ height: 40rem;
     }
   .grid_item3{
     
-margin-left: 1.9rem;
+margin-left: 1.8rem;
 width: 22rem;
 height: 35rem;
     }

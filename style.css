@@ -3108,7 +3108,7 @@ color: gainsboro;
 .slide .captionE {
   width: 80%;
   height: 21vh;
-  bottom: 57%;
+  bottom: 58%;
   margin-left: 4rem;
   padding: 0.3rem 0.5rem 0rem;
 }
@@ -3259,11 +3259,10 @@ height: 35rem;
     height: 40rem;
   }
   .slide .img_6 {
-    margin: 290rem 0.3rem 0rem;
-    bottom: 0%;
+    margin: 320rem 0.3rem 0rem;
     width: 40rem;
     height: 40rem;
-    bottom:-10%;
+    bottom:-30%;
   }
   .slide hr {
     bottom: 0rem;

@@ -4299,7 +4299,7 @@ font-size: 1.2rem;
   height: 7vh;
 }
 .fill .email{
-  margin: 0rem 1rem 1.5rem;
+  margin: 0rem 0.5rem 1.5rem;
   width: 32rem;
   font-size: 0.9rem;
 }
@@ -4309,7 +4309,7 @@ font-size: 1.2rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
-  margin: 0rem 2.5rem 2rem;
+  margin: 0rem 1.5rem 2rem;
   width: 30rem;
   font-size: 0.9rem;
 }

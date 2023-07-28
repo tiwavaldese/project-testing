@@ -4267,9 +4267,9 @@ margin-left: 7rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
-  margin: 4rem 1rem 3rem;
+  margin: 4rem 0.5rem 3rem;
   padding: 0.5rem 1rem 0rem;
-  width: 25rem;
+  width: 23rem;
   height: 6vh;
 }
 .fill .email{
@@ -4279,17 +4279,17 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 3rem;
-  width: 13rem;
+  width: 14rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
-  margin: 0rem 3.5rem 2rem;
+  margin: 0rem 2.5rem 2rem;
   width: 30rem;
   font-size: 0.8rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 13rem;
+  width: 14rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{

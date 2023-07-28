@@ -4305,7 +4305,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 2.5rem;
-  width: 13rem;
+  width: 12rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -4315,7 +4315,7 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 2.5rem;
-  width: 13rem;
+  width: 12rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{

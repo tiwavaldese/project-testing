@@ -5704,7 +5704,7 @@ font-size: 1.2rem;
     }
     
     .img_1{
-      height: 3rem;
+      height: 4rem;
       margin-top: 0rem;
       padding-top: 0.3rem;
     }
@@ -5724,6 +5724,9 @@ font-size: 1.2rem;
     #header hr {
       width: 2rem;
       margin: 1rem 9rem 0rem;
+    }
+    .image{
+      height: 7rem;
     }
     .description1 {
       margin: 0.5rem 13rem 0rem;

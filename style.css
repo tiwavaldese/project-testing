@@ -4092,6 +4092,8 @@ width: 82%;
   .events_item2 button{
     margin: 1rem 4rem 2rem;
     font-size: 1rem;
+    width: 9rem;
+    height: 4rem;
     justify-content: center;
   }
   .events_item2 button:hover{
@@ -4107,6 +4109,8 @@ width: 82%;
   .events_item3 button{
     margin: 1rem 4rem 2rem;
     font-size: 1rem;
+    width: 9rem;
+    height: 4rem;
     justify-content: center;
   }
 

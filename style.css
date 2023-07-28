@@ -8753,12 +8753,12 @@ height: 35rem;
   .captionA2 {
     bottom: 72%;
     width: 90%;
-    margin-left: 4rem;
+    margin-left: 6rem;
   }
   .captionB2 {
     bottom: 55%;
     width: 100%;
-    margin-left: 3rem;
+    margin-left: 5rem;
   }
   .captionC2 {
     bottom: 29%;
@@ -8775,7 +8775,7 @@ height: 35rem;
     padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
-    margin-left:3rem;
+    margin-left:4rem;
     bottom: 7%;
   }
   
@@ -8793,7 +8793,7 @@ height: 35rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 12rem;
+    margin-left: 13rem;
     padding: 0rem 1rem 0rem;
     text-align: center;
   }
@@ -8820,7 +8820,7 @@ height: 35rem;
   }
   .row_item6 p {
   
-    width:19rem;
+    width:21rem;
     padding-bottom: 4rem;
     height: 4rem;
     margin-left: 3.1rem;
@@ -8911,18 +8911,18 @@ width: 13.6rem;
     width: 90%;
   }
   #container h2 {
-    margin-left: 0rem;
+    margin-left: 1rem;
     text-align: center;
   }
   #container hr {
-    margin-left: 9rem;
+    margin-left: 11rem;
   }
   #container p{
     width: 90%;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 3.4rem;
+    margin-left: 4rem;
   }
   #img_13 {
     width: 17rem;
@@ -8973,7 +8973,7 @@ width: 13.6rem;
     line-height: 20px;
   }
   .grid_7 h2{
-    bottom: 52rem;
+    bottom: 50rem;
     margin-left: 9rem;
   }
   .grid_7 hr{

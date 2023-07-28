@@ -4269,7 +4269,7 @@ font-size: 1.2rem;
 .fill .content_A{
   margin: 4rem 1rem 3rem;
   padding: 0.5rem 1rem 0rem;
-  width: 20rem;
+  width: 25rem;
   height: 6vh;
 }
 .fill .email{
@@ -4279,7 +4279,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 3rem;
-  width: 10rem;
+  width: 13rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -4289,11 +4289,11 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 10rem;
+  width: 13rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
-  margin: 1rem 7.5rem 0rem;
+  margin: 1rem 6rem 0rem;
   font-size: 0.8rem;
 }
 .checkbox{

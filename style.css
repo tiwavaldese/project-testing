@@ -6057,7 +6057,7 @@ font-size: 1.2rem;
       padding: 0rem 1rem 0rem;
       display: flex;
       align-items: center;
-      margin-left:2rem;
+      margin-left:3rem;
       bottom: 7%;
     }
     
@@ -6075,7 +6075,7 @@ font-size: 1.2rem;
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-left: 11rem;
+      margin-left: 12rem;
       padding: 0rem 1rem 0rem;
       text-align: center;
     }
@@ -6105,7 +6105,7 @@ font-size: 1.2rem;
       width:19rem;
       padding-bottom: 4rem;
       height: 4rem;
-      margin-left: 2.5rem;
+      margin-left: 3rem;
       line-height: 1.5rem;
       font-size: 0.8rem;
       margin-bottom: 1.7rem;
@@ -6115,7 +6115,7 @@ font-size: 1.2rem;
       display: flex;
       position: relative;
       bottom: 4rem;
-      margin-left: 5rem;
+      margin-left: 6.5rem;
     }
     .row_item6 strong {
       flex-direction: row;
@@ -6204,7 +6204,7 @@ font-size: 1.2rem;
       margin-left: 2rem;
     }
     .content3{
-      margin-left: 2.7rem;
+      margin-left: 3.2rem;
     }
     #img_13 {
       width: 17rem;

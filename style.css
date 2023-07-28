@@ -7238,7 +7238,7 @@ padding: 0rem;
   
 }
 .grid_item1{
-margin-left:1.8rem;
+margin-left:1.9rem;
 width: 20rem;
 height: 50rem;
 justify-content: center;
@@ -7257,11 +7257,11 @@ align-items: center;
     margin: 0rem 1rem 0rem;
   }
   .grid_item1 .comment{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 0.3rem 0rem;
   }
 .grid_item2{
  
-margin-left: 1.8rem;
+margin-left: 1.9rem;
 width: 20rem;
 height: 40rem;
   }
@@ -7277,11 +7277,11 @@ height: 40rem;
       margin: 0rem 1rem 0rem;
     }
     .grid_item2 .comment{
-      margin: 0rem 0.5rem 0rem;
+      margin: 0rem 0.3rem 0rem;
     }
   .grid_item3{
     
-margin-left: 1.8rem;
+margin-left: 1.9rem;
 width: 20rem;
 height: 35rem;
     }
@@ -7297,7 +7297,7 @@ height: 35rem;
         margin: 0rem 1rem 0rem;
       }
       .grid_item3 .comment{
-        margin: 0rem 0.5rem 0rem;
+        margin: 0rem 0.3rem 0rem;
       }
   .grid_item button {
     width: 30%;

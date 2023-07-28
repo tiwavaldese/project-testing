@@ -2995,14 +2995,14 @@ color: gainsboro;
   .navbar {
     padding-bottom: 30px;
     display: block;
-    height: 5rem;
+    height: 4rem;
   }
   img {
     max-width: 100%;
   }
   
   .img_1{
-    height: 3rem;
+    height: 3.4rem;
     margin-top: 0rem;
     padding-top: 0.2rem;
   }
@@ -3025,7 +3025,7 @@ color: gainsboro;
     margin: 1rem 9rem 0rem;
   }
   .image{
-    height: 5.5rem;
+    height: 5rem;
   }
   .description1 {
     margin: 0.5rem 11rem 0rem;
@@ -3072,7 +3072,7 @@ color: gainsboro;
 .slide .captionA {
     margin: 0rem 3rem 0rem;
     padding: 0.6rem 1em 0rem;
-    bottom: 89%;
+    bottom: 90%;
     height: 2rem;
     width: 76%;
 }
@@ -3081,7 +3081,7 @@ color: gainsboro;
   
     margin: 0rem 3rem 0rem;
     bottom: 60%;
-  height:22vh;
+  height:23vh;
   width: 76%;
   padding: 0.5rem 0.5rem 0rem;
 }
@@ -3106,10 +3106,10 @@ color: gainsboro;
 
 .slide .captionE {
   width: 80%;
-  height: 23vh;
+  height: 21vh;
   bottom: 55%;
   margin-left: 4rem;
-  padding: 0.5rem 0.5rem 0rem;
+  padding: 0.3rem 0.5rem 0rem;
 }
 
 .slide .captionF {
@@ -3134,7 +3134,7 @@ color: gainsboro;
 .slide .captionH {
   
   margin-left: -7rem;
-  bottom: 25%;
+  bottom: 24%;
   width:73%;
   height: 20vh;
   padding-left: 1rem;

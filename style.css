@@ -4282,20 +4282,20 @@ margin-left: 0rem;
  
 }
 .login{
-  padding: 4rem 2rem 0rem;
+  padding: 2rem 2rem 0rem;
 }
 .content_1{
 font-size: 1.2rem;
 }
 .login .content_2{
-margin-left: 7rem;
+margin-left: 4rem;
 font-size: 1.2rem;
 }
 .fill .content_A{
-  margin: 4rem 0.5rem 3rem;
+  margin: 2rem 0.5rem 3rem;
   padding: 0.5rem 1rem 0rem;
-  width: 21rem;
-  height: 6vh;
+  width: 19rem;
+  height: 7vh;
 }
 .fill .email{
   margin: 0rem 1rem 1.5rem;
@@ -4304,7 +4304,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 2.5rem;
-  width: 14rem;
+  width: 13rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -4314,12 +4314,12 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 2.5rem;
-  width: 14rem;
+  width: 13rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{
-  margin: 1rem 6.5rem 0rem;
-  font-size: 0.8rem;
+  margin: 1rem 6rem 0rem;
+  font-size: 0.7rem;
 }
 .checkbox{
   width: 3rem;

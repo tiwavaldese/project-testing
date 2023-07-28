@@ -2995,7 +2995,7 @@ color: gainsboro;
   .navbar {
     padding-bottom: 30px;
     display: block;
-    height: 6rem;
+    height: 5rem;
   }
   img {
     max-width: 100%;
@@ -3025,7 +3025,7 @@ color: gainsboro;
     margin: 1rem 9rem 0rem;
   }
   .image{
-    height: 6rem;
+    height: 5.5rem;
   }
   .description1 {
     margin: 0.5rem 11rem 0rem;
@@ -3081,7 +3081,7 @@ color: gainsboro;
   
     margin: 0rem 3rem 0rem;
     bottom: 60%;
-  height:20vh;
+  height:22vh;
   width: 76%;
   padding: 0.5rem 0.5rem 0rem;
 }
@@ -3101,7 +3101,7 @@ color: gainsboro;
   bottom: 90%;
   width: 76%;
   margin-left: 4rem;
-  height: 4rem;
+  height: 3.5rem;
 }
 
 .slide .captionE {
@@ -3124,8 +3124,8 @@ color: gainsboro;
 
 .slide .captionG {
   
-  bottom: 62%;
-  height: 9vh;
+  bottom: 63%;
+  height: 11vh;
   padding: 0.5rem 0.5rem 0rem;
   margin-left: -7rem;
   width: 73%;
@@ -3134,9 +3134,9 @@ color: gainsboro;
 .slide .captionH {
   
   margin-left: -7rem;
-  bottom: 24%;
+  bottom: 25%;
   width:73%;
-  height: 19vh;
+  height: 20vh;
   padding-left: 1rem;
   padding-top: 0.5rem;
 }
@@ -3255,14 +3255,14 @@ height: 35rem;
   }
   .slide .img {
     width: 100%;
-    height: 90rem;
+    height: 70rem;
   }
   .slide .img_6 {
     margin: 290rem 0.3rem 0rem;
     bottom: 0%;
     width: 40rem;
     height: 40rem;
-    bottom:-30%;
+    bottom:-10%;
   }
   .slide hr {
     margin: 220rem 3rem 0rem;
@@ -3478,7 +3478,7 @@ height: 35rem;
    display: flex;
     padding: 0rem 1rem 0rem;
 align-items: center;
-width: 13.6rem;
+width: 13.2rem;
   }
   .content2 a {
     color: white;
@@ -3499,7 +3499,7 @@ width: 13.6rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 2rem;
+    margin-left: 2.3rem;
   }
   #img_13 {
     width: 15rem;
@@ -3535,27 +3535,28 @@ width: 13.6rem;
   }
   .grid_6 h3{
     height: 9.5rem;
-    bottom:48rem;
+    bottom:46rem;
     width: 10rem;
   }
   .grid_6i{
     height: 6rem;
-    bottom: 44rem;
+    bottom: 42rem;
     width: 10rem;
   }
   .grid_6 p{
     height: 22rem;
-    bottom: 23rem;
+    bottom: 19rem;
     width: 10rem;
     line-height: 20px;
   }
   .grid_7 h2{
     bottom: 51rem;
-    margin-left: 9rem;
+    margin-left: 7rem;
+
   }
   .grid_7 hr{
     bottom: 54rem;
-    margin-left: 13rem;
+    margin-left: 10rem;
   }
   .grid_7 button{
     bottom: 48rem;
@@ -3589,7 +3590,7 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2rem 0rem;
+    margin: 2rem 2.3rem 0rem;
   }
   .img_17 {
     width: 15rem;

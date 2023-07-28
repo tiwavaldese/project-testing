@@ -3262,7 +3262,7 @@ height: 35rem;
     margin: 320rem 0.3rem 0rem;
     width: 40rem;
     height: 40rem;
-    bottom:-30%;
+    bottom:-60%;
   }
   .slide hr {
     bottom: 0rem;
@@ -4015,13 +4015,15 @@ width: 82%;
   height: 10rem;
   }
   .blog_item2 .date{
-    margin: 0rem 0rem 0rem;
+    margin: 0rem 0.2rem 0rem;
   padding: 0rem;
+  font-size: 0.6rem;
     
   }
   .blog_item2 .comment{
     margin: 0rem 0.5rem 0rem;
   padding: 0rem;
+  font-size: 0.6rem;
     
   }
 .blog_item3{
@@ -4038,14 +4040,14 @@ width: 82%;
     padding-left: 0rem;
   }
   .blog_item3 .date{
-    margin: 0rem 0rem 0rem;
+    margin: 0rem 0.2rem 0rem;
   padding: 0rem;
-    
+  font-size: 0.6rem;
   }
   .blog_item3 .comment{
     margin: 0rem 0.5rem 0rem;
   padding: 0rem;
-    
+  font-size: 0.6rem;
   }
 .blog_item4{
   margin: 1rem  0.5rem 0rem;
@@ -4060,13 +4062,14 @@ width: 82%;
   padding-left: 0rem;
 }
 .blog_item4 .date{
-  margin: 0rem 0rem 0rem;
+  margin: 0rem 0.2rem 0rem;
   padding: 0rem;
+  font-size: 0.6rem;
 }
 .blog_item4 .comment{
   margin: 0rem 0.5rem 0rem;
   padding: 0rem;
-  
+  font-size: 0.6rem;
 }
 #btn{
   margin:3rem 2rem 3rem;

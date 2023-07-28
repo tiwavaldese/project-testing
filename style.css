@@ -4135,7 +4135,7 @@ width: 82%;
   }
 
   .projects_item1 {
-    margin-left:-0.8rem;
+    margin-left:-1rem;
     width: 18rem;
     height: 50rem;
     justify-content: center;
@@ -4152,7 +4152,7 @@ width: 82%;
     font-size: 0.9rem;
   }
   .projects_item1 .date{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 0rem 0rem;
   }
   .projects_item1 .comment{
     margin: 0rem 0.5rem 0rem;
@@ -4161,7 +4161,7 @@ width: 82%;
     height: 12rem;
   }
   .projects_item2 {
-    margin-left: -0.8rem;
+    margin-left: -1rem;
     width: 18rem;
     height: 40rem;
   }
@@ -4179,14 +4179,14 @@ width: 82%;
     font-size: 0.9rem;
   }
   .projects_item2 .date{
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 0rem 0rem;
   }
   .projects_item2 .comment{
     margin: 0rem 0.5rem 0rem;
   }
   .projects_item3 {
     width: 18rem;
-    margin: 1rem -0.8rem 1rem;
+    margin: 1rem -1rem 1rem;
   }
   .projects_item3 p{
     width: 16rem;
@@ -4202,14 +4202,14 @@ width: 82%;
     font-size: 0.9rem;
   }
   .projects_item3 .date{
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 0rem 0rem;
   }
   .projects_item3 .comment{
     margin: 0rem 0.5rem 0rem;
   }
   .projects_item4 {
     width: 18rem;
-    margin: 1rem 1.2rem 1rem;
+    margin: 1rem 1rem 1rem;
  height:35rem;
   }
   .projects_item4 p{
@@ -4226,7 +4226,7 @@ width: 82%;
     font-size: 0.9rem;
   }
   .projects_item4 .date{
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 0rem 0rem;
   }
   .projects_item4 .comment{
     margin: 0rem 0.5rem 0rem;

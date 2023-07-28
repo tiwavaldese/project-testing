@@ -5821,7 +5821,7 @@ font-size: 1.2rem;
     padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
-    margin-left: 6rem;
+    margin-left: 10rem;
   }
   
   .slide .captionG {
@@ -5845,7 +5845,7 @@ font-size: 1.2rem;
   
   .slide .captionI {
     bottom: 8%;
-    margin-left: -3rem;
+    margin-left: 0rem;
     width: 7.2rem;
     height: 2.5rem;
     padding: 0rem 1rem 0rem;

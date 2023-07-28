@@ -3485,7 +3485,7 @@ width: 13.6rem;
     width: 90%;
   }
   #container h2 {
-    margin-left: 0rem;
+    margin-left: 1rem;
     text-align: center;
   }
   #container hr {
@@ -3499,23 +3499,23 @@ width: 13.6rem;
     margin-left: 2.7rem;
   }
   #img_13 {
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
     display: flex;
     margin-bottom: 1rem;
     
   }
   
   #img_14 {
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
     display: block;
     margin-bottom: 1rem;
   }
   
   #img_15 {
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
     display: block;
   }
   
@@ -3528,22 +3528,22 @@ width: 13.6rem;
   }
   .grid_6 h2{
     bottom: 59rem;
-    width: 12rem;
+    width: 10rem;
   }
   .grid_6 h3{
-    height: 8.5rem;
+    height: 9.5rem;
     bottom:50.5rem;
-    width: 12rem;
+    width: 10rem;
   }
   .grid_6i{
-    height: 4rem;
+    height: 6rem;
     bottom: 46.5rem;
-    width: 12rem;
+    width: 10rem;
   }
   .grid_6 p{
-    height: 17rem;
-    bottom: 29.5rem;
-    width: 12rem;
+    height: 19rem;
+    bottom: 26rem;
+    width: 10rem;
     line-height: 20px;
   }
   .grid_7 h2{
@@ -3551,19 +3551,21 @@ width: 13.6rem;
     margin-left: 9rem;
   }
   .grid_7 hr{
-    bottom: 56rem;
+    bottom: 54rem;
+    margin-left: 9rem;
   }
   .grid_7 button{
     bottom: 48rem;
+    height: 5rem;
   }
   .grid_7 p{
     width: 13rem;
     bottom: 31.5rem;
-    margin-left: 9rem;
+    margin-left: 8rem;
   }
   .grid_7i{
     bottom: 23rem;
-    margin-left: 8.5rem;
+    margin-left: 7rem;
   }
   .content4 {
     width: 100%;
@@ -3583,21 +3585,21 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2.7rem 0rem;
+    margin: 2rem 1.7rem 0rem;
   }
   .img_17 {
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
     margin-left: 0rem;
   }
   .img_18 {
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
     margin-left: 0rem;
   }
   .img_19 {
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
     margin-left: 0rem;
   }
   .container4 {
@@ -3607,8 +3609,8 @@ width: 13.6rem;
   }
   .img_20{
     margin-left: 2.5rem;
-    width: 17rem;
-    height: 16rem;
+    width: 15rem;
+    height: 14rem;
   }
   .content6{
     margin-left: -1rem;
@@ -3640,8 +3642,8 @@ width: 13.6rem;
   footer {
     width: 100%;
     bottom: 1rem;
-    line-height: 1.5rem;
-    padding: 1.4rem 1rem 0rem;
+    line-height: 1rem;
+    padding: 1rem 1rem 0rem;
   }
   
 .about_item1 {

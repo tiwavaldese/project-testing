@@ -9703,7 +9703,7 @@ font-size: 1.2rem;
 .fill .content_A{
   margin: 4rem 0.5rem 3rem;
   padding: 0.5rem 1rem 0rem;
-  width: 21rem;
+  width: 22rem;
   height: 6vh;
 }
 .fill .email{
@@ -9713,7 +9713,7 @@ font-size: 1.2rem;
 }
 .fill .email input{
   height: 2.5rem;
-  width: 14rem;
+  width: 15rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -9723,7 +9723,7 @@ font-size: 1.2rem;
 }
 .fill .password input{
   height: 2.5rem;
-  width: 14rem;
+  width: 15rem;
   margin: 0rem 0.5rem 0rem;
 }
 .check{

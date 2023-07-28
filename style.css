@@ -3837,7 +3837,7 @@ align-items: center;
 justify-content: center;
   width: 8rem;
   height: 3rem;
-  margin:2rem 7rem 0rem;
+  margin:2rem 5rem 0rem;
   font-size: 0.9rem;
   padding: 0rem 1rem 0rem;
 }
@@ -3899,31 +3899,31 @@ text-align: justify;
 }
 .term-of-office p{
   width: 17rem;
-  margin: -3.5rem -0.5rem -1rem;
+  margin: -3.5rem -0.7rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem -0.5rem -1rem;
+  margin: -3.5rem -0.7rem -1rem;
   width: 17rem;
 }
 #project-committee{
   margin: 0.5rem 0rem 4rem;
 }
 .project-committee p{
-  margin: -3.5rem -0.5rem -1rem;
+  margin: -3.5rem -0.7rem -1rem;
   width: 17rem;
 }
 .membership-status p{
-  margin: -3.5rem -0.5rem -1rem;
+  margin: -3.5rem -0.7rem -1rem;
   width: 17rem;
 }
 .specific-objective p{
-  margin: -3.5rem -0.5rem -12rem;
+  margin: -3.5rem -0.7rem -12rem;
   width: 17rem;
   height: 27rem;
   line-height: 35px;
 }
 .activities p{
-  margin: -3.5rem -0.5rem -1rem;
+  margin: -3.5rem -0.7rem -1rem;
   width: 17rem;
 }
 .about_partner{

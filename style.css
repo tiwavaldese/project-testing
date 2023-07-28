@@ -5875,11 +5875,11 @@ font-size: 1.2rem;
   
   
   .content {
-    margin: 5rem 0rem 93rem 0rem;
+    margin: 5rem 0rem 91rem 0rem;
     
   }
   .grid_item1{
-  margin-left:1.3rem;
+  margin-left:1.7rem;
   width: 20rem;
   height: 50rem;
   justify-content: center;
@@ -5902,7 +5902,7 @@ font-size: 1.2rem;
     }
   .grid_item2{
    
-  margin-left: 1.3rem;
+  margin-left: 1.7rem;
   width: 20rem;
   height: 40rem;
     }
@@ -5922,7 +5922,7 @@ font-size: 1.2rem;
       }
     .grid_item3{
       
-  margin-left: 1.3rem;
+  margin-left: 1.7rem;
   width: 20rem;
   height: 35rem;
       }

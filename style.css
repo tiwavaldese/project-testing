@@ -5845,7 +5845,7 @@ font-size: 1.2rem;
   
   .slide .captionI {
     bottom: 8%;
-    margin-left: -6rem;
+    margin-left: -3rem;
     width: 7.2rem;
     height: 2.5rem;
     padding: 0rem 1rem 0rem;
@@ -6717,7 +6717,7 @@ font-size: 1.2rem;
     height: 12rem;
     }
     .blog_item2 .date{
-      margin: 0rem 0.5rem 0rem;
+      margin: 0rem 0.7rem 0rem;
     padding: 0rem;
       
     }
@@ -6740,7 +6740,7 @@ font-size: 1.2rem;
       padding-left: 0rem;
     }
     .blog_item3 .date{
-      margin: 0rem 0.5rem 0rem;
+      margin: 0rem 0.7rem 0rem;
     padding: 0rem;
       
     }
@@ -6762,7 +6762,7 @@ font-size: 1.2rem;
     padding-left: 0rem;
   }
   .blog_item4 .date{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 0.7rem 0rem;
     padding: 0rem;
   }
   .blog_item4 .comment{

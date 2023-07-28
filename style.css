@@ -9750,7 +9750,7 @@ font-size: 1.2rem;
   
   }
   
-@media screen and (min-width:470px) {
+@media screen and (min-width:415px) {
   html, body {
     overflow-x: hidden;
   }

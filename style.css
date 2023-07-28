@@ -3265,7 +3265,7 @@ height: 35rem;
     bottom:-60%;
   }
   .slide hr {
-    bottom: 0rem;
+    bottom:10%;
     margin: 220rem 3rem 0rem;
   }
   .slide .captionAA {
@@ -3295,6 +3295,8 @@ height: 35rem;
     padding: 0rem 1rem 0rem;
     display: flex;
     align-items: center;
+    justify-content: center;
+    bottom:-20%;
   
   }
   .container2 {

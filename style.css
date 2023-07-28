@@ -5828,13 +5828,13 @@ font-size: 1.2rem;
     bottom: 62%;
     height: 7vh;
     padding: 0.4rem 0.5rem 0rem;
-    margin-left: -9rem;
+    margin-left: -6rem;
     width: 73%;
   }
   
   .slide .captionH {
     
-    margin-left: -9rem;
+    margin-left: -6rem;
     bottom: 24%;
     width:73%;
     height: 16vh;
@@ -5844,7 +5844,7 @@ font-size: 1.2rem;
   
   .slide .captionI {
     bottom: 8%;
-    margin-left: -9rem;
+    margin-left: -6rem;
     width: 7.2rem;
     height: 2.5rem;
     padding: 0rem 1rem 0rem;
@@ -6292,7 +6292,7 @@ font-size: 1.2rem;
     }
     .content5 {
       width: 100%;
-      margin: 2rem 2.7rem 0rem;
+      margin: 2rem 3.5rem 0rem;
     }
     .img_17 {
       width: 17rem;
@@ -6315,7 +6315,7 @@ font-size: 1.2rem;
       margin-left: 0rem;
     }
     .img_20{
-      margin-left: 2.5rem;
+      margin-left: 2.9rem;
       width: 17rem;
       height: 16rem;
     }

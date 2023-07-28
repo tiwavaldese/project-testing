@@ -3501,7 +3501,7 @@ width: 13.2rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 2.3rem;
+    margin-left: 2.5rem;
   }
   #img_13 {
     width: 15rem;
@@ -3534,10 +3534,11 @@ width: 13.2rem;
   .grid_6 h2{
     bottom: 57rem;
     width: 10rem;
+    height: 3rem;
   }
   .grid_6 h3{
     height: 9.5rem;
-    bottom:46rem;
+    bottom:47rem;
     width: 10rem;
   }
   .grid_6i{
@@ -3547,7 +3548,7 @@ width: 13.2rem;
   }
   .grid_6 p{
     height: 22rem;
-    bottom: 19rem;
+    bottom: 20.5rem;
     width: 10rem;
     line-height: 20px;
   }
@@ -3592,7 +3593,7 @@ width: 13.2rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 2.3rem 0rem;
+    margin: 2rem 2.5rem 0rem;
   }
   .img_17 {
     width: 15rem;

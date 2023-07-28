@@ -5713,7 +5713,7 @@ font-size: 1.2rem;
       height: 8rem;
       width: 10rem;
       font-size: 0.9rem;
-      bottom: 18rem;
+      bottom: 20rem;
     }
     #header {
       width: 100%;
@@ -5944,7 +5944,7 @@ font-size: 1.2rem;
       width: 30%;
       height:7vh;
       margin-top: 0rem;
-      margin-left:1.2rem;
+      margin-left:1.7rem;
       width: 8.6rem;
       padding: 0rem 1rem 0rem;
       display: flex;
@@ -5960,10 +5960,10 @@ font-size: 1.2rem;
       margin: 320rem 0.3rem 0rem;
       width: 40rem;
       height: 40rem;
-      bottom:-45%;
+      bottom:-25%;
     }
     .slide hr {
-      bottom:88%;
+      bottom:87%;
       margin: 220rem 3rem 0rem;
     }
     .slide .captionAA {

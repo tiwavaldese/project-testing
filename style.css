@@ -4269,7 +4269,7 @@ font-size: 1.2rem;
 .fill .content_A{
   margin: 4rem 0.5rem 3rem;
   padding: 0.5rem 1rem 0rem;
-  width: 23rem;
+  width: 19rem;
   height: 6vh;
 }
 .fill .email{
@@ -4278,7 +4278,7 @@ font-size: 1.2rem;
   font-size: 0.8rem;
 }
 .fill .email input{
-  height: 3rem;
+  height: 2.5rem;
   width: 14rem;
   margin: 0rem 0.5rem 2rem;
 }
@@ -4288,7 +4288,7 @@ font-size: 1.2rem;
   font-size: 0.8rem;
 }
 .fill .password input{
-  height: 3rem;
+  height: 2.5rem;
   width: 14rem;
   margin: 0rem 0.5rem 0rem;
 }
@@ -4301,7 +4301,7 @@ font-size: 1.2rem;
   height: 1.5rem;
 }
 .fill .contentA{
-  margin:3rem 7.5rem 0rem ;
+  margin:3rem 6rem 0rem ;
   font-size: 0.8rem;
 }
 .fill .contentA button{

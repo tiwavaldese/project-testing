@@ -8551,7 +8551,7 @@ font-size: 1.2rem;
 .slide .captionH {
   
   margin-left: -6rem;
-  bottom: 24%;
+  bottom: 22%;
   width:73%;
   height: 14vh;
   padding-left: 1rem;
@@ -8578,10 +8578,10 @@ text-align: center;
 padding: 0rem;
 }
 .container hr {
-  margin-left: 10rem;
+  margin-left: 12rem;
  }
 .container p {
-  margin-left: 2.3rem;
+  margin-left: 2.5rem;
   padding-right: 0rem; 
   width:80%;
   display: block;

@@ -8428,7 +8428,7 @@ font-size: 1.2rem;
     height: 8rem;
     width: 10rem;
     font-size: 0.9rem;
-    bottom: 18rem;
+    bottom: 22rem;
   }
   #header {
     width: 100%;
@@ -8445,7 +8445,7 @@ font-size: 1.2rem;
     width: 6rem;
   }
   .description1 {
-    margin: 0.5rem 13rem 0rem;
+    margin: 0.5rem 15rem 0rem;
     width: 8rem;
     height: 2.5rem;
     padding: 0rem 1rem 0rem;
@@ -8542,7 +8542,7 @@ font-size: 1.2rem;
 .slide .captionG {
   
   bottom: 62%;
-  height: 7vh;
+  height: 6vh;
   padding: 0.4rem 0.5rem 0rem;
   margin-left: -6rem;
   width: 73%;
@@ -8553,7 +8553,7 @@ font-size: 1.2rem;
   margin-left: -6rem;
   bottom: 24%;
   width:73%;
-  height: 16vh;
+  height: 14vh;
   padding-left: 1rem;
   padding-top: 0.5rem;
 }

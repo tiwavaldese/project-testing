@@ -6259,18 +6259,20 @@ font-size: 1.2rem;
     }
     .grid_7 h2{
       bottom: 52rem;
-      margin-left: 9rem;
+      margin-left: 10rem;
     }
     .grid_7 hr{
       bottom: 56rem;
+      margin-left: 10rem;
     }
     .grid_7 button{
       bottom: 48rem;
+      margin-left: 10rem;
     }
     .grid_7 p{
       width: 13rem;
       bottom: 31.5rem;
-      margin-left: 9rem;
+      margin-left: 10rem;
     }
     .grid_7i{
       bottom: 23rem;
@@ -6294,7 +6296,7 @@ font-size: 1.2rem;
     }
     .content5 {
       width: 100%;
-      margin: 2rem 3.5rem 0rem;
+      margin: 2rem 3.2rem 0rem;
     }
     .img_17 {
       width: 17rem;

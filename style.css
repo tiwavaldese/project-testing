@@ -6791,6 +6791,7 @@ font-size: 1.2rem;
     .events_item2 button{
       margin: 1rem 4rem 2rem;
       font-size: 1rem;
+      width: 8rem;
       justify-content: center;
     }
     .events_item2 button:hover{
@@ -6806,6 +6807,7 @@ font-size: 1.2rem;
     .events_item3 button{
       margin: 1rem 4rem 2rem;
       font-size: 1rem;
+      width: 8rem;
       justify-content: center;
     }
   
@@ -6828,9 +6830,9 @@ font-size: 1.2rem;
     }
   
     .projects_item1 {
-      margin-left:-0.8rem;
+      margin-left:-0.4rem;
       width: 20rem;
-      height: 50rem;
+      height: 45rem;
       justify-content: center;
       align-items: center;
     }
@@ -6851,15 +6853,15 @@ font-size: 1.2rem;
       margin: 0rem 0.5rem 0rem;
     }
     .projects_item1 img{
-      height: 15rem;
+      height: 12rem;
     }
     .projects_item2 {
-      margin-left: -0.8rem;
+      margin-left: -0.4rem;
       width: 20rem;
-      height: 40rem;
+      height: 35rem;
     }
     .projects_item2 img{
-      height: 15rem;
+      height: 12rem;
     }
     .projects_item2 p{
       width: 18rem;
@@ -6879,7 +6881,7 @@ font-size: 1.2rem;
     }
     .projects_item3 {
       width: 20rem;
-      margin: 1rem -0.8rem 1rem;
+      margin: 1rem -0.4rem 1rem;
     }
     .projects_item3 p{
       width: 18rem;
@@ -6888,7 +6890,7 @@ font-size: 1.2rem;
       padding-left: 0rem;
     }
     .projects_item3 img{
-      height: 15rem;
+      height: 12rem;
     }
     .projects_item3 h3{
       margin: 2rem 0rem 0rem;
@@ -6902,8 +6904,8 @@ font-size: 1.2rem;
     }
     .projects_item4 {
       width: 20rem;
-      margin: 1rem 1.2rem 1rem;
-   height:35rem;
+      margin: 1rem 1.6rem 1rem;
+   height:30rem;
     }
     .projects_item4 p{
       width: 18rem;
@@ -6912,7 +6914,7 @@ font-size: 1.2rem;
       padding-left: 0rem;
     }
     .projects_item4 img{
-      height: 15rem;
+      height: 12rem;
     }
     .projects_item4 h3{
       margin: 2rem 0rem 0rem;

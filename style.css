@@ -4136,13 +4136,13 @@ width: 82%;
 
   .projects_item1 {
     margin-left:-0.8rem;
-    width: 20rem;
+    width: 18rem;
     height: 50rem;
     justify-content: center;
     align-items: center;
   }
   .projects_item1 p{
-    width: 18rem;
+    width: 16rem;
     margin: 0rem 1.6rem 0rem;
     padding-left: 0rem;
   }
@@ -4158,18 +4158,18 @@ width: 82%;
     margin: 0rem 0.5rem 0rem;
   }
   .projects_item1 img{
-    height: 15rem;
+    height: 12rem;
   }
   .projects_item2 {
     margin-left: -0.8rem;
-    width: 20rem;
+    width: 18rem;
     height: 40rem;
   }
   .projects_item2 img{
-    height: 15rem;
+    height: 12rem;
   }
   .projects_item2 p{
-    width: 18rem;
+    width: 16rem;
     margin: 0rem 1rem 0rem;
     padding-right: 0rem;
     padding-left: 0rem;
@@ -4185,17 +4185,17 @@ width: 82%;
     margin: 0rem 0.5rem 0rem;
   }
   .projects_item3 {
-    width: 20rem;
+    width: 18rem;
     margin: 1rem -0.8rem 1rem;
   }
   .projects_item3 p{
-    width: 18rem;
+    width: 16rem;
     margin: 1rem 1rem 0rem;
     padding-right: 0rem;
     padding-left: 0rem;
   }
   .projects_item3 img{
-    height: 15rem;
+    height: 12rem;
   }
   .projects_item3 h3{
     margin: 2rem 0rem 0rem;
@@ -4208,18 +4208,18 @@ width: 82%;
     margin: 0rem 0.5rem 0rem;
   }
   .projects_item4 {
-    width: 20rem;
+    width: 18rem;
     margin: 1rem 1.2rem 1rem;
  height:35rem;
   }
   .projects_item4 p{
-    width: 18rem;
+    width: 16rem;
     margin: 1rem 1rem 0rem;
     padding-right: 0rem;
     padding-left: 0rem;
   }
   .projects_item4 img{
-    height: 15rem;
+    height: 12rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;

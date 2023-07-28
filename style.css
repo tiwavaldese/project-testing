@@ -9410,17 +9410,17 @@ height: 20%;
 }
 
 .container_blog p {
-  margin: 1rem 1.9rem 0rem;
+  margin: 1rem 2.1rem 0rem;
 padding-right:0rem;
 width: 82%;
 }
 
 .container_blog hr {
  
-  margin: 1rem 9rem 0rem;
+  margin: 1rem 11rem 0rem;
 }
 .blog_item2{
-  margin-left: 0.7rem;
+  margin-left: 1rem;
   width: 85%;
   height:45rem;
 }
@@ -9432,7 +9432,7 @@ width: 82%;
   height: 12rem;
   }
   .blog_item2 .date{
-    margin: 0rem 0.7rem 0rem;
+    margin: 0rem 1rem 0rem;
   padding: 0rem;
     
   }
@@ -9442,7 +9442,7 @@ width: 82%;
     
   }
 .blog_item3{
-  margin:1rem  0.7rem 0rem ;
+  margin:1rem  1rem 0rem ;
   width: 85%;
   height: 32rem;
 }
@@ -9455,7 +9455,7 @@ width: 82%;
     padding-left: 0rem;
   }
   .blog_item3 .date{
-    margin: 0rem 0.7rem 0rem;
+    margin: 0rem 1rem 0rem;
   padding: 0rem;
     
   }
@@ -9465,7 +9465,7 @@ width: 82%;
     
   }
 .blog_item4{
-  margin: 1rem  0.7rem 0rem;
+  margin: 1rem  1rem 0rem;
   width: 85%;
   height: 35rem;
 }
@@ -9477,7 +9477,7 @@ width: 82%;
   padding-left: 0rem;
 }
 .blog_item4 .date{
-  margin: 0rem 0.7rem 0rem;
+  margin: 0rem 1rem 0rem;
   padding: 0rem;
 }
 .blog_item4 .comment{

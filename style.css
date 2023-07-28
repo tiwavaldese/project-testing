@@ -7036,7 +7036,7 @@ font-size: 1.2rem;
     }
   
   
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 380px) {
   html, body {
     overflow-x: hidden;
   }

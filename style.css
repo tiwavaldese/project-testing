@@ -5681,7 +5681,7 @@ font-size: 1.2rem;
 
   }
 
-  @media screen and (min-width: 375px) {
+  @media screen and (min-width: 365px) {
     html, body {
       overflow-x: hidden;
     }

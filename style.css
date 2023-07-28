@@ -7054,6 +7054,7 @@ font-size: 1.2rem;
   .navbar {
     padding-bottom: 30px;
     display: block;
+    height: 4rem;
   }
   img {
     max-width: 100%;
@@ -7069,7 +7070,7 @@ font-size: 1.2rem;
     height: 8rem;
     width: 10rem;
     font-size: 0.9rem;
-    bottom: 19rem;
+    bottom: 18rem;
   }
   #header {
     width: 100%;
@@ -7222,7 +7223,7 @@ padding: 0rem;
   margin-left: 10rem;
  }
 .container p {
-  margin-left: 2.2rem;
+  margin-left: 2.3rem;
   padding-right: 0rem; 
   width:80%;
   display: block;
@@ -7233,11 +7234,11 @@ padding: 0rem;
 
 
 .content {
-  margin: 5rem 0rem 91rem 0rem;
+  margin: 5rem 0rem 93rem 0rem;
   
 }
 .grid_item1{
-margin-left:1.7rem;
+margin-left:1.8rem;
 width: 20rem;
 height: 50rem;
 justify-content: center;
@@ -7260,7 +7261,7 @@ align-items: center;
   }
 .grid_item2{
  
-margin-left: 1.7rem;
+margin-left: 1.8rem;
 width: 20rem;
 height: 40rem;
   }
@@ -7280,7 +7281,7 @@ height: 40rem;
     }
   .grid_item3{
     
-margin-left: 1.7rem;
+margin-left: 1.8rem;
 width: 20rem;
 height: 35rem;
     }
@@ -7316,7 +7317,7 @@ height: 35rem;
     height: 40rem;
   }
   .slide .img_6 {
-    margin: 320rem 1.5rem 0rem;
+    margin: 320rem 2rem 0rem;
     width: 40rem;
     height: 40rem;
     bottom:-60%;
@@ -7464,7 +7465,7 @@ height: 35rem;
     width:19rem;
     padding-bottom: 4rem;
     height: 4rem;
-    margin-left: 3rem;
+    margin-left: 3.1rem;
     line-height: 1.5rem;
     font-size: 0.8rem;
     margin-bottom: 1.7rem;
@@ -7563,7 +7564,7 @@ width: 13.6rem;
     margin-left: 2rem;
   }
   .content3{
-    margin-left: 3.2rem;
+    margin-left: 3.4rem;
   }
   #img_13 {
     width: 17rem;
@@ -7652,7 +7653,7 @@ width: 13.6rem;
   }
   .content5 {
     width: 100%;
-    margin: 2rem 3.2rem 0rem;
+    margin: 2rem 3.4rem 0rem;
   }
   .img_17 {
     width: 17rem;
@@ -7675,7 +7676,7 @@ width: 13.6rem;
     margin-left: 0rem;
   }
   .img_20{
-    margin-left: 3rem;
+    margin-left: 3.2rem;
     width: 17rem;
     height: 16rem;
   }

@@ -11167,7 +11167,7 @@ font-size: 1.2rem;
     display: block;
   }
   .menu{
-    display: block;
+   bottom: 20rem;
   }
   .italic {
     margin: 20rem 15rem 0rem;
@@ -12181,25 +12181,30 @@ text-align: center;
 .container_blog h2 {
   margin-left: 0rem;
   text-align: center;
+  font-size: 2.5rem;
 }
 
 .container_blog p {
   margin: 1rem 3.7rem 0rem;
 padding-right:0rem;
 width: 80%;
+font-size: 1.2rem;
 }
 
 .container_blog hr {
  
-  margin: 1rem 18rem 0rem;
+  margin: 1rem 15rem 0rem;
 }
 .blog_item2{
   margin-left: 2.7rem;
   width: 80%;
   height:82vh;
 }
+.blog_item2 p{
+  font-size: 1.2rem;
+}
 .blog_item2 img{
-  height: 30vh;
+  height: 15rem;
   }
 .blog_item3{
   margin:1rem 2.7rem 0rem ;
@@ -12208,14 +12213,22 @@ width: 80%;
 }
 .blog_item3 img{
   width: 100%;
-  height:40%;
+  height:15rem;
   }
-  
+  .blog_item3 p{
+    font-size: 1.2rem;
+  }
 .blog_item4{
   margin: 1rem 2.7rem 0rem;
   width: 80%;
   height: 67vh;
 }
+.blog_item4 img{
+  height:15rem;
+  }
+  .blog_item4 p{
+    font-size: 1.2rem;
+  }
 
 
 #btn{

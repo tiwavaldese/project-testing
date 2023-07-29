@@ -11924,15 +11924,15 @@ font-size: 2.5rem;
 
 }
 #fourA i{
- width: 70px;
- height: 70px;
+  width: 100px;
+  height: 100px;
 padding: 1rem 1.3rem;
-font-size: 1.9rem;
+font-size: 3rem;
 }
 #fourA span{
 margin-top: 1rem;
 margin-left: 1rem;
-
+font-size: 6rem;
 }
 .fourA{
   font-size: 1.2rem;
@@ -11949,13 +11949,13 @@ margin-left: 1rem;
 }
 #three i{
   display: flex;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   color: white;
 background-color: #782D50;
 padding: 1rem 1.2rem;
-font-size: 1.9rem;
+font-size: 3rem;
 }
 #three span{
   margin-top: 0rem;
@@ -11963,6 +11963,7 @@ font-size: 1.9rem;
   padding-bottom: 3rem;
  position: relative;
  bottom: 3rem;
+ font-size: 6rem;
    }
 .three{
   font-size: 1.2rem;
@@ -11979,13 +11980,13 @@ font-size: 1.9rem;
 }
 #fourB i{
   display: flex;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   color: white;
 background-color: #782D50;
 padding: 1rem 1.5rem;
-font-size: 1.9rem;
+font-size: 3rem;
 }
 #fourB span{
   margin-top: 0rem;
@@ -11993,6 +11994,7 @@ font-size: 1.9rem;
   padding-bottom: 3rem;
  position: relative;
  bottom: 3rem;
+ font-size: 6rem;
    }
 .fourB{
   font-size: 1.2rem;

@@ -11879,7 +11879,7 @@ display: block;
 .about_item2  h2{
 height: 5vh;
 margin: 1rem 0rem 0rem;
-font-size: 2rem;
+font-size: 2.5rem;
 text-align: center;
 
 }
@@ -11892,10 +11892,10 @@ height: 16rem;
 margin: 1rem 3.8rem 0rem;
 line-height:30px;
 padding: 0.5rem 0rem 0rem;
-font-size: 0.9rem;
+font-size: 1.2rem;
 }
 .about_item2  hr{
-  margin-left: 18rem;
+  margin-left: 15rem;
 width: 2rem;
 margin-top: 1.5rem;
 
@@ -11909,7 +11909,7 @@ margin-top: 1.5rem;
   justify-content: center;
   border-radius: 0.25rem;
   margin: 2rem 2rem 4rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .about_item4{
@@ -11932,7 +11932,7 @@ margin-left: 1rem;
 
 }
 .fourA{
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: 0rem 12rem 0rem;
   position: relative;
   bottom: 1rem;
@@ -11962,7 +11962,7 @@ font-size: 1.9rem;
  bottom: 3rem;
    }
 .three{
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: 0rem 12rem 0rem;
   position: relative;
   bottom:3rem;
@@ -11992,7 +11992,7 @@ font-size: 1.9rem;
  bottom: 3rem;
    }
 .fourB{
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: 0rem 12rem 0rem;
   position: relative;
   bottom: 4rem;
@@ -12009,23 +12009,23 @@ font-size: 1.9rem;
   
 }
 .about_item5 h2{
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
  display: flex;
  justify-content: center;
  align-items: center;
- width: 90%;
+ width: 80%;
  line-height: 35px;
 padding: 0.5rem 0rem 0rem;
 margin: 0rem 1.8rem 2rem;
 text-align: justify;
-font-size: 0.9rem;
+font-size: 1.2rem;
 }
 .about_item5 span{
   width: 9.5rem;
@@ -12035,7 +12035,7 @@ font-size: 0.9rem;
     align-items: center;
     justify-content: center;
   margin: 3rem 14rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 #creation{
@@ -12045,7 +12045,7 @@ font-size: 0.9rem;
 .about_item6 h2{
   width: 100%;
  margin-left: 0rem;
-  font-size: 2rem;
+  font-size: 2.5rem;
   text-align: center;
 }
 .about_item6 hr{
@@ -12057,7 +12057,7 @@ font-size: 0.9rem;
   margin: 0rem 2.8rem 1.5rem;
   line-height: 35px;
   padding: 0.5rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   width: 85%;
 }
 .about_item6 img{
@@ -12069,7 +12069,7 @@ font-size: 0.9rem;
  
 }
 .about_item7 label{
-  font-size: 1rem;
+  font-size: 1.2rem;
   height: 8vh;
   width: 90%;
   margin: 0rem 1.2rem 0.7rem;
@@ -12083,7 +12083,7 @@ padding: 1rem 0rem 0rem;
 .about_item7 p{
   display: flex;
 line-height: 35px;
-font-size: 0.9rem;
+font-size: 1.2rem;
 width: 90%;
 text-align: justify;
 }
@@ -12094,10 +12094,10 @@ text-align: justify;
 }
 .term-of-office p{
   width: 30rem;
-  margin: -3.5rem 1.7rem -1rem;
+  margin: -3.5rem 1rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem 1.7rem -1rem;
+  margin: -3.5rem 1rem -1rem;
   width: 30rem;
 }
 #project-committee{
@@ -12105,21 +12105,21 @@ margin-top:-0rem ;
 margin-bottom:-0rem ;
 }
 .project-committee p{
-  margin: -3.5rem 1.7rem -1rem;
+  margin: -3.5rem 1rem -1rem;
   width: 30rem;
 }
 .membership-status p{
-  margin: -3.5rem 1.7rem -1rem;
+  margin: -3.5rem 1rem -1rem;
   width: 30rem;
 }
 .specific-objective p{
-  margin: -3.5rem 1.7rem -7rem;
+  margin: -3.5rem 1rem -7rem;
   width: 30rem;
   height: 17rem;
   line-height: 35px;
 }
 .activities p{
-  margin: -3.5rem 1.7rem -1rem;
+  margin: -3.5rem 1rem -1rem;
   width: 30rem;
 }
 .about_partner{

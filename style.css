@@ -11123,7 +11123,7 @@ font-size: 1.2rem;
   .navbar {
     padding-bottom: 30px;
     display: block;
-    height: 4.5rem;
+    height: 5rem;
   }
   img {
     max-width: 100%;
@@ -11133,13 +11133,13 @@ font-size: 1.2rem;
   }
   h1 {
     width: 60%;
-    margin-left: 10rem;
-    font-size: 2rem;
+    margin-left: 8rem;
+    font-size: 2.5rem;
    
   }
   .image{
     height: 7rem;
-    width: 5rem;
+    width: 6rem;
   }
   .img_1{
     height: 4.5rem;
@@ -11153,7 +11153,7 @@ font-size: 1.2rem;
   }
   .description1 {
     margin: 0rem 25rem 0rem; 
-    font-size: 1rem;
+    font-size: 1.2rem;
     width: 9.5rem;
     height: 3.5rem;
     padding: 0rem 1rem 0rem;
@@ -11170,8 +11170,8 @@ font-size: 1.2rem;
    bottom: 20rem;
   }
   .italic {
-    margin: 20rem 15rem 0rem;
-    font-size: 1rem;
+    margin: 21rem 15rem 0rem;
+    font-size: 1.2rem;
   }
   .slider_container {
     width: 100%;
@@ -11202,9 +11202,9 @@ font-size: 1.2rem;
   }
 .slide .captionA {
     margin: 0rem 3rem 0rem;
-    padding: 0.6rem 1em 0rem;
+    padding: 0.3rem 1em 0rem;
     bottom: 80%;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .slide .captionB {
@@ -11212,7 +11212,7 @@ font-size: 1.2rem;
     margin: 0rem 3rem 0rem;
     bottom: 57%;
   height: 12vh;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 0rem 0.5rem 0rem;
 }
 
@@ -11225,21 +11225,21 @@ font-size: 1.2rem;
     display: flex;
     align-items: center;
     justify-content: center;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 
 .slide .captionD {
   bottom: 70%;
   width: 63%;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .slide .captionE {
   width: 62%;
   height: 12vh;
   bottom: 50%;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .slide .captionF {
@@ -11250,11 +11250,11 @@ font-size: 1.2rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .slide .captionG {
-  font-size: 1rem;
+  font-size: 1.5rem;
   bottom: 60%;
   height: 6vh;
   width: 63%;
@@ -11263,7 +11263,7 @@ font-size: 1.2rem;
 }
 
 .slide .captionH {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-left: -6rem;
   bottom: 30%;
   width: 63%;
@@ -11274,7 +11274,7 @@ font-size: 1.2rem;
 .slide .captionI {
   bottom: 17%;
   margin-left: -3rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   width: 9.5rem;
   height: 3.5rem;
   padding: 0rem 1rem 0rem;
@@ -11292,7 +11292,7 @@ width: 90%;
   font-size: 2.5rem;
 }
 .container hr{
-  margin-left: 18rem;
+  margin-left: 15rem;
 }
 .container p {
   margin-left: 3.5rem;
@@ -11308,17 +11308,17 @@ font-size: 1.2rem;
   
 }
 .grid_item1{
-margin-left:4rem;
+margin-left:3.7rem;
 width: 30rem;
 }
 .grid_item1 h3{
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 .grid_item1 p{
   padding-left: 0rem;
   padding-right: 0rem;
-  padding-top: 0.5rem;
+  padding-top: 0.3rem;
   width: 26rem;
   line-height: 35px;
   font-size: 1.2rem;
@@ -11326,7 +11326,7 @@ width: 30rem;
   margin-bottom: 0.5rem;
 }
 .grid_item1 .date{
-  margin: 0rem 0.5rem 0rem;
+  margin: 0rem 1rem 0rem;
   font-size: 1.2rem;
 }
 .grid_item1 .comment{
@@ -11334,17 +11334,17 @@ width: 30rem;
   font-size: 1.2rem;
 }
 .grid_item2{
-  margin-left: 4rem;
+  margin-left: 3.7rem;
   width: 30rem;
   }
   .grid_item2 h3{
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
   .grid_item2 p{
     padding-left: 0rem;
     padding-right: 0rem;
-    padding-top: 0.5rem;
+    padding-top: 0.3rem;
     width: 26rem;
     line-height: 35px;
     font-size: 1.2rem;
@@ -11352,7 +11352,7 @@ width: 30rem;
     margin-bottom: 0.5rem;
   }
   .grid_item2 .date{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 1rem 0rem;
     font-size: 1.2rem;
   }
   .grid_item2 .comment{
@@ -11360,17 +11360,18 @@ width: 30rem;
     font-size: 1.2rem;
   }
   .grid_item3{
-    margin-left: 4rem;
+    margin-left: 3.7rem;
     width: 30rem;
+    height: 35rem;
     }
     .grid_item3 h3{
       text-align: center;
-      font-size: 1.2rem;
+      font-size: 1.5rem;
     }
     .grid_item3 p{
       padding-left: 0rem;
       padding-right: 0rem;
-      padding-top: 0.5rem;
+      padding-top: 0.3rem;
       width: 26rem;
       line-height: 35px;
       font-size: 1.2rem;
@@ -11378,7 +11379,7 @@ width: 30rem;
       margin-bottom: 0.5rem;
     }
     .grid_item3 .date{
-      margin: 0rem 0.5rem 0rem;
+      margin: 0rem 1rem 0rem;
       font-size: 1.2rem;
     }
     .grid_item3 .comment{
@@ -11386,7 +11387,7 @@ width: 30rem;
       font-size: 1.2rem;
     }
   .grid_item button {
-    width: 10rem;
+    width: 12rem;
     height: 4rem;
     padding: 0rem 1rem 0rem;
     display: flex;

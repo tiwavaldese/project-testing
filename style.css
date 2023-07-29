@@ -12306,7 +12306,7 @@ line-height: 35px;
   .events_item2{
     width: 75%;
     height: 95%;
-    margin: 2rem 3rem 2rem;
+    margin: 2rem 3.2rem 2rem;
   }
   .events_item2 h3{
     font-size: 1.2rem;
@@ -12320,7 +12320,7 @@ line-height: 35px;
   }
   .events_item2 button{
     margin: 0rem 9rem 2rem;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     width: 10.5rem;
   }
   .events_item2 button:hover{
@@ -12336,7 +12336,7 @@ line-height: 35px;
   .events_item3{
     width: 75%;
     height: 95%;
-    margin: 2rem 3rem 2rem;
+    margin: 2rem 3.2rem 2rem;
   }
   .events_item3 h3{
     font-size: 1.2rem;
@@ -12344,7 +12344,7 @@ line-height: 35px;
   }
   .events_item3 p{
     padding-right: 0rem;
-    margin-left: 1.2rem;
+    margin-left: 1.1rem;
     width: 25rem;
     font-size: 1.2rem;
   }

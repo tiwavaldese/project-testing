@@ -11931,8 +11931,8 @@ font-size: 2.5rem;
 #fourA i{
   width: 100px;
   height: 100px;
-padding: 1rem 1.3rem;
-font-size: 3rem;
+padding: 1.2rem 1.4rem;
+font-size: 4rem;
 }
 #fourA span{
 margin-top: 1rem;
@@ -11941,10 +11941,10 @@ font-size: 6rem;
 }
 .fourA{
   font-size: 2.5rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 14rem 0rem;
   position: relative;
-  bottom: 1rem;
-  width: 10rem;
+  bottom: 3rem;
+  width: 20rem;
 }
 #three{
   margin: 4rem 4rem 0rem;
@@ -11959,23 +11959,23 @@ font-size: 6rem;
   border-radius: 50%;
   color: white;
 background-color: #782D50;
-padding: 1rem 1.2rem;
-font-size: 3rem;
+padding: 1.2rem 1.4rem;
+font-size: 4rem;
 }
 #three span{
   margin-top: 0rem;
-  margin-left: 5.5rem;
+  margin-left: 6.5rem;
   padding-bottom: 3rem;
  position: relative;
- bottom: 3rem;
+ bottom: 5rem;
  font-size: 6rem;
    }
 .three{
   font-size: 2.5rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 14rem 0rem;
   position: relative;
-  bottom:3rem;
-  width: 7rem;
+  bottom:5rem;
+  width: 15rem;
 }
 #fourB{
   margin: 3rem 4rem 0rem;
@@ -11990,22 +11990,22 @@ font-size: 3rem;
   border-radius: 50%;
   color: white;
 background-color: #782D50;
-padding: 1rem 1.5rem;
-font-size: 3rem;
+padding: 1.2rem 1.4rem;
+font-size: 4rem;
 }
 #fourB span{
   margin-top: 0rem;
-  margin-left: 5.5rem;
+  margin-left: 6.5rem;
   padding-bottom: 3rem;
  position: relative;
- bottom: 3rem;
+ bottom: 5rem;
  font-size: 6rem;
    }
 .fourB{
   font-size: 2.5rem;
-  margin: 0rem 12rem 0rem;
+  margin: 0rem 14rem 0rem;
   position: relative;
-  bottom: 4rem;
+  bottom: 6rem;
 }
 .about_item5{
   display: block;
@@ -12014,7 +12014,7 @@ font-size: 3rem;
   background-color: #782D50;
   padding-top: 3rem;
   width: 100%;
-  height: 50rem;
+  height: 65rem;
   margin-left: 0rem;
   
 }
@@ -12033,7 +12033,7 @@ font-size: 3rem;
  width: 80%;
  line-height: 35px;
 padding: 0.5rem 0rem 0rem;
-margin: 0rem 2.3rem 2rem;
+margin: 0rem 3.5rem 2rem;
 text-align: justify;
 font-size: 1.2rem;
 }

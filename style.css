@@ -12221,6 +12221,9 @@ line-height: 35px;
   font-size: 1.2rem;
   line-height: 35px;
   width: 70%;
+  margin-left: 1rem;
+  padding-right: 0rem;
+  padding-left: 0rem;
 }
 .blog_item2 img{
   height: 15rem;
@@ -12249,6 +12252,9 @@ line-height: 35px;
     font-size: 1.2rem;
     line-height: 35px;
     width: 70%;
+    margin-left: 1rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
   .blog_item3 .date{
     font-size: 1.2rem;
@@ -12273,6 +12279,9 @@ line-height: 35px;
     font-size: 1.2rem;
     line-height: 35px;
     width: 70%;
+    margin-left: 1rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
   .blog_item4 .date{
     font-size: 1.2rem;

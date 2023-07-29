@@ -12377,19 +12377,19 @@ line-height: 35px;
   }
   
   .container_projects hr {
-    margin: 1rem 16rem 0rem;
+    margin: 1rem 17rem 0rem;
   }
   .projects_item1 {
     width: 30rem;
-    height: 45rem;
-    margin: 1rem 2rem 1rem;
+    height: 49rem;
+    margin: 1rem 1.7rem 1rem;
   }
   .projects_item1 img{
     height: 15rem;
   }
   .projects_item1 p{
     width: 27rem;
-    margin: 1rem 1.5rem 1rem;
+    margin: 1rem 1.7rem 1rem;
     font-size: 1.2rem;
   }
   .projects_item1 h3{
@@ -12406,7 +12406,7 @@ line-height: 35px;
   }
   .projects_item2 {
     width: 30rem;
-    margin: 1rem 2rem 1rem;
+    margin: 1rem 1.7rem 1rem;
     height: 37rem;
   }
   .projects_item2 img{
@@ -12416,7 +12416,7 @@ line-height: 35px;
   .projects_item2 p{
     width: 27rem;
     font-size: 1.2rem;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 1.2rem 1rem;
   }
   .projects_item2 h3{
     font-size: 1.5rem;
@@ -12433,7 +12433,7 @@ line-height: 35px;
   .projects_item3 {
     width: 30rem;
     height: 37rem;
-    margin: 1rem 2rem 1rem;
+    margin: 1rem 1.7rem 1rem;
   }
   .projects_item3 img{
     height: 15rem;
@@ -12442,7 +12442,7 @@ line-height: 35px;
   .projects_item3 p{
     width: 27rem;
     font-size: 1.2rem;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 1.2rem 1rem;
   }
   .projects_item3 h3{
     font-size: 1.5rem;
@@ -12458,7 +12458,7 @@ line-height: 35px;
   }
   .projects_item4 {
     width: 30rem;
-    margin: 1rem 4rem 1rem;
+    margin: 1rem 3.7rem 1rem;
     height: 37rem;
   }
   .projects_item4 img{
@@ -12468,7 +12468,7 @@ line-height: 35px;
   .projects_item4 p{
     width: 27rem;
     font-size: 1.2rem;
-    margin: 1rem 1rem 1rem;
+    margin: 1rem 1.2rem 1rem;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;

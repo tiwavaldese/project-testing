@@ -12384,6 +12384,7 @@ line-height: 35px;
     font-size: 1.2rem;
   }
   .projects_item1 h3{
+    font-size: 1.5rem;
     margin: 2rem 0rem 0rem;
   }
   .projects_item1 .date{
@@ -12409,6 +12410,7 @@ line-height: 35px;
     margin: 1rem 1rem 1rem;
   }
   .projects_item2 h3{
+    font-size: 1.5rem;
     margin: 2rem 0rem 0rem;
   }
   .projects_item2 .date{
@@ -12434,6 +12436,7 @@ line-height: 35px;
     margin: 1rem 1rem 1rem;
   }
   .projects_item3 h3{
+    font-size: 1.5rem;
     margin: 2rem 0rem 0rem;
   }
   .projects_item3 .date{
@@ -12460,6 +12463,7 @@ line-height: 35px;
   }
   .projects_item4 h3{
     margin: 2rem 0rem 0rem;
+    font-size: 1.5rem;
   }
   .projects_item4 .date{
     font-size: 1.2rem;

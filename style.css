@@ -12206,6 +12206,14 @@ font-size: 1.2rem;
 .blog_item2 img{
   height: 15rem;
   }
+  .blog_item2 .date{
+    font-size: 1.2rem;
+    margin: 0rem 1rem 0rem;
+  }
+  .blog_item2 .comment{
+    font-size: 1.2rem;
+    margin: 0rem 0.5rem 0rem;
+  }
 .blog_item3{
   margin:1rem 2.7rem 0rem ;
   width: 80%;
@@ -12218,6 +12226,14 @@ font-size: 1.2rem;
   .blog_item3 p{
     font-size: 1.2rem;
   }
+  .blog_item3 .date{
+    font-size: 1.2rem;
+    margin: 0rem 1rem 0rem;
+  }
+  .blog_item3 .comment{
+    font-size: 1.2rem;
+    margin: 0rem 0.5rem 0rem;
+  }
 .blog_item4{
   margin: 1rem 2.7rem 0rem;
   width: 80%;
@@ -12229,8 +12245,14 @@ font-size: 1.2rem;
   .blog_item4 p{
     font-size: 1.2rem;
   }
-
-
+  .blog_item4 .date{
+    font-size: 1.2rem;
+    margin: 0rem 1rem 0rem;
+  }
+  .blog_item4 .comment{
+    font-size: 1.2rem;
+    margin: 0rem 0.5rem 0rem;
+  }
 #btn{
   margin:3rem 2rem 3rem;
 }

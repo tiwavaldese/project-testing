@@ -11367,7 +11367,7 @@ width: 30rem;
   .grid_item3{
     margin-left: 3.5rem;
     width: 30rem;
-    height: 35rem;
+    height: 40rem;
     }
     .grid_item3 h3{
       text-align: center;
@@ -11444,7 +11444,7 @@ width: 30rem;
   }
   .slide .captionCC {
     margin: 250rem 10rem 0rem;
-    width: 9rem;
+    width: 10.5rem;
     height: 3.5rem;
     padding: 0rem 1rem 0rem;
     display: flex;
@@ -11477,7 +11477,7 @@ width: 30rem;
   }
   .row_item5 p {
     width: 80%;
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
   .container3 {
     width: 100%;
@@ -11515,14 +11515,14 @@ width: 30rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 9rem;
+    margin-left: 7rem;
   }
   
   
   .captionE2 {
     position: absolute;
     left: 0;
-    bottom: 9%;
+    bottom: 8%;
     font-size: 1.2rem;
     color: white;
     background-color: #782D50;
@@ -11664,7 +11664,7 @@ text-align: center;
     text-align: center;
   }
   #container hr {
-    margin-left: 18rem;
+    margin-left: 16rem;
   }
   #container p{
     width: 90%;

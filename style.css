@@ -11926,7 +11926,7 @@ margin-top: 1.5rem;
   margin: 5rem 0rem 3rem;
 }
 #fourA{
-margin-left: 4rem;
+margin-left: 3rem;
 font-size: 2.5rem;
 
 }
@@ -11943,13 +11943,13 @@ font-size: 6rem;
 }
 .fourA{
   font-size: 2.5rem;
-  margin: 0rem 15rem 0rem;
+  margin: 0rem 16rem 0rem;
   position: relative;
   bottom: 4.5rem;
   width: 25rem;
 }
 #three{
-  margin: 4rem 4rem 0rem;
+  margin: 4rem 3rem 0rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
@@ -11974,13 +11974,13 @@ font-size: 3.5rem;
    }
 .three{
   font-size: 2.5rem;
-  margin: 0rem 15rem 0rem;
+  margin: 0rem 16rem 0rem;
   position: relative;
   bottom:10rem;
   width: 15rem;
 }
 #fourB{
-  margin: 3rem 4rem 0rem;
+  margin: 3rem 3rem 0rem;
   font-size: 2.5rem;
   color: black;
   font-weight: 600;
@@ -12005,7 +12005,7 @@ font-size: 4rem;
    }
 .fourB{
   font-size: 2.5rem;
-  margin: 0rem 15rem 0rem;
+  margin: 0rem 16rem 0rem;
   position: relative;
   bottom: 10rem;
 }

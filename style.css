@@ -12220,6 +12220,7 @@ line-height: 35px;
 .blog_item2 p{
   font-size: 1.2rem;
   line-height: 35px;
+  width: 70%;
 }
 .blog_item2 img{
   height: 15rem;
@@ -12247,6 +12248,7 @@ line-height: 35px;
   .blog_item3 p{
     font-size: 1.2rem;
     line-height: 35px;
+    width: 70%;
   }
   .blog_item3 .date{
     font-size: 1.2rem;
@@ -12270,6 +12272,7 @@ line-height: 35px;
   .blog_item4 p{
     font-size: 1.2rem;
     line-height: 35px;
+    width: 70%;
   }
   .blog_item4 .date{
     font-size: 1.2rem;

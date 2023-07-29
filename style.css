@@ -11782,7 +11782,9 @@ text-align: center;
   width: 2rem;
   margin-left: 6rem;
 }
-
+.content6 ul li{
+  font-size: 1.2rem;
+}
 .content7 h3 {
   font-size: 2rem;
 }
@@ -11791,7 +11793,9 @@ text-align: center;
   width: 2rem;
   margin-left: 6rem;
 }
-
+.content7 ul li{
+  font-size: 1.2rem;
+}
 
 .container4 p {
   padding-top: 0rem;
@@ -11822,7 +11826,7 @@ text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-top: 1.5rem;
   
 }
@@ -11842,6 +11846,7 @@ h4 i {
 
 
   footer {
+    font-size: 1.2rem;
     width: 100%;
     bottom: 0.1rem;
     padding: 3rem 2rem 0rem;

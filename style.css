@@ -11272,14 +11272,14 @@ font-size: 1.2rem;
 .slide .captionH {
   font-size: 1.2rem;
   margin-left: -6rem;
-  bottom: 42%;
+  bottom: 35%;
   width: 63%;
   height: 16vh;
   padding-left: 1rem;
 }
 
 .slide .captionI {
-  bottom: 14%;
+  bottom: 11%;
   margin-left: 0rem;
   font-size: 1.2rem;
   width: 10.5rem;
@@ -11311,7 +11311,7 @@ font-size: 1.2rem;
 
 
 .content {
-  margin: 5rem 0rem 75rem 0rem;
+  margin: 5rem 0rem 77rem 0rem;
   
 }
 .grid_item1{
@@ -11369,7 +11369,7 @@ width: 30rem;
   .grid_item3{
     margin-left: 3.5rem;
     width: 30rem;
-    height: 40rem;
+    height: 38rem;
     }
     .grid_item3 h3{
       text-align: center;

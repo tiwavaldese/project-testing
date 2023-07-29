@@ -11167,7 +11167,8 @@ font-size: 1.2rem;
     display: block;
   }
   .menu{
-   bottom: 30rem;
+   bottom: 34rem;
+   font-size: 1.5rem;
   }
   .italic {
     margin: 21rem 15rem 0rem;
@@ -11205,13 +11206,14 @@ font-size: 1.2rem;
     padding: 0.3rem 1em 0rem;
     bottom: 80%;
     font-size: 1.5rem;
+    height: 3.5rem;
 }
 
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 57%;
-  height: 12.5vh;
+    bottom: 55%;
+  height: 13vh;
   font-size: 1.2rem;
   padding: 0rem 0.5rem 0rem;
 }
@@ -11233,17 +11235,19 @@ font-size: 1.2rem;
   bottom: 70%;
   width: 63%;
   font-size: 1.5rem;
+  margin-left: 8rem;
 }
 
 .slide .captionE {
   width: 62%;
-  height: 12.5vh;
-  bottom: 48.5%;
+  height: 13vh;
+  bottom: 47%;
   font-size: 1.2rem;
+  margin-left: 8rem;
 }
 
 .slide .captionF {
-  bottom: 37%;
+  bottom: 36%;
   width: 10.5rem;
   height: 3.5rem;
   padding: 0rem 1rem 0rem;
@@ -11251,6 +11255,7 @@ font-size: 1.2rem;
   align-items: center;
   justify-content: center;
   font-size: 1.2rem;
+  margin-left: 12rem;
 }
 
 .slide .captionG {
@@ -11265,15 +11270,15 @@ font-size: 1.2rem;
 .slide .captionH {
   font-size: 1.2rem;
   margin-left: -6rem;
-  bottom: 48%;
+  bottom: 42%;
   width: 63%;
-  height: 14vh;
+  height: 16vh;
   padding-left: 1rem;
 }
 
 .slide .captionI {
-  bottom: 15%;
-  margin-left: -3rem;
+  bottom: 14%;
+  margin-left: 0rem;
   font-size: 1.2rem;
   width: 10.5rem;
   height: 3.5rem;

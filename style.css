@@ -12294,16 +12294,22 @@ line-height: 35px;
 
   .events_item2{
     width: 75%;
-    height: 85%;
-    margin: 2rem 3.8rem 2rem;
+    height: 95%;
+    margin: 2rem 2.8rem 2rem;
+  }
+  .events_item2 h3{
+    font-size: 1.2rem;
+    text-align: center;
   }
   .events_item2 p{
     padding-right: 0rem;
     margin-left: 1.5rem;
     width: 25rem;
+    font-size: 1.2rem;
   }
   .events_item2 button{
     margin: 0rem 9rem 2rem;
+    font-size: 1.2rem;
   }
   .events_item2 button:hover{
     background-color: black;
@@ -12312,16 +12318,22 @@ line-height: 35px;
   
   .events_item3{
     width: 75%;
-    height: 85%;
-    margin: 2rem 3.8rem 2rem;
+    height: 95%;
+    margin: 2rem 2.8rem 2rem;
+  }
+  .events_item3 h3{
+    font-size: 1.2rem;
+    text-align: center;
   }
   .events_item3 p{
     padding-right: 0rem;
     margin-left: 1.5rem;
     width: 25rem;
+    font-size: 1.2rem;
   }
   .events_item3 button{
     margin: 0rem 9rem 2rem;
+    font-size: 1.2rem;
   }
 
   .container_projects {

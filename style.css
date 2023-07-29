@@ -12486,9 +12486,13 @@ line-height: 35px;
     text-align: center;
     margin-left: 0rem;
   }
+  .container_volunteers p{
+    text-align: center;
+    margin-left: 0rem;
+  }
   .container_volunteers hr{
 
-    margin-left: 19rem;
+    margin-left: 17rem;
   }
 .container4_volunteer{
   margin-top:-17rem ;

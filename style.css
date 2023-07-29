@@ -12175,6 +12175,7 @@ text-align: center;
   }
   .blog_item1 h2{
     width: 90%;
+    font-size: 2.5rem;
   }
   .blog_item1 p{
     width: 90%;
@@ -12202,11 +12203,12 @@ text-align: center;
 padding-right:0rem;
 width: 80%;
 font-size: 1.2rem;
+line-height: 35px;
 }
 
 .container_blog hr {
  
-  margin: 1rem 15rem 0rem;
+  margin: 1rem 16rem 0rem;
 }
 .blog_item2{
   margin-left: 2.7rem;
@@ -12218,13 +12220,14 @@ font-size: 1.2rem;
 }
 .blog_item2 p{
   font-size: 1.2rem;
+  line-height: 35px;
 }
 .blog_item2 img{
   height: 15rem;
   }
   .blog_item2 .date{
     font-size: 1.2rem;
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 1.5rem 0rem;
   }
   .blog_item2 .comment{
     font-size: 1.2rem;
@@ -12244,10 +12247,11 @@ font-size: 1.2rem;
   }
   .blog_item3 p{
     font-size: 1.2rem;
+    line-height: 35px;
   }
   .blog_item3 .date{
     font-size: 1.2rem;
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 1.5rem 0rem;
   }
   .blog_item3 .comment{
     font-size: 1.2rem;
@@ -12266,10 +12270,11 @@ font-size: 1.2rem;
   }
   .blog_item4 p{
     font-size: 1.2rem;
+    line-height: 35px;
   }
   .blog_item4 .date{
     font-size: 1.2rem;
-    margin: 0rem 1rem 0rem;
+    margin: 0rem 1.5rem 0rem;
   }
   .blog_item4 .comment{
     font-size: 1.2rem;

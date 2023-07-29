@@ -12295,7 +12295,7 @@ line-height: 35px;
   .events_item2{
     width: 75%;
     height: 95%;
-    margin: 2rem 2.8rem 2rem;
+    margin: 2rem 3rem 2rem;
   }
   .events_item2 h3{
     font-size: 1.2rem;
@@ -12315,11 +12315,16 @@ line-height: 35px;
     background-color: black;
     color: white;
   }
-  
+  .events_item2 .date{
+    font-size: 1.2rem;
+  }
+  .events_item2 .comment{
+    font-size: 1.2rem;
+  }
   .events_item3{
     width: 75%;
     height: 95%;
-    margin: 2rem 2.8rem 2rem;
+    margin: 2rem 3rem 2rem;
   }
   .events_item3 h3{
     font-size: 1.2rem;
@@ -12335,7 +12340,13 @@ line-height: 35px;
     margin: 0rem 9rem 2rem;
     font-size: 1.2rem;
   }
-
+  .events_item3.date{
+    font-size: 1.2rem;
+  }
+  .events_item3 .comment{
+    font-size: 1.2rem;
+    margin-left: 1.5rem;
+  }
   .container_projects {
     margin: 3rem 0rem 3rem;
     

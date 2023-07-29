@@ -11123,6 +11123,7 @@ font-size: 1.2rem;
   .navbar {
     padding-bottom: 30px;
     display: block;
+    height: 4.5rem;
   }
   img {
     max-width: 100%;
@@ -11138,10 +11139,12 @@ font-size: 1.2rem;
   }
   .image{
     height: 7rem;
+    width: 5rem;
   }
   .img_1{
     height: 4.5rem;
-    margin-top: 0.4rem;
+    margin-top: 0rem;
+    padding-top: 0.2rem;
     width: 5rem;
   }
   #header hr {
@@ -11161,9 +11164,13 @@ font-size: 1.2rem;
   }
   .project {
     width: 100%;
+    display: block;
+  }
+  .menu{
+    display: block;
   }
   .italic {
-    margin: 21.7rem 15rem 0rem;
+    margin: 20rem 15rem 0rem;
     font-size: 1rem;
   }
   .slider_container {
@@ -11197,19 +11204,21 @@ font-size: 1.2rem;
     margin: 0rem 3rem 0rem;
     padding: 0.6rem 1em 0rem;
     bottom: 80%;
+    font-size: 1rem;
 }
 
 .slide .captionB {
   
     margin: 0rem 3rem 0rem;
-    bottom: 62%;
+    bottom: 57%;
   height: 12vh;
+  font-size: 1rem;
   padding: 0rem 0.5rem 0rem;
 }
 
 .slide .captionC {
     margin-left: 3rem;
-    bottom: 50%;
+    bottom: 40%;
     width: 9.5rem;
     height: 3.5rem;
     padding: 0rem 1rem 0rem;
@@ -11221,18 +11230,20 @@ font-size: 1.2rem;
 
 
 .slide .captionD {
-  bottom: 80%;
+  bottom: 70%;
   width: 63%;
+  font-size: 1rem;
 }
 
 .slide .captionE {
   width: 62%;
   height: 12vh;
-  bottom: 60%;
+  bottom: 50%;
+  font-size: 1rem;
 }
 
 .slide .captionF {
-  bottom: 49%;
+  bottom: 39%;
   width: 9.5rem;
   height: 3.5rem;
   padding: 0rem 1rem 0rem;
@@ -11243,24 +11254,25 @@ font-size: 1.2rem;
 }
 
 .slide .captionG {
-  
+  font-size: 1rem;
   bottom: 60%;
   height: 6vh;
+  width: 63%;
   padding: 0.6rem 0.5rem 0rem;
   margin-left: -6rem;
 }
 
 .slide .captionH {
-  
+  font-size: 1rem;
   margin-left: -6rem;
-  bottom: 35%;
+  bottom: 30%;
   width: 63%;
-  height: 14vh;
+  height: 13vh;
   padding-left: 1rem;
 }
 
 .slide .captionI {
-  bottom: 21%;
+  bottom: 17%;
   margin-left: -3rem;
   font-size: 1rem;
   width: 9.5rem;
@@ -11277,6 +11289,7 @@ width: 90%;
 .container h2{
   margin-left: 0rem;
   text-align: center;
+  font-size: 2.5rem;
 }
 .container hr{
   margin-left: 18rem;
@@ -11286,7 +11299,7 @@ width: 90%;
   padding-right: 0rem; 
   width:90%;
   text-align: justify;
-font-size: 1rem;
+font-size: 1.2rem;
 }
 
 
@@ -11295,11 +11308,12 @@ font-size: 1rem;
   
 }
 .grid_item1{
-margin-left:4.3rem;
+margin-left:4rem;
 width: 30rem;
 }
 .grid_item1 h3{
   text-align: center;
+  font-size: 1.2rem;
 }
 .grid_item1 p{
   padding-left: 0rem;
@@ -11307,15 +11321,25 @@ width: 30rem;
   padding-top: 0.5rem;
   width: 26rem;
   line-height: 35px;
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-left: 2rem;
+  margin-bottom: 0.5rem;
+}
+.grid_item1 .date{
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
+}
+.grid_item1 .comment{
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
 }
 .grid_item2{
-  margin-left: 4.3rem;
+  margin-left: 4rem;
   width: 30rem;
   }
   .grid_item2 h3{
     text-align: center;
+    font-size: 1.2rem;
   }
   .grid_item2 p{
     padding-left: 0rem;
@@ -11323,15 +11347,25 @@ width: 30rem;
     padding-top: 0.5rem;
     width: 26rem;
     line-height: 35px;
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-left: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  .grid_item2 .date{
+    margin: 0rem 0.5rem 0rem;
+    font-size: 1.2rem;
+  }
+  .grid_item2 .comment{
+    margin: 0rem 0.5rem 0rem;
+    font-size: 1.2rem;
   }
   .grid_item3{
-    margin-left: 4.3rem;
+    margin-left: 4rem;
     width: 30rem;
     }
     .grid_item3 h3{
       text-align: center;
+      font-size: 1.2rem;
     }
     .grid_item3 p{
       padding-left: 0rem;
@@ -11339,8 +11373,17 @@ width: 30rem;
       padding-top: 0.5rem;
       width: 26rem;
       line-height: 35px;
-      font-size: 1rem;
+      font-size: 1.2rem;
       margin-left: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    .grid_item3 .date{
+      margin: 0rem 0.5rem 0rem;
+      font-size: 1.2rem;
+    }
+    .grid_item3 .comment{
+      margin: 0rem 0.5rem 0rem;
+      font-size: 1.2rem;
     }
   .grid_item button {
     width: 10rem;
@@ -11351,7 +11394,7 @@ width: 30rem;
     justify-content: center;
     margin-top: 0rem;
     margin-left: 4.3rem;
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
   .container1 {
     width: 100%;

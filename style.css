@@ -12305,13 +12305,14 @@ line-height: 35px;
   }
   .events_item2 p{
     padding-right: 0rem;
-    margin-left: 1.5rem;
+    margin-left: 1.2rem;
     width: 25rem;
     font-size: 1.2rem;
   }
   .events_item2 button{
     margin: 0rem 9rem 2rem;
     font-size: 1.2rem;
+    width: 10.5rem;
   }
   .events_item2 button:hover{
     background-color: black;
@@ -12334,13 +12335,14 @@ line-height: 35px;
   }
   .events_item3 p{
     padding-right: 0rem;
-    margin-left: 1.5rem;
+    margin-left: 1.2rem;
     width: 25rem;
     font-size: 1.2rem;
   }
   .events_item3 button{
     margin: 0rem 9rem 2rem;
     font-size: 1.2rem;
+    width: 10.5rem;
   }
   .events_item3.date{
     font-size: 1.2rem;

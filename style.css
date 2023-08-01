@@ -11200,7 +11200,7 @@ font-size: 1.2rem;
   
   .slide.three img {
     width: 100%;
-    margin: 5rem -15rem 0rem;
+    margin: 7rem -16.5rem 0rem;
     height: 20%;
   }
 .slide .captionA {
@@ -11337,7 +11337,7 @@ width: 30rem;
   font-size: 1.2rem;
 }
 .grid_item1 .comment{
-  margin: 0rem 0.5rem 0rem;
+  margin: 0rem 1rem 0rem;
   font-size: 1.2rem;
 }
 .grid_item2{
@@ -11363,7 +11363,7 @@ width: 30rem;
     font-size: 1.2rem;
   }
   .grid_item2 .comment{
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 1rem 0rem;
     font-size: 1.2rem;
   }
   .grid_item3{
@@ -11390,7 +11390,7 @@ width: 30rem;
       font-size: 1.2rem;
     }
     .grid_item3 .comment{
-      margin: 0rem 0.5rem 0rem;
+      margin: 0rem 1rem 0rem;
       font-size: 1.2rem;
     }
   .grid_item button {
@@ -11942,7 +11942,7 @@ margin-left: 1rem;
 font-size: 6rem;
 }
 .fourA{
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin: 0rem 16rem 0rem;
   position: relative;
   bottom: 4.5rem;
@@ -11973,7 +11973,7 @@ font-size: 3.5rem;
  font-size: 6rem;
    }
 .three{
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin: 0rem 16rem 0rem;
   position: relative;
   bottom:10rem;
@@ -12004,7 +12004,7 @@ font-size: 4rem;
  font-size: 6rem;
    }
 .fourB{
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin: 0rem 16rem 0rem;
   position: relative;
   bottom: 10rem;
@@ -12220,7 +12220,7 @@ line-height: 35px;
 .blog_item2 p{
   font-size: 1.2rem;
   line-height: 35px;
-  width: 77%;
+  width: 80%;
   margin-left: 1.5rem;
   padding-right: 0rem;
   padding-left: 0rem;
@@ -12234,7 +12234,7 @@ line-height: 35px;
   }
   .blog_item2 .comment{
     font-size: 1.2rem;
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 1rem 0rem;
   }
 .blog_item3{
   margin:1rem 2.7rem 0rem ;
@@ -12251,7 +12251,7 @@ line-height: 35px;
   .blog_item3 p{
     font-size: 1.2rem;
     line-height: 35px;
-    width: 77%;
+    width: 80%;
     margin-left: 1.5rem;
     padding-right: 0rem;
     padding-left: 0rem;
@@ -12262,7 +12262,7 @@ line-height: 35px;
   }
   .blog_item3 .comment{
     font-size: 1.2rem;
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 1rem 0rem;
   }
 .blog_item4{
   margin: 1rem 2.7rem 0rem;
@@ -12278,7 +12278,7 @@ line-height: 35px;
   .blog_item4 p{
     font-size: 1.2rem;
     line-height: 35px;
-    width: 77%;
+    width: 80%;
     margin-left: 1.5rem;
     padding-right: 0rem;
     padding-left: 0rem;
@@ -12289,7 +12289,7 @@ line-height: 35px;
   }
   .blog_item4 .comment{
     font-size: 1.2rem;
-    margin: 0rem 0.5rem 0rem;
+    margin: 0rem 1rem 0rem;
   }
 #btn{
   margin:3rem 2rem 3rem;
@@ -12569,11 +12569,11 @@ font-size: 1.5rem;
 }
 .fill .password input{
   height: 3rem;
-  width: 25rem;
-  margin: 0rem 0.5rem 0rem;
+  width: 25.5rem;
+  margin: 0rem 1rem 0rem;
 }
 .check{
-  margin: 1rem 9rem 0rem;
+  margin: 1rem 10rem 0rem;
   width: 35rem;
   font-size: 1.2rem;
 }
@@ -12582,7 +12582,7 @@ font-size: 1.5rem;
   height: 1.5rem;
 }
 .fill .contentA{
-  margin:3rem 9.5rem 0rem ;
+  margin:3rem 10rem 0rem ;
   font-size: 1.2rem;
 }
 .fill .contentA button{

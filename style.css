@@ -13309,11 +13309,11 @@ h3 i {
 .grid_6 {
   width: 50%;
   height: 35vh;
-  margin: 0rem 2rem 0rem;
+  margin: 0rem 0.2rem 0rem;
 }
 
 .grid_6 h2 {
-  bottom: 88rem;
+  bottom: 86rem;
   font-size: 2.5rem;
   width: 25rem;
   height: 8vh;
@@ -13347,7 +13347,7 @@ h3 i {
   font-size: 1.5rem;
   line-height: 1.5rem;
   width: 25rem;
-  height: 40vh;
+  height: 43vh;
   padding-left: 0.5rem;
   padding-top: 0.5rem;
   line-height: 40px;
@@ -13370,7 +13370,7 @@ h3 i {
 }
 
 .grid_7 hr {
-  bottom: 83rem;
+  bottom: 80rem;
   width: 3rem;
   margin-left: 15rem;
 }
@@ -13381,7 +13381,7 @@ h3 i {
   line-height: 40px;
   width: 27rem;
   height: 30vh;
-  margin-left: 11rem;
+  margin-left: 8rem;
 }
 
 .grid_7i {
@@ -13429,29 +13429,29 @@ h3 i {
 }
 
 .content4 hr {
-  margin-left: 27rem;
+  margin-left: 24rem;
 }
 
 .content5 {
-  margin: 4rem 4.5rem 3rem;
+  margin: 4rem 4rem 3rem;
   width: 100%;
 }
 
 .img_17 {
-  width: 40rem;
-  height: 30rem;
+  width: 30rem;
+  height: 20rem;
   margin:0rem 3rem 1rem;
 }
 
 .img_18 {
-  width: 40rem;
-  height: 30rem;
+  width: 30rem;
+  height: 20rem;
   margin:0rem 3rem 1rem;
 }
 
 .img_19 {
-  width: 40rem;
-  height: 30rem;
+  width: 30rem;
+  height: 20rem;
   margin:0rem 3rem 1rem;
 }
 

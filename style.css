@@ -12657,6 +12657,10 @@ h1 {
   display: block;
   bottom: 30rem;
 }
+.menu a{
+  font-size: 1.5rem;
+}
+
 .project {
   padding: 4rem 20rem 0rem;
   margin: 0rem 0rem 0rem;
@@ -12799,7 +12803,7 @@ line-height: 40px;
   height:  25rem;
 }
 .content {
-  margin: 5rem 0rem 125rem 0rem;
+  margin: 5rem 0rem 120rem 0rem;
   height: 70rem;
 }
 
@@ -12829,9 +12833,9 @@ line-height: 40px;
 }
 
 .grid_item1 {
-  margin: 1rem 5rem 1rem;
+  margin: 1rem 7rem 1rem;
   width: 35rem;
-  height: 68rem;
+  height: 72rem;
 }
 .grid_item1 img{
   height: 22rem;
@@ -12859,7 +12863,7 @@ line-height: 40px;
 
 .grid_item2 {
   
-  margin: 1rem 5rem 1rem;
+  margin: 1rem 7rem 1rem;
   width: 35rem;
   height: 60rem;
 }
@@ -12888,7 +12892,7 @@ line-height: 40px;
 }
 
 .grid_item3 {
-  margin: 1rem 5rem 50rem;
+  margin: 1rem 7rem 50rem;
   width: 35rem;
   height: 55rem;
 }
@@ -13025,7 +13029,7 @@ line-height: 40px;
 }
 
 .slide .captionCC {
-  bottom: 7%;
+  bottom: 16%;
   font-size: 1.2rem;
   width:11rem;
   height: 4rem;
@@ -13164,7 +13168,7 @@ h3 i {
 }
 
 .row_item6 p {
-  width: 85%;
+  width: 90%;
   padding: 0rem 1rem 4rem;
   line-height:2.5rem;
   font-size: 1.5rem;
@@ -13173,7 +13177,8 @@ h3 i {
 
 .row_item6 span {
   bottom: 2.5rem;
-  margin-left: 19rem;
+  margin-left: 16rem;
+  font-size: 1.5rem;
 }
 
 .row_item6 strong {
@@ -13243,7 +13248,7 @@ h3 i {
 
 #container h2 {
   font-size: 2.5rem;
-  margin-left: 0rem;
+  margin-left: 2rem;
   text-align: center;
 }
 
@@ -13260,7 +13265,7 @@ h3 i {
 
 .content3 {
   bottom: 10rem;
-  margin: 0 7.5rem 3rem ;
+  margin: 0 4rem 3rem ;
   width: 100rem;
 }
 
@@ -13274,21 +13279,21 @@ h3 i {
 }
 
 #img_13 {
-  width: 40rem;
-  height:30rem;
+  width: 30rem;
+  height:20rem;
   margin-bottom: 1rem;
 }
 
 #img_14 {
-  width: 40rem;
-  height: 30rem;
+  width: 30rem;
+  height: 20rem;
   display: block;
   margin-bottom: 1rem;
 }
 
 #img_15 {
-  width: 40rem;
-  height: 30rem;
+  width: 30rem;
+  height: 20rem;
   display: block;
 }
 

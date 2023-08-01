@@ -12642,7 +12642,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem 35rem 0rem;
+  margin: 0.5rem 30rem 0rem;
   height: 4.5rem;
   width: 13rem;
   padding: 0rem 1rem 0rem;
@@ -12654,7 +12654,8 @@ h1 {
 }
 
 .menu {
-  display: none;
+  display: block;
+  bottom: 30rem;
 }
 .project {
   padding: 4rem 20rem 0rem;
@@ -12688,7 +12689,7 @@ h1 {
 }
 
 .slide .captionC {
-  bottom: 38%;
+  bottom: 34%;
   font-size: 1.2rem;
   display: flex;
   height: 4.5rem;
@@ -12720,9 +12721,9 @@ h1 {
 }
 
 .slide .captionF {
-  bottom: 38%;
+  bottom: 36%;
   font-size: 1.2rem;
-  margin: 10rem 36rem 0rem;
+  margin: 10rem 30rem 0rem;
   height: 4.5rem;
   width: 11rem;
   padding: 0rem 1rem 0rem;
@@ -12736,20 +12737,20 @@ h1 {
   width: 63%;
   height: 6vh;
   padding: 1rem 1.5rem 0rem;
-  margin-left: -5rem;
+  margin-left: -8rem;
 }
 
 .slide .captionH {
   bottom: 26%;
   font-size: 1.2rem;
   height: 13vh;
-  margin-left: -5rem;
+  margin-left: -8rem;
   padding-left: 1rem;
   line-height: 30px;
 }
 
 .slide .captionI {
-  bottom: 16%;
+  bottom: 12%;
   font-size: 1.2rem;
   height: 4.5rem;
   width: 11rem;
@@ -12757,7 +12758,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 
 .container {
@@ -12781,7 +12782,7 @@ line-height: 40px;
 }
 
 .container hr {
-  margin: 1rem 24rem 0rem;
+  margin: 1rem 21rem 0rem;
 }
 
 .img_2 {
@@ -12798,7 +12799,7 @@ line-height: 40px;
   height:  25rem;
 }
 .content {
-  margin: 5rem 0rem 116rem 0rem;
+  margin: 5rem 0rem 125rem 0rem;
   height: 70rem;
 }
 
@@ -12829,7 +12830,7 @@ line-height: 40px;
 
 .grid_item1 {
   margin: 1rem 5rem 1rem;
-  width: 45rem;
+  width: 35rem;
   height: 68rem;
 }
 .grid_item1 img{
@@ -12837,7 +12838,7 @@ line-height: 40px;
 }
 .grid_item1 p {
   font-size: 1.5rem;
-  width: 43rem;
+  width: 33rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
   margin: 0rem 1rem 1rem;
@@ -12851,7 +12852,7 @@ line-height: 40px;
 }
 
 .grid_item1 .comment {
-  margin: 1rem 8rem 0rem;
+  margin: 1rem 2rem 0rem;
   font-size: 1.5rem;
   padding-left: 1rem;
 }
@@ -12859,7 +12860,7 @@ line-height: 40px;
 .grid_item2 {
   
   margin: 1rem 5rem 1rem;
-  width: 45rem;
+  width: 35rem;
   height: 60rem;
 }
 .grid_item2 img{
@@ -12868,7 +12869,7 @@ line-height: 40px;
 .grid_item2 p {
   
   font-size: 1.5rem;
-  width: 43rem;
+  width: 33rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
   margin: 0rem 1rem 1rem;
@@ -12881,14 +12882,14 @@ line-height: 40px;
 }
 
 .grid_item2 .comment {
-  margin: 1rem 8rem 1rem;
+  margin: 1rem 2rem 1rem;
   font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item3 {
   margin: 1rem 5rem 50rem;
-  width: 45rem;
+  width: 35rem;
   height: 55rem;
 }
 .grid_item3 img{
@@ -12896,7 +12897,7 @@ line-height: 40px;
 }
 .grid_item3 p {
   font-size: 1.5rem;
-  width: 43rem;
+  width: 33rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
   margin: 0rem 1rem 1rem;
@@ -12910,7 +12911,7 @@ line-height: 40px;
 }
 
 .grid_item3 .comment {
-  margin: 1rem 8rem 1rem;
+  margin: 1rem 2rem 1rem;
   font-size: 1.5rem;
   padding-left: 1rem;
 }
@@ -13024,7 +13025,7 @@ line-height: 40px;
 }
 
 .slide .captionCC {
-  bottom: 12%;
+  bottom: 7%;
   font-size: 1.2rem;
   width:11rem;
   height: 4rem;
@@ -13096,14 +13097,14 @@ h3 i {
   font-weight: 600; 
   width: 100%;
   height: 7vh;
-  margin-left:13rem;
+  margin-left:10rem;
 }
 
 .captionB2 {
   bottom: 57%;
   height: 7vh;
   font-size: 2rem;
-  margin-left: 12rem;
+  margin-left: 9rem;
 }
 
 .captionC2 {
@@ -13154,7 +13155,7 @@ h3 i {
 }
 
 .container_home hr {
-  margin: 1rem 13rem 0rem;
+  margin: 1rem 10rem 0rem;
 }
 
 .content1 {
@@ -13192,19 +13193,19 @@ h3 i {
 .img_9 {
   width: 190px;
   height: 190px;
-  margin: 0rem 22rem 1rem;
+  margin: 0rem 18rem 1rem;
 }
 
 .img_10 {
   width: 190px;
   height: 190px;
-  margin: 0rem 22rem 1rem;
+  margin: 0rem 18rem 1rem;
 }
 
 .img_11 {
   width: 190px;
   height: 190px;
-  margin: 4rem 22rem 1rem;
+  margin: 4rem 18rem 1rem;
 }
 
 #row1 {
@@ -13220,7 +13221,7 @@ h3 i {
 .img_12 {
   width: 190px;
   height: 190px;
-  margin: 0rem 22rem 1rem;
+  margin: 0rem 18rem 1rem;
 }
 
 .content2 {

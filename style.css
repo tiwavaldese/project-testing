@@ -14249,12 +14249,12 @@ width: 90%;
 .container_volunteers p {
   width: 90%;
   margin: 1rem 3rem 0rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
 height: 20%;
 }
 .container_volunteers hr {
   width: 2.5rem;
-  margin: 1rem 30rem 0rem;
+  margin: 1rem 22rem 0rem;
   display: block;
 } 
 .container4_volunteer{
@@ -14267,10 +14267,10 @@ height: 20%;
     }
     
     .gallery3{
-      margin: 5rem 4.5rem 5rem;
+      margin: 5rem 4rem 5rem;
     }
     .gallery3 img{
-      width: 45rem;
+      width: 35rem;
       height: 30rem;
     }
     .gallery3A{

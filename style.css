@@ -16465,7 +16465,7 @@ figure{
 }
 
 .fill{
-  height: 90vh;
+  height: 100vh;
   
 }
 .login{
@@ -16485,7 +16485,6 @@ font-size:2.2rem;
   height: 6vh;
   font-size: 1.7rem;
   align-items: center;
-  justify-content: center;
   display: flex;
 }
 .fill .email{
@@ -16515,8 +16514,8 @@ font-size:2.2rem;
 
 }
 .checkbox{
-  width: 3rem;
-  height: 1.5rem;
+  width: 3.5rem;
+  height: 1.7rem;
 }
 .fill .contentA{
   margin:5rem 13rem 0rem ;

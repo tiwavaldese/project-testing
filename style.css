@@ -19212,11 +19212,50 @@ width: 90%;
     padding-left: 2.5rem;
     height: 90rem;
   }
-  .img_20{
-    width: 40rem;
-    height: 30rem;
-  }
+
  
+.img_20 {
+  width: 40rem;
+  height: 30rem;
+  margin: 2rem 10rem 2rem;
+  padding: 1rem 0rem 0rem;
+}
+
+.content6 h3 {
+  margin: 0.5rem 18rem 1rem;
+  font-size: 2.7rem;
+}
+
+.content6 hr {
+  width: 2rem;
+  margin: 0rem 22rem 1rem;
+}
+
+.content7 h3 {
+  margin: 1rem 17rem 1rem;
+  font-size: 2.7rem;
+}
+
+.content7 hr {
+  width: 2rem;
+  margin: 1rem 22rem 1rem;
+}
+
+.container4 ul {
+  margin-left: 22rem;
+}
+
+.container4 li {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.7rem;
+}
+
+.container4 p {
+  font-size: 1.7rem;
+  margin: 1.5rem 20rem 1rem;
+  width: 17rem;
+}
 .content8 h3 {
   font-size: 2.7rem;
 margin-left: 6rem;

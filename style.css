@@ -16472,23 +16472,26 @@ figure{
   padding: 4rem 5rem 0rem;
 }
 .content_1{
-font-size: 2rem;
+font-size: 2.2rem;
 }
 .login .content_2{
-margin-left: 20rem;
-font-size:2rem;
+margin-left: 18rem;
+font-size:2.2rem;
 }
 .fill .content_A{
   margin: 8rem 2rem 4rem;
-  padding:1.2rem 1rem 0rem;
+  padding:0ch 1rem 0rem;
   width: 44rem;
   height: 6vh;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
 .fill .email{
   margin: 1rem 3rem 2rem;
   width: 50rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 .fill .email input{
   height:4rem;
@@ -16498,7 +16501,7 @@ font-size:2rem;
 .fill .password{
   margin: 0rem 6rem 2.5rem;
   width: 50rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 .fill .password input{
   height: 4rem;
@@ -16508,7 +16511,7 @@ font-size:2rem;
 }
 .check{
   margin: 2rem 13rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 
 }
 .checkbox{
@@ -16529,12 +16532,12 @@ font-size:2rem;
   justify-content: center;
   border-radius: 0.25rem;
   margin-top:-1rem ;
-  font-size:1.5rem ;
+  font-size:1.7rem ;
 }
 
 .fill .contentA  a{
   margin: 3rem 1rem 0rem;
-  font-size:1.5rem ;
+  font-size:1.7rem ;
 }
 }
 

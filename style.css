@@ -13999,22 +13999,23 @@ padding-left: 1.5rem;
   }
   
   .events_item2{
-    height: 80vh;
+    height: 95vh;
   margin: 1rem 5.3rem 0rem;
   }
   
   .events_item2 h3{
-    padding: 2rem 2rem 0rem;
+    padding: 2rem 0rem 0rem;
     margin: 1rem 0rem 1rem;
   font-size:2rem;
   line-height: 45px;
+  text-align: center;
   }
   .events_item2 p{
-    margin: 1rem 3rem 1rem;
+    margin: 1rem 1.5rem 1rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.5rem;
-    width: 35rem;
+    width: 30rem;
   }
   
   .events_item2 .date{
@@ -14030,12 +14031,12 @@ padding-left: 1.5rem;
   }
   .events_item2 button{
     margin:2rem 13rem 0rem;
-    width: 15rem;
+    width: 12rem;
     height: 7vh;
     font-size: 1.5rem;
   }
   .events_item3{
-    height: 73rem;
+    height: 83rem;
     margin: 0rem 5.3rem 3rem;
   }
   
@@ -14047,8 +14048,8 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item3 p{
-    margin: 1rem 2.5rem 1rem;
-    width: 37rem;
+    margin: 1rem 1.5rem 1rem;
+    width: 30rem;
     line-height: 45px;
     padding: 0.5rem 2rem 0rem;
     font-size: 1.5rem;
@@ -14060,7 +14061,7 @@ padding-left: 1.5rem;
   padding-left: 0rem;
   }
   .events_item3 .comment{
-    margin: 2rem 7rem 2rem;
+    margin: 2rem 1rem 2rem;
   font-size: 1.5rem;
   padding-left: 2rem;
   
@@ -14068,7 +14069,7 @@ padding-left: 1.5rem;
   .events_item3 button{
     
     margin:2rem 14rem 0rem;
-    width: 15rem;
+    width: 12rem;
     height: 7vh;
     font-size: 1.5rem;
   }

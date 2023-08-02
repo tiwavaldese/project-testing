@@ -15970,7 +15970,7 @@ padding-left: 1.5rem;
   }
   
   .events_item2{
-    height: 95vh;
+    height: 80vh;
   margin: 1rem 5.2rem 0rem;
   width: 40rem;
   }
@@ -15983,11 +15983,11 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item2 p{
-    margin: 1rem 2.6rem 1rem;
+    margin: 1rem 2rem 1rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;
-    width: 38rem;
+    width: 36rem;
   }
   
   .events_item2 .date{
@@ -16008,7 +16008,7 @@ padding-left: 1.5rem;
     font-size: 1.7rem;
   }
   .events_item3{
-    height: 83rem;
+    height: 80rem;
     margin: 0rem 5.2rem 3rem;
     width: 40rem;
   }
@@ -16021,8 +16021,8 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item3 p{
-    margin: 1rem 2.6rem 1rem;
-    width: 38rem;
+    margin: 1rem 2rem 1rem;
+    width: 36rem;
     line-height: 45px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;

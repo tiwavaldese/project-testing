@@ -13843,24 +13843,24 @@ width: 90%;
 
 .container_blog p {
   line-height: 40px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 4.5rem 0rem;
   font-size: 1.5rem;
   padding-right: 0rem;
 width: 90%;
 }
 
 .container_blog hr {
-  margin: 1rem 23rem 0rem;
+  margin: 1rem 22rem 0rem;
 }
 
 .blog_item2{
   width: 80%;
-  height:90vh;
+  height: 55rem;
   margin-left: 4.2rem;
 }
 .blog_item2 img{
 width: 100%;
-height: 45vh;
+height: 15rem;
 }
 .blog_item2 h2{
   text-align: center;
@@ -13869,7 +13869,7 @@ font-size:2.5rem;
 }
 
 .blog_item2 p{
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 3rem 1rem;
   line-height: 50px;
  padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
@@ -13889,11 +13889,11 @@ padding-left: 1.5rem;
 .blog_item3{
 
   width: 80%;
-  height:35rem;
+  height:45rem;
   margin-left: 4.2rem;
 }
 .blog_item3 img{
-height:60%;
+  height: 15rem;
 }
 .blog_item3 h2{
   text-align: center;
@@ -13901,7 +13901,7 @@ height:60%;
 font-size:2.5rem;
 }
 .blog_item3 p{
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 3rem 1rem;
   line-height: 45px;
  padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
@@ -13920,11 +13920,11 @@ padding-left: 1.5rem;
 
 .blog_item4{
   width: 80%;
-  height:35rem;
+  height:45rem;
   margin-left: 4.2rem;
 }
 .blog_item4 img{
-  height:55%;
+  height: 15rem;
 }
 .blog_item4 h2{
   text-align: center;
@@ -13932,7 +13932,7 @@ padding-left: 1.5rem;
 font-size:2.5rem;
 }
 .blog_item4 p{
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 3rem 1rem;
   line-height: 50px;
  padding: 0rem 0rem 0rem;
   font-size: 1.5rem;

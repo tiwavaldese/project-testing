@@ -13455,86 +13455,89 @@ h3 i {
   margin:0rem 3rem 1rem;
 }
 
+
 .container4 {
   width: 100%;
-  height: 90rem;
-  padding-left:0rem;
+  padding-left: 5.2rem;
+  height: 70rem;
 }
 
 .img_20 {
-  width: 35rem;
-  height: 25rem;
-  margin: 2rem 10rem 2rem;
-  padding: 1rem 0rem 0rem;
+width: 35rem;
+height: 30rem;
+margin-left: 1rem;
 }
 
 .content6 h3 {
-  margin: 0.5rem 18rem 1rem;
-  font-size: 2.5rem;
+font-size: 2rem;
 }
 
 .content6 hr {
-  width: 2rem;
-  margin: 0rem 22rem 1rem;
+width: 2rem;
+margin-left: 6rem;
 }
-
+.content6 ul li{
+font-size: 1.2rem;
+}
 .content7 h3 {
-  margin: 1rem 17rem 1rem;
-  font-size: 2.5rem;
+font-size: 2rem;
 }
 
 .content7 hr {
-  width: 2rem;
-  margin: 1rem 22rem 1rem;
+width: 2rem;
+margin-left: 6rem;
 }
-
-.container4 ul {
-  margin-left: 22rem;
-}
-
-.container4 li {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  font-size: 1.2rem;
+.content7 ul li{
+font-size: 1.2rem;
 }
 
 .container4 p {
-  font-size: 1.2rem;
-  margin: 1.5rem 20rem 1rem;
-  width: 17rem;
+padding-top: 0rem;
+padding-bottom: 0rem;
+font-size: 1rem;
+color: white;
+margin-top: 1.5rem;
+margin-left: 5rem;
+width: 17rem;
 }
-.content8{
-  width:100% ;
-}
+
 .content8 h3 {
-  margin: 3rem 18rem 1rem;
-  font-size: 2.5rem;
+font-size: 2rem;
+margin-left: 6rem;
 }
 
 .content8 hr {
-  width: 2rem;
-  margin: 1rem 20rem 1rem;
+width: 2rem;
+margin-left: 6rem;
+margin-top: 1rem;
+color: #782D50;
 }
 
 .content8 P {
-  width:11rem;
-  height: 4.5rem;
-  padding: 0rem 1rem 0rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.2rem;
-  margin: 0rem 20rem 1rem;
+width: 10rem;
+height: 3.5rem;
+padding: 0rem 1rem 0rem;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 1.2rem;
+margin-top: 1.5rem;
+
 }
 
 
-.content8 i {
-  margin: 1.5rem 20rem 1rem;
-  padding-left: 1rem;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
+p i {
+padding-right: 1rem;
 }
+
+h4 i {
+margin-top: 1.5rem;
+font-size: 1rem;
+margin-left: 4rem;
+padding-left: 1rem;
+}
+
+
 
 
 footer {

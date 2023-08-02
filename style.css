@@ -15517,12 +15517,12 @@ margin: -1rem 0rem 0rem;
 
 .about_item1 h2 {
 padding-top: 1.5rem;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
  
 }
 .about_item1 p{
 padding-top: 1.5rem;;
-  font-size:1.2rem;
+  font-size:1.7rem;
 }
 .about_item2{
   margin: 5rem 0rem 0rem;
@@ -15536,7 +15536,7 @@ width: 100%;
 .about_item2  h2{
 margin: 2rem 0rem 0rem;
 text-align: center;
-font-size: 2.5rem;
+font-size: 2.7rem;
 }
 
 .about_item2  p{
@@ -15544,7 +15544,7 @@ font-size: 2.5rem;
 margin: 1rem 4.6rem 2rem;
 line-height: 45px;
 padding: 0.5rem 0rem;
-font-size: 1.5rem;
+font-size: 1.7rem;
 width: 80%;
 }
 .about_item2  hr{
@@ -15552,7 +15552,7 @@ margin: 1rem 23rem 1rem;
 display: block;
 }
 .about_item3{
-  width:17rem;
+  width:18rem;
   height: 5.3rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -15562,7 +15562,7 @@ display: block;
   color: white;
   border-radius: 0.25rem;
   margin: 2rem 3rem 4rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 
 .about_item4{
@@ -15645,33 +15645,33 @@ bottom: 7rem;
 }
 .about_item5{
   padding-top: 3rem;
-  height: 110vh;
+  height: 100vh;
   margin-left: 0rem;
   width: 100%;
 }
 .about_item5 h2{
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 p{
  line-height: 45px;
 padding: 0.5rem 0rem 0rem;
-font-size: 1.5rem;
+font-size: 1.7rem;
 margin-left: 4.5rem;
 }
 .about_item5 span{
-  width:12rem;
+  width:13rem;
   height: 5.2rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 4rem 18.5rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   
 }
 
@@ -15681,7 +15681,7 @@ width: 100%;
 }
 .about_item6 h2{
  margin-left: 0rem;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   text-align: center;
 }
 .about_item6 hr{
@@ -15692,7 +15692,7 @@ width: 100%;
   margin: 0rem 3.5rem 1.5rem;
   line-height: 45px;
   padding: 0.5rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   width: 85%;
 }
 .about_item6 img{
@@ -15705,7 +15705,7 @@ width: 100%;
  
 }
 .about_item7 label{
-  font-size: 1.5rem;
+  font-size: 2rem;
   height: 8vh;
   margin: 0rem 2.3rem 0.7rem;
   padding: 0.5rem 1rem 0rem;
@@ -15719,7 +15719,7 @@ margin: 1rem 0rem 0rem;
 .about_item7 p{
   display: flex;
 line-height: 40px;
-font-size: 1.5rem;
+font-size: 1.7rem;
 width: 100%;
 text-align: justify;
 }

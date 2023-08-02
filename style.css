@@ -13837,7 +13837,7 @@ width: 90%;
 .container_blog h2 {
   font-size:2.5rem;
   text-align: center;
-  margin-left: 0rem;
+  margin-left: 1rem;
 }
 
 .container_blog p {
@@ -13849,27 +13849,28 @@ width: 90%;
 }
 
 .container_blog hr {
-  margin: 1rem 25rem 0rem;
+  margin: 1rem 23rem 0rem;
 }
 
 .blog_item2{
   width: 80%;
   height:90vh;
-  margin-left: 4.7rem;
+  margin-left: 4.2rem;
 }
 .blog_item2 img{
 width: 100%;
-height: 35vh;
+height: 45vh;
 }
 .blog_item2 h2{
   text-align: center;
-  margin: 2rem 0rem 1rem;
+  margin: 2rem 1rem 1rem;
 font-size:2.5rem;
 }
+
 .blog_item2 p{
-  margin: 1rem 0rem 1rem;
+  margin: 1rem 2rem 1rem;
   line-height: 50px;
- padding: 0rem 3rem 0rem;
+ padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
 }
 
@@ -13879,7 +13880,7 @@ font-size:1.5rem;
 padding-left: 2rem
 }
 .blog_item2 .comment{
-  margin: 2rem 5rem 1rem;
+  margin: 2rem 2rem 1rem;
 font-size: 1.5rem;
 padding-left: 1.5rem;
 }
@@ -13887,8 +13888,8 @@ padding-left: 1.5rem;
 .blog_item3{
 
   width: 80%;
-  height:84vh;
-  margin-left: 4.7rem;
+  height:35rem;
+  margin-left: 4.2rem;
 }
 .blog_item3 img{
 height:60%;
@@ -13899,9 +13900,9 @@ height:60%;
 font-size:2.5rem;
 }
 .blog_item3 p{
-  margin: 1rem 0rem 1rem;
+  margin: 1rem 2rem 1rem;
   line-height: 45px;
- padding: 0rem 3rem 0rem;
+ padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
 }
 
@@ -13911,15 +13912,15 @@ font-size:1.5rem;
 padding-left: 2rem
 }
 .blog_item3 .comment{
-  margin: 2rem 5rem 1rem;
+  margin: 2rem 2rem 1rem;
 font-size: 1.5rem;
 padding-left: 1.5rem;
 }
 
 .blog_item4{
   width: 80%;
-  height:90vh;
-  margin-left: 4.7rem;
+  height:35rem;
+  margin-left: 4.2rem;
 }
 .blog_item4 img{
   height:55%;
@@ -13930,9 +13931,9 @@ padding-left: 1.5rem;
 font-size:2.5rem;
 }
 .blog_item4 p{
-  margin: 1rem 0rem 1rem;
+  margin: 1rem 2rem 1rem;
   line-height: 50px;
- padding: 0rem 3rem 0rem;
+ padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
 }
 
@@ -13942,7 +13943,7 @@ font-size:1.5rem;
 padding-left: 2rem
 }
 .blog_item4 .comment{
-  margin: 2rem 5rem 1rem;
+  margin: 2rem 2rem 1rem;
 font-size: 1.5rem;
 padding-left: 1.5rem;
 }

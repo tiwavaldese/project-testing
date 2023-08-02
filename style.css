@@ -15956,11 +15956,11 @@ padding-left: 1.5rem;
    }
   .events_item1 h2 {
   padding-top: 1.5rem;
-    font-size: 2.5rem;
+    font-size: 2.7rem;
   }
   .events_item1 p{
   padding-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     
   }
   #events1{
@@ -15970,12 +15970,13 @@ padding-left: 1.5rem;
   .events_item2{
     height: 95vh;
   margin: 1rem 5.2rem 0rem;
+  width: 32rem;
   }
   
   .events_item2 h3{
     padding: 2rem 0rem 0rem;
     margin: 1rem 0rem 1rem;
-  font-size:2rem;
+  font-size:2.2rem;
   line-height: 45px;
   text-align: center;
   }
@@ -15983,36 +15984,37 @@ padding-left: 1.5rem;
     margin: 1rem 2.6rem 1rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     width: 30rem;
   }
   
   .events_item2 .date{
     margin: 2rem 1rem 2rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   padding-left: 0rem;
   }
   .events_item2 .comment{
     margin: 2rem 1rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   padding-left: 2rem;
   
   }
   .events_item2 button{
     margin:2rem 12.5rem 0rem;
-    width: 12rem;
+    width: 13rem;
     height: 7vh;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
   .events_item3{
     height: 83rem;
     margin: 0rem 5.2rem 3rem;
+    width: 32rem;
   }
   
   .events_item3 h3{
     padding: 2rem 2rem 0rem;
     margin: 1rem 0rem 1rem;
-  font-size:2rem;
+  font-size:2.2rem;
   line-height: 45px;
   text-align: center;
   }
@@ -16021,26 +16023,26 @@ padding-left: 1.5rem;
     width: 30rem;
     line-height: 45px;
     padding: 0.5rem 0rem 0rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
   
   .events_item3 .date{
     margin: 2rem 3rem 2rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   padding-left: 0rem;
   }
   .events_item3 .comment{
     margin: 2rem 1rem 2rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   padding-left: 2rem;
   
   }
   .events_item3 button{
     
     margin:2rem 12.5rem 0rem;
-    width: 12rem;
+    width: 13rem;
     height: 7vh;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
   
 

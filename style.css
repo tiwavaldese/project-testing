@@ -11114,7 +11114,6 @@ font-size: 1.2rem;
     flex-direction: flex;
     font-size: 1.2rem;
     width: 100%;
-   background-color: blanchedalmond;
   }
   .wrapper {
     width: 100%;
@@ -12776,7 +12775,7 @@ h1 {
   margin: -5rem 1.5rem 0rem;
 }
 .container p {
-  margin: 1rem 4rem 0rem;
+  margin: 1rem 4.2rem 0rem;
   font-size: 1.5rem;
 height: 20%;
 text-align: justify;
@@ -13489,7 +13488,7 @@ margin-left: 6rem;
 }
 .content7 ul li{
 font-size: 1.5rem;
-width: 15rem;
+width: 25rem;
 }
 
 .container4 p {
@@ -13702,7 +13701,7 @@ margin-left: 4.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 4rem 19.5rem 0rem;
+  margin: 4rem 18.5rem 0rem;
   font-size: 1.5rem;
   
 }
@@ -13860,7 +13859,7 @@ width: 90%;
 }
 .blog_item2 img{
 width: 100%;
-height: 30rem;
+height: 20rem;
 }
 .blog_item2 h2{
   text-align: center;
@@ -13889,7 +13888,7 @@ padding-left: 1.5rem;
 .blog_item3{
 
   width: 80%;
-  height:50rem;
+  height:48rem;
   margin-left: 4.2rem;
 }
 .blog_item3 img{
@@ -14011,7 +14010,7 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item2 p{
-    margin: 1rem 1.5rem 1rem;
+    margin: 1rem 2rem 1rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.5rem;
@@ -14048,10 +14047,10 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item3 p{
-    margin: 1rem 1.5rem 1rem;
+    margin: 1rem 2rem 1rem;
     width: 30rem;
     line-height: 45px;
-    padding: 0.5rem 2rem 0rem;
+    padding: 0.5rem 0rem 0rem;
     font-size: 1.5rem;
   }
   
@@ -14068,7 +14067,7 @@ padding-left: 1.5rem;
   }
   .events_item3 button{
     
-    margin:2rem 14rem 0rem;
+    margin:2rem 13rem 0rem;
     width: 12rem;
     height: 7vh;
     font-size: 1.5rem;

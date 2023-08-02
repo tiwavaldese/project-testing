@@ -13478,6 +13478,9 @@ margin-left: 6rem;
 .content6 ul li{
 font-size: 1.5rem;
 }
+.content7  {
+  width: 50rem;
+  }
 .content7 h3 {
   font-size: 2.5rem;
 }
@@ -13837,7 +13840,7 @@ width: 90%;
 .container_blog h2 {
   font-size:2.5rem;
   text-align: center;
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 .container_blog p {
@@ -13854,7 +13857,7 @@ width: 90%;
 
 .blog_item2{
   width: 80%;
-  height: 65rem;
+  height: 67rem;
   margin-left: 4.2rem;
 }
 .blog_item2 img{
@@ -13868,7 +13871,7 @@ font-size:2.5rem;
 }
 
 .blog_item2 p{
-  margin: 1rem 3.2rem 1rem;
+  margin: 1rem 3.4rem 1rem;
   line-height: 50px;
  padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
@@ -13888,7 +13891,7 @@ padding-left: 1.5rem;
 .blog_item3{
 
   width: 80%;
-  height:48rem;
+  height:46rem;
   margin-left: 4.2rem;
 }
 .blog_item3 img{
@@ -13900,7 +13903,7 @@ padding-left: 1.5rem;
 font-size:2.5rem;
 }
 .blog_item3 p{
-  margin: 1rem 3.2rem 1rem;
+  margin: 1rem 3.4rem 1rem;
   line-height: 45px;
  padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
@@ -13931,7 +13934,7 @@ padding-left: 1.5rem;
 font-size:2.5rem;
 }
 .blog_item4 p{
-  margin: 1rem 3.2rem 1rem;
+  margin: 1rem 3.4rem 1rem;
   line-height: 50px;
  padding: 0rem 0rem 0rem;
   font-size: 1.5rem;
@@ -14010,7 +14013,7 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item2 p{
-    margin: 1rem 2rem 1rem;
+    margin: 1rem 2.5rem 1rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.5rem;
@@ -14029,7 +14032,7 @@ padding-left: 1.5rem;
   
   }
   .events_item2 button{
-    margin:2rem 13rem 0rem;
+    margin:2rem 12.5rem 0rem;
     width: 12rem;
     height: 7vh;
     font-size: 1.5rem;
@@ -14047,7 +14050,7 @@ padding-left: 1.5rem;
   text-align: center;
   }
   .events_item3 p{
-    margin: 1rem 2rem 1rem;
+    margin: 1rem 2.5rem 1rem;
     width: 30rem;
     line-height: 45px;
     padding: 0.5rem 0rem 0rem;
@@ -14067,7 +14070,7 @@ padding-left: 1.5rem;
   }
   .events_item3 button{
     
-    margin:2rem 13rem 0rem;
+    margin:2rem 12.5rem 0rem;
     width: 12rem;
     height: 7vh;
     font-size: 1.5rem;
@@ -14125,7 +14128,7 @@ width: 90%;
 }
 
 .projects_item1 {
-  margin: 1rem 3.4rem 3rem;
+  margin: 1rem 3.5rem 3rem;
   width:85%;
   height: 80rem;
 }
@@ -14137,7 +14140,7 @@ width: 90%;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 0rem 0rem;
-  margin: 0rem 3rem 1rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 
@@ -14154,7 +14157,7 @@ width: 90%;
 }
 
 .projects_item2 {
-  margin: 1rem 3.4rem 3rem;
+  margin: 1rem 3.5rem 3rem;
   width:85%;
   height: 55rem;
 }
@@ -14164,7 +14167,7 @@ width: 90%;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 0rem 0rem;
-  margin: 0rem 3rem 1rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 .projects_item2 .date {
@@ -14180,7 +14183,7 @@ width: 90%;
 }
 
 .projects_item3 {
-  margin: 1rem 3.4rem 3rem;
+  margin: 1rem 3.5rem 3rem;
   width:85%;
   height: 50rem;
 }
@@ -14190,7 +14193,7 @@ width: 90%;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 0rem 0rem;
-  margin: 0rem 3rem 1rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 
@@ -14207,7 +14210,7 @@ width: 90%;
 }
 
 .projects_item4 {
-  margin: 1rem 6rem 0rem;
+  margin: 1rem 5.9rem 0rem;
   width:85%;
   height: 50rem;
 }
@@ -14221,7 +14224,7 @@ width: 90%;
   font-size: 1.5rem;
   width: 90%;
   padding: 0.5rem 0rem 0rem;
-  margin: 0rem 3rem 1rem;
+  margin: 0rem 1.5rem 1rem;
 }
 .projects_item4 .date {
   margin: 5rem 1rem 1rem;
@@ -14267,7 +14270,7 @@ height: 20%;
     }
     
     .gallery3{
-      margin: 5rem 4rem 5rem;
+      margin: 5rem 5rem 5rem;
     }
     .gallery3 img{
       width: 35rem;
@@ -14507,7 +14510,7 @@ font-size:2rem;
 .fill .content_A{
   margin: 8rem 2rem 4rem;
   padding:1.2rem 1rem 0rem;
-  width: 45rem;
+  width: 44rem;
   height: 6vh;
   font-size: 1.5rem;
 }
@@ -14518,7 +14521,7 @@ font-size:2rem;
 }
 .fill .email input{
   height:4rem;
-  width: 30rem;
+  width: 30.5rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -14528,7 +14531,7 @@ font-size:2rem;
 }
 .fill .password input{
   height: 4rem;
-  width: 30rem;
+  width: 30.5rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }
@@ -14542,7 +14545,7 @@ font-size:2rem;
   height: 1.5rem;
 }
 .fill .contentA{
-  margin:5rem 14rem 0rem ;
+  margin:5rem 13rem 0rem ;
   width: 100%;
   
 }

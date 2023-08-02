@@ -13572,8 +13572,8 @@ font-size: 2.5rem;
 }
 
 .about_item2  p{
-  height: 26rem;
-margin: 1rem 4.5rem 2rem;
+  height: 26.5rem;
+margin: 1rem 4.6rem 2rem;
 line-height: 45px;
 padding: 0.5rem 0rem;
 font-size: 1.5rem;
@@ -13693,7 +13693,7 @@ bottom: 7rem;
  line-height: 45px;
 padding: 0.5rem 0rem 0rem;
 font-size: 1.5rem;
-margin-left: 4rem;
+margin-left: 4.5rem;
 }
 .about_item5 span{
   width:12rem;
@@ -13702,7 +13702,7 @@ margin-left: 4rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 4rem 20rem 0rem;
+  margin: 4rem 19.5rem 0rem;
   font-size: 1.5rem;
   
 }
@@ -13761,10 +13761,10 @@ text-align: justify;
 }
 .term-of-office p{
   width: 38rem;
-  margin: -3.5rem 2rem -1rem;
+  margin: -3.5rem 2.5rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem 2rem -1rem;
+  margin: -3.5rem 2.5rem -1rem;
   width: 38rem;
 }
 #project-committee{
@@ -13772,21 +13772,21 @@ margin-top:-0rem ;
 margin-bottom:-0rem ;
 }
 .project-committee p{
-  margin: -3.5rem 2rem -1rem;
+  margin: -3.5rem 2.5rem -1rem;
   width: 38rem;
 }
 .membership-status p{
-  margin: -3.5rem 2rem -1rem;
+  margin: -3.5rem 2.5rem -1rem;
   width: 38rem;
 }
 .specific-objective p{
-  margin: -2.5rem 2rem -8rem;
+  margin: -2.5rem 2.5rem -8rem;
   width: 38rem;
   line-height: 45px;
-  height: 22rem;
+  height: 21.5rem;
 }
 .activities p{
-  margin: -3.5rem 2rem -1rem;
+  margin: -3.5rem 2.5rem -1rem;
   width: 38rem;
 }
 

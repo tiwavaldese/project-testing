@@ -15143,13 +15143,13 @@ h3 i {
 }
 
 .row_item6 span {
-  bottom: 1.5rem;
+  bottom: 1rem;
   margin-left: 15rem;
   font-size: 1.7rem;
 }
 
 .row_item6 strong {
-  bottom: -2.3rem;
+  bottom: -2.5rem;
   font-size: 1.7rem;
 }
 
@@ -15205,7 +15205,7 @@ h3 i {
   justify-content: center;
   margin: 0 0 0 2rem;
   font-size: 1.7rem;
-  bottom: 20rem;
+  bottom: 19rem;
 }
 
 
@@ -15972,7 +15972,7 @@ padding-left: 1.5rem;
   .events_item2{
     height: 95vh;
   margin: 1rem 5.2rem 0rem;
-  width: 45rem;
+  width: 40rem;
   }
   
   .events_item2 h3{
@@ -15987,7 +15987,7 @@ padding-left: 1.5rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;
-    width: 43rem;
+    width: 38rem;
   }
   
   .events_item2 .date{
@@ -16010,7 +16010,7 @@ padding-left: 1.5rem;
   .events_item3{
     height: 83rem;
     margin: 0rem 5.2rem 3rem;
-    width: 45rem;
+    width: 40rem;
   }
   
   .events_item3 h3{
@@ -16022,7 +16022,7 @@ padding-left: 1.5rem;
   }
   .events_item3 p{
     margin: 1rem 2.6rem 1rem;
-    width: 43rem;
+    width: 38rem;
     line-height: 45px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;

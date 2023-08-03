@@ -18508,7 +18508,7 @@ font-size:2rem;
 
 .image {
   width: 19%;
-  height: 23%;
+  height: 28%;
   margin: 10rem 1rem 0rem;
 }
 .navbar{
@@ -18522,7 +18522,7 @@ padding-top: 0.2rem;
 h1 {
   font-size: 2.7rem;
   margin: 3rem 15rem 0rem;
-  width: 25rem;
+  width: 35rem;
 }
 
 #header hr {
@@ -18530,7 +18530,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem 35rem 0rem;
+  margin: 0.5rem 40rem 0rem;
   height: 4.5rem;
   width: 14rem;
   padding: 0rem 1rem 0rem;
@@ -18553,7 +18553,9 @@ h1 {
 .project {
   padding: 4rem 20rem 0rem;
   margin: 0rem 0rem 0rem;
-  height: 20rem;
+  height: 25rem;
+  width: 20rem;
+  display: block;
 }
 
 .italic {
@@ -18723,7 +18725,7 @@ line-height: 40px;
 
 .grid_item1 {
   margin: 1rem 5rem 1rem;
-  width: 45rem;
+  width: 50rem;
   height: 72rem;
 }
 .grid_item1 img{
@@ -18731,7 +18733,7 @@ line-height: 40px;
 }
 .grid_item1 p {
   font-size: 1.7rem;
-  width: 43rem;
+  width: 48rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
   margin: 0rem 1rem 1rem;
@@ -18753,7 +18755,7 @@ line-height: 40px;
 .grid_item2 {
   
   margin: 1rem 5rem 1rem;
-  width: 45rem;
+  width: 50rem;
   height: 60rem;
 }
 .grid_item2 img{
@@ -18762,7 +18764,7 @@ line-height: 40px;
 .grid_item2 p {
   
   font-size: 1.5rem;
-  width: 43rem;
+  width: 48rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
   margin: 0rem 1rem 1rem;
@@ -18782,7 +18784,7 @@ line-height: 40px;
 
 .grid_item3 {
   margin: 1rem 5rem 50rem;
-  width: 45rem;
+  width: 50rem;
   height: 55rem;
 }
 .grid_item3 img{
@@ -18790,7 +18792,7 @@ line-height: 40px;
 }
 .grid_item3 p {
   font-size: 1.7rem;
-  width: 43rem;
+  width: 48rem;
   padding: 0.5rem 1.8rem;
   line-height: 45px;
   margin: 0rem 1rem 1rem;

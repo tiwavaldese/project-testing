@@ -19923,9 +19923,9 @@ padding-left: 1.5rem;
   }
   
   .events_item2{
-    height: 80vh;
+    height: 90vh;
   margin: 1rem 4.1rem 0rem;
-  width: 55rem;
+  width: 50rem;
   }
   
   .events_item2 h3{
@@ -19940,7 +19940,7 @@ padding-left: 1.5rem;
     line-height: 50px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;
-    width: 51rem;
+    width: 48rem;
   }
   
   .events_item2 .date{
@@ -19963,7 +19963,7 @@ padding-left: 1.5rem;
   .events_item3{
     height: 76rem;
     margin: 0rem 4.1rem 3rem;
-    width: 55rem;
+    width: 50rem;
   }
   
   .events_item3 h3{
@@ -19975,7 +19975,7 @@ padding-left: 1.5rem;
   }
   .events_item3 p{
     margin: 1rem 2rem 1rem;
-    width: 51rem;
+    width: 48rem;
     line-height: 45px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;

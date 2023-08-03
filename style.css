@@ -20085,7 +20085,9 @@ width: 90%;
   width:90%;
   height: 57rem;
 }
-
+.projects_item2 img{
+  height: 25rem;
+}
 .projects_item2 p {
   line-height: 45px;
   font-size: 1.7rem;
@@ -20111,7 +20113,9 @@ width: 90%;
   width:90%;
   height: 50rem;
 }
-
+.projects_item3 img{
+  height: 25rem;
+}
 .projects_item3 p {
   line-height: 45px;
   font-size: 1.5rem;

@@ -18551,7 +18551,9 @@ h1 {
 }
 
 .header_link ul {
-  display: flex;
+  display: block;
+  height: 6rem;
+  padding-left: 3rem;
 }
 .menu {
   display: none;
@@ -18573,6 +18575,7 @@ h1 {
 .italic {
   font-size: 1.7rem;
   margin: 28rem 27rem 0rem;
+  display: none;
 }
 .slide.three img {
   margin: 8.5rem -20rem 0rem;

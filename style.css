@@ -18513,7 +18513,7 @@ font-size:2rem;
 }
 .navbar{
   height: 9rem;
-  display: none;
+  display: block;
 }
 .img_1{
 height: 8rem;
@@ -18542,30 +18542,32 @@ h1 {
   
 }
 .navbar.sticky {
-  display: block;
+  display: none;
 
 }
 
 .navbar li {
-  display: block;
+  display: none;
 }
 
 .header_link ul {
-  display: flex;
+  display: none;
   height: 6rem;
   padding-left: 3rem;
 }
 .menu {
-  display: none;
+  display: block;
   bottom: 65rem;
   width: 15rem;
+  margin-left: 10rem;
 }
 .menu a{
   font-size: 1.7rem;
+  margin-left: 10rem;
 }
 
 .project {
-  display:none;
+  display:block;
   width: 100%;
   height: 25rem;
   padding: 4rem 20rem 0rem;

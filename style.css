@@ -18610,7 +18610,7 @@ h1 {
 }
 
 .slide .captionE {
-  bottom: 46%;
+  bottom: 49%;
   font-size: 1.7rem;
   margin-left: 13rem;
   padding: 0rem 1rem 0rem;
@@ -18620,7 +18620,7 @@ h1 {
 }
 
 .slide .captionF {
-  bottom: 35%;
+  bottom: 39%;
   font-size: 1.2rem;
   margin: 10rem 38rem 0rem;
   height: 4.5rem;
@@ -18640,7 +18640,7 @@ h1 {
 }
 
 .slide .captionH {
-  bottom: 24%;
+  bottom: 25%;
   font-size: 1.7rem;
   height: 20vh;
   margin-left: -8rem;
@@ -18649,7 +18649,7 @@ h1 {
 }
 
 .slide .captionI {
-  bottom: 8%;
+  bottom: 12%;
   font-size: 1.5rem;
   height: 4.5rem;
   width: 12rem;
@@ -18744,7 +18744,7 @@ line-height: 40px;
 }
 
 .grid_item1 .date {
-  margin: 1rem 2rem 0rem;
+  margin: 1rem 3rem 0rem;
   font-size: 1.7rem;
   padding-left: 1rem;
  
@@ -18775,7 +18775,7 @@ line-height: 40px;
 }
 
 .grid_item2 .date {
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 3rem 1rem;
   font-size: 1.7rem;
   padding-left: 1rem;
 }
@@ -18804,7 +18804,7 @@ line-height: 40px;
 
 .grid_item3 .date {
 
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 3rem 1rem;
   font-size: 1.7rem;
   padding-left: 1rem;
 }
@@ -18869,7 +18869,7 @@ line-height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 2rem 5rem 3rem;
+  margin: 2rem 6rem 3rem;
   font-size: 1.5rem;
 }
 .container1 {

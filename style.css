@@ -20280,7 +20280,7 @@ height: 20%;
 }
 .contact_item3 #name{
   width: 95%;
-  height: 9vh;
+  height: 10vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
   font-size: 1.7rem;
@@ -20288,7 +20288,7 @@ height: 20%;
 
 .contact_item3 #email{
   width: 95%;
-  height: 9vh;
+  height: 10vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
   font-size: 1.7rem;
@@ -20297,7 +20297,7 @@ height: 20%;
 
 .contact_item3 #subject{
   width:95%;
-  height: 9vh;
+  height: 10vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
   font-size: 1.7rem;
@@ -20305,7 +20305,7 @@ height: 20%;
 
 .contact_item3 #number{
   width: 95%;
-  height: 9vh;
+  height: 10vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;;
   font-size: 1.7rem;
@@ -20427,9 +20427,9 @@ font-size:2.2rem;
 }
 .fill .content_A{
   margin: 4rem 2rem 4rem;
-  padding:0ch 1rem 0rem;
-  width: 54rem;
-  height: 10vh;
+  padding:0rem 1rem 0rem;
+  width: 58rem;
+  height: 11vh;
   font-size: 1.7rem;
   align-items: center;
   display: flex;
@@ -20440,8 +20440,8 @@ font-size:2.2rem;
   font-size: 1.7rem;
 }
 .fill .email input{
-  height:5rem;
-  width: 38rem;
+  height:6rem;
+  width: 41rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -20450,8 +20450,8 @@ font-size:2.2rem;
   font-size: 1.7rem;
 }
 .fill .password input{
-  height: 5rem;
-  width: 38rem;
+  height: 6rem;
+  width: 41rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }
@@ -20465,7 +20465,7 @@ font-size:2.2rem;
   height: 2rem;
 }
 .fill .contentA{
-  margin:5rem 13.3rem 0rem ;
+  margin:5rem 13.5rem 0rem ;
   width: 100%;
   
 }

@@ -18530,7 +18530,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem 40rem 0rem;
+  margin: 0.5rem 44rem 0rem;
   height: 4.5rem;
   width: 14rem;
   padding: 0rem 1rem 0rem;
@@ -18541,7 +18541,7 @@ h1 {
   
 }
 .navbar.sticky {
-  display: block;
+  display: none;
 
 }
 
@@ -18550,21 +18550,22 @@ h1 {
 }
 
 .header_link ul {
-  display: block;
+  display: none;
 }
 .menu {
-  display:none;
+  display:block;
   bottom: 65rem;
   width: 15rem;
 }
 .menu a{
+  display: inline-block;
   font-size: 1.7rem;
 }
 
 .project {
-  display:none;
+  display:block;
   width: 100%;
-  height: 20rem;
+  height: 25rem;
   padding: 4rem 20rem 0rem;
   margin: 0rem 0rem 0rem;
 }
@@ -19478,7 +19479,7 @@ padding-top: 1.5rem;;
 }
 .about_item2 img{
   margin: 3rem 0rem 0rem;
-height: 50vh;
+height: 65vh;
 width: 100%;
 }
 .about_item2  h2{
@@ -19488,15 +19489,15 @@ font-size: 2.7rem;
 }
 
 .about_item2  p{
-  height: 30rem;
-margin: 1rem 4.6rem 2rem;
+  height: 25rem;
+margin: 1rem 5.5rem 2rem;
 line-height: 45px;
 padding: 0.5rem 0rem;
 font-size: 1.7rem;
 width: 80%;
 }
 .about_item2  hr{
-margin: 1rem 23rem 1rem;
+margin: 1.2rem 28rem 1rem;
 display: block;
 }
 .about_item3{
@@ -19593,7 +19594,7 @@ bottom: 7rem;
 }
 .about_item5{
   padding-top: 3rem;
-  height: 100vh;
+  height: 110vh;
   margin-left: 0rem;
   width: 100%;
 }
@@ -19609,7 +19610,7 @@ bottom: 7rem;
  line-height: 45px;
 padding: 0.5rem 0rem 0rem;
 font-size: 1.7rem;
-margin-left: 4.5rem;
+margin-left: 5.5rem;
 }
 .about_item5 span{
   width:13rem;
@@ -19618,7 +19619,7 @@ margin-left: 4.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 4rem 18.5rem 0rem;
+  margin: 4rem 20rem 0rem;
   font-size: 1.7rem;
   
 }
@@ -19634,17 +19635,17 @@ width: 100%;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 23rem 2rem;
+  margin: 2rem 28rem 2rem;
 }
 .about_item6 p{
-  margin: 0rem 3.5rem 1.5rem;
+  margin: 0rem 4.2rem 1.5rem;
   line-height: 45px;
   padding: 0.5rem 0rem;
   font-size: 1.7rem;
   width: 85%;
 }
 .about_item6 img{
-  height: 50vh;
+  height: 65vh;
   margin: 3rem 0rem 0rem;
   width: 100%;
 }
@@ -19653,8 +19654,8 @@ width: 100%;
  
 }
 .about_item7 label{
-  font-size: 2rem;
-  height: 8vh;
+  font-size: 2.2rem;
+  height: 10vh;
   margin: 0rem 2.3rem 0.7rem;
   padding: 0.5rem 1rem 0rem;
 }
@@ -19676,12 +19677,12 @@ text-align: justify;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 38rem;
+  width: 43rem;
   margin: -3.5rem 2.5rem -1rem;
 }
 .vision-and-goal p{
   margin: -3.5rem 2.5rem -1rem;
-  width: 38rem;
+  width: 43rem;
 }
 #project-committee{
 margin-top:-0rem ;
@@ -19689,21 +19690,21 @@ margin-bottom:-0rem ;
 }
 .project-committee p{
   margin: -3.5rem 2.5rem -1rem;
-  width: 38rem;
+  width: 43rem;
 }
 .membership-status p{
   margin: -3.5rem 2.5rem -1rem;
-  width: 38rem;
+  width: 43rem;
 }
 .specific-objective p{
   margin: -2.5rem 2.5rem -8rem;
-  width: 38rem;
+  width: 43rem;
   line-height: 45px;
   height: 23.5rem;
 }
 .activities p{
   margin: -3.5rem 2.5rem -1rem;
-  width: 38rem;
+  width: 43rem;
 }
 
 .container_about {
@@ -19726,7 +19727,7 @@ margin-bottom:-0rem ;
 .container_about hr {
   width: 2rem;
   bottom: 70%;
-  margin: 1.5rem 23rem 0rem;
+  margin: 1.5rem 28rem 0rem;
 }
 
   .blog_item1 {

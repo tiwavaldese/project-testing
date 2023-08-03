@@ -19730,7 +19730,7 @@ margin-bottom:-0rem ;
 .container_about hr {
   width: 2rem;
   bottom: 70%;
-  margin: 1.5rem 28rem 0rem;
+  margin: 1.5rem 31rem 0rem;
 }
 
   .blog_item1 {
@@ -19777,7 +19777,7 @@ width: 90%;
 .blog_item2{
   width: 80%;
   height: 70rem;
-  margin-left: 4.9rem;
+  margin-left: 5.3rem;
 }
 .blog_item2 img{
 width: 100%;
@@ -19794,6 +19794,7 @@ font-size:2.5rem;
   line-height: 50px;
  padding: 0rem 0rem 0rem;
   font-size: 1.7rem;
+  width: 80%;
 }
 
 .blog_item2 .date{
@@ -19811,7 +19812,7 @@ padding-left: 1.5rem;
 
   width: 80%;
   height:49rem;
-  margin-left: 4.9rem;
+  margin-left: 5.3rem;
 }
 .blog_item3 img{
   height: 20rem;
@@ -19826,6 +19827,7 @@ font-size:2.5rem;
   line-height: 45px;
  padding: 0rem 0rem 0rem;
   font-size: 1.7rem;
+  width: 80%;
 }
 
 .blog_item3 .date{
@@ -19842,7 +19844,7 @@ padding-left: 1.5rem;
 .blog_item4{
   width: 80%;
   height:55rem;
-  margin-left: 4.9rem;
+  margin-left: 5.3rem;
 }
 .blog_item4 img{
   height: 20rem;
@@ -19857,6 +19859,7 @@ font-size:2.5rem;
   line-height: 50px;
  padding: 0rem 0rem 0rem;
   font-size: 1.7rem;
+  width: 80%;
 }
 
 .blog_item4 .date{

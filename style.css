@@ -19372,7 +19372,6 @@ margin-left: 18rem;
 }
 .content6 ul li{
 font-size: 1.7rem;
-margin-left: 12rem;
 }
 .content7  {
   width: 90rem;
@@ -19436,13 +19435,12 @@ padding-right: 1rem;
 }
 
 h4 i {
-margin-top: 1.5rem;
-font-size: 2.2rem;
-margin-left: 6rem;
-padding-left: 1rem;
-width: 60rem;
-display: flex;
-flex-direction: row;
+  display: block;
+  margin-top: 1.5rem;
+  font-size: 2.2rem;
+  padding-left: 1rem;
+  margin-left: 6rem;
+
 }
 
 

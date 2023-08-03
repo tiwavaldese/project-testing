@@ -19482,7 +19482,7 @@ padding-top: 1.5rem;;
 }
 .about_item2 img{
   margin: 3rem 0rem 0rem;
-height: 65vh;
+height: 75vh;
 width: 100%;
 }
 .about_item2  h2{
@@ -19492,15 +19492,15 @@ font-size: 2.7rem;
 }
 
 .about_item2  p{
-  height: 25rem;
-margin: 1rem 5.5rem 2rem;
+  height: 23rem;
+margin: 1rem 6rem 2rem;
 line-height: 45px;
 padding: 0.5rem 0rem;
 font-size: 1.7rem;
 width: 80%;
 }
 .about_item2  hr{
-margin: 1.2rem 28rem 1rem;
+margin: 1.4rem 32rem 1rem;
 display: block;
 }
 .about_item3{
@@ -19597,7 +19597,7 @@ bottom: 7rem;
 }
 .about_item5{
   padding-top: 3rem;
-  height: 110vh;
+  height: 125vh;
   margin-left: 0rem;
   width: 100%;
 }
@@ -19613,7 +19613,7 @@ bottom: 7rem;
  line-height: 45px;
 padding: 0.5rem 0rem 0rem;
 font-size: 1.7rem;
-margin-left: 5.5rem;
+margin-left: 6rem;
 }
 .about_item5 span{
   width:13rem;
@@ -19622,7 +19622,7 @@ margin-left: 5.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 4rem 20rem 0rem;
+  margin: 4rem 24rem 0rem;
   font-size: 1.7rem;
   
 }
@@ -19638,7 +19638,7 @@ width: 100%;
 }
 .about_item6 hr{
   width: 2rem;
-  margin: 2rem 28rem 2rem;
+  margin: 2rem 31rem 2rem;
 }
 .about_item6 p{
   margin: 0rem 4.2rem 1.5rem;
@@ -19648,7 +19648,7 @@ width: 100%;
   width: 85%;
 }
 .about_item6 img{
-  height: 65vh;
+  height: 75vh;
   margin: 3rem 0rem 0rem;
   width: 100%;
 }
@@ -19680,34 +19680,34 @@ text-align: justify;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 43rem;
-  margin: -3.5rem 2.5rem -1rem;
+  width: 46rem;
+  margin: -3.5rem 3.5rem -1rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem 2.5rem -1rem;
-  width: 43rem;
+  margin: -3.5rem 3.5rem -1rem;
+  width: 46rem;
 }
 #project-committee{
 margin-top:-0rem ;
 margin-bottom:-0rem ;
 }
 .project-committee p{
-  margin: -3.5rem 2.5rem -1rem;
-  width: 43rem;
+  margin: -3.5rem 3.5rem -1rem;
+  width: 46rem;
 }
 .membership-status p{
-  margin: -3.5rem 2.5rem -1rem;
-  width: 43rem;
+  margin: -3.5rem 3.5rem -1rem;
+  width: 46rem;
 }
 .specific-objective p{
-  margin: -2.5rem 2.5rem -8rem;
-  width: 43rem;
+  margin: -2.5rem 3.5rem -8rem;
+  width: 46rem;
   line-height: 45px;
   height: 23.5rem;
 }
 .activities p{
-  margin: -3.5rem 2.5rem -1rem;
-  width: 43rem;
+  margin: -3.5rem 3.5rem -1rem;
+  width: 46rem;
 }
 
 .container_about {

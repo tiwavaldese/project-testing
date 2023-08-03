@@ -18541,6 +18541,10 @@ h1 {
   
 }
 
+#checkbox_toggle {
+  display: block;
+}
+
 .menu {
   display: block;
   bottom: 57.5rem;
@@ -18551,6 +18555,9 @@ h1 {
 }
 
 .project {
+  display: block;
+  width: 100%;
+  height: 12rem;
   padding: 4rem 20rem 0rem;
   margin: 0rem 0rem 0rem;
 }

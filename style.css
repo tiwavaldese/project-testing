@@ -19884,10 +19884,10 @@ padding-left: 1.5rem;
    .events_item1{
     margin: -2rem 0rem 0rem;
     height: 18vh;
-    padding: 2rem 0rem 0rem;
+    padding: 1rem 0rem 0rem;
    }
   .events_item1 h2 {
-  padding-top: 1.5rem;
+  padding-top: 1rem;
     font-size: 2.7rem;
   }
   .events_item1 p{
@@ -20263,7 +20263,7 @@ height: 20%;
 }
 .contact_item3 #name{
   width: 95%;
-  height: 8vh;
+  height: 9vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
   font-size: 1.7rem;
@@ -20271,7 +20271,7 @@ height: 20%;
 
 .contact_item3 #email{
   width: 95%;
-  height: 8vh;
+  height: 9vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
   font-size: 1.7rem;
@@ -20280,7 +20280,7 @@ height: 20%;
 
 .contact_item3 #subject{
   width:95%;
-  height: 8vh;
+  height: 9vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
   font-size: 1.7rem;
@@ -20288,7 +20288,7 @@ height: 20%;
 
 .contact_item3 #number{
   width: 95%;
-  height: 8vh;
+  height: 9vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;;
   font-size: 1.7rem;
@@ -20405,14 +20405,14 @@ figure{
 font-size: 2.2rem;
 }
 .login .content_2{
-margin-left: 18rem;
+margin-left: 24rem;
 font-size:2.2rem;
 }
 .fill .content_A{
   margin: 8rem 2rem 4rem;
   padding:0ch 1rem 0rem;
-  width: 44rem;
-  height: 6vh;
+  width: 50rem;
+  height: 10vh;
   font-size: 1.7rem;
   align-items: center;
   display: flex;
@@ -20423,8 +20423,8 @@ font-size:2.2rem;
   font-size: 1.7rem;
 }
 .fill .email input{
-  height:4rem;
-  width: 30.5rem;
+  height:5rem;
+  width: 35rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
@@ -20433,19 +20433,19 @@ font-size:2.2rem;
   font-size: 1.7rem;
 }
 .fill .password input{
-  height: 4rem;
-  width: 30.5rem;
+  height: 5rem;
+  width: 35rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }
 .check{
-  margin: 2rem 13.3rem 0rem;
+  margin: 2rem 13.5rem 0rem;
   font-size: 1.7rem;
 
 }
 .checkbox{
-  width: 3.5rem;
-  height: 1.7rem;
+  width: 4rem;
+  height: 2rem;
 }
 .fill .contentA{
   margin:5rem 13.3rem 0rem ;

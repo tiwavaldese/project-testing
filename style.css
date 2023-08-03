@@ -19217,17 +19217,17 @@ h3 i {
   bottom: 67rem;
   font-size: 1.5rem;
   width: 25rem;
-  height: 23vh;
+  height: 25vh;
   line-height: 30px;
   padding:1rem 1rem 0rem;
   margin-top: 0.5rem;
 }
 
 .grid_6i {
-  bottom: 58rem;
+  bottom: 60rem;
   font-size: 1.5rem;
   width: 25rem;
-  height: 13vh;
+  height: 14vh;
   padding: 1rem 1.5rem 0rem;
 }
 
@@ -19240,7 +19240,7 @@ h3 i {
   font-size: 1.5rem;
   line-height: 1.5rem;
   width: 25rem;
-  height: 48vh;
+  height: 51vh;
   padding-left: 0.5rem;
   padding-top: 0.5rem;
   line-height: 40px;
@@ -19358,7 +19358,7 @@ h3 i {
 .img_20 {
 width: 40rem;
 height: 30rem;
-margin-left: 8rem;
+margin-left: 7rem;
 }
 
 .content6 h3 {
@@ -19372,7 +19372,7 @@ margin-left: 18rem;
 }
 .content6 ul li{
 font-size: 1.7rem;
-margin-left: 18rem;
+margin-left: 12rem;
 }
 .content7  {
   width: 90rem;
@@ -19440,7 +19440,9 @@ margin-top: 1.5rem;
 font-size: 2.2rem;
 margin-left: 6rem;
 padding-left: 1rem;
-width: 40rem;
+width: 60rem;
+display: flex;
+flex-direction: row;
 }
 
 

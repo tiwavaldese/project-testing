@@ -18547,11 +18547,11 @@ h1 {
 }
 
 .navbar li {
-  display: none;
+  display: block;
 }
 
 .header_link ul {
-  display: block;
+  display: flex;
   height: 6rem;
   padding-left: 3rem;
 }
@@ -19597,7 +19597,7 @@ bottom: 7rem;
 }
 .about_item5{
   padding-top: 3rem;
-  height: 125vh;
+  height: 135vh;
   margin-left: 0rem;
   width: 100%;
 }
@@ -19680,12 +19680,12 @@ text-align: justify;
  padding: 0rem 1rem 0rem;
 }
 .term-of-office p{
-  width: 46rem;
+  width: 50rem;
   margin: -3.5rem 3.5rem -1rem;
 }
 .vision-and-goal p{
   margin: -3.5rem 3.5rem -1rem;
-  width: 46rem;
+  width: 50rem;
 }
 #project-committee{
 margin-top:-0rem ;
@@ -19693,21 +19693,21 @@ margin-bottom:-0rem ;
 }
 .project-committee p{
   margin: -3.5rem 3.5rem -1rem;
-  width: 46rem;
+  width: 50rem;
 }
 .membership-status p{
   margin: -3.5rem 3.5rem -1rem;
-  width: 46rem;
+  width: 50rem;
 }
 .specific-objective p{
   margin: -2.5rem 3.5rem -8rem;
-  width: 46rem;
+  width: 50rem;
   line-height: 45px;
-  height: 23.5rem;
+  height: 21rem;
 }
 .activities p{
   margin: -3.5rem 3.5rem -1rem;
-  width: 46rem;
+  width: 50rem;
 }
 
 .container_about {

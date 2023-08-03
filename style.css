@@ -19214,20 +19214,20 @@ h3 i {
 }
 
 .grid_6 h3 {
-  bottom: 71rem;
+  bottom: 67rem;
   font-size: 1.5rem;
   width: 25rem;
-  height: 21vh;
+  height: 23vh;
   line-height: 30px;
   padding:1rem 1rem 0rem;
   margin-top: 0.5rem;
 }
 
 .grid_6i {
-  bottom: 60rem;
+  bottom: 58rem;
   font-size: 1.5rem;
   width: 25rem;
-  height: 12vh;
+  height: 13vh;
   padding: 1rem 1.5rem 0rem;
 }
 
@@ -19236,11 +19236,11 @@ h3 i {
 }
 
 .grid_6 p {
-  bottom: 36.5rem;
+  bottom: 32rem;
   font-size: 1.5rem;
   line-height: 1.5rem;
   width: 25rem;
-  height: 43vh;
+  height: 48vh;
   padding-left: 0.5rem;
   padding-top: 0.5rem;
   line-height: 40px;
@@ -19272,7 +19272,7 @@ h3 i {
   bottom: 45rem;
   font-size: 1.5rem;
   line-height: 40px;
-  width: 25rem;
+  width: 28rem;
   height: 30vh;
   margin-left: 10rem;
 }
@@ -19322,7 +19322,7 @@ h3 i {
 }
 
 .content4 hr {
-  margin-left: 27rem;
+  margin-left: 32rem;
 }
 
 .content5 {
@@ -19358,19 +19358,21 @@ h3 i {
 .img_20 {
 width: 40rem;
 height: 30rem;
-margin-left: 5rem;
+margin-left: 8rem;
 }
 
 .content6 h3 {
 font-size: 2.7rem;
+margin-left: 18rem;
 }
 
 .content6 hr {
 width: 2rem;
-margin-left: 12rem;
+margin-left: 18rem;
 }
 .content6 ul li{
 font-size: 1.7rem;
+margin-left: 18rem;
 }
 .content7  {
   width: 90rem;
@@ -19378,16 +19380,17 @@ font-size: 1.7rem;
 .content7 h3 {
   font-size: 2.7rem;
   width: 30rem;
+  margin-left: 18rem;
 }
 
 .content7 hr {
 width: 2rem;
-margin-left: 12rem;
+margin-left: 18rem;
 }
 .content7 ul li{
 font-size: 1.7rem;
 width: 45rem;
-margin-left: 12rem;
+margin-left: 18rem;
 }
 
 .container4 p {
@@ -19396,7 +19399,7 @@ padding-bottom: 0rem;
 font-size: 1.5rem;
 color: white;
 margin-top: 1.5rem;
-margin-left: 12rem;
+margin-left: 18rem;
 width: 17rem;
 }
 .content8 {
@@ -19405,12 +19408,12 @@ width: 17rem;
 
 .content8 h3 {
   font-size: 2.7rem;
-margin-left: 12rem;
+  margin-left: 18rem;
 }
 
 .content8 hr {
 width: 2rem;
-margin-left: 12rem;
+margin-left: 18rem;
 margin-top: 1rem;
 color: #782D50;
 }
@@ -19424,7 +19427,7 @@ align-items: center;
 justify-content: center;
 font-size: 1.7rem;
 margin-top: 1.5rem;
-margin-left: 12rem;
+margin-left: 18rem;
 }
 
 

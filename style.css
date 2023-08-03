@@ -20416,9 +20416,9 @@ margin-left: 24rem;
 font-size:2.2rem;
 }
 .fill .content_A{
-  margin: 8rem 2rem 4rem;
+  margin: 4rem 2rem 4rem;
   padding:0ch 1rem 0rem;
-  width: 50rem;
+  width: 54rem;
   height: 10vh;
   font-size: 1.7rem;
   align-items: center;
@@ -20426,22 +20426,22 @@ font-size:2.2rem;
 }
 .fill .email{
   margin: 1rem 3rem 2rem;
-  width: 55rem;
+  width: 65rem;
   font-size: 1.7rem;
 }
 .fill .email input{
   height:5rem;
-  width: 35rem;
+  width: 38rem;
   margin: 0rem 0.5rem 2rem;
 }
 .fill .password{
   margin: 0rem 6rem 2.5rem;
-  width: 55rem;
+  width: 65rem;
   font-size: 1.7rem;
 }
 .fill .password input{
   height: 5rem;
-  width: 35rem;
+  width: 38rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }

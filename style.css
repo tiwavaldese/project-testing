@@ -18551,23 +18551,25 @@ h1 {
 }
 
 .header_link ul {
-  display: none;
+  display: flex;
   height: 6rem;
   padding-left: 3rem;
+  letter-spacing: 1rem;
 }
 .menu {
-  display: block;
+  display: none;
   bottom: 65rem;
   width: 15rem;
   margin-left: 10rem;
 }
 .menu a{
+  display: none;
   font-size: 1.7rem;
   margin-left: 10rem;
 }
 
 .project {
-  display:block;
+  display:none;
   width: 100%;
   height: 25rem;
   padding: 4rem 20rem 0rem;

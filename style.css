@@ -20450,14 +20450,14 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 57rem;
+  height: 62rem;
 }
 .projects_item1 img{
   height: 20rem;
 }
 .projects_item1 p {
   line-height: 35px;
-  font-size: 1rem;
+  font-size: 1.7rem;
   width: 22rem;
   padding-top: 0rem;
   padding-right: rem;
@@ -20468,19 +20468,19 @@ text-align: center;
 
 .projects_item1 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
 }
 
 .projects_item1 .comment {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
 }
 
 .projects_item2 {
   margin: 1rem 0rem 0rem;
-  height:43rem;
+  height:48rem;
   width: 25rem;
 }
 .projects_item2 img{
@@ -20488,7 +20488,7 @@ text-align: center;
 }
 .projects_item2 p {
   line-height: 35px;
-  font-size: 1rem;
+  font-size: 1.7rem;
   width: 22rem;
   padding-top: 0rem;
   padding-right: rem;
@@ -20498,20 +20498,20 @@ text-align: center;
 
 .projects_item2 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
 }
 
 .projects_item2 .comment {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
 }
 
 .projects_item3 {
   margin: 1rem 1rem 0rem;
   width: 25rem;
-  height: 42rem;
+  height: 47rem;
   border-radius: 0.5rem;
 }
 .projects_item3 img{
@@ -20519,7 +20519,7 @@ text-align: center;
 }
 .projects_item3 p {
   line-height: 35px;
-  font-size: 1rem;
+  font-size: 1.7rem;
   width: 22rem;
   padding-top: 0rem;
   padding-right: rem;
@@ -20529,13 +20529,13 @@ text-align: center;
 
 .projects_item3 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
 }
 
 .projects_item3 .comment {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
 }
 
@@ -20548,7 +20548,7 @@ text-align: center;
   width: 25rem;
   background-color: whitesmoke;
   margin-left: 3.5rem;
-  height: 40rem;
+  height: 45rem;
   border-radius: 0.5rem;
 }
 .projects_item4 img{
@@ -20556,7 +20556,7 @@ text-align: center;
 }
 .projects_item4 p {
   line-height: 35px;
-  font-size: 1rem;
+  font-size: 1.7rem;
   width: 22rem;
   padding-top: 0rem;
   padding-right: rem;
@@ -20571,18 +20571,23 @@ text-align: center;
 
 .projects_item4 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .projects_item4 .comment {
   margin: 0rem 1rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding-left: 1rem;
   color: #782D50;
 }
-
+.container_volunteers h2{
+  font-size: 2.7rem;
+}
+.container_volunteers p{
+  font-size: 1.7rem;
+}
 
     
     #gallery .events_item1{
@@ -20842,69 +20847,70 @@ figure{
   padding: 2rem 10rem 0rem;
 }
 .content_1{
-font-size: 1.2rem;
+font-size: 2.7rem;
 color: white;
 }
 .login .content_2{
-margin-left: 52rem;
-font-size: 1rem;
+margin-left: 50rem;
+font-size:2.7rem;
 }
 .fill .content_A{
-  margin: 5rem 20rem 3rem;
+  margin: 10rem 20rem 3rem;
   padding: 0rem 1rem 0rem;
-  width: 40rem;
-  height: 6vh;
+  width: 45rem;
+  height: 8vh;
   border-radius: 0.25rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   display: flex;
   align-items: center;
 }
 .fill .email{
   margin: 0rem 23.5rem 1.5rem;
-  width: 40rem;
-  font-size: 0.9rem;
+  width: 60rem;
+  font-size: 1.7rem;
 }
 .fill .email input{
-  height: 2.2rem;
-  width: 22rem;
+  height: 4rem;
+  width: 27rem;
   margin: 0rem 0.5rem 2rem;
   border-radius: 0.25rem;
 }
 .fill .password{
   margin: 0rem 25.5rem 2rem;
-  width: 30rem;
-  font-size: 0.9rem;
+  width: 60rem;
+  font-size: 1.7rem;
 }
 .fill .password input{
   height: 2.2rem;
-  width: 22rem;
+  width: 27rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }
 .check{
-  margin: 1rem 29.5rem 0rem;
+  margin: 1rem 30rem 0rem;
   color: white;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 }
 .checkbox{
-  width: 3rem;
-  height: 1.5rem;
+  width: 4rem;
+  height: 2.5rem;
 }
 .fill .contentA{
   display: flex;
   margin:3rem 30rem 0rem ;
   width: 100%;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 }
 .fill .contentA button{
-  height: 2.5rem;
-  width: 4rem;
+  height: 3.5rem;
+  width: 5rem;
   margin-top:-1rem ;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
+  align-items: center;
 }
 .fill .contentA  a{
   margin: 1rem 2rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 }
 }

@@ -19757,11 +19757,13 @@ footer {
 .about_item1 h2 {
 padding-top: 3rem;
  text-align: center;
+ 
+ font-size: 2.7rem;
 }
 .about_item1 p{
   width: 100%;
 padding-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
 }
 .about_item2{
   margin: 5rem 0rem 0rem;
@@ -19777,8 +19779,8 @@ height: 70vh;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem 6rem 0rem;
-font-size: 2.5rem;
+margin: 2rem 4rem 0rem;
+font-size: 2.7rem;
 text-align: center;
 width: 40%;
 }
@@ -19788,21 +19790,21 @@ width: 40%;
 .about_item2  p{
   
 width:60%;
-height: 42vh;
-margin: 1rem 8rem 0rem;
+height: 32vh;
+margin: 1rem 6rem 0rem;
 padding: 0.5rem 0rem;
-font-size: 1rem;
+font-size: 1.7rem;
 line-height: 35px;
 }
 .about_item2  hr{
-margin: 2rem 8rem 0rem;
+margin: 2rem 6rem 0rem;
 
 }
 .about_item3{
-  width: 11rem;
-  height: 3rem;
+  width: 14rem;
+  height: 4rem;
   margin: 0rem 8rem 4rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
@@ -19814,36 +19816,36 @@ margin: 2rem 8rem 0rem;
   margin: 5rem 0rem 1rem;
 }
 #fourA{
-margin-left: 7rem;
+margin-left: 4rem;
 font-size: 2.5rem;
 
 }
 #fourA i{
- width: 70px;
- height: 70px;
+ width: 90px;
+ height: 90px;
 padding: 1rem 1.3rem;
-font-size: 1.9rem;
+font-size: 2.5rem;
 }
 #fourA span{
 margin-top: 0rem;
-margin-left: 1rem;
+margin-left: 2rem;
 
 }
 .fourA{
-  margin: 2.5rem -2rem 0rem;
+  margin: 2.5rem -1rem 0rem;
   bottom:0rem;
   width: 15rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 #three{
   margin: 0rem 2rem 0rem;
 }
 #three i{
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-padding: 1rem 1.2rem;
-font-size: 1.9rem;
+  width: 90px;
+ height: 90px;
+padding: 1rem 1.3rem;
+border-radius: 50%;
+font-size: 2.5rem;
 }
 #three span{
   margin-top: 0rem;
@@ -19852,8 +19854,8 @@ font-size: 1.9rem;
  bottom: 5rem;
    }
 .three{
-  font-size: 1.5rem;
-  margin: 2.5rem -12rem 0rem;
+  font-size: 1.7rem;
+  margin: 2.5rem -10rem 0rem;
   bottom:0rem;
   width: 10rem;
 }
@@ -19862,11 +19864,11 @@ font-size: 1.9rem;
   font-size: 2.5rem;
 }
 #fourB i{
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-padding: 1rem 1.5rem;
-font-size: 1.9rem;
+  width: 90px;
+  height: 90px;
+ padding: 1rem 1.3rem;
+ border-radius: 50%;
+ font-size: 2.5rem;
 }
 #fourB span{
   margin-top: 0rem;
@@ -19876,35 +19878,35 @@ font-size: 1.9rem;
    }
 .fourB{
   font-size: 1.5rem;
-  margin: 2.5rem -13rem 0rem;
+  margin: 2.5rem -10rem 0rem;
   bottom: 0rem;
 }
 .about_item5{
   padding-top: 4rem;
   width: 100%;
-  height: 45rem;
+  height: 50rem;
   margin-left: 0rem;
 }
 .about_item5 h2{
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   margin-bottom: 1.5rem;
 }
 .about_item5 h3{
   font-size: 2rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2.2rem;
 }
 .about_item5 p{
  width: 60%;
  line-height: 40px;
 padding: 0.5rem 0rem 0rem;
-font-size: 1rem;
+font-size: 1.7rem;
 margin: 0rem 18rem 0rem;
 }
 .about_item5 span{
-  width: 9rem;
-  height: 2.5rem;
-  margin: 2rem 35rem 0rem;
-  font-size: 1rem;
+  width: 13rem;
+  height: 4rem;
+  margin: 2rem 38rem 0rem;
+  font-size: 1.7rem;
   border-radius: 0.25rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -19927,7 +19929,7 @@ flex-direction: row;
 .about_item6 h2{
   width: 40%;
   margin-left: 4rem;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   text-align: center;
 }
 
@@ -19941,7 +19943,7 @@ flex-direction: row;
   line-height: 35px;
   padding: 0.5rem 1rem;
   text-align: justify;
-  font-size: 1rem;
+  font-size: 1.7rem;
 }
 .about_item6 img{
   display: block;
@@ -19958,7 +19960,7 @@ flex-direction: row;
   width: 30rem;
   margin: 0rem -10rem 0.7rem;
   padding: 0rem 0rem 0rem;
-font-size: 1rem;
+font-size: 2.2rem;
 }
 .about_item7 input{
   width: 10vw;
@@ -19979,32 +19981,38 @@ font-size: 1rem;
  padding: 0rem 0rem 0rem;
 }
 .term-of-office p{
-  width: 27rem;
+  width: 26rem;
   padding-right: 0rem;
   margin: -3.5rem -10rem -1rem;
+  font-size: 1.7rem;
 }
 .vision-and-goal p{
   margin: -3.5rem -10rem -1rem;
-  width: 27rem;
+  width: 26rem;
+  font-size: 1.7rem;
 }
 
 .project-committee p{
   margin: -3.5rem -10rem -1rem;
-  width: 27rem;
+  width: 26rem;
+  font-size: 1.7rem;
 }
 .membership-status p{
   margin: -3.5rem -10rem -1rem;
-  width: 27rem;
+  width: 26rem;
+  font-size: 1.7rem;
 }
 .specific-objective p{
   margin: -3.5rem -10rem -7rem;
-  width: 27rem;
+  width: 26rem;
   line-height: 30px;
-  height: 15rem;
+  height: 16rem;
+  font-size: 1.7rem;
 }
 .activities p{
   margin: -3.5rem -10rem -1rem;
-  width: 27rem;
+  width: 26rem;
+  font-size: 1.7rem;
 }
 
 .container_about {
@@ -20014,7 +20022,7 @@ font-size: 1rem;
 }
 
 .container_about h2 {
-  font-size:2.5rem;
+  font-size:2.7rem;
   display: block;
   text-align: center;
 }
@@ -20024,7 +20032,7 @@ font-size: 1rem;
   display: block;
   line-height: 35px;
   margin: 1rem 15rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 height: 20%;
 }
 
@@ -20039,19 +20047,19 @@ height: 20%;
     width: 100%;
     margin: -1.5rem 0rem 0rem;
     height: 10rem;
-    padding: 0rem 30rem 0rem;
+    padding: 0.6rem 30rem 0rem;
   }
   .blog_item1 h2 {
     width:100% ;
     height: 6vh;
   padding-top: 2rem;
-    font-size: 2.5rem;
+    font-size: 2.7rem;
   }
   .blog_item1 p{
     width: 100%;
     height: 5vh;
-  padding-top: 3rem;
-   font-size: 1rem;
+  padding-top: 1.5rem;
+   font-size: 1.7rem;
   }
 
 
@@ -20062,7 +20070,7 @@ height: 20%;
 }
 
 .container_blog h2 {
-  font-size:2.5rem;
+  font-size:2.7rem;
 text-align: center;
 }
 
@@ -20070,7 +20078,7 @@ text-align: center;
   width: 70%;
   line-height: 30px;
   margin: 1rem 12rem 0rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   text-align: center;
 height: 20%;
 padding-right:0rem;
@@ -20078,7 +20086,7 @@ padding-right:0rem;
 
 .container_blog hr {
   bottom: 70%;
-  margin: 1rem 40rem 0rem;
+  margin: 1rem 42rem 0rem;
 }
 #blog1{
   margin: 5rem 2rem 0rem;
@@ -20089,7 +20097,7 @@ padding-right:0rem;
 .blog_item2{
 
   width: 30%;
-  height:90vh;
+  height:70vh;
   margin-left: 3rem;
 }
 .blog_item2 img{
@@ -20101,16 +20109,15 @@ border-radius: 0.5rem 0.5rem;
   padding-left: 0rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-font-size: 1rem;
+font-size: 2rem;
 text-align: center;
 }
 .blog_item2 p{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem 1.5rem 1rem;
   line-height: 30px;
- padding: 0rem 1rem 0rem;
+ padding: 0rem 0rem 0rem;
   text-align: justify;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   width: 100%;
 }
 
@@ -20119,19 +20126,19 @@ text-align: center;
 .blog_item2 .date{
   margin-top: 1rem;
   margin-bottom: 1rem;
-font-size: 0.9rem;
+font-size: 1.7rem;
 padding-left: 0rem;
 }
 .blog_item2 .comment{
-  margin: 1rem 2rem 0rem;
-font-size: 0.9rem;
+  margin: 1rem 0.5rem 0rem;
+font-size: 1.7rem;
 padding-left: 0rem;
 }
 
 .blog_item3{
 
   width: 30%;
-  height: 63vh;
+  height: 60vh;
   margin:1rem 1rem 0rem ;
   border-radius: 0.5rem 0.5rem;
 
@@ -20146,18 +20153,16 @@ height:35%;
   padding-left: 0rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-font-size: 1rem;
+font-size: 2rem;
 text-align: center;
 }
 .blog_item3 p{
   display: block;
-  padding: 1rem 1rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  padding: 1rem 0rem;
+  margin: 1rem 1.5rem 1rem;
   line-height: 30px;
-  padding: 0.5rem 1rem;
   text-align: justify;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   width: 100%;
 }
 .blog_item3 i{
@@ -20167,13 +20172,13 @@ text-align: center;
 .blog_item3 .date{
   margin-top: 1rem;
   margin-bottom: 1rem;
-font-size: 0.9rem;
+font-size: 1.7rem;
 padding-left: 0rem;
 color: #782D50;
 }
 .blog_item3 .comment{
-  margin: 1rem 2rem 0rem;
-font-size: 0.9rem;
+  margin: 1rem 0.5rem 0rem;
+font-size: 1.7rem;
 padding-left: 0rem;
 color: #782D50;
 }
@@ -20196,18 +20201,17 @@ border-radius: 0.5rem 0.5rem;
   padding-left: 0rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-font-size: 1rem;
+font-size: 2rem;
 text-align: center;
 }
 .blog_item4 p{
   display: block;
-  padding: 1rem 1rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  padding: 1rem 0rem;
+  margin: 1rem 1.5rem 1rem;;
   line-height: 30px;
   padding: 0.5rem 1rem;
   text-align: justify;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 }
 .blog_item4 i{
   padding-right: 0rem;
@@ -20217,17 +20221,17 @@ text-align: center;
 .blog_item4 .date{
   margin-top: 1rem;
   margin-bottom: 1rem;
-font-size: 0.9rem;
+font-size: 1.7rem;
 padding-left: 0rem;
 color: #782D50;
 }
 .blog_item4 .comment{
-  margin: 1rem 2rem 0rem;
-font-size: 0.9rem;
+  margin: 1rem 0.5rem 0rem;
+font-size: 1.7rem;
 padding-left: 0rem;
 }
 #btn{
-  margin:3rem 10rem 3rem;
+  margin:3rem 5rem 3rem;
   width: 100%;
   height: 10vh;
 }
@@ -20235,33 +20239,33 @@ padding-left: 0rem;
 .Btn{
   width: 8vw;
   height: 7vh;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   border: none;
 }
 
 .Btn1{
-  width: 4vw;
+  width: 5vw;
   height: 7vh;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 }
 .Btn2{
-  width: 4vw;
+  width: 5vw;
   height: 7vh;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
 }
 
 .Btn3{
-  width: 4vw;
+  width: 5vw;
   height: 9vh;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   border: 2px solid aqua;
  
 }
 
 .Btn4{
-  width: 6vw;
+  width: 7vw;
   height: 7vh;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   border: none;
 }
 .Btn4:hover{
@@ -20305,8 +20309,8 @@ padding-left: 0rem;
   
   .events_item2{
   
-    width: 30%;
-    height: 40rem;
+    width: 35rem;
+    height: 45rem;
   margin: 0rem 2rem 0rem;
   }
   
@@ -20314,7 +20318,7 @@ padding-left: 0rem;
     display: block;
     padding: 1rem 1rem 0rem;
     margin: 1rem 0rem 1rem;
-  font-size: 1.2rem;
+  font-size: 2rem;
   line-height: 30px;
   text-align: justify;
   }
@@ -20324,36 +20328,34 @@ padding-left: 0rem;
     line-height: 35px;
     padding: 0.5rem 0rem;
     text-align: justify;
-    font-size: 0.9rem;
-    width: 22rem;
+    font-size: 1.7rem;
+    width: 32rem;
   }
-  
-  
   
   .events_item2 .date{
     margin-top: 1.5rem;
     margin-bottom: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding-left: 0rem;
   }
   .events_item2 .comment{
     margin: 1.5rem 0rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding-left: 0rem;
   
   }
   .events_item2 button{
-    margin-left: 7rem;
-    width: 8rem;
+    margin-left: 9rem;
+    width: 13rem;
     height: 7vh;
-    font-size: 1rem;
+    font-size: 1.7rem;
   }
   
   
   .events_item3{
   
-    width: 30%;
-    height: 55rem;
+    width: 35rem;
+    height:60rem;
     margin: 0rem 0rem 3rem;
   }
   
@@ -20362,7 +20364,7 @@ padding-left: 0rem;
     padding: 1rem 1rem 0rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
-  font-size: 1.25rem;
+  font-size: 2rem;
   }
   .events_item3 p{
     display: block;
@@ -20371,29 +20373,29 @@ padding-left: 0rem;
     line-height: 35px;
     padding: 0.5rem 1rem;
     text-align: justify;
-    font-size: 0.9rem;
-    width: 22rem;
+    font-size: 1.7rem;
+    width: 32rem;
   }
   
   
   .events_item3 .date{
     margin-top: 1.5rem;
     margin-bottom: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding-left: 0rem;
   }
   .events_item3 .comment{
     margin-top: 1.5rem;
     margin-bottom: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.7rem;
   padding-left: 0rem;
   
   }
   .events_item3 button{
-    margin-left: 7rem;
-    width: 8rem;
+    margin-left: 9rem;
+    width: 13rem;
     height: 7vh;
-    font-size: 1rem;
+    font-size: 1.7rem;
   }
   
 

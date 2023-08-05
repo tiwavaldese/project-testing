@@ -18553,8 +18553,7 @@ h1 {
 .header_link ul {
   display: flex;
   height: 6rem;
-  padding-left: 3rem;
-  letter-spacing: 1rem;
+  padding-left: 4rem;
 }
 .menu {
   display: none;

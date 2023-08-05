@@ -18577,11 +18577,11 @@ font-size:2.2rem;
   display: flex;
   align-items: center;
   color: white;
-  height: 2.5rem;
+  height: 4rem;
   background-color: #782D50;
   margin: 2rem 0rem 0rem;
   padding: 0rem 3rem 0rem;
-  font-size:1rem;
+  font-size:2rem;
 }
 
 .navbar {
@@ -18636,13 +18636,13 @@ a {
 }
 
 .image {
-  width: 5%;
-  height: 12%;
-  margin: 7rem 7rem 0rem;
+  width: 10%;
+  height: 10%;
+  margin: 5rem 4rem 0rem;
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   margin: 0rem 13rem 0rem;
   width: 80%;
   color: #782D50;
@@ -18656,10 +18656,10 @@ h1 {
 
 .description1 {
   margin: 0.5rem -22rem 0rem;
-  height: 2.5rem;
-  width: 9.2rem;
+  height: 3.5rem;
+  width: 11rem;
   padding: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 2rem;
   display: flex;
   align-items: center;
 }
@@ -18669,7 +18669,7 @@ h1 {
   background-color: black;
   height: 3.5rem;
   width: 100%;
-  padding: 1.2rem 8rem 0rem;
+  padding: 0.7rem 5rem 0rem;
 }
 
 .header_link ul {
@@ -18734,7 +18734,7 @@ h1 {
 
 .slide.three img {
   width: 100%;
-  margin:-4.5rem 8rem 0rem;
+  margin:-4.5rem 6.5rem 0rem;
   
 }
 

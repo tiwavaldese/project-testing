@@ -18558,6 +18558,8 @@ h1 {
   height: 3.5rem;
   width: 100%;
   padding: 1.2rem 8rem 0rem;
+  gap: 10px;
+  
 }
 .menu {
   display: none;

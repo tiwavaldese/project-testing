@@ -58,6 +58,9 @@ img {
 
 .header_link ul {
   display: none;
+  height: 3.5rem;
+  width: 100%;
+  padding: 1.2rem 8rem 0rem;
 }
 
 a {
@@ -18552,9 +18555,9 @@ h1 {
 
 .header_link ul {
   display: flex;
-  height: 4rem;
-  padding: 1rem 4rem 0rem;
-  line-break: 1.5rem;
+  height: 3.5rem;
+  width: 100%;
+  padding: 1.2rem 8rem 0rem;
 }
 .menu {
   display: none;

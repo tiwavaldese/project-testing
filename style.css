@@ -20283,7 +20283,7 @@ padding-left: 0rem;
     width: 100%;
   padding-top: 1.5rem;
     justify-content: center;
-    font-size: 2.5rem;
+    font-size: 2.7rem;
   }
   .events_item1 p{
     display: flex;
@@ -20291,7 +20291,7 @@ padding-left: 0rem;
     width:100%;
   padding-top: 1rem;
     justify-content: center;
-    font-size: 0.8rem;
+    font-size: 1.7rem;
   }
   .events_item1 p:hover{
     color: #782D50;
@@ -20640,7 +20640,7 @@ text-align: center;
 }
 .contact_item1 h2{
   margin: 2rem 7rem 0rem;
-  font-size: 2rem;
+  font-size: 2.7rem;
   width: 100%;
 }
 .contact_item1 hr{
@@ -20654,14 +20654,14 @@ text-align: center;
   margin-top: 1rem;
  width: 100%;
  margin-bottom: 2rem;
- font-size: 1rem;
+ font-size: 1.7rem;
 }
 .contact_item1 span{
   margin-right: 2rem;
-  width: 3rem;
-  height: 3rem;
+  width: 6rem;
+  height: 6rem;
   padding: 0.8rem 1rem;
-  font-size: 1.4rem;
+  font-size: 2.5rem;
 }
 
 .contact_item2{
@@ -20670,7 +20670,7 @@ text-align: center;
 }
 .contact_item2 h2{
   margin: 2rem 7rem 0rem;
-  font-size: 2rem;
+  font-size: 2.7rem;
 }
 .contact_item2 hr{
   margin: 1rem 7rem 2rem;
@@ -20679,7 +20679,7 @@ text-align: center;
   margin: 1rem 7rem 2rem;
   width: 100%;
   line-height: 30px;
- font-size: 1.3rem;
+ font-size: 1.7rem;
  padding-right: 5rem;
 }
 .contact_item3{
@@ -20700,7 +20700,7 @@ text-align: center;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
-  font-size: 1.1rem;
+  font-size: 1.7rem;
 }
 
 .contact_item3 #email{
@@ -20708,7 +20708,7 @@ text-align: center;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
-  font-size: 1.1rem;
+  font-size: 1.7rem;
   
 }
 
@@ -20717,7 +20717,7 @@ text-align: center;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
-  font-size: 1.1rem;
+  font-size: 1.7rem;
 }
 
 .contact_item3 #number{
@@ -20725,7 +20725,7 @@ text-align: center;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
-  font-size: 1.1rem;
+  font-size: 1.7rem;
  
 }
 .contact_item4 textarea{
@@ -20734,13 +20734,13 @@ text-align: center;
   padding-left: 1rem;
   margin:0rem 7rem 1rem;
   padding-top: 1rem;
-  font-size: 1.1rem;
+  font-size: 1.7rem;
 }
 .contact_item5 button{
-  width: 10.2rem;
-  height: 2.7rem;
+  width: 14rem;
+  height: 4rem;
   margin:0rem 7rem 1rem;
-  font-size: 1rem;
+  font-size: 1.7rem;
   display: flex;
   align-items: center;
   padding: 0rem 1rem 0rem;
@@ -20753,7 +20753,7 @@ text-align: center;
 .contact_item6 em{
   margin:0rem 7rem 1rem;
   width: 100%;
-  font-size: 1.2rem;
+  font-size: 1.7rem;
  
 }
 

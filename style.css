@@ -19927,7 +19927,7 @@ padding-left: 1.5rem;
   }
   
   .events_item2{
-    height: 110vh;
+    height: 120vh;
   margin: 1rem 5rem 0rem;
   width: 50rem;
   }
@@ -19941,7 +19941,7 @@ padding-left: 1.5rem;
   }
   .events_item2 p{
     margin: 1rem 1.5rem 1rem;
-    line-height: 50px;
+    line-height: 55px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;
     width: 46rem;
@@ -19959,7 +19959,7 @@ padding-left: 1.5rem;
   
   }
   .events_item2 button{
-    margin:2rem 16rem 0rem;
+    margin:2rem 17rem 0rem;
     width: 13rem;
     height: 11vh;
     font-size: 1.7rem;
@@ -19980,7 +19980,7 @@ padding-left: 1.5rem;
   .events_item3 p{
     margin: 1rem 1.5rem 1rem;
     width: 46rem;
-    line-height: 45px;
+    line-height: 55px;
     padding: 0.5rem 0rem 0rem;
     font-size: 1.7rem;
   }
@@ -19998,7 +19998,7 @@ padding-left: 1.5rem;
   }
   .events_item3 button{
     
-    margin:2rem 16rem 0rem;
+    margin:2rem 17rem 0rem;
     width: 13rem;
     height: 11vh;
     font-size: 1.75rem;

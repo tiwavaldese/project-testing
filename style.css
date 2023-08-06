@@ -18600,7 +18600,7 @@ font-size:2.2rem;
 .img_1 {
   width: 12%;
   height: 80%;
-  margin: 0.5rem 7rem 0rem;
+  margin: 0.5rem 4rem 0rem;
 }
 
 .navbar li {
@@ -18614,8 +18614,8 @@ width: 100%;
 padding-right: 1rem;
 font-size: 1.7rem ;
 font-weight: bold;
-margin: -3rem 12rem 0rem;
-padding: 0rem 8rem 0rem;
+margin: -4rem 11rem 0rem;
+padding: 0rem 7rem 0rem;
 }
 .navbar.sticky {
   display: block;
@@ -18650,7 +18650,7 @@ a {
 .image {
   width: 10%;
   height: 12%;
-  margin: 7rem 3rem 0rem;
+  margin: 7rem 2rem 0rem;
 }
 
 h1 {
@@ -18667,7 +18667,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem -23rem 0rem;
+  margin: 0.5rem -25rem 0rem;
   height: 4.5rem;
   width: 14.5rem;
   padding: 0rem 1rem 0rem;
@@ -18686,7 +18686,7 @@ h1 {
   display: flex;
   font-size: 1.7rem;
   width: 100%;
-  padding: 0.5rem 1rem 0rem;
+  padding: 0.7rem 1rem 0rem;
   height: 4rem;
   gap: 3px;
 }
@@ -18749,7 +18749,7 @@ h1 {
 
 .slide.three img {
   width: 100%;
-  margin:-4rem 8rem 0rem;
+  margin:-4rem 8.5rem 0rem;
   
 }
 
@@ -18928,7 +18928,7 @@ strong{
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 85rem;
+  height: 88rem;
 }
 .grid_item1 img{
   height:25rem;

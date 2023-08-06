@@ -19495,7 +19495,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h2 {
-  bottom: 82rem;
+  bottom: 87rem;
   font-size: 2.7rem;
   width: 30rem;
   height: 9vh;
@@ -19503,7 +19503,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h3 {
-  bottom: 70rem;
+  bottom: 74rem;
   font-size: 1.7rem;
   width: 30rem;
   height: 20vh;
@@ -19512,7 +19512,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6i {
-  bottom: 60rem;
+  bottom: 67rem;
   font-size: 1.2rem;
   width:30rem;
   height: 10vh;
@@ -19522,7 +19522,7 @@ margin: 5rem 3rem 0rem;
 
 
 .grid_6 p {
-  bottom: 45rem;
+  bottom: 42rem;
   font-size: 1.7rem;
   line-height: 2rem;
   width: 30rem;
@@ -19547,13 +19547,13 @@ margin: 5rem 3rem 0rem;
 
 .grid_7 hr {
   left: 0;
-  bottom: 76rem;
+  bottom: 80rem;
   margin-left: 10rem;
   width: 3rem;
 }
 
 .grid_7 p {
-  bottom: 40rem;
+  bottom: 43rem;
   font-size: 1.7rem;
   line-height: 2rem;
   width: 30rem;
@@ -19562,7 +19562,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7i {
-  bottom: 25rem;
+  bottom: 30rem;
   font-size: 1.2rem;
   width: 30rem;
   height: 25vh;
@@ -19576,7 +19576,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 button {
-  bottom: 63rem;
+  bottom: 67rem;
   font-size: 1.2rem;
   width: 8rem;
   height: 10vh;
@@ -19658,7 +19658,7 @@ margin: 5rem 3rem 0rem;
   font-size: 2.7rem;
 }
 .content6 ul li {
-  margin: 2rem 1rem 1rem;
+  margin: 0.3rem 1rem 1rem;
   font-size: 1.7rem;
 }
 .content6 hr {
@@ -19666,7 +19666,7 @@ margin: 5rem 3rem 0rem;
   margin-left: 7.5rem;
 }
 .content7{
-  margin: 0rem -7rem 0rem;
+  margin: 0rem -4rem 0rem;
   }
 .content7 h3 {
   margin: 2rem 5rem 1rem;
@@ -19701,13 +19701,13 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -16rem 0rem;
+  margin: 0rem -19rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
   margin-left: 2rem;
   margin-bottom: 0rem;
-  font-size: 1.7rem;
+  font-size: 2.7rem;
 }
 
 .content8 hr {
@@ -19725,8 +19725,8 @@ margin: 5rem 3rem 0rem;
   padding: 0rem 1rem 0rem;
   border-radius: 0.25rem;
   font-size: 1.7rem;
-  margin: 0.5rem 2rem 0rem;
-  height: 3.5rem;
+  margin: 1.5rem 2rem 0rem;
+  height: 4.5rem;
   display: flex;
   text-align: center;
 }

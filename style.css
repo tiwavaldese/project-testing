@@ -18614,8 +18614,8 @@ width: 100%;
 padding-right: 1rem;
 font-size: 1.7rem ;
 font-weight: bold;
-margin: -4rem 7rem 0rem;
-padding: 0rem 2rem 0rem;
+margin: -4rem 9rem 0rem;
+padding: 0rem 0rem 0rem;
 gap: 1px;
 }
 .navbar.sticky {
@@ -18750,7 +18750,7 @@ h1 {
 
 .slide.three img {
   width: 100%;
-  margin:-4rem 9.5rem 0rem;
+  margin:-4rem 9.6rem 0rem;
   
 }
 

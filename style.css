@@ -18862,7 +18862,7 @@ h1 {
 }
 
 .container p {
-  line-height: 30px;
+  line-height: 45px;
   margin: 1rem 12rem 0rem;
   font-size: 1.7rem;
   width: 70%;
@@ -18900,7 +18900,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 15rem 2.4rem;
+  margin: 3rem 0rem 25rem 2.4rem;
   height: 90vh;
   width: 100%;
 }
@@ -18934,7 +18934,7 @@ strong{
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 63rem;
+  height: 78rem;
 }
 .grid_item1 img{
   height:25rem;
@@ -18946,7 +18946,7 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.2rem 0rem;
 }
 
 
@@ -18964,7 +18964,7 @@ strong{
 
 .grid_item2 {
   margin: 1rem 0rem 0rem;
-  height:50rem;
+  height:60rem;
   width: 25rem;
 }
 .grid_item2 img{
@@ -18977,7 +18977,7 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.2rem 0rem;
 }
 
 .grid_item2 .date {
@@ -18995,7 +18995,7 @@ strong{
 .grid_item3 {
   margin: 1rem 1rem 0rem;
   width: 25rem;
-  height: 45rem;
+  height: 55rem;
   border-radius: 0.5rem;
 }
 .grid_item3 img{
@@ -19008,7 +19008,7 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.2rem 0rem;
 }
 
 .grid_item3 .date {
@@ -19068,9 +19068,10 @@ strong{
 }
 
 .grid_item button {
-  width: 14rem;
+  width: 16rem;
   height: 5rem;
   margin: 2rem 3.5rem 3rem;
+  padding: 0rem 1rem 0rem;
   border-radius: 5px;
   font-size: 2rem;
   display: flex;
@@ -19123,9 +19124,9 @@ strong{
 .slide .captionBB {
   bottom: 46%;
   font-size: 1.7rem;
-  width: 55%;
+  width: 58%;
   margin: 200rem 8rem 0rem;
-  line-height: 30px;
+  line-height: 40px;
   padding-right: 15rem;
   height: 3vh;
 }
@@ -19136,7 +19137,7 @@ strong{
   width: 13rem;
   margin: 200rem 60rem 0rem;
   padding:0rem 1rem 0rem;
-  height: 3.5rem;
+  height: 4rem;
   display: flex;
   align-items: center;
 }
@@ -19234,7 +19235,7 @@ h3 i {
 }
 
 .img_8 {
-  height: 60%;
+  height: 70%;
   width: 100%;
 }
 
@@ -19266,10 +19267,10 @@ h3 i {
 }
 
 .captionD2 {
-  bottom: 48%;
+  bottom: 46%;
   font-size: 1.7rem;
   width: 13rem;
-  height: 3.5rem;
+  height: 4rem;
   margin-left: 30rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -19278,10 +19279,10 @@ h3 i {
 
 
 .captionE2 {
-  bottom: 48%;
+  bottom: 46%;
   font-size: 1.7rem;
   width: 13rem;
-  height: 3.5rem;
+  height: 4rem;
   margin-left: 45rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -19304,7 +19305,7 @@ h3 i {
 
 .container_home p {
   line-height: 35px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 10rem 0rem;
   font-size: 1.7rem;
 height: 20%;
 text-align: center;
@@ -19322,7 +19323,7 @@ text-align: center;
 
 .row_item6 p {
     padding: 0rem 1rem 6rem;
-    width: 30vw;
+    width: 33vw;
     height: 2rem;
    margin: -8rem 15rem 0rem;
   line-height:30px;
@@ -19333,15 +19334,16 @@ text-align: center;
 .row_item6 span {
   display: flex;
   position: relative;
-  bottom: -11rem;
+  bottom: -17rem;
   font-size: 1.7rem;
-  margin-left: 11rem;
+  margin-left: 8rem;
+  width: 25rem;
 }
 
 .row_item6 strong {
   flex-direction: row;
   position: relative;
-  bottom: -9rem;
+  bottom: -12rem;
   font-size: 1.7rem;
 }
 
@@ -19356,14 +19358,14 @@ text-align: center;
     display: flex;
     flex-direction: row;
     position: relative;
-    bottom: 4rem;
+    bottom: 2rem;
 }
 
 .img_9 {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  margin: 0rem 7rem 1rem;
+  margin: 0rem 5rem 1rem;
   display: block;
 }
 
@@ -19381,21 +19383,9 @@ text-align: center;
   height: 120px;
   border-radius: 50%;
   display: block;
-  margin: 15rem 7rem 1rem;
+  margin: 15rem 5rem 1rem;
 
 }
-
-#row1 {
-  position: relative;
-  bottom: 0rem;
-  margin: 0rem -13rem 0rem;
-}
-
-#row1 strong {
-  position: relative;
-  bottom: -7rem;
-}
-
 .img_12 {
   width: 120px;
   height: 120px;
@@ -19403,14 +19393,26 @@ text-align: center;
   display: block;
   margin: 15rem 5rem 1rem;
 }
+#row1 {
+  position: relative;
+  bottom: 0rem;
+  margin: 0rem -15rem 0rem;
+}
+
+#row1 strong {
+  position: relative;
+  bottom: -7rem;
+}
+
+
 
 .content2 {
   color: white;
   background-color: #782D50;
-  width: 16rem;
+  width: 20rem;
   padding:0rem 0rem 0rem;
-  height:4.5rem;
-  margin: 6rem 10rem 2rem;
+  height:5rem;
+  margin: 9rem 10rem 2rem;
   font-size: 2rem;
   position: relative;
   display: flex;
@@ -19435,20 +19437,20 @@ text-align: center;
 #container p {
   width:50%;
   letter-spacing: 0px;
-  line-height: 25px;
-  margin: 0rem 20rem 3rem;
+  line-height: 40px;
+  margin: 0rem 22rem 3rem;
   font-size: 1.7rem;
 }
 
 #container hr {
   width: 2rem;
   text-align: center;
-  margin: 1rem 43rem 1rem;
+  margin: 1rem 43rem 1.5rem;
 }
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 10rem 0rem ;
+  margin: 16rem 7rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;

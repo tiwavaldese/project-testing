@@ -16610,9 +16610,13 @@ h1 {
   display: flex;
   height: 3.5rem;
   width: 100%;
-  padding: 1.2rem 5rem 0rem;
+  padding: 1rem 5rem 0rem;
   gap: 15px;
   
+}
+#italic {
+  margin-left: 10rem;
+  display: block;
 }
 .menu {
   display: none;
@@ -17224,7 +17228,7 @@ h3 i {
 
 #container p {
   width: 85%;
-  line-height: 25px;
+  line-height: 30px;
   margin-left: 6rem;
   font-size: 1.7rem;
 }
@@ -17449,6 +17453,7 @@ margin-left: 18rem;
 }
 .content6 ul li{
 font-size: 1.7rem;
+margin-left: 12rem;
 }
 .content7  {
   width: 90rem;
@@ -17516,7 +17521,7 @@ h4 i {
   margin-top: 1.5rem;
   font-size: 2.2rem;
   padding-left: 1rem;
-  margin-left: 6rem;
+  margin-left: 12rem;
 
 }
 

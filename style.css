@@ -19353,7 +19353,7 @@ text-align: center;
     display: flex;
     flex-direction: row;
     position: relative;
-    bottom: 2rem;
+    bottom: 1rem;
 }
 
 .img_9 {
@@ -19407,7 +19407,7 @@ text-align: center;
   width: 25rem;
   padding:0rem 1rem 0rem;
   height:6rem;
-  margin: 14rem 10rem 2rem;
+  margin: 15rem 10rem 2rem;
   font-size: 2rem;
   position: relative;
   display: flex;
@@ -19668,7 +19668,7 @@ margin: 5rem 3rem 0rem;
   margin-left: 7.5rem;
 }
 .content7{
-  margin: 0rem -4rem 0rem;
+  margin: 0rem -6rem 0rem;
   }
   .content7 ul li {
     font-size: 1.7rem;
@@ -19706,7 +19706,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -23rem 0rem;
+  margin: 0rem -26rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;

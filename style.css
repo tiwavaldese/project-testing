@@ -19788,14 +19788,14 @@ padding-top: 1rem;
  flex-direction: row;
 }
 .about_item2 img{
-  margin: 4rem -15rem 0rem;
+  margin: 4rem -10rem 0rem;
 width: 100rem;
-height: 70vh;
+height: 60vh;
 
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem 4rem 0rem;
+margin: 2rem 3rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -19817,8 +19817,8 @@ margin: 2rem 6rem 0rem;
 
 }
 .about_item3{
-  width: 14rem;
-  height: 4rem;
+  width: 16rem;
+  height:5rem;
   margin: 0rem 8rem 4rem;
   font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
@@ -19839,8 +19839,8 @@ font-size: 2.5rem;
 #fourA i{
  width: 90px;
  height: 90px;
-padding: 1rem 1.3rem;
-font-size: 2.5rem;
+padding: 1.2rem 1.4rem;
+font-size: 3rem;
 }
 #fourA span{
 margin-top: 0rem;
@@ -19859,15 +19859,15 @@ margin-left: 2rem;
 #three i{
   width: 90px;
  height: 90px;
-padding: 1rem 1.3rem;
 border-radius: 50%;
-font-size: 2.5rem;
+padding: 1.2rem 1.4rem;
+font-size: 3rem;
 }
 #three span{
   margin-top: 0rem;
   margin-left: 6rem;
   padding-bottom: 3rem;
- bottom: 5rem;
+ bottom: 6rem;
    }
 .three{
   font-size: 1.7rem;
@@ -19882,15 +19882,15 @@ font-size: 2.5rem;
 #fourB i{
   width: 90px;
   height: 90px;
- padding: 1rem 1.3rem;
  border-radius: 50%;
- font-size: 2.5rem;
+ padding: 1.2rem 1.4rem;
+font-size: 3rem;
 }
 #fourB span{
   margin-top: 0rem;
   margin-left: 6rem;
   padding-bottom: 3rem;
- bottom: 5rem;
+ bottom: 6rem;
    }
 .fourB{
   font-size: 1.5rem;
@@ -19900,7 +19900,7 @@ font-size: 2.5rem;
 .about_item5{
   padding-top: 4rem;
   width: 100%;
-  height: 50rem;
+  height: 55rem;
   margin-left: 0rem;
 }
 .about_item5 h2{
@@ -19912,7 +19912,7 @@ font-size: 2.5rem;
   margin-bottom: 2.2rem;
 }
 .about_item5 p{
- width: 60%;
+ width: 80%;
  line-height: 40px;
 padding: 0.5rem 0rem 0rem;
 font-size: 1.7rem;
@@ -19944,7 +19944,7 @@ flex-direction: row;
 }
 .about_item6 h2{
   width: 40%;
-  margin-left: 4rem;
+  margin-left: 3rem;
   font-size: 2.7rem;
   text-align: center;
 }
@@ -19974,7 +19974,7 @@ flex-direction: row;
 }
 .about_item7 label{
   width: 30rem;
-  margin: 0rem -10rem 0.7rem;
+  margin: 0rem -15rem 0.7rem;
   padding: 0rem 0rem 0rem;
 font-size: 2.2rem;
 }
@@ -19997,37 +19997,37 @@ font-size: 1rem;
  padding: 0rem 0rem 0rem;
 }
 .term-of-office p{
-  width: 26rem;
+  width: 27rem;
   padding-right: 0rem;
   margin: -3.5rem -10rem -1rem;
   font-size: 1.7rem;
 }
 .vision-and-goal p{
   margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  width: 27rem;
   font-size: 1.7rem;
 }
 
 .project-committee p{
   margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  width: 27rem;
   font-size: 1.7rem;
 }
 .membership-status p{
   margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  width: 27rem;
   font-size: 1.7rem;
 }
 .specific-objective p{
-  margin: -3.5rem -10rem -7rem;
-  width: 26rem;
+  margin: -3rem -10rem -7rem;
+  width: 27rem;
   line-height: 30px;
-  height: 16rem;
+  height: 18rem;
   font-size: 1.7rem;
 }
 .activities p{
   margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  width: 27rem;
   font-size: 1.7rem;
 }
 

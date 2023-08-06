@@ -18600,7 +18600,7 @@ font-size:2.2rem;
 .img_1 {
   width: 12%;
   height: 80%;
-  margin: 0.5rem 2rem 0rem;
+  margin: 0.5rem 1rem 0rem;
 }
 
 .navbar li {
@@ -18614,7 +18614,7 @@ width: 100%;
 padding-right: 1rem;
 font-size: 1.7rem ;
 font-weight: bold;
-margin: -4rem 11rem 0rem;
+margin: -4rem 9rem 0rem;
 padding: 0rem 7rem 0rem;
 gap: 1px;
 }
@@ -18750,7 +18750,7 @@ h1 {
 
 .slide.three img {
   width: 100%;
-  margin:-4rem 9rem 0rem;
+  margin:-4rem 9.3rem 0rem;
   
 }
 
@@ -18764,17 +18764,17 @@ h1 {
 }
 
 .slide .captionB {
-  bottom: 46%;
+  bottom: 47%;
   font-size: 1.7rem;
   width: 45%;
-  height: 25vh;
+  height: 24vh;
   margin: 0rem 8rem 0rem;
   padding: 0rem 0.5rem 0rem;
   line-height:35px;
 }
 
 .slide .captionC {
-  bottom: 35%;
+  bottom: 37%;
   font-size: 1.7rem;
   width: 14.5rem;
   height: 4.5rem;
@@ -19353,7 +19353,7 @@ text-align: center;
     display: flex;
     flex-direction: row;
     position: relative;
-    bottom: 3rem;
+    bottom: 2rem;
 }
 
 .img_9 {
@@ -19391,12 +19391,12 @@ text-align: center;
 #row1 {
   position: relative;
   bottom: 0rem;
-  margin: 0rem -13rem 0rem;
+  margin: 0rem -15rem 0rem;
 }
 
 #row1 strong {
   position: relative;
-  bottom: -9rem;
+  bottom: -10rem;
 }
 
 
@@ -19407,7 +19407,7 @@ text-align: center;
   width: 25rem;
   padding:0rem 1rem 0rem;
   height:6rem;
-  margin: 13rem 10rem 2rem;
+  margin: 14rem 10rem 2rem;
   font-size: 2rem;
   position: relative;
   display: flex;
@@ -19445,7 +19445,7 @@ text-align: center;
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 3.5rem 0rem ;
+  margin: 16rem 3.6rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -19616,7 +19616,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .content5 {
-  margin: 2rem 3.5rem 3rem;
+  margin: 2rem 3.6rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -19705,7 +19705,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -21rem 0rem;
+  margin: 0rem -23rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
@@ -19748,7 +19748,8 @@ p i {
 
 .content8  i {
 width: 25rem;
-  display: block;
+  display: flex;
+  flex-direction: row;
   margin-top: 1.5rem;
   font-size: 2.7rem;
   padding-left: 0rem;

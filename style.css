@@ -19986,7 +19986,7 @@ font-size: 2.2rem;
 .about_item7 input{
   width: 10vw;
   height: 3.5vh;
-padding: 0rem -15rem 0rem;
+padding: 0.5rem -15rem 0rem;
 margin: 0.7rem -3rem 0rem;
 }
 
@@ -20139,7 +20139,7 @@ text-align: center;
  padding: 0rem 0rem 0rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 30%;
+  width: 22rem;
 }
 
 
@@ -20183,7 +20183,7 @@ text-align: center;
   line-height: 30px;
   text-align: justify;
   font-size: 1.7rem;
-  width: 30%;
+  width: 22rem;
 }
 .blog_item3 i{
   padding-right: 0rem;
@@ -20231,7 +20231,7 @@ text-align: center;
   padding: 0.5rem 1rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 30%;
+  width: 22rem;
 }
 .blog_item4 i{
   padding-right: 0rem;

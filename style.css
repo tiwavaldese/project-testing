@@ -20936,6 +20936,9 @@ font-size:2.7rem;
   font-size: 1.7rem;
 }
 }
+
+
+
 @media only screen and (min-width: 1440px){
   html,body{
     overflow-x: hidden;
@@ -20969,9 +20972,9 @@ font-size:2.7rem;
 }
 
 .img_1 {
-  width: 6%;
+  width: 8.5%;
   height: 80%;
-  margin: 0.5rem 9rem 0rem;
+  margin: 0.5rem 1rem 0rem;
 }
 
 .navbar li {
@@ -20983,11 +20986,18 @@ font-size:2.7rem;
 flex-direction: row;
 width: 100%;
 padding-right: 1rem;
-font-size: 15px ;
+font-size: 1.7rem ;
 font-weight: bold;
-margin: -3rem 15rem 0rem;
-padding: 0rem 8rem 0rem;
+margin: -4rem 9rem 0rem;
+padding: 0rem 0rem 0rem;
+gap: 1px;
 }
+.navbar.sticky {
+  display: block;
+
+}
+
+
 li:hover{
   color: burlywood;
 }
@@ -21006,15 +21016,16 @@ a {
 #header {
   margin: 3rem 0rem 2rem;
   width: 100%;
-  height: 20%;
+  height: 5rem;
   display: flex;
   flex-direction: row;
+  padding: 1.2rem 1rem 0rem;
 }
 
 .image {
   width: 10%;
-  height: 10%;
-  margin: 6.5rem 4rem 0rem;
+  height: 12%;
+  margin: 7rem 2rem 0rem;
 }
 
 h1 {
@@ -21031,9 +21042,9 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem -22rem 0rem;
-  height: 3.5rem;
-  width: 13rem;
+  margin: 0.5rem -25rem 0rem;
+  height: 4.5rem;
+  width: 14.5rem;
   padding: 0rem 1rem 0rem;
   font-size: 1.7rem;
   display: flex;
@@ -21043,19 +21054,20 @@ h1 {
 .header_link {
   display: flex;
   background-color: black;
-  height: 4rem;
   width: 100%;
-  padding: 0.5rem 3rem 0rem;
 }
 
 .header_link ul {
   display: flex;
   font-size: 1.7rem;
   width: 100%;
+  padding: 0.7rem 1rem 0rem;
+  height: 4rem;
+  gap: 3px;
 }
 #italic {
   padding: 0rem 0rem 0rem;
-  margin-left: 15rem;
+  margin-left: 5rem;
   font-size: 1.7rem;
 }
 
@@ -21112,7 +21124,7 @@ h1 {
 
 .slide.three img {
   width: 100%;
-  margin:-3rem 6.5rem 0rem;
+  margin:-4rem 9.6rem 0rem;
   
 }
 
@@ -21126,20 +21138,20 @@ h1 {
 }
 
 .slide .captionB {
-  bottom: 50%;
+  bottom: 47%;
   font-size: 1.7rem;
   width: 45%;
-  height: 28vh;
+  height: 24vh;
   margin: 0rem 8rem 0rem;
   padding: 0rem 0.5rem 0rem;
   line-height:35px;
 }
 
 .slide .captionC {
-  bottom: 46%;
+  bottom: 37%;
   font-size: 1.7rem;
-  width: 13rem;
-  height: 3.5rem;
+  width: 14.5rem;
+  height: 4.5rem;
   padding: 0rem 1rem 0rem;
   margin-left: 12rem;
   display: flex;
@@ -21155,7 +21167,7 @@ h1 {
 }
 
 .slide .captionE {
-  bottom: 52%;
+  bottom: 50%;
   font-size: 1.7rem;
   margin-left: 30rem;
   padding: 0rem 1rem 0rem;
@@ -21166,15 +21178,13 @@ h1 {
 
 .slide .captionF {
   
-  bottom: 47%;
+  bottom: 42%;
   margin-top: 5rem;
   font-size: 1.7rem;
-  width: 13rem;
-  height: 3.5rem;
+  width: 14.5rem;
+  height: 4.5rem;
   padding: 0rem 1rem 0rem;
-  margin-left: 57rem;
-  width: 9.2rem;
-  height: 2.5rem;
+  margin-left: 58rem;
   display: flex;
   align-items: center;
 }
@@ -21190,7 +21200,7 @@ h1 {
 }
 
 .slide .captionH {
-  bottom: 47%;
+  bottom: 44%;
   font-size: 1.7rem;
   width: 50%;
   height: 18vh;
@@ -21200,14 +21210,12 @@ h1 {
 }
 
 .slide .captionI {
-  bottom: 40%; 
+  bottom: 35%; 
   font-size: 1.7rem;
-  width: 13rem;
-  height: 3.5rem;
+  width: 14.5rem;
+  height: 4.5rem;
   padding: 0rem 1rem 0rem;
-  margin-left: 42rem;
-  width: 9.2rem;
-  height: 2.5rem;
+  margin-left: 44rem;
   display: flex;
   align-items: center;
 }
@@ -21223,7 +21231,7 @@ h1 {
 }
 
 .container p {
-  line-height: 30px;
+  line-height: 45px;
   margin: 1rem 12rem 0rem;
   font-size: 1.7rem;
   width: 70%;
@@ -21261,7 +21269,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 15rem 2.4rem;
+  margin: 3rem 0rem 32rem 2.7rem;
   height: 90vh;
   width: 100%;
 }
@@ -21285,7 +21293,7 @@ strong{
 
 .content h3 {
   margin: 1rem 0rem 1rem;
-  padding-left: 0cap;
+  padding-left: 0rem;
   font-size: 2rem;
   line-height: 30px;
   text-align: center;
@@ -21295,7 +21303,7 @@ strong{
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 63rem;
+  height: 88rem;
 }
 .grid_item1 img{
   height:25rem;
@@ -21307,25 +21315,25 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.2rem 0rem;
 }
 
 
 .grid_item1 .date {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item1 .comment {
-  margin: 0rem 2rem 0rem;
-  font-size: 1rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item2 {
   margin: 1rem 0rem 0rem;
-  height:50rem;
+  height:65rem;
   width: 25rem;
 }
 .grid_item2 img{
@@ -21338,25 +21346,25 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.2rem 0rem;
 }
 
 .grid_item2 .date {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item2 .comment {
-  margin: 0rem 2rem 0rem;
-  font-size: 1rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item3 {
   margin: 1rem 1rem 0rem;
   width: 25rem;
-  height: 45rem;
+  height: 60rem;
   border-radius: 0.5rem;
 }
 .grid_item3 img{
@@ -21369,18 +21377,18 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.2rem 0rem;
 }
 
 .grid_item3 .date {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item3 .comment {
-  margin: 0rem 2rem 0rem;
-  font-size: 1rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
@@ -21429,9 +21437,10 @@ strong{
 }
 
 .grid_item button {
-  width: 14rem;
-  height: 5rem;
+  width: 18rem;
+  height: 6rem;
   margin: 2rem 3.5rem 3rem;
+  padding: 0rem 1rem 0rem;
   border-radius: 5px;
   font-size: 2rem;
   display: flex;
@@ -21484,9 +21493,9 @@ strong{
 .slide .captionBB {
   bottom: 46%;
   font-size: 1.7rem;
-  width: 55%;
+  width: 58%;
   margin: 200rem 8rem 0rem;
-  line-height: 30px;
+  line-height: 40px;
   padding-right: 15rem;
   height: 3vh;
 }
@@ -21497,7 +21506,7 @@ strong{
   width: 13rem;
   margin: 200rem 60rem 0rem;
   padding:0rem 1rem 0rem;
-  height: 3.5rem;
+  height: 4rem;
   display: flex;
   align-items: center;
 }
@@ -21512,8 +21521,8 @@ strong{
 .img_7 {
  margin-left: 2rem;
 width: 100%;
-height: 90vh;
-margin-top: 8rem;
+height: 93vh;
+margin-top: 10rem;
 display: block;
 }
 
@@ -21526,7 +21535,7 @@ display: block;
 .row_item5 h2 {
   font-size: 2.7rem;
   margin: 0rem 0rem 1.5rem;
-  width: 50%;
+  width: 60%;
 }
 
 .row_item5 hr {
@@ -21538,7 +21547,7 @@ display: block;
 .row_item5 span {
   display: block;
   margin-left: 5rem;
-  width: 17rem;
+  width: 20rem;
   bottom: 3rem;
   position: relative;
   font-size: 2.2rem;
@@ -21595,7 +21604,7 @@ h3 i {
 }
 
 .img_8 {
-  height: 60%;
+  height: 70%;
   width: 100%;
 }
 
@@ -21609,17 +21618,17 @@ h3 i {
   bottom: 82%;
   font-size: 2.7rem;
   height: 7vh;
-  margin-left: 27rem;
+  margin-left: 25rem;
 }
 
 .captionB2 {
-  bottom: 70%;
+  bottom: 69%;
   font-size: 2.2rem;
   height: 7vh;
   margin-left: 30rem;
 }
 .captionC2 {
-  bottom: 53%;
+  bottom: 50%;
   font-size: 1.7rem;
   width: 70%;
   margin-left: 15rem;
@@ -21627,10 +21636,10 @@ h3 i {
 }
 
 .captionD2 {
-  bottom: 48%;
+  bottom: 38%;
   font-size: 1.7rem;
   width: 13rem;
-  height: 3.5rem;
+  height: 5rem;
   margin-left: 30rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -21639,10 +21648,10 @@ h3 i {
 
 
 .captionE2 {
-  bottom: 48%;
+  bottom: 38%;
   font-size: 1.7rem;
   width: 13rem;
-  height: 3.5rem;
+  height: 5rem;
   margin-left: 45rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -21665,7 +21674,7 @@ h3 i {
 
 .container_home p {
   line-height: 35px;
-  margin: 1rem 5rem 0rem;
+  margin: 1rem 10rem 0rem;
   font-size: 1.7rem;
 height: 20%;
 text-align: center;
@@ -21673,19 +21682,19 @@ text-align: center;
 
 .container_home hr {
   bottom: 70%;
-  margin: 1rem 30rem 0rem;
+  margin: 1rem 28rem 0rem;
 }
 
 .content1 {
   width: 90%;
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 
 .row_item6 p {
-    padding: 0rem 1rem 6rem;
-    width: 30vw;
+    padding: 0rem 0rem 6rem;
+    width: 33vw;
     height: 2rem;
-   margin: -8rem 15rem 0rem;
+   margin: -8rem 14rem 0rem;
   line-height:30px;
    font-size: 1.7rem;
  
@@ -21694,15 +21703,16 @@ text-align: center;
 .row_item6 span {
   display: flex;
   position: relative;
-  bottom: -11rem;
+  bottom: -17rem;
   font-size: 1.7rem;
-  margin-left: 11rem;
+  margin-left: 8rem;
+  width: 25rem;
 }
 
 .row_item6 strong {
   flex-direction: row;
   position: relative;
-  bottom: -9rem;
+  bottom: -12rem;
   font-size: 1.7rem;
 }
 
@@ -21717,14 +21727,14 @@ text-align: center;
     display: flex;
     flex-direction: row;
     position: relative;
-    bottom: 4rem;
+    bottom: 1rem;
 }
 
 .img_9 {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  margin: 0rem 7rem 1rem;
+  margin: 0rem 5rem 1rem;
   display: block;
 }
 
@@ -21742,21 +21752,9 @@ text-align: center;
   height: 120px;
   border-radius: 50%;
   display: block;
-  margin: 15rem 7rem 1rem;
+  margin: 15rem 5rem 1rem;
 
 }
-
-#row1 {
-  position: relative;
-  bottom: 0rem;
-  margin: 0rem -13rem 0rem;
-}
-
-#row1 strong {
-  position: relative;
-  bottom: -7rem;
-}
-
 .img_12 {
   width: 120px;
   height: 120px;
@@ -21764,14 +21762,26 @@ text-align: center;
   display: block;
   margin: 15rem 5rem 1rem;
 }
+#row1 {
+  position: relative;
+  bottom: 0rem;
+  margin: 0rem -15rem 0rem;
+}
+
+#row1 strong {
+  position: relative;
+  bottom: -10rem;
+}
+
+
 
 .content2 {
   color: white;
   background-color: #782D50;
-  width: 16rem;
-  padding:0rem 0rem 0rem;
-  height:4.5rem;
-  margin: 6rem 10rem 2rem;
+  width: 25rem;
+  padding:0rem 1rem 0rem;
+  height:6rem;
+  margin: 15rem 10rem 2rem;
   font-size: 2rem;
   position: relative;
   display: flex;
@@ -21796,20 +21806,20 @@ text-align: center;
 #container p {
   width:50%;
   letter-spacing: 0px;
-  line-height: 25px;
-  margin: 0rem 20rem 3rem;
+  line-height: 40px;
+  margin: 0rem 22rem 3rem;
   font-size: 1.7rem;
 }
 
 #container hr {
   width: 2rem;
   text-align: center;
-  margin: 1rem 43rem 1rem;
+  margin: 1rem 43rem 1.5rem;
 }
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 10rem 0rem ;
+  margin: 16rem 3.6rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -21846,7 +21856,7 @@ text-align: center;
 }
 
 .grid_5 img {
-  height: 40rem;
+  height: 60rem;
   margin-top: 0rem;
   width: 100%;
   position: relative;
@@ -21860,7 +21870,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h2 {
-  bottom: 75rem;
+  bottom: 87rem;
   font-size: 2.7rem;
   width: 30rem;
   height: 9vh;
@@ -21868,7 +21878,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h3 {
-  bottom: 60rem;
+  bottom: 74rem;
   font-size: 1.7rem;
   width: 30rem;
   height: 20vh;
@@ -21877,7 +21887,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6i {
-  bottom: 50rem;
+  bottom: 67.5rem;
   font-size: 1.2rem;
   width:30rem;
   height: 10vh;
@@ -21887,11 +21897,11 @@ margin: 5rem 3rem 0rem;
 
 
 .grid_6 p {
-  bottom: 40rem;
+  bottom: 44rem;
   font-size: 1.7rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
   width: 30rem;
-  height: 25vh;
+  height: 35vh;
   padding: 0.5rem 0.5rem 0rem;
 }
 
@@ -21902,7 +21912,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 h2 {
-  bottom: 65rem;
+  bottom:72rem;
   font-size: 2.7rem;
   width: 40vw;
   height: 25vh;
@@ -21912,22 +21922,22 @@ margin: 5rem 3rem 0rem;
 
 .grid_7 hr {
   left: 0;
-  bottom: 62rem;
+  bottom: 80rem;
   margin-left: 10rem;
   width: 3rem;
 }
 
 .grid_7 p {
-  bottom: 30rem;
+  bottom: 45rem;
   font-size: 1.7rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
   width: 30rem;
   height: 30vh;
   margin-left: 8rem;
 }
 
 .grid_7i {
-  bottom: 25rem;
+  bottom: 32rem;
   font-size: 1.2rem;
   width: 30rem;
   height: 25vh;
@@ -21941,7 +21951,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 button {
-  bottom: 50rem;
+  bottom: 69rem;
   font-size: 1.2rem;
   width: 8rem;
   height: 10vh;
@@ -21968,19 +21978,19 @@ margin: 5rem 3rem 0rem;
 }
 
 .content4 p {
-  width: 35%;
+  width: 40%;
   margin: 1.5rem 24rem 0rem;
   font-size: 1.7rem;
 }
 
 .content4 hr {
   width: 2rem;
-  margin: 1rem 39rem 0rem;
+  margin: 1rem 37rem 0rem;
   bottom: 70%;
 }
 
 .content5 {
-  margin: 2rem 11.7rem 3rem;
+  margin: 2rem 3.8rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -22006,29 +22016,36 @@ margin: 5rem 3rem 0rem;
 
 .container4 {
   width: 100%;
-  height: 50rem;
+  height: 42rem;
   display: flex;
   flex-direction: row;
 }
 
 .img_20 {
-  width: 55rem;
-  height: 35vh;
-  margin: 2rem 3rem 2rem;
+  width: 25rem;
+  height: 20rem;
+  margin: 2rem 0rem 2rem;
   padding: 0rem 0rem 0rem;
 }
 
 .content6 h3 {
   margin: 2rem 7rem 1rem;
   font-size: 2.7rem;
+  width: 18rem;
 }
-
+.content6 ul li {
+  margin: 0.1rem 1rem 1rem;
+  font-size: 1.7rem;
+}
 .content6 hr {
   width: 2rem;
   margin-left: 7.5rem;
 }
 .content7{
-  margin: 0rem -7rem 0rem;
+  margin: 0rem -6rem 0rem;
+  }
+  .content7 ul li {
+    font-size: 1.7rem;
   }
 .content7 h3 {
   margin: 2rem 5rem 1rem;
@@ -22062,12 +22079,14 @@ margin: 5rem 3rem 0rem;
   margin-left: 5rem;
   width: 17rem;
 }
-
+.content8 {
+  margin: 0rem -26rem 0rem;
+}
 .content8 h3 {
   margin-top: 2rem;
   margin-left: 2rem;
   margin-bottom: 0rem;
-  font-size: 1.7rem;
+  font-size: 2.7rem;
 }
 
 .content8 hr {
@@ -22085,8 +22104,8 @@ margin: 5rem 3rem 0rem;
   padding: 0rem 1rem 0rem;
   border-radius: 0.25rem;
   font-size: 1.7rem;
-  margin: 0.5rem 2rem 0rem;
-  height: 3.5rem;
+  margin: 1.5rem 2rem 0rem;
+  height: 4.5rem;
   display: flex;
   text-align: center;
 }
@@ -22103,10 +22122,11 @@ p i {
 }
 
 .content8  i {
-  display:flex;
+width: 25rem;
+  display: flex;
   flex-direction: row;
-  margin: 1.5rem 2rem 0rem;
-  font-size: 0.9rem;
+  margin-top: 1.5rem;
+  font-size: 2.7rem;
   padding-left: 0rem;
 }
 
@@ -22118,7 +22138,7 @@ p i {
 footer {
   width: 100%;
   height: 12vh;
-  padding: 2rem 10rem 0rem;
+  padding: 2.5rem 10rem 0rem;
   font-size: 1.7rem;
   margin-top: 0.1rem;
 }
@@ -22148,14 +22168,14 @@ padding-top: 1rem;
  flex-direction: row;
 }
 .about_item2 img{
-  margin: 4rem -15rem 0rem;
+  margin: 4rem -12rem 0rem;
 width: 100rem;
-height: 70vh;
+height: 60vh;
 
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem 4rem 0rem;
+margin: 2rem 3rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -22177,9 +22197,9 @@ margin: 2rem 6rem 0rem;
 
 }
 .about_item3{
-  width: 14rem;
-  height: 4rem;
-  margin: 0rem 8rem 4rem;
+  width: 18rem;
+  height:6rem;
+  margin: 0rem 3rem 4rem;
   font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -22199,8 +22219,8 @@ font-size: 2.5rem;
 #fourA i{
  width: 90px;
  height: 90px;
-padding: 1rem 1.3rem;
-font-size: 2.5rem;
+padding: 1.2rem 1.4rem;
+font-size: 3rem;
 }
 #fourA span{
 margin-top: 0rem;
@@ -22219,15 +22239,15 @@ margin-left: 2rem;
 #three i{
   width: 90px;
  height: 90px;
-padding: 1rem 1.3rem;
 border-radius: 50%;
-font-size: 2.5rem;
+padding: 1.2rem 1.4rem;
+font-size: 3rem;
 }
 #three span{
   margin-top: 0rem;
   margin-left: 6rem;
   padding-bottom: 3rem;
- bottom: 5rem;
+ bottom: 6rem;
    }
 .three{
   font-size: 1.7rem;
@@ -22242,15 +22262,15 @@ font-size: 2.5rem;
 #fourB i{
   width: 90px;
   height: 90px;
- padding: 1rem 1.3rem;
  border-radius: 50%;
- font-size: 2.5rem;
+ padding: 1.2rem 1.4rem;
+font-size: 3rem;
 }
 #fourB span{
   margin-top: 0rem;
   margin-left: 6rem;
   padding-bottom: 3rem;
- bottom: 5rem;
+ bottom: 6rem;
    }
 .fourB{
   font-size: 1.5rem;
@@ -22260,7 +22280,7 @@ font-size: 2.5rem;
 .about_item5{
   padding-top: 4rem;
   width: 100%;
-  height: 50rem;
+  height: 57rem;
   margin-left: 0rem;
 }
 .about_item5 h2{
@@ -22272,15 +22292,15 @@ font-size: 2.5rem;
   margin-bottom: 2.2rem;
 }
 .about_item5 p{
- width: 60%;
- line-height: 40px;
+ width: 80%;
+ line-height: 50px;
 padding: 0.5rem 0rem 0rem;
 font-size: 1.7rem;
-margin: 0rem 18rem 0rem;
+margin: 0rem 8.5rem 0rem;
 }
 .about_item5 span{
-  width: 13rem;
-  height: 4rem;
+  width: 15rem;
+  height: 5rem;
   margin: 2rem 38rem 0rem;
   font-size: 1.7rem;
   border-radius: 0.25rem;
@@ -22304,18 +22324,18 @@ flex-direction: row;
 }
 .about_item6 h2{
   width: 40%;
-  margin-left: 4rem;
+  margin-left: 1rem;
   font-size: 2.7rem;
   text-align: center;
 }
 
 .about_item6 hr{
-  margin: 2rem 6rem 2rem;
+  margin: 2rem 4rem 2rem;
  
 }
 .about_item6 p{
   width: 63%;
-  margin: 0rem 5rem 1.5rem;
+  margin: 0rem 2rem 1.5rem;
   line-height: 35px;
   padding: 0.5rem 1rem;
   text-align: justify;
@@ -22325,7 +22345,7 @@ flex-direction: row;
   display: block;
   width: 60%;
   height: 50vh;
-  margin: 0rem 6rem 0rem;
+  margin: 0rem 2rem 0rem;
 }
 .about_item7 {
   margin: 15rem 0rem 0rem;
@@ -22333,15 +22353,15 @@ flex-direction: row;
   width: 100%;
 }
 .about_item7 label{
-  width: 30rem;
-  margin: 0rem -10rem 0.7rem;
-  padding: 0rem 0rem 0rem;
+  width: 35.5rem;
+  margin: 0rem -19rem 0.7rem;
+  padding: 0.5rem 0rem 0rem;
 font-size: 2.2rem;
 }
 .about_item7 input{
   width: 10vw;
   height: 3.5vh;
-padding: 0rem -15rem 0rem;
+padding: 0.5rem -15rem 0rem;
 margin: 0.7rem -3rem 0rem;
 }
 
@@ -22357,37 +22377,37 @@ font-size: 1rem;
  padding: 0rem 0rem 0rem;
 }
 .term-of-office p{
-  width: 26rem;
+  width: 31rem;
   padding-right: 0rem;
-  margin: -3.5rem -10rem -1rem;
+  margin: -3.5rem -17rem -1rem;
   font-size: 1.7rem;
 }
 .vision-and-goal p{
-  margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  margin: -3.5rem -17rem -1rem;
+  width: 31rem;
   font-size: 1.7rem;
 }
 
 .project-committee p{
-  margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  margin: -3.5rem -17rem -1rem;
+  width: 31rem;
   font-size: 1.7rem;
 }
 .membership-status p{
-  margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  margin: -3.5rem -17rem -1rem;
+  width: 31rem;
   font-size: 1.7rem;
 }
 .specific-objective p{
-  margin: -3.5rem -10rem -7rem;
-  width: 26rem;
+  margin: -3.5rem -17rem -1rem;
+  width: 31rem;
   line-height: 30px;
-  height: 16rem;
+  height: 18rem;
   font-size: 1.7rem;
 }
 .activities p{
-  margin: -3.5rem -10rem -1rem;
-  width: 26rem;
+  margin: -3.5rem -17rem -1rem;
+  width: 31rem;
   font-size: 1.7rem;
 }
 
@@ -22452,7 +22472,7 @@ text-align: center;
 
 .container_blog p {
   width: 70%;
-  line-height: 30px;
+  line-height: 40px;
   margin: 1rem 12rem 0rem;
   font-size: 1.7rem;
   text-align: center;
@@ -22473,7 +22493,7 @@ padding-right:0rem;
 .blog_item2{
 
   width: 30%;
-  height:70vh;
+  height:85vh;
   margin-left: 3rem;
 }
 .blog_item2 img{
@@ -22489,32 +22509,31 @@ font-size: 2rem;
 text-align: center;
 }
 .blog_item2 p{
-  margin: 1rem 1.5rem 1rem;
+  margin: 1rem 1rem 1rem;
   line-height: 30px;
  padding: 0rem 0rem 0rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 100%;
+  width: 22rem;
 }
 
 
 
 .blog_item2 .date{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-font-size: 1.7rem;
+  margin: 1rem 1rem 0rem;
+font-size: 1.5rem;
 padding-left: 0rem;
 }
 .blog_item2 .comment{
   margin: 1rem 0.5rem 0rem;
-font-size: 1.7rem;
+font-size: 1.5rem;
 padding-left: 0rem;
 }
 
 .blog_item3{
 
   width: 30%;
-  height: 60vh;
+  height: 70vh;
   margin:1rem 1rem 0rem ;
   border-radius: 0.5rem 0.5rem;
 
@@ -22535,26 +22554,25 @@ text-align: center;
 .blog_item3 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 1.5rem 1rem;
+  margin: 1rem 1rem 1rem;
   line-height: 30px;
   text-align: justify;
   font-size: 1.7rem;
-  width: 100%;
+  width: 22rem;
 }
 .blog_item3 i{
   padding-right: 0rem;
 }
 
 .blog_item3 .date{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-font-size: 1.7rem;
+  margin: 1rem 1rem 0rem;
+font-size: 1.5rem;
 padding-left: 0rem;
 color: #782D50;
 }
 .blog_item3 .comment{
   margin: 1rem 0.5rem 0rem;
-font-size: 1.7rem;
+font-size: 1.5rem;
 padding-left: 0rem;
 color: #782D50;
 }
@@ -22562,7 +22580,7 @@ color: #782D50;
 .blog_item4{
 
   width: 30%;
-  height: 80vh;
+  height: 85vh;
   margin: 1rem 0rem 0rem;
 
 }
@@ -22583,11 +22601,12 @@ text-align: center;
 .blog_item4 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 1.5rem 1rem;;
+  margin: 1rem 1rem 1rem;;
   line-height: 30px;
   padding: 0.5rem 1rem;
   text-align: justify;
   font-size: 1.7rem;
+  width: 22rem;
 }
 .blog_item4 i{
   padding-right: 0rem;
@@ -22595,15 +22614,14 @@ text-align: center;
 
 
 .blog_item4 .date{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-font-size: 1.7rem;
+  margin: 1rem 1rem 0rem;
+font-size: 1.5rem;
 padding-left: 0rem;
 color: #782D50;
 }
 .blog_item4 .comment{
   margin: 1rem 0.5rem 0rem;
-font-size: 1.7rem;
+font-size: 1.5rem;
 padding-left: 0rem;
 }
 #btn{
@@ -22613,7 +22631,7 @@ padding-left: 0rem;
 }
 
 .Btn{
-  width: 8vw;
+  width: 9vw;
   height: 7vh;
   font-size: 1.7rem;
   border: none;
@@ -22679,14 +22697,14 @@ padding-left: 0rem;
   #events1{
     display: flex;
     flex-direction: row;
-    margin: 3rem 8rem 0rem;
+    margin: 3rem 4rem 0rem;
     width: 100%;
   }
   
   .events_item2{
   
     width: 35rem;
-    height: 45rem;
+    height: 50rem;
   margin: 0rem 2rem 0rem;
   }
   
@@ -22721,9 +22739,9 @@ padding-left: 0rem;
   
   }
   .events_item2 button{
-    margin-left: 9rem;
+    margin-left: 11rem;
     width: 13rem;
-    height: 7vh;
+    height: 8vh;
     font-size: 1.7rem;
   }
   
@@ -22731,7 +22749,7 @@ padding-left: 0rem;
   .events_item3{
   
     width: 35rem;
-    height:60rem;
+    height:70rem;
     margin: 0rem 0rem 3rem;
   }
   
@@ -22768,9 +22786,9 @@ padding-left: 0rem;
   
   }
   .events_item3 button{
-    margin-left: 9rem;
+    margin-left: 11rem;
     width: 13rem;
-    height: 7vh;
+    height: 8vh;
     font-size: 1.7rem;
   }
   
@@ -22792,16 +22810,16 @@ padding-left: 0rem;
 }
 
 .container_projects p {
-  width: 70%;
-  line-height: 25px;
-  margin: 1rem 15rem 0rem;
+  width: 80%;
+  line-height: 40px;
+  margin: 1rem 12rem 0rem;
   font-size: 1.7rem;
 text-align: center;
 }
 
 .container_projects hr {
   bottom: 70%;
-  margin: 1rem 38rem 0rem;
+  margin: 1rem 39rem 0rem;
 }
 .content_one .project1 {
   display: flex;
@@ -22813,7 +22831,7 @@ text-align: center;
 
 .group{
   display: flex;
-  margin-left: 2.5rem;
+  margin-left: 2.7rem;
   flex-direction: row;
 }
 
@@ -22828,7 +22846,7 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 62rem;
+  height: 75rem;
 }
 .projects_item1 img{
   height: 20rem;
@@ -22846,19 +22864,19 @@ text-align: center;
 
 .projects_item1 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .projects_item1 .comment {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.7rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .projects_item2 {
   margin: 1rem 0rem 0rem;
-  height:48rem;
+  height:55rem;
   width: 25rem;
 }
 .projects_item2 img{
@@ -22876,20 +22894,20 @@ text-align: center;
 
 .projects_item2 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .projects_item2 .comment {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.7rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .projects_item3 {
   margin: 1rem 1rem 0rem;
   width: 25rem;
-  height: 47rem;
+  height: 52rem;
   border-radius: 0.5rem;
 }
 .projects_item3 img{
@@ -22907,13 +22925,13 @@ text-align: center;
 
 .projects_item3 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .projects_item3 .comment {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.7rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
@@ -22926,7 +22944,7 @@ text-align: center;
   width: 25rem;
   background-color: whitesmoke;
   margin-left: 3.5rem;
-  height: 45rem;
+  height: 50rem;
   border-radius: 0.5rem;
 }
 .projects_item4 img{
@@ -22949,14 +22967,14 @@ text-align: center;
 
 .projects_item4 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .projects_item4 .comment {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.7rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
   color: #782D50;
 }
@@ -22975,7 +22993,7 @@ text-align: center;
     }
     
     .gallery3{
-      margin: 5rem 2rem 3rem;
+      margin: 5rem 2.2rem 3rem;
       display: block;
       width: 100%;
 
@@ -23043,8 +23061,8 @@ text-align: center;
   margin-right: 2rem;
   width: 6rem;
   height: 6rem;
-  padding: 0.8rem 1rem;
-  font-size: 2.5rem;
+  padding: 1rem 1.5rem;
+  font-size: 3.5rem;
 }
 
 .contact_item2{
@@ -23120,8 +23138,8 @@ text-align: center;
   font-size: 1.7rem;
 }
 .contact_item5 button{
-  width: 14rem;
-  height: 4rem;
+  width: 18rem;
+  height: 6rem;
   margin:0rem 7rem 1rem;
   font-size: 1.7rem;
   display: flex;
@@ -23229,43 +23247,43 @@ font-size: 2.7rem;
 color: white;
 }
 .login .content_2{
-margin-left: 50rem;
+margin-left: 40rem;
 font-size:2.7rem;
 }
 .fill .content_A{
   margin: 10rem 20rem 3rem;
   padding: 0rem 1rem 0rem;
-  width: 45rem;
-  height: 8vh;
+  width: 50rem;
+  height: 9vh;
   border-radius: 0.25rem;
   font-size: 1.7rem;
   display: flex;
   align-items: center;
 }
 .fill .email{
-  margin: 0rem 23.5rem 1.5rem;
-  width: 60rem;
+  margin: 0rem 22.5rem 1.5rem;
+  width: 70rem;
   font-size: 1.7rem;
 }
 .fill .email input{
-  height: 4rem;
-  width: 27rem;
+  height: 6rem;
+  width: 32rem;
   margin: 0rem 0.5rem 2rem;
   border-radius: 0.25rem;
 }
 .fill .password{
-  margin: 0rem 25.5rem 2rem;
-  width: 60rem;
+  margin: 0rem 26rem 2rem;
+  width: 70rem;
   font-size: 1.7rem;
 }
 .fill .password input{
-  height: 2.2rem;
-  width: 27rem;
+  height: 6rem;
+  width: 32rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }
 .check{
-  margin: 1rem 30rem 0rem;
+  margin: 1rem 34rem 0rem;
   color: white;
   font-size: 1.7rem;
 }
@@ -23275,13 +23293,13 @@ font-size:2.7rem;
 }
 .fill .contentA{
   display: flex;
-  margin:3rem 30rem 0rem ;
+  margin:3rem 34rem 0rem ;
   width: 100%;
   font-size: 1.7rem;
 }
 .fill .contentA button{
-  height: 3.5rem;
-  width: 5rem;
+  height: 4rem;
+  width: 6rem;
   margin-top:-1rem ;
   font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
@@ -23292,3 +23310,10 @@ font-size:2.7rem;
   font-size: 1.7rem;
 }
 }
+
+
+
+
+
+
+

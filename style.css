@@ -19487,7 +19487,7 @@ text-align: center;
 }
 
 .grid_5 img {
-  height: 40rem;
+  height: 60rem;
   margin-top: 0rem;
   width: 100%;
   position: relative;
@@ -19530,9 +19530,9 @@ margin: 5rem 3rem 0rem;
 .grid_6 p {
   bottom: 40rem;
   font-size: 1.7rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
   width: 30rem;
-  height: 25vh;
+  height: 27vh;
   padding: 0.5rem 0.5rem 0rem;
 }
 
@@ -19543,7 +19543,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 h2 {
-  bottom: 65rem;
+  bottom: 62rem;
   font-size: 2.7rem;
   width: 40vw;
   height: 25vh;
@@ -19561,7 +19561,7 @@ margin: 5rem 3rem 0rem;
 .grid_7 p {
   bottom: 30rem;
   font-size: 1.7rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
   width: 30rem;
   height: 30vh;
   margin-left: 8rem;
@@ -19582,7 +19582,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 button {
-  bottom: 50rem;
+  bottom: 53rem;
   font-size: 1.2rem;
   width: 8rem;
   height: 10vh;
@@ -19609,19 +19609,19 @@ margin: 5rem 3rem 0rem;
 }
 
 .content4 p {
-  width: 35%;
+  width: 40%;
   margin: 1.5rem 24rem 0rem;
   font-size: 1.7rem;
 }
 
 .content4 hr {
   width: 2rem;
-  margin: 1rem 39rem 0rem;
+  margin: 1rem 37rem 0rem;
   bottom: 70%;
 }
 
 .content5 {
-  margin: 2rem 11.7rem 3rem;
+  margin: 2rem 8rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -19647,15 +19647,15 @@ margin: 5rem 3rem 0rem;
 
 .container4 {
   width: 100%;
-  height: 50rem;
+  height: 45rem;
   display: flex;
   flex-direction: row;
 }
 
 .img_20 {
-  width: 55rem;
-  height: 35vh;
-  margin: 2rem 3rem 2rem;
+  width: 25rem;
+  height: 20rem;
+  margin: 2rem 1rem 2rem;
   padding: 0rem 0rem 0rem;
 }
 
@@ -19663,7 +19663,10 @@ margin: 5rem 3rem 0rem;
   margin: 2rem 7rem 1rem;
   font-size: 2.7rem;
 }
-
+.content6 ul {
+  margin: 2rem 5rem 1rem;
+  font-size: 1.7rem;
+}
 .content6 hr {
   width: 2rem;
   margin-left: 7.5rem;
@@ -19703,7 +19706,9 @@ margin: 5rem 3rem 0rem;
   margin-left: 5rem;
   width: 17rem;
 }
-
+.content8 {
+  margin: 0rem -7rem 0rem;
+}
 .content8 h3 {
   margin-top: 2rem;
   margin-left: 2rem;
@@ -19747,7 +19752,7 @@ p i {
   display:flex;
   flex-direction: row;
   margin: 1.5rem 2rem 0rem;
-  font-size: 0.9rem;
+  font-size: 2rem;
   padding-left: 0rem;
 }
 
@@ -19759,7 +19764,7 @@ p i {
 footer {
   width: 100%;
   height: 12vh;
-  padding: 2rem 10rem 0rem;
+  padding: 2.5rem 10rem 0rem;
   font-size: 1.7rem;
   margin-top: 0.1rem;
 }

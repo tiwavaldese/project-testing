@@ -19495,7 +19495,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h2 {
-  bottom: 75rem;
+  bottom: 82rem;
   font-size: 2.7rem;
   width: 30rem;
   height: 9vh;
@@ -19503,7 +19503,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6 h3 {
-  bottom: 60rem;
+  bottom: 70rem;
   font-size: 1.7rem;
   width: 30rem;
   height: 20vh;
@@ -19512,7 +19512,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_6i {
-  bottom: 50rem;
+  bottom: 60rem;
   font-size: 1.2rem;
   width:30rem;
   height: 10vh;
@@ -19522,11 +19522,11 @@ margin: 5rem 3rem 0rem;
 
 
 .grid_6 p {
-  bottom: 40rem;
+  bottom: 45rem;
   font-size: 1.7rem;
   line-height: 2rem;
   width: 30rem;
-  height: 27vh;
+  height: 35vh;
   padding: 0.5rem 0.5rem 0rem;
 }
 
@@ -19537,7 +19537,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 h2 {
-  bottom: 62rem;
+  bottom:72rem;
   font-size: 2.7rem;
   width: 40vw;
   height: 25vh;
@@ -19547,13 +19547,13 @@ margin: 5rem 3rem 0rem;
 
 .grid_7 hr {
   left: 0;
-  bottom: 62rem;
+  bottom: 76rem;
   margin-left: 10rem;
   width: 3rem;
 }
 
 .grid_7 p {
-  bottom: 30rem;
+  bottom: 40rem;
   font-size: 1.7rem;
   line-height: 2rem;
   width: 30rem;
@@ -19576,7 +19576,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .grid_7 button {
-  bottom: 53rem;
+  bottom: 63rem;
   font-size: 1.2rem;
   width: 8rem;
   height: 10vh;
@@ -19657,8 +19657,8 @@ margin: 5rem 3rem 0rem;
   margin: 2rem 7rem 1rem;
   font-size: 2.7rem;
 }
-.content6 ul {
-  margin: 2rem 5rem 1rem;
+.content6 ul li {
+  margin: 2rem 1rem 1rem;
   font-size: 1.7rem;
 }
 .content6 hr {
@@ -19701,7 +19701,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -7rem 0rem;
+  margin: 0rem -16rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;

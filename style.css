@@ -16615,7 +16615,7 @@ h1 {
   font-size: 1.5rem;
 }
 #italic {
-  margin-left: 6rem;
+  margin-left: 4rem;
   display: block;
 }
 .menu {
@@ -18600,7 +18600,7 @@ font-size:2.2rem;
 .img_1 {
   width: 12%;
   height: 80%;
-  margin: 0.5rem 4rem 0rem;
+  margin: 0.5rem 2rem 0rem;
 }
 
 .navbar li {
@@ -18616,6 +18616,7 @@ font-size: 1.7rem ;
 font-weight: bold;
 margin: -4rem 11rem 0rem;
 padding: 0rem 7rem 0rem;
+gap: 1px;
 }
 .navbar.sticky {
   display: block;
@@ -18749,7 +18750,7 @@ h1 {
 
 .slide.three img {
   width: 100%;
-  margin:-4rem 8.5rem 0rem;
+  margin:-4rem 9rem 0rem;
   
 }
 
@@ -18763,10 +18764,10 @@ h1 {
 }
 
 .slide .captionB {
-  bottom: 48%;
+  bottom: 46%;
   font-size: 1.7rem;
   width: 45%;
-  height: 28vh;
+  height: 25vh;
   margin: 0rem 8rem 0rem;
   padding: 0rem 0.5rem 0rem;
   line-height:35px;
@@ -18946,13 +18947,13 @@ strong{
 
 .grid_item1 .date {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item1 .comment {
-  margin: 0rem 2rem 0rem;
-  font-size: 1rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
@@ -18976,13 +18977,13 @@ strong{
 
 .grid_item2 .date {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item2 .comment {
-  margin: 0rem 2rem 0rem;
-  font-size: 1rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
@@ -19007,13 +19008,13 @@ strong{
 
 .grid_item3 .date {
   margin: 0rem 1rem 0rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
 .grid_item3 .comment {
-  margin: 0rem 2rem 0rem;
-  font-size: 1rem;
+  margin: 0rem 0.3rem 0rem;
+  font-size: 1.5rem;
   padding-left: 1rem;
 }
 
@@ -19147,7 +19148,7 @@ strong{
  margin-left: 2rem;
 width: 100%;
 height: 93vh;
-margin-top: 8rem;
+margin-top: 10rem;
 display: block;
 }
 
@@ -19160,7 +19161,7 @@ display: block;
 .row_item5 h2 {
   font-size: 2.7rem;
   margin: 0rem 0rem 1.5rem;
-  width: 50%;
+  width: 60%;
 }
 
 .row_item5 hr {
@@ -19172,7 +19173,7 @@ display: block;
 .row_item5 span {
   display: block;
   margin-left: 5rem;
-  width: 17rem;
+  width: 20rem;
   bottom: 3rem;
   position: relative;
   font-size: 2.2rem;
@@ -19395,7 +19396,7 @@ text-align: center;
 
 #row1 strong {
   position: relative;
-  bottom: -3rem;
+  bottom: -9rem;
 }
 
 
@@ -19444,7 +19445,7 @@ text-align: center;
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 3.3rem 0rem ;
+  margin: 16rem 3.5rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;

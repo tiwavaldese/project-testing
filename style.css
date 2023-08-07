@@ -23360,7 +23360,7 @@ width: 100%;
 padding-right: 1rem;
 font-size: 1.7rem ;
 font-weight: bold;
-margin: -4rem 11rem 0rem;
+margin: -4rem 13rem 0rem;
 padding: 0rem 0rem 0rem;
 gap: 1px;
 }
@@ -23433,7 +23433,7 @@ h1 {
   display: flex;
   font-size: 1.7rem;
   width: 100%;
-  padding: 0.8rem 3rem 0rem;
+  padding: 0.8rem 5rem 0rem;
   height: 4rem;
   gap: 3px;
 }
@@ -23510,7 +23510,7 @@ h1 {
 }
 
 .slide .captionB {
-  bottom: 55%;
+  bottom: 51%;
   font-size: 1.7rem;
   width: 45%;
   height: 24vh;
@@ -23566,13 +23566,13 @@ h1 {
   bottom: 62%;
   font-size: 2rem;
   width: 50%;
-  height: 8vh;
+  height: 9vh;
   padding: 0.7rem 0.5rem 0rem;
   margin-left:30rem;
 }
 
 .slide .captionH {
-  bottom: 44%;
+  bottom: 44.5%;
   font-size: 1.7rem;
   width: 50%;
   height: 18vh;
@@ -23616,7 +23616,7 @@ strong{
 }
 .container hr {
   bottom: 70%;
-  margin: 1rem 45rem 0rem;
+  margin: 1rem 47rem 0rem;
 }
 
 .img_2 {
@@ -23641,7 +23641,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 45rem 4.2rem;
+  margin: 3rem 0rem 45rem 2.5rem;
   height: 90vh;
   width: 100%;
 }
@@ -23811,7 +23811,7 @@ strong{
 .grid_item button {
   width: 18rem;
   height: 6rem;
-  margin: 2rem 3.5rem 3rem;
+  margin: 2rem 3rem 3rem;
   padding: 0rem 1rem 0rem;
   border-radius: 5px;
   font-size: 2rem;

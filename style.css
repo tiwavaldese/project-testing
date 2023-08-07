@@ -21814,12 +21814,12 @@ text-align: center;
 #container hr {
   width: 2rem;
   text-align: center;
-  margin: 1rem 43rem 1.5rem;
+  margin: 1rem 44rem 1.5rem;
 }
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 3.6rem 0rem ;
+  margin: 16rem 4rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -21830,7 +21830,7 @@ text-align: center;
   padding-right: 18px;
   right: 42%;
   top: 35%;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 #img_13 {
@@ -21866,22 +21866,22 @@ text-align: center;
 .grid_6 {
   width: 50%;
   height: 35vh;
-margin: 5rem 3rem 0rem;
+margin: 5rem 5rem 0rem;
 }
 
 .grid_6 h2 {
   bottom: 87rem;
   font-size: 2.7rem;
   width: 30rem;
-  height: 9vh;
-  padding: 0.3rem 2rem 0rem;
+  height: 10vh;
+  padding: 0.4rem 2rem 0rem;
 }
 
 .grid_6 h3 {
   bottom: 74rem;
   font-size: 1.7rem;
   width: 30rem;
-  height: 20vh;
+  height: 21vh;
   padding-left: 2rem;
   margin-top: 0.5rem;
 }
@@ -21890,7 +21890,7 @@ margin: 5rem 3rem 0rem;
   bottom: 67.5rem;
   font-size: 1.2rem;
   width:30rem;
-  height: 10vh;
+  height: 11vh;
   padding-left: 1.5rem;
   padding-right: 2rem;
 }
@@ -21901,14 +21901,14 @@ margin: 5rem 3rem 0rem;
   font-size: 1.7rem;
   line-height: 2rem;
   width: 30rem;
-  height: 35vh;
+  height: 38vh;
   padding: 0.5rem 0.5rem 0rem;
 }
 
 .grid_7 {
   width: 50%;
   height: 35vh;
-  margin: 2rem 35rem 0rem;
+  margin: 2rem 37rem 0rem;
 }
 
 .grid_7 h2 {
@@ -21985,12 +21985,12 @@ margin: 5rem 3rem 0rem;
 
 .content4 hr {
   width: 2rem;
-  margin: 1rem 37rem 0rem;
+  margin: 1rem 38rem 0rem;
   bottom: 70%;
 }
 
 .content5 {
-  margin: 2rem 3.8rem 3rem;
+  margin: 2rem 4.3rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -22042,7 +22042,7 @@ margin: 5rem 3rem 0rem;
   margin-left: 7.5rem;
 }
 .content7{
-  margin: 0rem -6rem 0rem;
+  margin: 0rem -7rem 0rem;
   }
   .content7 ul li {
     font-size: 1.7rem;
@@ -22080,7 +22080,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -26rem 0rem;
+  margin: 0rem -27rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
@@ -22123,8 +22123,7 @@ p i {
 
 .content8  i {
 width: 25rem;
-  display: flex;
-  flex-direction: row;
+  display: block;
   margin-top: 1.5rem;
   font-size: 2.7rem;
   padding-left: 0rem;

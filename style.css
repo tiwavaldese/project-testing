@@ -24825,7 +24825,7 @@ height: 20%;
   .blog_item1 p{
     width: 100%;
     height: 5vh;
-  padding-top: 1.5rem;
+  padding-top: 2rem;
    font-size: 1.7rem;
   }
 
@@ -24864,7 +24864,7 @@ padding-right:0rem;
 .blog_item2{
 
   width: 30%;
-  height:92vh;
+  height:100vh;
   margin-left: 3rem;
 }
 .blog_item2 img{
@@ -24880,7 +24880,7 @@ font-size: 2rem;
 text-align: center;
 }
 .blog_item2 p{
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 2.2rem 1rem;
   line-height: 30px;
  padding: 0rem 0rem 0rem;
   text-align: justify;
@@ -24904,7 +24904,7 @@ padding-left: 0rem;
 .blog_item3{
 
   width: 30%;
-  height: 70vh;
+  height: 75vh;
   margin:1rem 1rem 0rem ;
   border-radius: 0.5rem 0.5rem;
 
@@ -24925,7 +24925,7 @@ text-align: center;
 .blog_item3 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 2rem 1rem;
+  margin: 1rem 2.2rem 1rem;
   line-height: 30px;
   text-align: justify;
   font-size: 1.7rem;
@@ -24951,7 +24951,7 @@ color: #782D50;
 .blog_item4{
 
   width: 30%;
-  height: 85vh;
+  height: 90vh;
   margin: 1rem 0rem 0rem;
 
 }
@@ -24972,7 +24972,7 @@ text-align: center;
 .blog_item4 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 2rem 1rem;;
+  margin: 1rem 2.2rem 1rem;;
   line-height: 30px;
   padding: 0.5rem 1rem;
   text-align: justify;

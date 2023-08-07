@@ -22695,7 +22695,7 @@ padding-left: 0rem;
   #events1{
     display: flex;
     flex-direction: row;
-    margin: 3rem 6rem 0rem;
+    margin: 3rem 7rem 0rem;
     width: 100%;
   }
   
@@ -22829,7 +22829,7 @@ text-align: center;
 
 .group{
   display: flex;
-  margin-left: 4.3rem;
+  margin-left: 5.5rem;
   flex-direction: row;
 }
 
@@ -22941,7 +22941,7 @@ font-size: 1.2rem;
   align-items: center;
   width: 25rem;
   background-color: whitesmoke;
-  margin-left: 5rem;
+  margin-left: 5.5rem;
   height: 51rem;
   border-radius: 0.5rem;
 }
@@ -23095,7 +23095,7 @@ font-size: 1.2rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 34.5rem;
+  width: 35rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -23103,7 +23103,7 @@ font-size: 1.2rem;
 }
 
 .contact_item3 #email{
-  width: 34.5rem;
+  width: 35rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -23112,7 +23112,7 @@ font-size: 1.2rem;
 }
 
 .contact_item3 #subject{
-  width:34.5rem;
+  width:35rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -23120,7 +23120,7 @@ font-size: 1.2rem;
 }
 
 .contact_item3 #number{
-  width: 34.5rem;
+  width: 35rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;

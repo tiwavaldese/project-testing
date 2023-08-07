@@ -18572,7 +18572,6 @@ font-size:2.2rem;
   }
   body{
     font-size: 1rem;
-    background-color:cadetblue;
   }
   .wrapper {
     width: 100%;
@@ -18612,7 +18611,7 @@ font-size:2.2rem;
 flex-direction: row;
 width: 100%;
 padding-right: 1rem;
-font-size: 1.5rem ;
+font-size: 1.6rem ;
 font-weight: bold;
 margin: -4rem 9rem 0rem;
 padding: 0rem 0rem 0rem;

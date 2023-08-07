@@ -25613,20 +25613,20 @@ figure{
 }
 .login{
   display: flex;
-  padding: 2rem 10rem 0rem;
+  padding: 3rem 10rem 0rem;
 }
 .content_1{
 font-size: 2.7rem;
 color: white;
 }
 .login .content_2{
-margin-left: 40rem;
+margin-left: 45rem;
 font-size:2.7rem;
 }
 .fill .content_A{
-  margin: 10rem 20rem 3rem;
+  margin: 9rem 20rem 3rem;
   padding: 0rem 1rem 0rem;
-  width: 50rem;
+  width: 54rem;
   height: 9vh;
   border-radius: 0.25rem;
   font-size: 1.7rem;
@@ -25640,7 +25640,7 @@ font-size:2.7rem;
 }
 .fill .email input{
   height: 6rem;
-  width: 32rem;
+  width: 36rem;
   margin: 0rem 0.5rem 2rem;
   border-radius: 0.25rem;
 }
@@ -25651,7 +25651,7 @@ font-size:2.7rem;
 }
 .fill .password input{
   height: 6rem;
-  width: 32rem;
+  width: 36rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }

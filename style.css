@@ -25202,7 +25202,7 @@ text-align: center;
 
 .group{
   display: flex;
-  margin-left: 3.8rem;
+  margin-left: 2.5rem;
   flex-direction: row;
 }
 
@@ -25229,7 +25229,7 @@ text-align: center;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 1rem;
+  margin: 0rem 1rem 1rem;
 }
 
 
@@ -25260,7 +25260,7 @@ font-size: 1.5rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 1rem;
+  margin: 0rem 1rem 1rem;
 }
 
 .projects_item2 .date {
@@ -25291,7 +25291,7 @@ font-size: 1.5rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 1rem;
+  margin: 0rem 1rem 1rem;
 }
 
 .projects_item3 .date {
@@ -25328,7 +25328,7 @@ font-size: 1.5rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 1rem;
+  margin: 0rem 1rem 1rem;
 }
 
 .projects_item4 i {

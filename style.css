@@ -19642,7 +19642,7 @@ margin: 5rem 3rem 0rem;
 
 .container4 {
   width: 100%;
-  height: 42rem;
+  height: 40rem;
   display: flex;
   flex-direction: row;
 }
@@ -19980,14 +19980,16 @@ flex-direction: row;
 .about_item7 label{
   width: 35.5rem;
   margin: 0rem -19rem 0.7rem;
-  padding: 0.5rem 0rem 0rem;
+  padding: 0rem 1rem 0rem;
 font-size: 2.2rem;
+align-items: center;
 }
 .about_item7 input{
   width: 10vw;
   height: 3.5vh;
-padding: 0.5rem -15rem 0rem;
+padding: 0rem 1rem 0rem;
 margin: 0.7rem -3rem 0rem;
+align-items: center;
 }
 
 .about_item7 p{
@@ -20027,7 +20029,7 @@ font-size: 1rem;
   margin: -3.5rem -17rem -1rem;
   width: 31rem;
   line-height: 30px;
-  height: 18rem;
+  height: 16rem;
   font-size: 1.7rem;
 }
 .activities p{

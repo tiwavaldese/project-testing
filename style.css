@@ -25355,7 +25355,9 @@ font-size: 1.5rem;
 .container_volunteers p{
   font-size: 1.7rem;
 }
-
+.container_volunteers hr{
+ margin-left: 30rem;
+}
     
     #gallery .events_item1{
       margin: -1.5rem 0rem 0rem;
@@ -25370,8 +25372,8 @@ font-size: 1.5rem;
 
     }
     .gallery3 img{
-      width: 19rem;
-      height: 15rem;
+      width: 25rem;
+      height: 20rem;
     }
     .gallery3A{
       display: flex;

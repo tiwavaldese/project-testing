@@ -18894,7 +18894,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 32rem 2.7rem;
+  margin: 3rem 0rem 34rem 2.7rem;
   height: 90vh;
   width: 100%;
 }
@@ -18928,7 +18928,7 @@ strong{
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 88rem;
+  height: 89rem;
 }
 .grid_item1 img{
   height:25rem;
@@ -18940,25 +18940,25 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.2rem 0rem;
+  margin: 0rem 1.2rem 1rem;
 }
 
 
 .grid_item1 .date {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.5rem;
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .grid_item1 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .grid_item2 {
   margin: 1rem 0rem 0rem;
-  height:65rem;
+  height:66rem;
   width: 25rem;
 }
 .grid_item2 img{
@@ -18971,25 +18971,25 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.2rem 0rem;
+  margin: 0rem 1.2rem 1rem;
 }
 
 .grid_item2 .date {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.5rem;
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .grid_item2 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .grid_item3 {
   margin: 1rem 1rem 0rem;
   width: 25rem;
-  height: 60rem;
+  height: 62rem;
   border-radius: 0.5rem;
 }
 .grid_item3 img{
@@ -19002,18 +19002,18 @@ strong{
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.2rem 0rem;
+  margin: 0rem 1.2rem 1rem;
 }
 
 .grid_item3 .date {
-  margin: 0rem 1rem 0rem;
-  font-size: 1.5rem;
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .grid_item3 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
@@ -19750,7 +19750,7 @@ p i {
 width: 25rem;
   display:block;
   margin-top: 1.5rem;
-  font-size: 2.7rem;
+  font-size: 2rem;
   padding-left: 0rem;
 }
 
@@ -20146,13 +20146,13 @@ text-align: center;
 
 
 .blog_item2 .date{
-  margin: 1rem 1rem 0rem;
-font-size: 1rem;
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
 padding-left: 0rem;
 }
 .blog_item2 .comment{
-  margin: 1rem 0.5rem 0rem;
-font-size: 1rem;
+  margin: 1rem 0.3rem 0rem;
+font-size: 1.2rem;
 padding-left: 0rem;
 }
 
@@ -20191,14 +20191,14 @@ text-align: center;
 }
 
 .blog_item3 .date{
-  margin: 1rem 1rem 0rem;
-font-size: 1.5rem;
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
 padding-left: 0rem;
 color: #782D50;
 }
 .blog_item3 .comment{
-  margin: 1rem 0.5rem 0rem;
-font-size: 1.5rem;
+  margin: 1rem 0.3rem 0rem;
+font-size: 1.2rem;
 padding-left: 0rem;
 color: #782D50;
 }
@@ -20240,14 +20240,14 @@ text-align: center;
 
 
 .blog_item4 .date{
-  margin: 1rem 1rem 0rem;
-font-size: 1rem;
+  margin: 0rem 0.5rem 0rem;
+  font-size: 1.2rem;
 padding-left: 0rem;
 color: #782D50;
 }
 .blog_item4 .comment{
-  margin: 1rem 0.5rem 0rem;
-font-size: 1rem;
+  margin: 1rem 0.3rem 0rem;
+font-size: 1.2rem;
 padding-left: 0rem;
 }
 #btn{
@@ -20472,7 +20472,7 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 25rem;
-  height: 75rem;
+  height: 76rem;
 }
 .projects_item1 img{
   height: 20rem;
@@ -20484,25 +20484,25 @@ text-align: center;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 
 .projects_item1 .date {
-  margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+   margin: 0rem 0rem 0rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .projects_item1 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .projects_item2 {
   margin: 1rem 0rem 0rem;
-  height:55rem;
+  height:56rem;
   width: 25rem;
 }
 .projects_item2 img{
@@ -20515,25 +20515,25 @@ text-align: center;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 .projects_item2 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .projects_item2 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .projects_item3 {
   margin: 1rem 1rem 0rem;
   width: 25rem;
-  height: 52rem;
+  height: 53rem;
   border-radius: 0.5rem;
 }
 .projects_item3 img{
@@ -20546,18 +20546,18 @@ text-align: center;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 .projects_item3 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
 .projects_item3 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
 }
 
@@ -20570,7 +20570,7 @@ text-align: center;
   width: 25rem;
   background-color: whitesmoke;
   margin-left: 3.5rem;
-  height: 50rem;
+  height: 51rem;
   border-radius: 0.5rem;
 }
 .projects_item4 img{
@@ -20583,7 +20583,7 @@ text-align: center;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
-  margin: 0rem 1.5rem 0rem;
+  margin: 0rem 1.5rem 1rem;
 }
 
 .projects_item4 i {
@@ -20593,14 +20593,14 @@ text-align: center;
 
 .projects_item4 .date {
   margin: 0rem 0rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
   color: #782D50;
 }
 
 .projects_item4 .comment {
   margin: 0rem 0.3rem 0rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding-left: 1rem;
   color: #782D50;
 }

@@ -16615,7 +16615,7 @@ h1 {
   font-size: 1.5rem;
 }
 #italic {
-  margin-left: 4rem;
+  margin-left: 3rem;
   display: block;
 }
 .menu {
@@ -18612,11 +18612,11 @@ font-size:2.2rem;
 flex-direction: row;
 width: 100%;
 padding-right: 1rem;
-font-size: 1.7rem ;
+font-size: 1.5rem ;
 font-weight: bold;
 margin: -4rem 9rem 0rem;
 padding: 0rem 0rem 0rem;
-gap: 1px;
+gap: 0.5px;
 }
 .navbar.sticky {
   display: block;
@@ -19456,7 +19456,7 @@ text-align: center;
   padding-right: 18px;
   right: 42%;
   top: 35%;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 #img_13 {
@@ -19616,7 +19616,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .content5 {
-  margin: 2rem 3.8rem 3rem;
+  margin: 2rem 3.9rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -19668,7 +19668,7 @@ margin: 5rem 3rem 0rem;
   margin-left: 7.5rem;
 }
 .content7{
-  margin: 0rem -6rem 0rem;
+  margin: 0rem -7rem 0rem;
   }
   .content7 ul li {
     font-size: 1.7rem;
@@ -19706,7 +19706,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -26rem 0rem;
+  margin: 0rem -27rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
@@ -19730,7 +19730,7 @@ margin: 5rem 3rem 0rem;
   padding: 0rem 1rem 0rem;
   border-radius: 0.25rem;
   font-size: 1.7rem;
-  margin: 1.5rem 2rem 0rem;
+  margin: 1.5rem 1rem 0rem;
   height: 4.5rem;
   display: flex;
   text-align: center;
@@ -19749,8 +19749,7 @@ p i {
 
 .content8  i {
 width: 25rem;
-  display: flex;
-  flex-direction: row;
+  display:block;
   margin-top: 1.5rem;
   font-size: 2.7rem;
   padding-left: 0rem;

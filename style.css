@@ -21269,7 +21269,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 38rem 3.2rem;
+  margin: 3rem 0rem 45rem 4.2rem;
   height: 90vh;
   width: 100%;
 }
@@ -21501,7 +21501,7 @@ strong{
 }
 
 .slide .captionCC {
-  bottom: 37%;
+  bottom: 36%;
   font-size: 1.7rem;
   width: 13rem;
   margin: 200rem 60rem 0rem;
@@ -21819,7 +21819,7 @@ text-align: center;
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 4rem 0rem ;
+  margin: 16rem 5rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -21990,7 +21990,7 @@ margin: 5rem 5rem 0rem;
 }
 
 .content5 {
-  margin: 2rem 4.3rem 3rem;
+  margin: 2rem 5rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;

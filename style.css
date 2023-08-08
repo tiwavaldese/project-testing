@@ -27576,7 +27576,7 @@ text-align: center;
 
 .group{
   display: flex;
-  margin-left: 4rem;
+  margin-left: 5.5rem;
   flex-direction: row;
 }
 
@@ -27591,7 +27591,7 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 30rem;
-  height: 76rem;
+  height: 75rem;
 }
 .projects_item1 img{
   height: 20rem;
@@ -27688,7 +27688,7 @@ font-size: 1.5rem;
   align-items: center;
   width: 30rem;
   background-color: whitesmoke;
-  margin-left: 5.5rem;
+  margin-left: 6rem;
   height: 51rem;
   border-radius: 0.5rem;
 }
@@ -27740,13 +27740,13 @@ font-size: 1.5rem;
     }
     
     .gallery3{
-      margin: 5rem 2.3rem 3rem;
+      margin: 5rem 1rem 3rem;
       display: block;
       width: 100%;
 
     }
     .gallery3 img{
-      width: 25rem;
+      width: 23rem;
       height: 20rem;
     }
     .gallery3A{
@@ -27844,7 +27844,7 @@ font-size: 1.5rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 39rem;
+  width: 41rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27852,7 +27852,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 39rem;
+  width: 41rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27861,7 +27861,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #subject{
-  width:39rem;
+  width:41rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27869,7 +27869,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 39rem;
+  width: 41rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -28014,7 +28014,7 @@ font-size:2.7rem;
 }
 .fill .email input{
   height: 6rem;
-  width: 45rem;
+  width: 40rem;
   margin: 0rem 0.5rem 2rem;
   border-radius: 0.25rem;
 }
@@ -28025,7 +28025,7 @@ font-size:2.7rem;
 }
 .fill .password input{
   height: 6rem;
-  width: 45rem;
+  width: 40rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }

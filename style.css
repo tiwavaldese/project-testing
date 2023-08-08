@@ -27238,7 +27238,7 @@ padding-right:0rem;
 .blog_item2{
 
   width: 30%;
-  height:100vh;
+  height:96vh;
   margin-left: 3rem;
 }
 .blog_item2 img{
@@ -27254,12 +27254,12 @@ font-size: 2rem;
 text-align: center;
 }
 .blog_item2 p{
-  margin: 1rem 1.5rem 1rem;
+  margin: 1rem 1rem 1rem;
   line-height: 30px;
  padding: 0rem 0rem 0rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 25rem;
+  width: 27rem;
 }
 
 
@@ -27278,7 +27278,7 @@ padding-left: 0rem;
 .blog_item3{
 
   width: 30%;
-  height: 75vh;
+  height: 73vh;
   margin:1rem 1rem 0rem ;
   border-radius: 0.5rem 0.5rem;
 
@@ -27299,11 +27299,11 @@ text-align: center;
 .blog_item3 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 1.5rem 1rem;
+  margin: 1rem 1rem 1rem;
   line-height: 30px;
   text-align: justify;
   font-size: 1.7rem;
-  width: 25rem;
+  width: 27rem;
 }
 .blog_item3 i{
   padding-right: 0rem;
@@ -27325,7 +27325,7 @@ color: #782D50;
 .blog_item4{
 
   width: 30%;
-  height: 90vh;
+  height: 88vh;
   margin: 1rem 0rem 0rem;
 
 }
@@ -27346,12 +27346,12 @@ text-align: center;
 .blog_item4 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 1.5rem 1rem;;
+  margin: 1rem 1rem 1rem;;
   line-height: 30px;
   padding: 0.5rem 1rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 25rem;
+  width: 27rem;
 }
 .blog_item4 i{
   padding-right: 0rem;
@@ -27442,7 +27442,7 @@ padding-left: 0rem;
   #events1{
     display: flex;
     flex-direction: row;
-    margin: 3rem 7rem 0rem;
+    margin: 3rem 8.5rem 0rem;
     width: 100%;
   }
   
@@ -27494,7 +27494,7 @@ padding-left: 0rem;
   .events_item3{
   
     width: 40rem;
-    height:67rem;
+    height:65rem;
     margin: 0rem 0rem 3rem;
   }
   
@@ -27564,7 +27564,7 @@ text-align: center;
 
 .container_projects hr {
   bottom: 70%;
-  margin: 1rem 44rem 0rem;
+  margin: 1rem 46rem 0rem;
 }
 .content_one .project1 {
   display: flex;
@@ -27576,7 +27576,7 @@ text-align: center;
 
 .group{
   display: flex;
-  margin-left: 2.5rem;
+  margin-left: 4rem;
   flex-direction: row;
 }
 
@@ -27688,7 +27688,7 @@ font-size: 1.5rem;
   align-items: center;
   width: 30rem;
   background-color: whitesmoke;
-  margin-left: 4rem;
+  margin-left: 5.5rem;
   height: 51rem;
   border-radius: 0.5rem;
 }
@@ -27730,7 +27730,7 @@ font-size: 1.5rem;
   font-size: 1.7rem;
 }
 .container_volunteers hr{
- margin-left: 38rem;
+ margin-left: 45rem;
 }
     
     #gallery .events_item1{
@@ -27844,7 +27844,7 @@ font-size: 1.5rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 37rem;
+  width: 39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27852,7 +27852,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 37rem;
+  width: 39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27861,7 +27861,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #subject{
-  width:37rem;
+  width:39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27869,7 +27869,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 37rem;
+  width: 39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -27994,13 +27994,13 @@ font-size: 2.7rem;
 color: white;
 }
 .login .content_2{
-margin-left: 45rem;
+margin-left: 50rem;
 font-size:2.7rem;
 }
 .fill .content_A{
   margin: 9rem 20rem 3rem;
   padding: 0rem 1rem 0rem;
-  width: 54rem;
+  width: 60rem;
   height: 9vh;
   border-radius: 0.25rem;
   font-size: 1.7rem;
@@ -28009,23 +28009,23 @@ font-size:2.7rem;
 }
 .fill .email{
   margin: 0rem 22.5rem 1.5rem;
-  width: 70rem;
+  width: 80rem;
   font-size: 1.7rem;
 }
 .fill .email input{
   height: 6rem;
-  width: 36rem;
+  width: 45rem;
   margin: 0rem 0.5rem 2rem;
   border-radius: 0.25rem;
 }
 .fill .password{
   margin: 0rem 26rem 2rem;
-  width: 70rem;
+  width: 80rem;
   font-size: 1.7rem;
 }
 .fill .password input{
   height: 6rem;
-  width: 36rem;
+  width: 45rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }

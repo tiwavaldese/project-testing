@@ -25775,7 +25775,7 @@ a {
 
 h1 {
   font-size: 3rem;
-  margin: 0rem 20rem 0rem;
+  margin: 0rem 18rem 0rem;
   width: 80%;
   color: #782D50;
 }
@@ -25787,7 +25787,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem -28rem 0rem;
+  margin: 0.5rem -30rem 0rem;
   height: 4.5rem;
   width: 14.5rem;
   padding: 0rem 1rem 0rem;
@@ -26014,7 +26014,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 28rem 5.5rem;
+  margin: 3rem 0rem 27rem 5rem;
   height: 90vh;
   width: 100%;
 }
@@ -26559,12 +26559,12 @@ text-align: center;
 #container hr {
   width: 2rem;
   text-align: center;
-  margin: 1rem 51rem 1.5rem;
+  margin: 1rem 52rem 1.5rem;
 }
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 6.5rem 0rem ;
+  margin: 16rem 6rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -26735,7 +26735,7 @@ margin: 5rem 5rem 0rem;
 }
 
 .content5 {
-  margin: 2rem 7rem 3rem;
+  margin: 2rem 6.5rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;

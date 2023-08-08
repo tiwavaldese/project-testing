@@ -23318,7 +23318,6 @@ font-size:2.7rem;
   }
   body{
     font-size: 1rem;
-    background-color:blanchedalmond;
   }
   .wrapper {
     width: 100%;
@@ -25366,7 +25365,7 @@ font-size: 1.5rem;
     }
     
     .gallery3{
-      margin: 5rem 0.1rem 3rem;
+      margin: 5rem -0.1rem 3rem;
       display: block;
       width: 100%;
 
@@ -25470,7 +25469,7 @@ font-size: 1.5rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 38rem;
+  width: 39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -25478,7 +25477,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 38rem;
+  width: 39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -25487,7 +25486,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #subject{
-  width:38rem;
+  width:39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -25495,7 +25494,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 38rem;
+  width: 39rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;

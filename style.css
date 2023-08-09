@@ -28579,10 +28579,10 @@ strong{
 }
 
 .slide .img_6 {
-  bottom: 40%;
+  bottom: 42%;
   width: 60%;
   height: 15rem;
-  margin: 230rem 61rem 0rem;
+  margin: 230rem 63rem 0rem;
  
 }
 
@@ -28619,10 +28619,10 @@ strong{
 }
 
 .slide .captionCC {
-  bottom: 17%;
+  bottom: 16%;
   font-size: 1.7rem;
   width: 13rem;
-  margin: 200rem 75rem 0rem;
+  margin: 200rem 77rem 0rem;
   padding:0rem 1rem 0rem;
   height: 4rem;
   display: flex;
@@ -28937,7 +28937,7 @@ text-align: center;
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 9rem 0rem ;
+  margin: 16rem 9.5rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -29108,7 +29108,7 @@ margin: 5rem 8rem 0rem;
 }
 
 .content5 {
-  margin: 2rem 9rem 3rem;
+  margin: 2rem 9.5rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -29292,7 +29292,7 @@ height: 60vh;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem -1rem 0rem;
+margin: 2rem -0.7rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -29441,7 +29441,7 @@ flex-direction: row;
 }
 .about_item6 h2{
   width: 40%;
-  margin-left: -3rem;
+  margin-left: -3.2rem;
   font-size: 2.7rem;
   text-align: center;
 }

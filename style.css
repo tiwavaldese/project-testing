@@ -30216,7 +30216,7 @@ font-size: 1.5rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 43rem;
+  width: 45rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30224,7 +30224,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 43rem;
+  width: 45rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30233,7 +30233,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #subject{
-  width:43rem;
+  width:45rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30241,7 +30241,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 43rem;
+  width: 45rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30366,13 +30366,13 @@ font-size: 2.7rem;
 color: white;
 }
 .login .content_2{
-margin-left: 55rem;
+margin-left: 60rem;
 font-size:2.7rem;
 }
 .fill .content_A{
   margin: 9rem 20rem 3rem;
   padding: 0rem 1rem 0rem;
-  width: 65rem;
+  width: 67rem;
   height: 9vh;
   border-radius: 0.25rem;
   font-size: 1.7rem;
@@ -30386,7 +30386,7 @@ font-size:2.7rem;
 }
 .fill .email input{
   height: 6rem;
-  width: 43rem;
+  width: 46rem;
   margin: 0rem 0.5rem 2rem;
   border-radius: 0.25rem;
 }
@@ -30397,7 +30397,7 @@ font-size:2.7rem;
 }
 .fill .password input{
   height: 6rem;
-  width: 43rem;
+  width: 46rem;
   margin: 0rem 0.5rem 0rem;
   border-radius: 0.25rem;
 }

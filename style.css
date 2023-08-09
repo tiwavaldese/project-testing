@@ -29948,7 +29948,7 @@ text-align: center;
 
 .group{
   display: flex;
-  margin-left: 6rem;
+  margin-left: 5rem;
   flex-direction: row;
 }
 
@@ -29963,7 +29963,7 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 35rem;
-  height: 75rem;
+  height: 70rem;
 }
 .projects_item1 img{
   height: 20rem;
@@ -29993,7 +29993,7 @@ font-size: 1.5rem;
 
 .projects_item2 {
   margin: 1rem 0rem 0rem;
-  height:56rem;
+  height:54rem;
   width: 35rem;
 }
 .projects_item2 img{
@@ -30024,7 +30024,7 @@ font-size: 1.5rem;
 .projects_item3 {
   margin: 1rem 1rem 0rem;
   width: 35rem;
-  height: 53rem;
+  height: 51rem;
   border-radius: 0.5rem;
 }
 .projects_item3 img{
@@ -30061,7 +30061,7 @@ font-size: 1.5rem;
   width: 35rem;
   background-color: whitesmoke;
   margin-left: 6rem;
-  height: 51rem;
+  height: 49rem;
   border-radius: 0.5rem;
 }
 .projects_item4 img{

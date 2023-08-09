@@ -28092,7 +28092,7 @@ font-size:2.7rem;
 .img_1 {
   width: 9.5%;
   height: 80%;
-  margin: 0.5rem 1rem 0rem;
+  margin: 0.5rem 3rem 0rem;
 }
 
 .navbar li {
@@ -28106,7 +28106,7 @@ width: 100%;
 padding-right: 1rem;
 font-size: 1.7rem ;
 font-weight: bold;
-margin: -4rem 14rem 0rem;
+margin: -4rem 18rem 0rem;
 padding: 0rem 0rem 0rem;
 gap: 1px;
 }
@@ -28142,13 +28142,13 @@ a {
 
 .image {
   width: 10%;
-  height: 14%;
-  margin: 6.5rem 2rem 0rem;
+  height: 13%;
+  margin: 6.3rem 2rem 0rem;
 }
 
 h1 {
   font-size: 3rem;
-  margin: 0rem 18rem 0rem;
+  margin: 0rem 23rem 0rem;
   width: 80%;
   color: #782D50;
 }
@@ -28160,7 +28160,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem -30rem 0rem;
+  margin: 0.5rem -33rem 0rem;
   height: 4.5rem;
   width: 14.5rem;
   padding: 0rem 1rem 0rem;
@@ -28179,13 +28179,13 @@ h1 {
   display: flex;
   font-size: 1.7rem;
   width: 100%;
-  padding: 0.8rem 5rem 0rem;
+  padding: 0.8rem 8rem 0rem;
   height: 4rem;
   gap: 3px;
 }
 #italic {
   padding: 0rem 0rem 0rem;
-  margin-left: 5rem;
+  margin-left: 7rem;
   font-size: 1.7rem;
 }
 
@@ -28252,21 +28252,21 @@ h1 {
   width: 45%;
   height: 7vh;
   margin: 0rem 8rem 0rem;
-  padding: 0.4rem 0.5rem 0rem;
+  padding: 0.5rem 0.5rem 0rem;
 }
 
 .slide .captionB {
-  bottom: 50%;
+  bottom: 52%;
   font-size: 1.7rem;
   width: 45%;
-  height: 24vh;
+  height: 22vh;
   margin: 0rem 8rem 0rem;
   padding: 0rem 0.5rem 0rem;
   line-height:35px;
 }
 
 .slide .captionC {
-  bottom: 43%;
+  bottom: 45%;
   font-size: 1.7rem;
   width: 14.5rem;
   height: 4.5rem;
@@ -28279,9 +28279,9 @@ h1 {
   bottom: 65%;
   font-size: 2rem;
   width:50%;
-  height: 12vh;
+  height: 11vh;
   margin-left: 30rem;
-  padding: 0.7rem 1rem 0rem;
+  padding: 0.8rem 1rem 0rem;
 }
 
 .slide .captionE {
@@ -28290,19 +28290,19 @@ h1 {
   margin-left: 30rem;
   padding: 0rem 1rem 0rem;
   width: 50%;
-  height: 20vh;
+  height: 18vh;
   line-height: 35px;
 }
 
 .slide .captionF {
   
-  bottom: 42%;
+  bottom: 43%;
   margin-top: 5rem;
   font-size: 1.7rem;
   width: 14.5rem;
   height: 4.5rem;
   padding: 0rem 1rem 0rem;
-  margin-left: 60rem;
+  margin-left: 64rem;
   display: flex;
   align-items: center;
 }
@@ -28313,17 +28313,17 @@ h1 {
   font-size: 2rem;
   width: 50%;
   height: 9vh;
-  padding: 0.7rem 0.5rem 0rem;
+  padding: 0.8rem 0.5rem 0rem;
   margin-left:30rem;
 }
 
 .slide .captionH {
-  bottom: 44.5%;
+  bottom: 45%;
   font-size: 1.7rem;
   width: 50%;
   height: 17vh;
   margin-left: 30rem;
-  padding-left: 1rem;
+  padding: 0rem 1rem 0rem;
   line-height: 30px;
 }
 
@@ -28333,7 +28333,7 @@ h1 {
   width: 14.5rem;
   height: 4.5rem;
   padding: 0rem 1rem 0rem;
-  margin-left: 48rem;
+  margin-left: 50rem;
   display: flex;
   align-items: center;
 }
@@ -28350,7 +28350,7 @@ h1 {
 
 .container p {
   line-height: 45px;
-  margin: 1rem 14rem 0rem;
+  margin: 1rem 18rem 0rem;
   font-size: 1.7rem;
   width: 70%;
 height: 20%;
@@ -28362,7 +28362,7 @@ strong{
 }
 .container hr {
   bottom: 70%;
-  margin: 1rem 50rem 0rem;
+  margin: 1rem 55rem 0rem;
 }
 
 .img_2 {
@@ -28387,7 +28387,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 27rem 5rem;
+  margin: 3rem 0rem 24rem 5rem;
   height: 90vh;
   width: 100%;
 }
@@ -28420,7 +28420,7 @@ strong{
 .grid_item1 {
   margin: 1rem 1rem 0rem;
   display: block;
-  width: 30rem;
+  width: 32rem;
   height: 80rem;
 }
 .grid_item1 img{
@@ -28429,7 +28429,7 @@ strong{
 .grid_item1 p {
   line-height: 35px;
   font-size: 1.7rem;
-  width: 28rem;
+  width: 30rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
@@ -28452,7 +28452,7 @@ strong{
 .grid_item2 {
   margin: 1rem 0rem 0rem;
   height:64rem;
-  width: 30rem;
+  width: 32rem;
 }
 .grid_item2 img{
   height: 25rem;
@@ -28460,7 +28460,7 @@ strong{
 .grid_item2 p {
   line-height: 35px;
   font-size: 1.7rem;
-  width: 28rem;
+  width: 30rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
@@ -28481,7 +28481,7 @@ strong{
 
 .grid_item3 {
   margin: 1rem 1rem 0rem;
-  width: 30rem;
+  width: 32rem;
   height: 59rem;
   border-radius: 0.5rem;
 }
@@ -28491,7 +28491,7 @@ strong{
 .grid_item3 p {
   line-height: 35px;
   font-size: 1.7rem;
-  width: 28rem;
+  width: 30rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
@@ -28582,7 +28582,7 @@ strong{
   bottom: 40%;
   width: 60%;
   height: 15rem;
-  margin: 230rem 53rem 0rem;
+  margin: 230rem 58rem 0rem;
  
 }
 
@@ -28619,10 +28619,10 @@ strong{
 }
 
 .slide .captionCC {
-  bottom: 22%;
+  bottom: 17%;
   font-size: 1.7rem;
   width: 13rem;
-  margin: 200rem 65rem 0rem;
+  margin: 200rem 70rem 0rem;
   padding:0rem 1rem 0rem;
   height: 4rem;
   display: flex;
@@ -28736,20 +28736,20 @@ h3 i {
   bottom: 82%;
   font-size: 2.7rem;
   height: 7vh;
-  margin-left: 29rem;
+  margin-left: 33rem;
 }
 
 .captionB2 {
   bottom: 69%;
   font-size: 2.2rem;
   height: 7vh;
-  margin-left: 33rem;
+  margin-left: 36rem;
 }
 .captionC2 {
   bottom: 50%;
   font-size: 1.7rem;
   width: 70%;
-  margin-left: 17rem;
+  margin-left: 20rem;
   text-align: center;
 }
 
@@ -28758,7 +28758,7 @@ h3 i {
   font-size: 1.7rem;
   width: 13rem;
   height: 5rem;
-  margin-left: 33rem;
+  margin-left: 36rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
@@ -28770,7 +28770,7 @@ h3 i {
   font-size: 1.7rem;
   width: 13rem;
   height: 5rem;
-  margin-left: 48rem;
+  margin-left: 51rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
@@ -28792,7 +28792,7 @@ h3 i {
 
 .container_home p {
   line-height: 35px;
-  margin: 1rem 23rem 0rem;
+  margin: 1rem 28rem 0rem;
   font-size: 1.7rem;
 height: 20%;
 text-align: center;
@@ -28800,12 +28800,12 @@ text-align: center;
 
 .container_home hr {
   bottom: 70%;
-  margin: 1rem 40rem 0rem;
+  margin: 1rem 44rem 0rem;
 }
 
 .content1 {
   width: 90%;
-  margin-left: 3rem;
+  margin-left: 3.5rem;
 }
 
 .row_item6 p {
@@ -28925,14 +28925,14 @@ text-align: center;
   width:50%;
   letter-spacing: 0px;
   line-height: 40px;
-  margin: 0rem 26rem 3rem;
+  margin: 0rem 28rem 3rem;
   font-size: 1.7rem;
 }
 
 #container hr {
   width: 2rem;
   text-align: center;
-  margin: 1rem 52rem 1.5rem;
+  margin: 1rem 56rem 1.5rem;
 }
 
 .content3 {
@@ -28952,20 +28952,20 @@ text-align: center;
 }
 
 #img_13 {
-  width: 30rem;
-  height: 25rem;
+  width: 33rem;
+  height: 28rem;
   margin-bottom: 1rem;
 }
 
 #img_14 {
-  width: 30rem;
-  height: 25rem;
+  width: 33rem;
+  height: 28rem;
   margin: 0rem 1rem 1rem;
 }
 
 #img_15 {
-  width: 30rem;
-  height: 25rem;
+  width: 33rem;
+  height: 28rem;
   margin: 0rem 0rem 1rem;
 }
 
@@ -28984,7 +28984,7 @@ text-align: center;
 .grid_6 {
   width: 50%;
   height: 35vh;
-margin: 5rem 5rem 0rem;
+margin: 5rem 8rem 0rem;
 }
 
 .grid_6 h2 {
@@ -29026,7 +29026,7 @@ margin: 5rem 5rem 0rem;
 .grid_7 {
   width: 50%;
   height: 35vh;
-  margin: 2rem 37rem 0rem;
+  margin: 2rem 41rem 0rem;
 }
 
 .grid_7 h2 {
@@ -29097,13 +29097,13 @@ margin: 5rem 5rem 0rem;
 
 .content4 p {
   width: 40%;
-  margin: 1.5rem 24rem 0rem;
+  margin: 1.5rem 30rem 0rem;
   font-size: 1.7rem;
 }
 
 .content4 hr {
   width: 2rem;
-  margin: 1rem 44rem 0rem;
+  margin: 1rem 48rem 0rem;
   bottom: 70%;
 }
 
@@ -29115,20 +29115,20 @@ margin: 5rem 5rem 0rem;
 }
 
 .img_17 {
-  width: 30rem;
-  height: 25rem;
+  width: 33rem;
+  height: 28rem;
   margin:0rem 0rem  1rem;
 }
 
 .img_18 {
-  width: 30rem;
-  height: 25rem;
+  width: 33rem;
+  height: 28rem;
   margin:0rem 0.5rem  1rem;
 }
 
 .img_19 {
-  width: 30rem;
-  height: 25rem;
+  width: 33rem;
+  height: 28rem;
   margin:0rem 0rem  1rem;
 }
 

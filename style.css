@@ -28106,7 +28106,7 @@ width: 100%;
 padding-right: 1rem;
 font-size: 1.7rem ;
 font-weight: bold;
-margin: -4rem 18rem 0rem;
+margin: -4rem 22rem 0rem;
 padding: 0rem 0rem 0rem;
 gap: 1px;
 }
@@ -28143,12 +28143,12 @@ a {
 .image {
   width: 10%;
   height: 13%;
-  margin: 6.3rem 2rem 0rem;
+  margin: 6.4rem 2rem 0rem;
 }
 
 h1 {
   font-size: 3rem;
-  margin: 0rem 23rem 0rem;
+  margin: 0rem 22rem 0rem;
   width: 80%;
   color: #782D50;
 }
@@ -28160,7 +28160,7 @@ h1 {
 }
 
 .description1 {
-  margin: 0.5rem -33rem 0rem;
+  margin: 0.5rem -36rem 0rem;
   height: 4.5rem;
   width: 14.5rem;
   padding: 0rem 1rem 0rem;
@@ -28185,7 +28185,7 @@ h1 {
 }
 #italic {
   padding: 0rem 0rem 0rem;
-  margin-left: 7rem;
+  margin-left: 12rem;
   font-size: 1.7rem;
 }
 
@@ -28387,7 +28387,7 @@ strong{
 .content {
   display: flex;
   flex-direction: row;
-  margin: 3rem 0rem 24rem 5rem;
+  margin: 3rem 0rem 20rem 5rem;
   height: 90vh;
   width: 100%;
 }
@@ -28420,8 +28420,8 @@ strong{
 .grid_item1 {
   margin: 1rem 1rem 0rem;
   display: block;
-  width: 32rem;
-  height: 80rem;
+  width: 35rem;
+  height: 75rem;
 }
 .grid_item1 img{
   height:25rem;
@@ -28429,7 +28429,7 @@ strong{
 .grid_item1 p {
   line-height: 35px;
   font-size: 1.7rem;
-  width: 30rem;
+  width: 33rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
@@ -28452,7 +28452,7 @@ strong{
 .grid_item2 {
   margin: 1rem 0rem 0rem;
   height:64rem;
-  width: 32rem;
+  width: 35rem;
 }
 .grid_item2 img{
   height: 25rem;
@@ -28460,7 +28460,7 @@ strong{
 .grid_item2 p {
   line-height: 35px;
   font-size: 1.7rem;
-  width: 30rem;
+  width: 33rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
@@ -28481,7 +28481,7 @@ strong{
 
 .grid_item3 {
   margin: 1rem 1rem 0rem;
-  width: 32rem;
+  width: 35rem;
   height: 59rem;
   border-radius: 0.5rem;
 }
@@ -28491,7 +28491,7 @@ strong{
 .grid_item3 p {
   line-height: 35px;
   font-size: 1.7rem;
-  width: 30rem;
+  width: 32rem;
   padding-top: 0rem;
   padding-right: rem;
   text-align: justify;
@@ -28582,7 +28582,7 @@ strong{
   bottom: 40%;
   width: 60%;
   height: 15rem;
-  margin: 230rem 58rem 0rem;
+  margin: 230rem 61rem 0rem;
  
 }
 
@@ -28622,7 +28622,7 @@ strong{
   bottom: 17%;
   font-size: 1.7rem;
   width: 13rem;
-  margin: 200rem 70rem 0rem;
+  margin: 200rem 75rem 0rem;
   padding:0rem 1rem 0rem;
   height: 4rem;
   display: flex;
@@ -28758,7 +28758,7 @@ h3 i {
   font-size: 1.7rem;
   width: 13rem;
   height: 5rem;
-  margin-left: 36rem;
+  margin-left: 39rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
@@ -28770,7 +28770,7 @@ h3 i {
   font-size: 1.7rem;
   width: 13rem;
   height: 5rem;
-  margin-left: 51rem;
+  margin-left: 54rem;
   padding: 0rem 1rem 0rem;
   display: flex;
   align-items: center;
@@ -28823,7 +28823,7 @@ text-align: center;
   position: relative;
   bottom: -17rem;
   font-size: 1.7rem;
-  margin-left: 8rem;
+  margin-left: 11rem;
   width: 25rem;
 }
 
@@ -28932,12 +28932,12 @@ text-align: center;
 #container hr {
   width: 2rem;
   text-align: center;
-  margin: 1rem 56rem 1.5rem;
+  margin: 1rem 59rem 1.5rem;
 }
 
 .content3 {
   bottom: 13rem;
-  margin: 16rem 6rem 0rem ;
+  margin: 16rem 8rem 0rem ;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -29103,12 +29103,12 @@ margin: 5rem 8rem 0rem;
 
 .content4 hr {
   width: 2rem;
-  margin: 1rem 48rem 0rem;
+  margin: 1rem 53rem 0rem;
   bottom: 70%;
 }
 
 .content5 {
-  margin: 2rem 6.5rem 3rem;
+  margin: 2rem 8rem 3rem;
   display: flex;
   flex-direction: row;
   width: 100%;

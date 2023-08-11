@@ -29278,7 +29278,7 @@ padding-top: 1rem;
   font-size: 1.7rem;
 }
 .about_item2{
-  margin: 5rem 5rem 0rem;
+  margin: 5rem 7rem 0rem;
   width: 100%;
  display: flex;
  flex-direction: row;
@@ -29291,7 +29291,7 @@ height: 60vh;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem -0.7rem 0rem;
+margin: 2rem -0.2rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -29309,7 +29309,7 @@ font-size: 1.7rem;
 line-height: 35px;
 }
 .about_item2  hr{
-margin: 2rem 6rem 0rem;
+margin: 2rem 6.2rem 0rem;
 
 }
 .about_item3{
@@ -29440,7 +29440,7 @@ flex-direction: row;
 }
 .about_item6 h2{
   width: 40%;
-  margin-left: -3.2rem;
+  margin-left: -3.7rem;
   font-size: 2.7rem;
   text-align: center;
 }
@@ -29543,7 +29543,7 @@ font-size: 1rem;
   width: 60%;
   display: block;
   line-height: 35px;
-  margin: 1rem 24rem 0rem;
+  margin: 1rem 26rem 0rem;
   font-size: 1.7rem;
 height: 20%;
 }
@@ -29601,7 +29601,7 @@ padding-right:0rem;
   margin: 1rem 58rem 0rem;
 }
 #blog1{
-  margin: 5rem 0.7rem 0rem;
+  margin: 5rem 0.2rem 0rem;
   display: flex;
   flex-direction: row;
 }
@@ -30111,7 +30111,7 @@ font-size: 1.5rem;
     }
     
     .gallery3{
-      margin: 5rem 3.3rem 3rem;
+      margin: 5rem 4.5rem 3rem;
       display: block;
       width: 100%;
 

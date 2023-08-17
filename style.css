@@ -2088,7 +2088,7 @@ padding-left: 1.5rem;
 color: #782D50;
 }
 .blog_item2:hover{
-  opacity: 0.5;
+  background-color: white;
 }
 .blog_item3{
 
@@ -2143,7 +2143,7 @@ padding-left: 1.5rem;
 color: #782D50;
 }
 .blog_item3:hover{
-  opacity: 0.5;
+  background-color: white;
 }
 .blog_item4{
 
@@ -2199,7 +2199,7 @@ padding-left: 1.5rem;
 color: #782D50;
 }
 .blog_item4:hover{
-  opacity: 0.5;
+  background-color: white;
 }
 #btn{
   margin:3rem 1rem 3rem;
@@ -2505,7 +2505,7 @@ text-align: justify;
   color: #782D50;
 }
 .projects_item1:hover{
-  opacity: 0.5;
+  background-color: white;
 }
 .projects_item2 {
   margin-top: 1rem;
@@ -2546,7 +2546,7 @@ text-align: justify;
   color: #782D50;
 }
 .projects_item2:hover{
-  opacity: 0.5;
+  background-color: white;
 }
 .projects_item3 {
   margin-top: 1rem;
@@ -2588,7 +2588,7 @@ text-align: justify;
   color: #782D50;
 }
 .projects_item3:hover{
-  opacity: 0.5;
+  background-color: white;
 }
 .projects_item4 {
   margin-top: 1rem;
@@ -2633,7 +2633,7 @@ text-align: justify;
   color: #782D50;
 }
 .projects_item4:hover{
-  opacity: 0.5;
+  background-color: white;
 }
     #gallery .events_item1{
       margin: -1.5rem 0rem 0rem;

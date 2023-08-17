@@ -29601,14 +29601,14 @@ padding-right:0rem;
   margin: 1rem 58rem 0rem;
 }
 #blog1{
-  margin: 5rem 0.2rem 0rem;
+  margin: 5rem 0rem 0rem;
   display: flex;
   flex-direction: row;
 }
 
 .blog_item2{
 
-  width: 33%;
+  width: 32%;
   height:74vh;
   margin-left: 3rem;
 }
@@ -29648,7 +29648,7 @@ padding-left: 0rem;
 
 .blog_item3{
 
-  width: 33%;
+  width: 32%;
   height: 62vh;
   margin:1rem 1rem 0rem ;
   border-radius: 0.5rem 0.5rem;
@@ -29695,7 +29695,7 @@ color: #782D50;
 
 .blog_item4{
 
-  width: 33%;
+  width: 32%;
   height: 74vh;
   margin: 1rem 0rem 0rem;
 
@@ -29962,7 +29962,7 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 35rem;
-  height: 70rem;
+  height: 68rem;
 }
 .projects_item1 img{
   height: 20rem;
@@ -30111,7 +30111,7 @@ font-size: 1.5rem;
     }
     
     .gallery3{
-      margin: 5rem 4.5rem 3rem;
+      margin: 5rem 5.5rem 3rem;
       display: block;
       width: 100%;
 
@@ -30215,7 +30215,7 @@ font-size: 1.5rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 46.7rem;
+  width: 47rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30223,7 +30223,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 46.7rem;
+  width: 47rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30232,7 +30232,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #subject{
-  width:46.7rem;
+  width:47rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30240,7 +30240,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 46.7rem;
+  width: 47rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;

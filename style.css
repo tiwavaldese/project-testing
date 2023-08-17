@@ -2004,9 +2004,7 @@ height: 20%;
   margin-top: 5rem;
   margin-left: 1rem;
 }
-#blog1:hover{
-  opacity: 0.5;
-}
+
 
 .container_blog {
   margin: 3rem 0rem 3rem;
@@ -2089,7 +2087,9 @@ font-size: 0.9rem;
 padding-left: 1.5rem;
 color: #782D50;
 }
-
+.blog_item2:hover{
+  opacity: 0.5;
+}
 .blog_item3{
 
   width: 39%;
@@ -2142,7 +2142,9 @@ font-size: 0.9rem;
 padding-left: 1.5rem;
 color: #782D50;
 }
-
+.blog_item3:hover{
+  opacity: 0.5;
+}
 .blog_item4{
 
   width: 39%;
@@ -2195,6 +2197,9 @@ color: #782D50;
 font-size: 0.9rem;
 padding-left: 1.5rem;
 color: #782D50;
+}
+.blog_item4:hover{
+  opacity: 0.5;
 }
 #btn{
   margin:3rem 1rem 3rem;
@@ -2732,7 +2737,6 @@ text-align: justify;
 }
 .contact_item3{
   display: block;
-  line-gap-override: 1rem;
   margin-left: 0rem;
   margin-bottom: 0.5rem;
 }

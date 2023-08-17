@@ -29284,14 +29284,14 @@ padding-top: 1rem;
  flex-direction: row;
 }
 .about_item2 img{
-  margin: 4rem -25rem 0rem;
+  margin: 6rem -25rem 0rem;
 width: 250rem;
 height: 60vh;
 
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem -0.2rem 0rem;
+margin: 2rem 0.3rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -29315,7 +29315,7 @@ margin: 2rem 6.2rem 0rem;
 .about_item3{
   width: 18rem;
   height:6rem;
-  margin: 0.5rem 3rem 4rem;
+  margin: 0.5rem 5rem 4rem;
   font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -29328,7 +29328,7 @@ margin: 2rem 6.2rem 0rem;
   margin: 5rem 0rem 1rem;
 }
 #fourA{
-margin-left: 4rem;
+margin-left: 5rem;
 font-size: 2.5rem;
 
 }
@@ -29390,7 +29390,7 @@ font-size: 3rem;
    }
 .fourB{
   font-size: 2rem;
-  margin: 2.5rem -11rem 0rem;
+  margin: 2.5rem -12rem 0rem;
   bottom: 0rem;
 }
 .about_item5{
@@ -29440,7 +29440,7 @@ flex-direction: row;
 }
 .about_item6 h2{
   width: 40%;
-  margin-left: -3.7rem;
+  margin-left: -4rem;
   font-size: 2.7rem;
   text-align: center;
 }

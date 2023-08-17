@@ -2504,7 +2504,9 @@ text-align: justify;
   padding-left: 1rem;
   color: #782D50;
 }
-
+.projects_item1:hover{
+  opacity: 0.5;
+}
 .projects_item2 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -2543,7 +2545,9 @@ text-align: justify;
   padding-left: 1rem;
   color: #782D50;
 }
-
+.projects_item2:hover{
+  opacity: 0.5;
+}
 .projects_item3 {
   margin-top: 1rem;
   margin-bottom: 0rem;
@@ -2583,7 +2587,9 @@ text-align: justify;
   padding-left: 1rem;
   color: #782D50;
 }
-
+.projects_item3:hover{
+  opacity: 0.5;
+}
 .projects_item4 {
   margin-top: 1rem;
   margin-bottom: 0rem;
@@ -2626,7 +2632,9 @@ text-align: justify;
   padding-left: 1rem;
   color: #782D50;
 }
-    
+.projects_item4:hover{
+  opacity: 0.5;
+}
     #gallery .events_item1{
       margin: -1.5rem 0rem 0rem;
     width: 100%;

@@ -29613,7 +29613,7 @@ padding-right:0rem;
   margin: 1rem 58rem 0rem;
 }
 #blog1{
-  margin: 5rem 4rem 0rem;
+  margin: 5rem 6rem 0rem;
   display: flex;
   flex-direction: row;
 }
@@ -29621,7 +29621,7 @@ padding-right:0rem;
 .blog_item2{
 
   width: 30%;
-  height:77vh;
+  height:75vh;
   margin-left: 1rem;
 }
 .blog_item2 img{
@@ -29708,7 +29708,7 @@ color: #782D50;
 .blog_item4{
 
   width: 30%;
-  height: 76vh;
+  height: 74vh;
   margin: 1rem 0rem 0rem;
 
 }

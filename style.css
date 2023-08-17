@@ -29291,7 +29291,7 @@ height: 60vh;
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem 0.3rem 0rem;
+margin: 2rem 0.4rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -29315,7 +29315,7 @@ margin: 2rem 6.2rem 0rem;
 .about_item3{
   width: 18rem;
   height:6rem;
-  margin: 0.5rem 5rem 4rem;
+  margin: 0.5rem 6rem 4rem;
   font-size: 1.7rem;
   padding: 0rem 1rem 0rem;
   display: flex;
@@ -29328,7 +29328,7 @@ margin: 2rem 6.2rem 0rem;
   margin: 5rem 0rem 1rem;
 }
 #fourA{
-margin-left: 5rem;
+margin-left: 6rem;
 font-size: 2.5rem;
 
 }
@@ -29608,9 +29608,9 @@ padding-right:0rem;
 
 .blog_item2{
 
-  width: 32%;
+  width: 30%;
   height:74vh;
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 .blog_item2 img{
 width: 100%;
@@ -29630,7 +29630,7 @@ text-align: center;
  padding: 0rem 0rem 0rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 30rem;
+  width: 28rem;
 }
 
 
@@ -29648,7 +29648,7 @@ padding-left: 0rem;
 
 .blog_item3{
 
-  width: 32%;
+  width: 30%;
   height: 62vh;
   margin:1rem 1rem 0rem ;
   border-radius: 0.5rem 0.5rem;
@@ -29674,7 +29674,7 @@ text-align: center;
   line-height: 30px;
   text-align: justify;
   font-size: 1.7rem;
-  width: 30rem;
+  width: 28rem;
 }
 .blog_item3 i{
   padding-right: 0rem;
@@ -29695,7 +29695,7 @@ color: #782D50;
 
 .blog_item4{
 
-  width: 32%;
+  width: 30%;
   height: 74vh;
   margin: 1rem 0rem 0rem;
 
@@ -29722,7 +29722,7 @@ text-align: center;
   padding: 0.5rem 1rem;
   text-align: justify;
   font-size: 1.7rem;
-  width: 30rem;
+  width: 28rem;
 }
 .blog_item4 i{
   padding-right: 0rem;
@@ -29962,7 +29962,7 @@ text-align: center;
   margin: 1rem 1rem 0rem;
   display: block;
   width: 35rem;
-  height: 68rem;
+  height: 67rem;
 }
 .projects_item1 img{
   height: 20rem;
@@ -30215,7 +30215,7 @@ font-size: 1.5rem;
  margin-left: 6rem;
 }
 .contact_item3 #name{
-  width: 47rem;
+  width: 47.2rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30223,7 +30223,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #email{
-  width: 47rem;
+  width: 47.2rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30232,7 +30232,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #subject{
-  width:47rem;
+  width:47.2rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;
@@ -30240,7 +30240,7 @@ font-size: 1.5rem;
 }
 
 .contact_item3 #number{
-  width: 47rem;
+  width: 47.2rem;
   height: 8vh;
   padding-left: 1rem;
   margin:0rem 1rem 1rem;

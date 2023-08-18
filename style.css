@@ -19661,7 +19661,7 @@ margin: 5rem 3rem 0rem;
 .img_20 {
   width: 25rem;
   height: 20rem;
-  margin: 2rem 0rem 2rem;
+  margin: 2rem -1.5rem 2rem;
   padding: 0rem 0rem 0rem;
 }
 
@@ -19679,7 +19679,7 @@ margin: 5rem 3rem 0rem;
   margin-left: 7.5rem;
 }
 .content7{
-  margin: 0rem -7rem 0rem;
+  margin: 0rem -9rem 0rem;
   }
   .content7 ul li {
     font-size: 1.7rem;
@@ -19696,7 +19696,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .container4 ul {
-  margin-left: 8rem;
+  margin-left: 6rem;
 }
 
 .container4 li {
@@ -19717,7 +19717,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -27rem 0rem;
+  margin: 0rem -29rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
@@ -19758,7 +19758,7 @@ p i {
   color: white;
 }
 
-.content8  i {
+h4 i {
 width: 25rem;
   display:block;
   margin-top: 1.5rem;
@@ -29637,7 +29637,7 @@ font-size: 2rem;
 text-align: center;
 }
 .blog_item2 p{
-  margin: 1rem 2rem 1.5rem;
+  margin: 1rem 2.2rem 1.5rem;
   line-height: 30px;
  padding: 0rem 0rem 0rem;
   text-align: justify;
@@ -29682,7 +29682,7 @@ text-align: center;
 .blog_item3 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 2rem 1.5rem;
+  margin: 1rem 2.2rem 1.5rem;
   line-height: 30px;
   text-align: justify;
   font-size: 1.7rem;
@@ -29729,7 +29729,7 @@ text-align: center;
 .blog_item4 p{
   display: block;
   padding: 1rem 0rem;
-  margin: 1rem 2rem 1.5rem;;
+  margin: 1rem 2.2rem 1.5rem;;
   line-height: 30px;
   padding: 0.5rem 1rem;
   text-align: justify;

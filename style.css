@@ -19666,7 +19666,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .content6 h3 {
-  margin: 2rem 5.5rem 1rem;
+  margin: 2rem 5rem 1rem;
   font-size: 2.7rem;
   width: 18rem;
 }
@@ -19676,7 +19676,7 @@ margin: 5rem 3rem 0rem;
 }
 .content6 hr {
   width: 2rem;
-  margin-left: 7rem;
+  margin-left: 5.2rem;
 }
 .content7{
   margin: 0rem -9rem 0rem;
@@ -19717,7 +19717,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -25rem 0rem;
+  margin: 0rem -23rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
@@ -19805,14 +19805,14 @@ padding-top: 1rem;
  flex-direction: row;
 }
 .about_item2 img{
-  margin: 8rem -12rem 0rem;
+  margin: 9rem -12rem 0rem;
 width: 210rem;
 height: 60vh;
 
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem 3rem 0rem;
+margin: 2rem 0rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 55%;
@@ -19823,7 +19823,7 @@ width: 55%;
 .about_item2  p{
   
 width:60%;
-height: 40vh;
+height: 42vh;
 margin: 1rem 4rem 0rem;
 padding: 0.5rem 0rem;
 font-size: 1.7rem;

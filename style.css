@@ -22179,14 +22179,14 @@ padding-top: 1rem;
  flex-direction: row;
 }
 .about_item2 img{
-  margin: 4rem -12rem 0rem;
-width: 100rem;
+  margin: 10rem -12rem 0rem;
+width: 210rem;
 height: 60vh;
 
 }
 .about_item2  h2{
 height: 5vh;
-margin: 2rem 3rem 0rem;
+margin: 2rem 0rem 0rem;
 font-size: 2.7rem;
 text-align: center;
 width: 40%;
@@ -22197,14 +22197,14 @@ width: 40%;
 .about_item2  p{
   
 width:60%;
-height: 33vh;
-margin: 1rem 6rem 0rem;
+height: 40vh;
+margin: 1rem 4rem 0rem;
 padding: 0.5rem 0rem;
 font-size: 1.7rem;
 line-height: 35px;
 }
 .about_item2  hr{
-margin: 2rem 6rem 0rem;
+margin: 2rem 4rem 0rem;
 
 }
 .about_item3{
@@ -22335,7 +22335,7 @@ flex-direction: row;
 }
 .about_item6 h2{
   width: 40%;
-  margin-left: 1rem;
+  margin-left: 0rem;
   font-size: 2.7rem;
   text-align: center;
 }

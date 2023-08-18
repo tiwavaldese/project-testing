@@ -19666,7 +19666,7 @@ margin: 5rem 3rem 0rem;
 }
 
 .content6 h3 {
-  margin: 2rem 7rem 1rem;
+  margin: 2rem 6rem 1rem;
   font-size: 2.7rem;
   width: 18rem;
 }
@@ -19676,7 +19676,7 @@ margin: 5rem 3rem 0rem;
 }
 .content6 hr {
   width: 2rem;
-  margin-left: 7.5rem;
+  margin-left: 7rem;
 }
 .content7{
   margin: 0rem -9rem 0rem;
@@ -19685,7 +19685,7 @@ margin: 5rem 3rem 0rem;
     font-size: 1.7rem;
   }
 .content7 h3 {
-  margin: 2rem 5rem 1rem;
+  margin: 2rem 4rem 1rem;
   font-size: 2.7rem;
 }
 
@@ -19717,7 +19717,7 @@ margin: 5rem 3rem 0rem;
   width: 17rem;
 }
 .content8 {
-  margin: 0rem -29rem 0rem;
+  margin: 0rem -27rem 0rem;
 }
 .content8 h3 {
   margin-top: 2rem;
@@ -19760,7 +19760,8 @@ p i {
 
 h4 i {
 width: 25rem;
-  display:block;
+  display:flex;
+  flex-direction: row;
   margin-top: 1.5rem;
   font-size: 2rem;
   padding-left: 0rem;
@@ -19805,7 +19806,7 @@ padding-top: 1rem;
 }
 .about_item2 img{
   margin: 4rem -12rem 0rem;
-width: 200rem;
+width: 210rem;
 height: 60vh;
 
 }
@@ -19822,14 +19823,14 @@ width: 40%;
 .about_item2  p{
   
 width:60%;
-height: 32vh;
+height: 35vh;
 margin: 1rem 4rem 0rem;
 padding: 0.5rem 0rem;
 font-size: 1.7rem;
 line-height: 35px;
 }
 .about_item2  hr{
-margin: 2rem 6rem 0rem;
+margin: 2rem 4rem 0rem;
 
 }
 .about_item3{
